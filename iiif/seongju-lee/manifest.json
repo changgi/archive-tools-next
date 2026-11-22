@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.53 \"얼굴은 아낙처럼 여리고\" — 다시 그리고 또 그린 고려 사람의 초상"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "조상을 기억하는 일은 낡은 것을 새로 옮겨 그리는 반복이었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.53"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "서울 마포 성주이씨 대종회"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/seongju-lee/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/seongju-lee/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 220,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1714년 이조년(李兆年) 영정(影幀) (1714)"
+    ]
+   },
+   "width": 854,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1714"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "영정"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "誠勤翊贊勁節功臣重大匡星山君 贈諡文烈公李公諱兆年眞 / 順治十二年乙未九月 日改摹 / 康熙五十三年甲午二月 日重摹"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "성근익찬경절공신 중대광 성산군, 시호 문열공 이공(이름 조년)의 참모습. 순치 12년 을미(1655) 9월 일 고쳐 그림. 강희 53년 갑오(1714) 2월 일 거듭 그림."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고려의 문열공 이조년의 초상으로, 1655년에 고쳐 그리고 1714년에 다시 그렸다고 적혀 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XZ.1714.1144-20250415.F11301-01-W000002"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 220,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0111%5EL011143%5EL011143F02%5EL011143F0210&dataId=G002%2BAKS%2BKSM-XZ.1714.1144-20250415.F11301-01-W000002&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 854,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1865년 이숭인(李崇仁) 영정(影幀) (1865)"
+    ]
+   },
+   "width": 859,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1865"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "영정"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "奉翊大夫簽書密直司事兼都評議使司(…) / 崇禎二十八年乙未九月 日改摹 / 崇禎八十七年甲午二月 日重摹 / 崇禎一百十九年丙寅三月 日重摹 / 崇禎一百九十八年乙酉二月 日重摹 / 夏曆乙丑十一月 日重摹 / 自讚 狀貌卑柔 婦人之儔 … 陶隱題"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(오른쪽) 봉익대부 첨서밀직사사 겸 도평의사사 … 숭정 28년 을미(1655) 9월 고쳐 그림. 숭정 87년 갑오(1714) 2월 거듭 그림. 숭정 119년 병인(1746) 3월 거듭 그림. 숭정 198년 을유(1825) 2월 거듭 그림. 하력 을축년 11월 거듭 그림.\n(왼쪽) 스스로 쓴 찬. 얼굴 생김은 낮고 여려 아낙네 무리 같고, 글귀를 다듬는 것은 아이들 공부 같다. 만약 [벗들에] 견준다면 달가(정몽주)의 뛰어남, 자허의 … , 천민의 정밀하고 민첩함, 임지의 빼어남, 가원(권근)의 온화하고 우아함, 종지의 익살스러움에 비하면, 이른바 옥돌 비슷한 돌(碔砆)과 아름다운 옥 같은 것이다. 그렇지만 동국에 자취를 두고 중원에서 즐겨 이야기하며, 혹은 바닷가 구렁에 던져져도 더 슬퍼하지 않고, 혹은 조정의 높은 곳에서 노닐어도 더 기뻐하지 않았다. 오직 두려워하며 스스로를 닦아, 거의 마음을 속이지 않기를 바라니, 군자여. 도은이 쓰다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "도은 이숭인의 초상으로, 스스로 '얼굴은 아낙처럼 여리고 글은 아이 공부 같다'며 벗들에 견주어 자신을 낮추되, 귀양 가도 슬퍼하지 않고 높은 자리에서도 기뻐하지 않으며 마음을 속이지 않기를 바란다는 자찬이 적혀 있습니다. 1655년부터 다섯 번 다시 그린 날짜가 함께 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XZ.1865.1144-20250415.F11301-01-W000013"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 221,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0111%5EL011143%5EL011143F02%5EL011143F0210&dataId=G002%2BAKS%2BKSM-XZ.1865.1144-20250415.F11301-01-W000013&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 859,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

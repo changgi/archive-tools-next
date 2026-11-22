@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.50 \"너희 놈이 공연히 내 집 땅을\" — 대사헌 송규렴의 한글 편지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "한글 편지는 신분을 넘어 실제 생활의 다툼에도 쓰였다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.50"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경기도박물관"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gyeonggi-museum/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gyeonggi-museum/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 255
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1692년 송규렴이 ‘긔튝이’에게 보낸 편지 (1692)"
+    ]
+   },
+   "width": 1400,
+   "height": 991,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1692"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "ᄉᆞ쳔(?) 노 긔튝이 / 무ᄐᆡ(?)타 너 놈이 곤연히 내 집 뎐토ᄅᆞᆯ … 넉 셤 도디 … 네 죄ᄅᆞᆯ 어이 ᄒᆞ리 … 알라 / 壬申十月初七 宋(手決)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사천(?)의 노비 기축이에게. … 너희 놈이 공연히 내 집 논밭을 … 해서 [도지] 넉 섬을 [바치기로] 한 데서, 원래 [아무 일] 없던 데를 … 그 뒤 너희 상전 … 댁에서 어떤 놈이 … 한 번 [바친 적이] 없다 하고, 지난해 도지를 … 공연히 [내지] 않고 가지고 … 흉[한 짓]을 하고 있는데 … 네 죄를 어찌하겠느냐 … 지난해 … 섬 … 고분고분하지 않게(不令히) 해야만 … 또 흉악을 … 알아라. 임신년(1692) 10월 7일 송(宋, 수결). (흘림이 많아 여러 곳 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "송규렴이 자기 집 논밭을 부치는 남의 집 노비 기축이에게, 약속한 도지 넉 섬 가운데 지난해 몫을 내지 않고 흉악하게 군다며 꾸짖고 경고한 편지입니다(판독 불확실 다수)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.1692.0000-20140430.B0016_9-010"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 255
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0377%5EL037702%5EL037702F02%5EL037702F0206&dataId=G002%2BLET%2BKSM-XF.1692.0000-20140430.B0016_9-010&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 991
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1695년 송규렴이 딸 은진송씨에게 보낸 편지 (1695)"
+    ]
+   },
+   "width": 1400,
+   "height": 977,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1695"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "날이 ᄇᆞᆰ(?) … / 네 편지ᄂᆞᆫ 샹자의 답장 … / 답ᄒᆞ노라 … / … 편지 … / 아비(?)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "… 네 편지는 상자(?)의 답장 [편에] … 답한다. … (흘림이라 대부분 판독이 필요합니다)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "송규렴이 출가한 딸에게 편지를 받고 답장을 보낸 것으로 보입니다(본문 대부분 판독 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.1695.0000-20140430.B0016_9-020"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 251
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0377%5EL037702%5EL037702F02%5EL037702F0206&dataId=G002%2BLET%2BKSM-XF.1695.0000-20140430.B0016_9-020&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 977
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

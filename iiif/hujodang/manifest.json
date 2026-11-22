@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.70 \"거두어 길러 모신 양자에게\" — 1480년 황씨 부인의 문서와 오천 군자리"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "가족은 피만이 아니라 돌봄으로도 이어졌다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.70"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "안동 오천 광산김씨 후조당 김부필"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hujodang/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hujodang/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 137
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1480년 김효로(金孝盧) 입안(立案)－1 (1480)"
+    ]
+   },
+   "width": 1400,
+   "height": 532,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1480"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "입안"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "成化拾陸年庚子拾壹月貳拾捌日 … 許與爲臥乎事段 女矣耕作爲如乎田畓等乙 繼後子收養侍奉 … 孝盧亦中 … 烏川 … / 財主 故別侍衛金孝之妻黃氏 / 證保 前司直尹 / 證保 … / 筆執 前司勇林壽"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "성화 16년 경자(1480) 11월 28일 … 허락하여 주는 일은, 제가 경작하던 논밭들을 [저를] 거두어 기르고 모신(收養侍奉) 계후자 … 에게 나누어 줍니다. 계후자인 조카 효로(孝盧)에게: 본가와 집에 딸린 밭 60부 3속, 오천의 선대 밭 44부 1속, 선원 논 아래 … 19부, 우리암 논 26부, 제사 몫 월고개 논 아래 37부 5속. 거두어 기른 딸 명주(明珠)에게: 오천 … 밭 냇가 47부, 집 앞 길 서쪽 밭과 삼밭 아울러 30부, 선원 논 위 69부. 모시고 기른 삼촌 조카딸 김씨에게: 오천 … 밭 안 47부 1속, 냇물 남쪽 밭 31부, 월고개 논 위 37부 5속, 배골 논 32부, 고구동 논 23부 … 이렇게 나누어 주니, 자손에게 전하여 길이 경작하되, 뒷날 딴말이 있거든 이 문서의 뜻으로 관에 고하여 가릴 일. 재주 돌아간 별시위 김효지의 아내 황씨(도장). 증인 전 사직 윤○(수결). 증인 … 필집 전 사용 임수(수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남편을 잃은 황씨가 자신을 거두어 모신 양자 김효로와 기른 딸·조카딸에게 오천의 논밭을 나누어 주고, 자손이 길이 경작하게 한 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1480.4717-20101008.B001a_001_00310_004"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 137
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016715%5EL016715F02%5EL016715F0204&dataId=G002%2BAKS%2BKSM-XD.1480.4717-20101008.B001a_001_00310_004&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hujodang/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 532
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1550년 김연(金緣) 남매 화회문기(和會文記)－1 (1550)"
+    ]
+   },
+   "width": 1400,
+   "height": 1074,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1550"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "화회문기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "嘉靖二十九年庚戌四月十五日 同腹和會成文 / 祖父母墳墓四名日拜掃及忌日 … 雜乙仍于 同府伏順(?)家祭祀奉(?)… / 年親寡史(?)緣妻 … 成均生員 … 前訓導 … / 筆執 幼學 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "가정 29년 경술(1550) 4월 15일, 동복 남매가 화합하여 만드는 문서. 할아버지·할머니 무덤의 네 명절 성묘와 기일 제사는 … 그러므로 … 집에서 제사를 받들 몫은 따로 떼어 나누지 않으니 … (흘림이 심하고 훼손되어 이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "김연의 남매들이 재산을 나누면서, 할아버지·할머니의 성묘와 제사에 쓸 몫은 나누지 않고 떼어 두기로 함께 정한 문서로 보입니다(판독 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1550.4717-20101008.B001a_001_00295_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 276
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016715%5EL016715F02%5EL016715F0205&dataId=G002%2BAKS%2BKSM-XE.1550.4717-20101008.B001a_001_00295_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hujodang/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1074
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

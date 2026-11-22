@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.120 서른넷과 서른일곱의 답안지 — 조선 마지막 과거 시대, 한 선비의 '三下'"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "마지막 시대에도 사람들은 시험을 보았다 — 과거가 폐지되기 9년 전, 한 선비의 서른넷과 서른일곱."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.120"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "보령 천궁 경주김씨 직각 김면주 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jikgak/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jikgak/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 223,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1885년 김상덕(金商悳) 시권(試券) — 춘도기 「고유우씨지남풍」 (1885)"
+    ]
+   },
+   "width": 867,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1885"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시권"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "乙酉三月十三日 春到記 勤政殿 命官爲之 / 命官 許傳 / 讀券官 趙秉世 李□夏(?) / 對讀官 李鳳□(?) 朴鳳彬 李嘉元 朴永□(?) / 取十人 / 傳曰 詩三下居首 幼學閔泳□(?) 直赴殿試 單三下 幼學金商悳 直赴會試之次 □(?)上 幼學趙民熙等二人 給二分(?) / 鼓有虞氏之南風 詩 / 九成臺古韶鳳來 天淸日朗會稽蘭 元和聖德卽重華 / 老臣願贊神夔功 雨逗雲過嶧陽桐 怳惚蒲宮歌百工 / 薰琴絃斷有虞後 傳之周雅莞(?)絲被 河南博士撰河淸 / 和氣千年鳴以風 動爲義雷山澤通 生際皇唐治德崇 … / (채점) 三下 / (피봉) 幼學臣金商悳 年三十四 本慶州 居京 父 通德郞 昌載"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(답안지 머리의 기록) 을유년(1885) 3월 13일 춘도기, 근정전에서 명관이 주관함. 명관 허전, 독권관 조병세 · 이□하, 대독관 이봉□ · 박봉빈 · 이가원 · 박영□. 열 사람을 뽑음. 전교하기를, '시에서 三下로 수석을 한 유학 민영□은 전시로 바로 나아가게 하고, 三下 하나를 받은 유학 김상덕은 회시로 바로 나아가게 하며, … 유학 조민희 등 두 사람에게는 점수를 주라' 하였다. (시제) 「순임금의 남풍을 북 치며 노래하다(鼓有虞氏之南風)」, 시. (답안 앞부분) 구성대 옛 소악(韶樂)에 봉황이 날아오고, 하늘은 맑고 해는 밝아 회계의 난초 … 원화의 거룩한 덕은 곧 순임금(重華)이라. 늙은 신하는 기(夔)의 공을 기리고자 하니, 비가 머물고 구름이 지나는 역양의 오동나무 … (채점) 삼하. (피봉) 유학 신 김상덕, 나이 서른넷, 본관 경주, 서울 거주. 아버지 통덕랑 창재."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1885년 근정전 춘도기 시험에서 김상덕이 '三下'를 받고 회시 직부 특전을 얻은 시권으로, 시험관과 합격 처분이 함께 적혀 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.0000.1111-20101008.B007a_008_00220_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 223,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014426%5EL014426F02%5EL014426F0204&dataId=G002%2BAKS%2BKSM-XD.0000.1111-20101008.B007a_008_00220_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jikgak/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 867,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1886년 김상덕(金商悳) 고신(告身) (1886)"
+    ]
+   },
+   "width": 1400,
+   "height": 977,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1886"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "吏曹光緖十二年七月十四日奉 敎 幼學金商悳爲通仕郞行內務府副主事者 光緖十二年七月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "이조에서 광서 12년(1886) 7월 14일에 받든 교지. 유학 김상덕을 통사랑 행 내무부 부주사로 삼는다. 광서 12년 7월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1886년 유학 김상덕을 통사랑 행 내무부 부주사로 임명한 고신입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1886.1111-20101008.B007a_008_00031_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 251
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014426%5EL014426F02%5EL014426F0201&dataId=G002%2BAKS%2BKSM-XA.1886.1111-20101008.B007a_008_00031_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jikgak/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 977
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1888년 김상덕(金商悳) 시권(試券) — 경무대 친림 「화기환성팔역개」 (1888)"
+    ]
+   },
+   "width": 1011,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1888"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시권"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "戊子八月初□(?)日 景武臺親臨 日次儒生殿講 以製代講時 讀券官 判府事金□□(?) … 尹東鼎 金昌熙 鄭海崙 朴鳳彬 趙東冕 / 解題 睿詩(?) 年年此日慶辰回 和氣歡聲八域開 壽觴(?)康寧無疆祝 萬年長春萬年盃(?) / 和氣歡聲八域開 賦 / 歡喜人兮均同 漢日月而重歌 聲氣和於化域 慶重回於此日 曰我儲之篤孝 / 續舊韵於樂府 堯天地而盡在 擧睿詩而頌祝 欣相告於擧國 與八域而同歡 / 三牲奉而養志 開八荒而壽域 今何日兮識慶 拚五雲而鰲抃 長奉盃兮盈盈 … / (채점) 三下(?) / 四天(?) / (피봉) 幼學臣金商悳 年三十七 本慶州 居洪州(?) 父 通德郞 昌載"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(머리 기록) 무자년(1888) 8월 초□일, 경무대에 임금이 친히 나와 유생 전강을 하는데, 강(講) 대신 제술로 시험함. 독권관 판부사 김□□ … (시제의 출전) 왕세자의 시(?): '해마다 이날 경사스러운 날이 돌아오니, 화기와 기쁜 소리가 팔도에 열리네 …' (시제) 「화기와 기쁜 소리가 팔도에 열리다(和氣歡聲八域開)」, 부. (답안 앞부분) 기뻐하는 사람들 모두 같아, 한(漢)의 해와 달처럼 거듭 노래하네. 소리와 기운이 교화의 땅에 화하니, 경사가 이날에 거듭 돌아왔도다. 우리 세자의 돈독한 효성이여 … 온 나라가 기뻐 서로 알리며 팔도와 함께 즐거워하네 … (채점) 삼하(?). (피봉) 유학 신 김상덕, 나이 서른일곱, 본관 경주, 홍주(?) 거주. 아버지 통덕랑 창재."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1888년 경무대 친림 전강에서 서른일곱 살 김상덕이 낸 시권으로, 3년 전 답안지와 나이가 정확히 이어집니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.0000.1111-20101008.B007a_008_00219_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 260,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014426%5EL014426F02%5EL014426F0204&dataId=G002%2BAKS%2BKSM-XD.0000.1111-20101008.B007a_008_00219_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jikgak/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1011,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

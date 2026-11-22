@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.166 스승의 집에 든 강도, 담 위에서 소리친 며느리 — 1891년 제주 제자 마흔 명의 연명 소지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "같은 사건을 두 번 — 목사에게, 그리고 관찰사에게 — 마흔여 명의 제자가 이름을 나란히 적어 올렸다. 한 선생의 집을 지킨 것은 담 위의 며느리와, 종이 위의 제자들이었다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.166"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 조천 김해김씨 김희정 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jocheon-kim-soji/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jocheon-kim-soji/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 241,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "소지(所志)－09 (1891)"
+    ]
+   },
+   "width": 937,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "金丁松 宋祥友 文佑式 張佑旻等 謹齊沐上狀于 城主閤下 伏以彰善懲惡勵俗之道 所當先明刑正法輔治之具 不可廢 況男女之別 尤關風俗 故先聖先王深究 … 生等之師金義正家 被縛強盜金用秀爲名漢 其事脈 … 師之子婦宋氏 以一介婦人 挺身大呼墻上 追執苟非一心貞烈 不顧死生者 何以能之乎 … 右強暴金用秀漢 若不依律 則當此綱紀將頹 … 城主閤下 處分 辛卯二月 日 (연명) 金丁松 宋祥友 韓斗柄 文佑式 金順平 張佑旻 … (제사) 金氏家法之嚴正 及宋氏貞烈之世 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "김정송 · 송상우 · 문우식 · 장우민 등이 삼가 목욕재계하고 원님께 글을 올립니다. 엎드려 아뢰건대, 착함을 드러내고 악함을 벌해 풍속을 권하는 도리는 마땅히 형벌을 밝히고 법을 바르게 하는 데서 먼저 해야 하니, 다스림을 돕는 도구는 폐할 수 없습니다. 하물며 남녀의 분별은 더욱 풍속에 관계됩니다. … 저희의 스승 김의정의 집이 김용수라는 강도에게 결박당하였는데 … 스승의 며느리 송씨가 한 여인의 몸으로 담 위에서 몸을 내밀어 크게 외치며 뒤쫓아 잡으려 하였으니, 한마음으로 정렬하여 죽고 사는 것을 돌아보지 않는 이가 아니면 어찌 할 수 있었겠습니까. … 저 포악한 김용수를 법대로 다스리지 않으면 이 기강이 무너질 것이니 … 원님께서 처분하소서. 신묘년(1891) 2월 일. (연명) 김정송 · 송상우 · 한두병 · 문우식 · 김순평 · 장우민 … (관아 제사) 김씨 집안 법도의 엄정함과 송씨의 정렬은 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891년 2월 김의정의 제자 마흔여 명이 스승 집에 든 강도 김용수를 엄벌하고, 담 위에서 외치며 쫓은 며느리 송씨를 드러내 달라고 제주목사에게 올린 연명 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1891.5011-20220125.B078a_110_00587_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 241,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016806%5EL016806F02%5EL016806F0202&dataId=G002%2BAKS%2BKSM-XB.1891.5011-20220125.B078a_110_00587_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 937,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "소지(所志)－10 (1891)"
+    ]
+   },
+   "width": 937,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "金丁松 宋祥友 文佑式 張佑旻等 謹齊沐上狀于 使相閤下 伏以彰善懲惡勵俗之道 所當先明刑正法輔治之具 不可廢 況男女之別 尤關風俗 … 生等之師金義正家 被縛強 … 有洞報及本家所訴 閤下想已 洞悉無遺矣 … 師之子婦宋氏 以一介婦人 挺身大呼墻上 追執 苟非一心貞烈 … 閤下執法公平 以正風俗 行王章爲急先務 故捉入厥漢 嚴棍枷囚 善惡勸懲之道 蓋已發其端矣 … 使相閤下 處分 辛卯二月 日 (연명 같음)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "김정송 · 송상우 · 문우식 · 장우민 등이 삼가 목욕재계하고 사상(관찰사) 합하께 글을 올립니다. … 마을의 보고와 그 집의 호소가 이미 있었으니 합하께서도 이미 빠짐없이 아실 것입니다. … 스승의 며느리 송씨가 한 여인의 몸으로 담 위에서 크게 외치며 뒤쫓았으니 … 합하께서 법을 공평히 집행하여 풍속을 바르게 하고 왕의 법도를 행하는 것을 급선무로 삼으시어, 그놈을 잡아들여 엄히 곤장을 치고 칼을 씌워 가두셨으니, 선악을 권하고 징계하는 도리가 이미 그 실마리를 드러냈습니다. … 사상 합하께서 처분하소서. 신묘년(1891) 2월 일. (연명 같음)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "같은 1891년 2월 같은 제자들이 전라도 관찰사에게 같은 사건을 호소한 소지로, 강도가 이미 붙잡혀 곤장과 칼을 쓰고 갇혔다는 내용이 더해졌습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1891.5011-20220125.B078a_110_00588_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 241,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016806%5EL016806F02%5EL016806F0202&dataId=G002%2BAKS%2BKSM-XB.1891.5011-20220125.B078a_110_00588_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 937,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "소지(所志)－11 (1891)"
+    ]
+   },
+   "width": 937,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "幼學金義正 右謹陳所志事段 生去丁亥分 得參本州陞補 而今聞式科會試 在於九月 … 故將赴 擧 … 計料 依例 公文成給爲只爲 行下向敎是事 使相閤下 處分 辛卯六月 日 (제사) 公文 … 給向事"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유학 김의정. 삼가 아뢰는 소지의 일은, 제가 지난 정해년(1887)에 이 고을(제주)의 승보시에 들었는데, 이제 들으니 식년 과거 회시가 9월에 있다 하므로 … 과거에 나아가려 하니, 전례대로 공문을 만들어 주시기 바랍니다. 사상 합하께서 처분하소서. 신묘년(1891) 6월 일. (관아 제사) 공문을 … 내어 줄 것."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891년 6월 김의정이 9월 회시에 나아가려고 관찰사에게 전례대로 공문을 내어 달라고 청한 소지로, 아들과 함께한 과거 길(EP.126)의 시작입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1891.5011-20220125.B078a_110_00589_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 241,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016806%5EL016806F02%5EL016806F0202&dataId=G002%2BAKS%2BKSM-XB.1891.5011-20220125.B078a_110_00589_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 937,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "소지(所志)－12 (1898)"
+    ]
+   },
+   "width": 937,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1898"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "朝天里居前參奉金義正 右謹陳所志事段 蓋訓長之任 德望足爲儒林之師表 文學足爲士類之矜式 然後可以當之 非庸儒俗士之所可擧論也 以若重任 加於民之身上 涯分已過 可謂褎然 民之無德望 少文學 尙矣勿論 素以虛弱之質 病不離身 藥無 … 月初 血症添劇 用藥無效 幾至委席 病狀如此 萬無隨行之勢 故茲敢 … 爲改遞 俾便公私之地 千萬望良爲只爲 行下向敎是事 使道 處分 戊戌十月 日 (제사) 自可勿藥向事 … 公議薦望 豈其 … 病實 數日調理"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "조천리에 사는 전 참봉 김의정. 삼가 아뢰는 소지의 일은, 대개 훈장의 소임은 덕망이 유림의 스승이 되기에 넉넉하고 학문이 선비들의 본보기가 되기에 넉넉한 뒤에야 맡을 수 있는 것이지, 평범한 선비가 감히 논할 바가 아닙니다. 이런 무거운 소임이 제 몸에 더해진 것은 분수에 넘쳐 부끄러울 따름입니다. 제가 덕망이 없고 학문이 얕은 것은 말할 것도 없고, 본디 허약한 몸이라 병이 몸을 떠나지 않는데 … 이달 초 피를 쏟는 증세가 더욱 심해져 약을 써도 효험이 없어 자리에 누울 지경에 이르렀습니다. 병세가 이러하니 결코 소임을 따라 행할 형편이 못 되므로 … 바꾸어 주시어 공사 간에 편하게 해 주시기를 간절히 바랍니다. 사또께서 처분하소서. 무술년(1898) 10월 일. (관아 제사) 약을 쓰지 않아도 저절로 나을 것이니 … 공의로 천거한 것인데 어찌 … 며칠 조리하라."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1898년 전 참봉 김의정이 병이 깊어 훈장 소임을 바꾸어 달라고 청했으나, 관아는 '며칠 조리하라'며 받아들이지 않은 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1898.5011-20220125.B078a_110_00590_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 241,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016806%5EL016806F02%5EL016806F0202&dataId=G002%2BAKS%2BKSM-XB.1898.5011-20220125.B078a_110_00590_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 937,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

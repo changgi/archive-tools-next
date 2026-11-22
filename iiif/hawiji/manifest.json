@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.42 \"사육신의 조카, 구동\" — 하위지 집안을 이은 한 소년의 소지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "멸문의 화 속에서도 집안을 이으려 한 한 소년의 기록이 남아 있었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.42"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "안동 송파 진주하씨 하위지 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hawiji/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hawiji/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 240,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1461년 하원(河源) 소지(所志) (1461)"
+    ]
+   },
+   "width": 934,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1461"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "故生員河紹地子 龜童 / 右謹言所志矣段 父紹地亦 河緯地犯罪前 身故爲乎 … 緣坐不冬爲白有去乙 父矣奴婢等乙 … 河緯地奴婢屬公敎是時 父紹地矣奴婢幷以屬公爲白乎事 … / 推刷色 處分 / 天順五年十月 日所志 / (뒤 처분) 嘉靖十五年 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "돌아가신 생원 하소지의 아들 구동. 삼가 아뢰는 소지. 제 아버지 소지는 하위지가 죄를 짓기 전에 이미 세상을 떠났으므로 연좌되지 않았습니다. 그런데 아버지의 노비들이 하위지의 호적에 함께 올라 있었다 하여, 하위지의 노비를 나라에 몰수하실 때 아버지 소지의 노비까지 모두 몰수되었습니다. … 사원과 경차관께서도 처음에 가려내지 않으셨으니, 비(婢) 재장과 그 소생 노 노고지, 비 어덕(?), 노 어동 등을 도목장에 함께 올려 … 소지를 올려 하소연하오니, 집안의 분재기를 살펴 가려서 돌려주시고 [입안을] 만들어 주시기를 바랍니다. 삼가 아룁니다. 추쇄색(노비 조사 담당)께서 처분하실 일. 천순 5년(1461) 10월 일 소지.\n(처분) 신사년(1461) 10월 27일 입안. … (이하 흘림, 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사육신 하위지의 동생 하소지는 사건 전에 죽어 연좌 대상이 아니었는데, 그 노비까지 하위지의 노비로 몰수되었으니 분재기를 살펴 아들 구동에게 돌려 달라는 청원입니다. 관은 같은 달 입안을 발급했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1461.0000-20101008.B036a_056_00015_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 240,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016709%5EL016709F02%5EL016709F0202&dataId=G002%2BAKS%2BKSM-XB.1461.0000-20101008.B036a_056_00015_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hawiji/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 934,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1770년 한광회(韓光會) 계(啓) (1770)"
+    ]
+   },
+   "width": 1400,
+   "height": 1077,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1770"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "계"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "庚寅閏二十四(?) 禮曹判書韓光會所啓 / 端廟朝六臣 曾於戊寅贈職贈諡 而朴彭年家外 其餘皆未宣諡 … 河緯地之有後孫則何至今不爲宣諡乎 … 河源卽上所云紹地之子 而頃年因嶺南道臣狀請 … 該曹別成謚誥 依例宣下 … 上曰 尙今遲滯 宜有是理 令銓曹卽爲成給 還卽宣謚"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "경인년(1770) 윤[달] 24일, 예조판서 한광회가 아뢴 일. 단종 때의 여섯 신하는 일찍이 무인년(1758)에 벼슬과 시호를 추증받았으나, 박팽년 집안 외에는 모두 아직 시호를 [후손에게] 선포하지 못하였기에 시호 교지를 영월 창절사에 보내 두었습니다. 하위지의 제사를 받드는 자손이 있어 벼슬을 받고 떠나려 하니, 시호를 [그에게] 내리려 하는데 [교지는] 영월에 있어 거행하기 어려운 듯하여 감히 아룁니다. 임금께서 이르시기를, '후손이 있다면 어찌 지금까지 시호를 선포하지 않았는가.' 의정 김(金)이 아뢰기를, '이 일에는 곡절이 있습니다. 무인년 육신에게 시호를 내릴 때 예조 당상이 충렬공 하위지에게 후손이 있음을 듣지 못하여 경연에서 잘못 아뢰었습니다. 그 뒤 후사 자손이 상언하여 시호 선포를 청하였으나 다시 해당 관청에 막혀 지금까지 선포하지 못했습니다. 이제 공사의 문적을 보면, 하위지가 그 동생 소지의 아들을 후사로 삼으려 하여 서명하고 부탁한 문서까지 남아 있으므로, 중신 민진후가 기사년의 명신 김유를 근거로 후사 세우는 일을 아뢰어, 선왕 때 하원을 하위지의 후사로 삼기를 청하자 특명으로 시행하였습니다. 하원은 곧 위에 말한 소지의 아들이며, 근년에 영남 관찰사의 장계로 묘당이 다시 아뢰어 후사 자손을 등용하였습니다. 조정이 이미 후손이 있음을 아니, 마땅히 베풀 은전을 어찌 그대로 베풀지 않겠습니까. 이제 해당 관청이 따로 시호 교지를 만들어 예에 따라 내려야 할 것입니다.' 임금께서 이르시기를, '지금까지 지체된 것은 마땅한 이치가 아니다. 이조로 하여금 곧 만들어 주게 하고 돌아가는 즉시 시호를 선포하라.'"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사육신 가운데 하위지는 '후손이 없다'는 잘못된 보고로 시호가 선포되지 못했으나, 하위지가 동생 소지의 아들 하원을 후사로 삼으려 한 문서가 있어 하원을 후사로 세운 것이 확인되었으니 시호를 선포하자고 예조판서가 아뢰고, 영조가 즉시 시행하라고 답한 기록입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1770.0000-20101008.B036a_056_00005_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 277
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016709%5EL016709F02%5EL016709F0202&dataId=G002%2BAKS%2BKSM-XB.1770.0000-20101008.B036a_056_00005_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hawiji/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1077
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

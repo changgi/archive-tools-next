@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.134 \"제 맏아들이 이미 다 자랐으나 아직 짝이 없어\" — 기해년 봄, 열이틀 사이의 혼인 편지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "혼인은 두 집안이 종이를 주고받으며 천천히 맺는 약속이었다 — 한 아이가 태어난 시각에서 시작해 '아직 짝이 없다'는 아버지의 문장으로 끝난다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.134"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경주 경주이씨 이찬우"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gyeongju-honseo/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gyeongju-honseo/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 246
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "기해년 정진출(鄭鎭出) 사주단자(四柱單子)"
+    ]
+   },
+   "width": 1400,
+   "height": 955,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사주단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "乙亥十一月十日酉時 己亥二月二十八日 烏川鄭 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "을해년 11월 10일 유시(오후 5~7시). 기해년 2월 28일. 오천 정(수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "기해년 2월 28일 오천 정씨 집안이 신랑의 사주 '을해년 11월 10일 유시'를 적어 신부 집에 보낸 사주단자입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.0000.0000-20151117.C0703_002_00018_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 246
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0206&dataId=G002%2BKHD%2BKSM-XF.0000.0000-20151117.C0703_002_00018_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 955
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "기해년 2월 정진출(鄭鎭出) 사주 보내는 편지"
+    ]
+   },
+   "width": 1400,
+   "height": 988,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "연길"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "烏川后人鄭鎭出再拜 伏惟仲春 尊體萬(?)重 仰溯(?)區(?)區(?) 親事旣蒙 頷許 感荷(?)深(?) 茲(?)以(?)星(?)柱(?)呈(?)上(?) 涓吉示以何(?)如(?) 統(?)冀(?)伏惟 尊照 謹拜上狀 己亥二月二十八日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "오천 후인 정진출이 두 번 절합니다. 엎드려 생각건대 한봄에 어른의 몸이 두루 평안하신지 우러러 그립습니다. 혼사를 이미 허락해 주셨으니 고마움이 깊습니다. 이에 사주를 올리오니(?), 좋은 날을 가려 알려 주시면 어떨지(?) 바랍니다. 살펴 주소서. 삼가 절하며 글을 올립니다. 기해년(?) 2월 28일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "기해년 2월 28일 정진출이 혼사를 허락해 준 데 고마워하며 사주를 보내고 좋은 날을 가려 달라고 청한 편지입니다(초서, 판독 일부 추정)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.0000.0000-20151117.C0703_002_00016_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 254
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0206&dataId=G002%2BKHD%2BKSM-XF.0000.0000-20151117.C0703_002_00016_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 988
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "기해년 3월 정진출(鄭鎭出) 연길 받고 보낸 편지"
+    ]
+   },
+   "width": 1400,
+   "height": 927,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "혼서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "烏川后人鄭鎭出再拜 伏承 華翰 伏惟仲春 尊體萬重 仰慰區區 親事旣蒙 涓吉 感荷(?)云(?)深 幸無拘碍 華(?)度(?)依(?)敎(?) 何(?)至(?)事(?)統(?)冀(?)伏惟 尊照 謹拜上狀 己亥三月初二日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "오천 후인 정진출이 두 번 절합니다. 보내 주신 글을 엎드려 받았습니다. 한봄에 어른의 몸이 두루 평안하시다니 우러러 위안이 됩니다. 혼사에 이미 좋은 날을 가려 주셨으니 고마움이 깊습니다. 다행히 걸리는 일이 없으니 말씀하신 대로(?) 따르겠습니다. 살펴 주소서. 삼가 절하며 글을 올립니다. 기해년 3월 2일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "기해년 3월 2일 신부 집이 혼례 날을 정해 보내오자 정진출이 고마움과 함께 그대로 따르겠다고 답한 편지입니다(초서, 판독 일부 추정)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.0000.0000-20151117.C0703_002_00021_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 238
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0206&dataId=G002%2BKHD%2BKSM-XF.0000.0000-20151117.C0703_002_00021_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 927
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "기해년 3월 정진출(鄭鎭出) 혼서(婚書) — 납폐(納幣)"
+    ]
+   },
+   "width": 1400,
+   "height": 1044,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "납폐"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "烏川后人鄭鎭出再拜 時維暮春 尊體百福 僕之長子潤(?)閭(?) 年旣長成 未有伉儷 伏蒙 尊慈 許以 令愛 貺室 玆有先人之禮 謹行納幣之儀 不備 伏惟 尊照 謹拜上狀 己亥三月十一日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "오천 후인 정진출이 두 번 절합니다. 때는 늦봄, 어른의 몸에 온갖 복이 깃드시기를 빕니다. 제 맏아들 윤려(?)가 나이는 이미 다 자랐으나 아직 짝이 없었는데, 어른께서 자애로이 따님을 아내로 주기를 허락해 주셨습니다. 이에 조상이 남긴 예가 있어 삼가 납폐의 의식을 행합니다. 다 갖추지 못합니다. 살펴 주소서. 삼가 절하며 글을 올립니다. 기해년 3월 11일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "기해년 3월 11일 정진출이 맏아들의 혼인을 위해 예물과 함께 신부 집에 보낸 납폐 혼서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.0000.0000-20151117.C0703_002_00027_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 268
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0206&dataId=G002%2BKHD%2BKSM-XF.0000.0000-20151117.C0703_002_00027_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1044
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

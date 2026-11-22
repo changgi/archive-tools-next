@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.157 아흔 살의 호적 — 경주 이조의 최용진, 21년 동안의 종이 네 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "호적은 3년마다 찍은 가족사진이다 — 예순아홉에서 아흔까지, 한 노인의 직함은 늘고 곁의 가족은 줄었다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.157"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경주 이조 경주최씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/choi-ijo-yongjin/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/choi-ijo-yongjin/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 213
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1858년 최용진(崔龍鎭) 호구단자(戶口單子) (1858)"
+    ]
+   },
+   "width": 1400,
+   "height": 828,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1858"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "호구단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "戊午正月 日 府內南面伊助里佳巖村 戶籍單子 第三統二戶 幼學崔龍鎭 年六十九庚戌 本慶州 父學生龜永 祖學生鈺 曾祖學生宗謙 外祖成均進士李敬五 本全義 侍母金氏 年七十三丙午 籍淸道 妻徐氏 年四十五甲戌 籍利川 父幼學殷俊 祖學生秉良 曾祖學生錫範 外祖學生李重泰 本固城 率弟嫂鄭氏 年三十九庚辰 籍月城 率子幼學南壽 年三十六癸未 婦孫氏 年三十二丁亥 籍慶州 (노비 기재 줄임) 府尹 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "무오년(1858) 정월 일, 경주부 내남면 이조리 가암촌 호적단자. 제3통 제2호. 유학 최용진, 예순아홉 살, 경술생, 본관 경주. 아버지 학생 구영, 할아버지 학생 옥, 증조 학생 종겸, 외조 성균진사 이경오(본관 전의). 모시는 어머니 김씨, 일흔세 살, 병오생, 본관 청도. 아내 서씨, 마흔다섯 살, 갑술생, 본관 이천(그 아버지 은준 · 할아버지 병량 · 증조 석범 · 외조 이중태). 함께 사는 제수 정씨, 서른아홉 살, 경진생. 함께 사는 아들 유학 남수, 서른여섯 살, 계미생. 며느리 손씨, 서른두 살, 정해생. (노비 줄임) 부윤 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1858년 경주 이조리 최용진(69세 유학) 호의 호구단자로, 어머니 김씨 · 아내 서씨 · 제수 · 아들 남수 · 며느리가 함께 적혀 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1858.4713-20101008.B033a_050_00122_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 213
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016706%5EL016706F02%5EL016706F0204&dataId=G002%2BAKS%2BKSM-XD.1858.4713-20101008.B033a_050_00122_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 828
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1870년 최용진(崔龍鎭) 호구단자(戶口單子) (1870)"
+    ]
+   },
+   "width": 1400,
+   "height": 858,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1870"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "호구단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "庚午正月 日 府內南面伊助里佳巖村 戶籍單子 第三統二戶 幼學崔龍鎭 年八十一庚戌 本慶州 父學生龜永 祖學生鈺 曾祖學生宗謙 外祖成均進士李敬五 本全義 妻徐氏 年五十七甲戌 籍利川 … 率子幼學南壽 改憲壽 年四十八癸未 婦孫氏 年四十四丁亥 籍慶州 率弟嫂鄭氏 年五十一庚辰 籍月城 姪子幼學星壽 年二十四丁未 婦黃氏 年二十七甲辰 籍昌原 (노비 기재 줄임) 上有司崔 面任林 府尹 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "경오년(1870) 정월 일, 경주부 내남면 이조리 가암촌 호적단자. 제3통 제2호. 유학 최용진, 여든한 살, 경술생. (사조 같음.) 아내 서씨, 쉰일곱 살. 함께 사는 아들 유학 남수(헌수로 고침), 마흔여덟 살, 계미생. 며느리 손씨, 마흔네 살. 함께 사는 제수 정씨, 쉰한 살. 조카 유학 성수, 스물네 살, 정미생. 그 아내 황씨, 스물일곱 살, 갑진생. (노비 줄임) 상유사 최 · 면임 임. 부윤 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1870년 최용진(81세) 호의 호구단자로, 어머니가 사라지고 아들의 이름이 '남수→헌수'로 바뀌었으며 조카 부부가 더해졌습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1870.4713-20101008.B033a_050_00126_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 221
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016706%5EL016706F02%5EL016706F0204&dataId=G002%2BAKS%2BKSM-XD.1870.4713-20101008.B033a_050_00126_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 858
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1875년 최용진(崔龍鎭) 고신(告身)－1 (1875)"
+    ]
+   },
+   "width": 1400,
+   "height": 1149,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1875"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 崔龍鎭爲通政大夫者 光緖元年七月 日 (왼쪽 작은 글씨) 年八十六 加一資 … 承傳(?)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 최용진을 통정대부로 삼는다. 광서 원년(1875) 7월 일. (작은 글씨) 나이 여든여섯, 한 자급을 더함 …."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1875년 여든여섯 살 최용진에게 나이를 이유로 한 자급을 더해 통정대부를 내린 노인직 교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1875.1111-20101008.B033a_050_00029_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 295
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016706%5EL016706F02%5EL016706F0201&dataId=G002%2BAKS%2BKSM-XA.1875.1111-20101008.B033a_050_00029_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1149
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1879년 최용진(崔龍鎭) 호구단자(戶口單子) (1879)"
+    ]
+   },
+   "width": 1400,
+   "height": 825,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1879"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "호구단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "己卯正月 日 府內南面伊助里佳巖村 戶籍單子 第三統二戶 前通政大夫折衝將軍行龍驤衛副護軍崔龍鎭 年九十庚戌 本慶州 父學生龜永 祖學生鈺 曾祖學生宗謙 外祖成均進士李敬五 本全義 妻徐氏 今故 率子幼學南壽 年五十七癸未 婦孫氏 今故 孫幼學鉉冕 今故 孫婦金氏 年二十九辛亥 籍慶州 孫童蒙鉉曾 年二十庚申 率弟嫂鄭氏 年六十庚辰 籍月城 姪子幼學星壽 年三十三丁未 婦黃氏 年三十六甲辰 籍昌原 (노비 기재 줄임) 上有司崔 面任盧 府尹 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "기묘년(1879) 정월 일, 경주부 내남면 이조리 가암촌 호적단자. 제3통 제2호. 전 통정대부 절충장군 행 용양위 부호군 최용진, 아흔 살, 경술생, 본관 경주. (사조 같음.) 아내 서씨, 이제 없음. 함께 사는 아들 유학 남수, 쉰일곱 살, 계미생. 며느리 손씨, 이제 없음. 손자 유학 현면, 이제 없음. 손자며느리 김씨, 스물아홉 살, 신해생. 손자 동몽 현증, 스무 살, 경신생. 함께 사는 제수 정씨, 예순 살. 조카 유학 성수, 서른세 살. 그 아내 황씨, 서른여섯 살. (노비 줄임) 상유사 최 · 면임 노. 부윤 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1879년 아흔 살 최용진 호의 호구단자로, 노인직으로 받은 긴 직함이 붙은 한편 아내 · 며느리 · 손자에 '今故'가 적혔습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1879.4713-20101008.B033a_050_00130_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 212
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016706%5EL016706F02%5EL016706F0204&dataId=G002%2BAKS%2BKSM-XD.1879.4713-20101008.B033a_050_00130_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 825
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

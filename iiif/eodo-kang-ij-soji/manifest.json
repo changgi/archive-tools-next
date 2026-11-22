@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.144 말 목장 안의 무덤 — 제주 강씨 집안이 묘를 지키려 낸 소지 네 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "네 장 모두 '육소장(六所場)'이라는 같은 땅을 말한다 — 말 목장 안에 묘를 쓴 집안이, 갈아엎는 사람 · 산 땅 · 소나무 · 이웃 무덤과의 경계를 차례로 관아에 확인받았다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.144"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 어도 진주강씨 강익진 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-soji/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-soji/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 243,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "소지(所志)－01 (1754)"
+    ]
+   },
+   "width": 945,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1754"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "前別監姜汝興 右謹言所志矣段 … 六所塲底 … 是如乎 一片地上 旣入三墳 則無所餘地者 蓋可想矣 而 矣身 … 護 … □馬之入侵 矣前者 文仁道爲名人 入耕是去乙 以此呈訴 … 矣身護養 … 嚴禁得決爲在如中 即今 高永發 … 不許 … 肆意入耕 … 依島規禁斷 以治他人 … 爲只爲 行下向敎是事 城主 處分 甲戌四月 日 所志 (제사 판독 미상)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전 별감 강여흥. 삼가 아뢰는 소지입니다. … 육소장 아래 … 한 조각 땅에 이미 무덤 셋이 들어서 남은 땅이 없다는 것은 짐작하실 만합니다. 그런데 저는 … (무덤을) 보살펴 … (마소)가 들어와 짓밟는 것을 … 지난번 문인도라는 사람이 들어와 밭을 갈기에 이 일로 호소하여 … 엄금하라는 판결을 받았는데, 지금 고영발이 … 허락도 없이 … 제멋대로 들어와 밭을 갑니다. … 섬의 규례에 따라 금지하고 남을 다스려 주시도록 처분해 주십시오. 성주께서 처분하소서. 갑술년 4월 일 소지."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1754년 전 별감 강여흥이 무덤 셋이 있는 좁은 묘역을 남이 갈아엎는다며 제주목에 금지를 청한 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1754.5011-20220125.B077a_114_00004_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 243,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0202&dataId=G002%2BAKS%2BKSM-XB.1754.5011-20220125.B077a_114_00004_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 945,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "소지(所志)－03 (1827)"
+    ]
+   },
+   "width": 1364,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1827"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "於道內里 姜益鎭 右謹陳所志事段 矣身爲親点地於六所塲 … 巳龍丙午入首 卯得戌破 丙坐之原是白遣 又於本里 … 德旧水員 癸丁龍丙入首 艮得戌破 巳坐之處 陸來風水 林鎭璜處 雄馬二匹給價買得 … 是乎矣 若有日後他人執爭之弊是良置 後考次 立旨成給 以爲憑考之意 望良白只爲 行下向敎是事 城主 處分 丁亥八月 日 (제사 판독 미상)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "어도 내리 강익진. 삼가 아뢰는 소지의 일은, 제가 어버이를 위하여 육소장에 묏자리를 잡았으니 … 사룡(巳龍)이 병오(丙午)로 들어오고 물은 묘(卯)에서 얻어 술(戌)로 빠지는 병좌(丙坐)의 언덕입니다. 또 이 마을 … 덕구수 들에 계정룡(癸丁龍)이 병(丙)으로 들어오고 물은 간(艮)에서 얻어 술(戌)로 빠지는 사좌(巳坐)의 자리를, 육지에서 온 풍수 임진황에게 수말 두 필을 값으로 주고 샀습니다. … 뒷날 남이 차지하려 다투는 폐단이 있을까 하여, 뒷날 증거로 삼도록 입지(立旨)를 만들어 주시기를 바랍니다. 성주께서 처분하소서. 정해년 8월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1827년 강익진이 어버이 묏자리 두 곳(하나는 육지 풍수에게 수말 두 필로 삼)에 대해 뒷날 분쟁을 막으려 입지를 청한 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1827.5011-20220125.B077a_114_00006_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 351,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0202&dataId=G002%2BAKS%2BKSM-XB.1827.5011-20220125.B077a_114_00006_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1364,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "소지(所志)－04 (1828)"
+    ]
+   },
+   "width": 1397,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1828"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "等狀 右謹陳所志矣段 矣徒等 先祖入葬於六所塲內 … 峰下 而養山次 植松計料是乎所 敢此仰訴爲白去乎 後考立旨成給 望良白只爲 行下向敎是事 城主 處分 戊子二月 日 於道內 姜仁周 姜仁傑 姜有勳 姜在勳 (제사: 依所訴 … 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "등장(여럿이 함께 내는 소지). 삼가 아뢰는 소지입니다. 저희들은 선조를 육소장 안 … 봉우리 아래에 모셨는데, 산을 가꾸기 위해 소나무를 심으려 하오니 감히 이렇게 우러러 호소합니다. 뒷날 증거가 되도록 입지를 만들어 주시기를 바랍니다. 성주께서 처분하소서. 무자년 2월 일. 어도 내 강인주 · 강인걸 · 강유훈 · 강재훈."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1828년 강씨 네 사람이 육소장 안 선조 묘역에 소나무를 심겠다며 함께 입지를 청한 등장입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1828.5011-20220125.B077a_114_00007_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 359,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0202&dataId=G002%2BAKS%2BKSM-XB.1828.5011-20220125.B077a_114_00007_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1397,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "소지(所志)－05 (1841)"
+    ]
+   },
+   "width": 1086,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1841"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "於道里居 姜益鎭 右謹陳所志矣段 矣身先墓 在於六所塲內 … 麓 而 … 前稍間處 大靜甘山里 姜八起爲名人 葬其母 故 伊時爭執 則同人 … 限界之意 爲言 故 同八起之葬 … 許植松□界是乎乃 年久之後 不無以限界之松 … 之慮是如乎 後考次 立旨成給爲只爲 行下向敎是事 城主 處分 辛丑十一月 日 (제사 판독 미상)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "어도리에 사는 강익진. 삼가 아뢰는 소지입니다. 저의 선대 묘가 육소장 안 … 기슭에 있는데, 그 앞 조금 떨어진 곳에 대정 감산리의 강팔기라는 사람이 제 어머니를 묻었습니다. 그때 다투었더니 그 사람이 경계를 정하자고 말하므로, 팔기의 무덤 … 소나무를 심어 경계로 삼게 했으나, 해가 오래 지나면 경계의 소나무를 두고 … 염려가 없지 않습니다. 뒷날 증거로 삼도록 입지를 만들어 주십시오. 성주께서 처분하소서. 신축년 11월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1841년 강익진이 선대 묘 앞에 남이 묘를 써 소나무로 경계를 정한 뒤, 뒷날 분쟁에 대비해 입지를 청한 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1841.5011-20220125.B077a_114_00008_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 279,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0202&dataId=G002%2BAKS%2BKSM-XB.1841.5011-20220125.B077a_114_00008_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1086,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

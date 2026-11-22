@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.63 206년 동안 같은 문장 — 장흥임씨 집안의 혼서"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "의례의 말은 바뀌지 않음으로써 세대를 이어 주었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.63"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "아산 선교 장흥임씨 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jangheung-im/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jangheung-im/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 238
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1709년 임성(任晟) 혼서(婚書) (1709)"
+    ]
+   },
+   "width": 1400,
+   "height": 925,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1709"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "혼서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "長興後人任晟再拜 / 伏惟季秋 尊履萬福 僕之舍弟勗 未有伉儷 伏蒙尊慈 許以令愛 旣室 玆有先人之禮 謹行納幣之儀 不宣 伏惟尊照 上狀 / 己丑九月二十四日 / (봉투) 上狀 丁生員宅 謹封"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "장흥 후손 임성이 두 번 절합니다. 엎드려 생각건대 늦가을에 존체 만복하십니까. 저의 아우 욱(勗)이 아직 배필이 없었는데, 엎드려 존귀한 자애를 입어 따님을 아내로 허락해 주셨습니다. 이에 선인의 예가 있으므로 삼가 납폐의 예를 행합니다. 다 갖추지 못합니다. 엎드려 살펴 주시기 바랍니다. 글을 올립니다. 기축년(1709) 9월 24일. (봉투) 글을 올림. 정생원 댁. 삼가 봉함."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임성이 아우 임욱을 신랑으로 받아 준 정생원 댁에 감사하며, 옛 예법에 따라 예물(폐백)을 보낸다고 알린 혼서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1709.0000-20101008.B062a_089_00384_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 238
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014430%5EL014430F02%5EL014430F0206&dataId=G002%2BAKS%2BKSM-XF.1709.0000-20101008.B062a_089_00384_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 925
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1915년 임현규(任賢奎) 혼서(婚書) (1915)"
+    ]
+   },
+   "width": 1400,
+   "height": 1005,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1915"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "혼서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "長興后人任賢奎再拜 / 時維仲冬 尊體百福 僕之長子鍾夏 年旣長成 未有伉儷 伏蒙尊慈 許以令愛 旣室 玆有先人之禮 謹行納幣之儀 不備 伏惟尊照 謹拜上狀 / 乙卯十一月十九日 / (봉투) 上狀 李生員 尊親 執事"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "장흥 후손 임현규가 두 번 절합니다. 때는 한겨울, 존체 백복하십니까. 저의 맏아들 종하(鍾夏)가 나이가 이미 장성하였으나 아직 배필이 없었는데, 엎드려 존귀한 자애를 입어 따님을 아내로 허락해 주셨습니다. 이에 선인의 예가 있으므로 삼가 납폐의 예를 행합니다. 다 갖추지 못합니다. 엎드려 살펴 주시기 바랍니다. 삼가 절하고 글을 올립니다. 을묘년(1915) 11월 19일. (봉투) 글을 올림. 이생원 사돈 집사께."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임현규가 맏아들 종하를 사위로 받아 준 이생원 댁에 감사하며 옛 예법대로 예물을 보낸다고 알린 혼서로, 1709년 혼서와 문장이 거의 같습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1915.0000-20101008.B062a_089_00389_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 258
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014430%5EL014430F02%5EL014430F0206&dataId=G002%2BAKS%2BKSM-XF.1915.0000-20101008.B062a_089_00389_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1005
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

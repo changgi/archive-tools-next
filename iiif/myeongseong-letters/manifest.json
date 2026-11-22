@@ -1,0 +1,1277 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.6 왕비의 편지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "역사 속 인물도 편지에서는 한 사람의 목소리로 다가온다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.6"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "명성황후기념관"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/myeongseong-letters/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/myeongseong-letters/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 134,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1888년 명성황후가 민영소에게 보낸 편지 (1888)"
+    ]
+   },
+   "width": 520,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1888"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "글시 보고 든든ᄒᆞ나 … 실화가 되여 너도 놀나더니 즉시 잡히어 … 다ᄒᆡᆼ이다 (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지 보고 든든하나, 어제는 정원(?) 당호에서 불이 나 너도 놀랐더니 곧 잡혔으니 참으로 다행이다. (옛 한글 흘림 — 일부 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지를 받아 보니 든든하다고 한 뒤, '실화(失火, 불이 남)'가 나서 놀랐으나 곧 잡혀 다행이라는 뜻의 구절이 보입니다. 짧은 편지 속에 궁 밖의 사고 소식을 주고받은 흔적이 남았습니다(정확한 판독은 원문 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.1888.0000-20140430.A0005_132"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 134,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0377%5EL037705%5EL037705F02%5EL037705F0206&dataId=G002%2BLET%2BKSM-XF.1888.0000-20140430.A0005_132&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 520,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1890년 명성황후가 민영소에게 보낸 편지－2 (1890)"
+    ]
+   },
+   "width": 1052,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1890"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "글시 보고 밤ᄉᆞ이 잘 잇던 일 든든ᄒᆞ며 / 예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ옵시고 / 동궁 졔졀 ᄐᆡ평ᄒᆞ시니 축수ᄒᆞ며 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지 보고 밤사이 잘 있는 일 든든하며, 여기는 임금께서는 평안하시고 세자도 태평하시니 축수하며, 나는 늘 한가지(그대로)다. 오늘 날씨는 … (4~6줄은 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'편지 보고 밤사이 잘 지낸 일 든든하며, 여기는 임금께서 평안하시고 세자도 태평하시니 축수한다'는 안부로 시작해, 뒤에 이런저런 일에 대한 당부가 이어집니다. 명성황후 편지의 전형적인 첫머리를 보여 줍니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.1890.0000-20140430.A0005_084"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 271,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0377%5EL037705%5EL037705F02%5EL037705F0206&dataId=G002%2BLET%2BKSM-XF.1890.0000-20140430.A0005_084&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1052,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1890년 명성황후가 민영소에게 보낸 편지－4 (1890)"
+    ]
+   },
+   "width": 872,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1890"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "글시 보고 든든ᄒᆞ며 나라의 일은 … (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지 보고 든든하며, 나라의 일은 … (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "안부 뒤에 '나라의 일'을 언급하며 여러 사정을 적은 편지로 보입니다. 흘림이 심해 구체적인 내용은 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.1890.0000-20140430.A0005_086"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 224,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0377%5EL037705%5EL037705F02%5EL037705F0206&dataId=G002%2BLET%2BKSM-XF.1890.0000-20140430.A0005_086&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 872,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "명성황후가 민영소에게 보낸 편지－065"
+    ]
+   },
+   "width": 1062,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "글시 보고 밤ᄉᆞ이 잘 잇던 일 든든ᄒᆞ며 / 예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ옵시고 / 동궁 졔졀 ᄐᆡ평ᄒᆞ시니 축수ᄒᆞ며 / 나ᄂᆞᆫ ᄒᆞᆫ가지다 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지 보고 밤사이 잘 잔 일 든든하며, 여기는 임금께서는 평안하시고 세자도 태평하시니 축수하며 (나는) 그대로다. … (이하 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'편지 보고 밤사이 잘 지낸 일 든든하며, 여기는 임금 평안하시고 세자 태평하시니 축수하며, 나는 늘 한가지(그대로)다'라는 안부 뒤에 짧은 당부가 이어집니다. 여러 편지가 거의 같은 문장으로 시작한다는 점에서, 매일같이 안부를 주고받았음을 짐작할 수 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.0000.0000-20140430.A0005_091"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 273,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0377%5EL037705%5EL037705F02%5EL037705F0206&dataId=G002%2BLET%2BKSM-XF.0000.0000-20140430.A0005_091&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1062,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "명성황후가 민영소에게 보낸 편지－068"
+    ]
+   },
+   "width": 445,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "글시 보고 든든ᄒᆞ며 … (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지 보고 든든하며 … (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "안부를 묻고 짧게 용건만 전한 쪽지 같은 편지입니다. 흘림이 심해 구체적인 용건은 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.0000.0000-20140430.A0005_099"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 114,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0377%5EL037705%5EL037705F02%5EL037705F0206&dataId=G002%2BLET%2BKSM-XF.0000.0000-20140430.A0005_099&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 445,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "명성황후가 민영소에게 보낸 편지－079"
+    ]
+   },
+   "width": 1054,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "글시 보고 밤ᄉᆞ이 잘 잇던 일 든든ᄒᆞ며 / 샹후 … 동궁 졔졀 ᄐᆡ평ᄒᆞ시니 축수ᄒᆞ며 … (이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지 보고 밤사이 잘 잔 일 든든하며, 여기는 임금께서도 그대로 … 하며, 세자도 태평하시니 축수하며, 나는 그대로다. … (4~7줄 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "늘 같은 안부 인사 뒤에 여러 가지 일을 자세히 적어 보냈습니다. 다른 편지보다 내용이 길어 구체적인 사안을 지시하거나 의논한 것으로 보이며, 세부는 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.0000.0000-20140430.A0005_111"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 271,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0377%5EL037705%5EL037705F02%5EL037705F0206&dataId=G002%2BLET%2BKSM-XF.0000.0000-20140430.A0005_111&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1054,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/7",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "명성황후가 민영소에게 보낸 편지－089"
+    ]
+   },
+   "width": 1044,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "글시 보고 밤ᄉᆞ이 잘 잇던 일 든든ᄒᆞ며 / 샹후 … 동궁 졔졀 ᄐᆡ평ᄒᆞ시니 축수ᄒᆞ며 … (작은 글씨 덧씀)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지 보고 밤사이 잘 있던 일 든든하며, 임금 … 세자도 태평하시니 축수하며 … (줄 사이 작은 글씨 덧씀 — 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "안부 인사 뒤에 이어지는 용건 가운데 줄 사이에 작은 글씨로 보충한 내용이 있습니다. 글씨 크기가 달라지는 곳에서 쓰는 사람의 호흡을 느낄 수 있으며, 내용은 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.0000.0000-20140430.A0005_121"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/thumb/07.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 268,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0377%5EL037705%5EL037705F02%5EL037705F0206&dataId=G002%2BLET%2BKSM-XF.0000.0000-20140430.A0005_121&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/7",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1044,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/8",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "명성황후가 민영소에게 보낸 편지－098"
+    ]
+   },
+   "width": 1197,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "글시 보고 든든ᄒᆞ나 일긔 갈ᄉᆞ록 … 별 탈 업시 지나ᄂᆞᆫ 일 기ᄲᅳ다 / 여긔셔ᄂᆞᆫ 샹후 안녕ᄒᆞ옵시고 동궁 졔졀 ᄐᆡ평ᄒᆞ시니 … (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지 보고 든든하나, 날씨가 갈수록 추운데 몸이 탈 없이 지내는 일 기쁘다. 여기서는 임금께서 문안 평안하시고 세자도 태평하시니 축수하는 일 … (5~8줄 판독 불확실) … 말은 그만 하여 두노라(?)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'편지 보고 든든하나 날씨가 갈수록 (추워지는데) 별 탈 없이 지내는 일 기쁘다. 여기서는 임금 평안하시고 세자도 태평하시다'는 안부로 시작해, 계절 인사와 당부가 이어지는 편지로 보입니다(판독 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.0000.0000-20140430.A0005_130"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/thumb/08.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 308,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0377%5EL037705%5EL037705F02%5EL037705F0206&dataId=G002%2BLET%2BKSM-XF.0000.0000-20140430.A0005_130&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/8/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/canvas/8",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/08.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1197,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

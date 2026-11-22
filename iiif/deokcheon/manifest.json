@@ -1,0 +1,999 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.13 200년의 상소"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "한 사람을 기리는 마음이 세대를 넘어 이어질 수 있다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.13"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "산청 덕천서원"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/deokcheon/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/deokcheon/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 290
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1609년 전곡유사(典穀有司) 손득전(孫得全) 덕천원생록(德川院生錄) 일(一) (1609)"
+    ]
+   },
+   "width": 1400,
+   "height": 1127,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1609"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "원생록"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 德川院生錄 一"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 덕천원생록 첫째 권 — 덕천서원 유생 명부"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "덕천서원에 드나든 유생들의 이름을 적은 첫째 권 명부입니다. 남명 조식을 모신 서원에 모인 사람들의 시작을 보여 주며, 구체적인 명단은 본문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1609.4886-20101008.B015a_025_00004_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 290
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024802%5EL024802F02%5EL024802F0207&dataId=G002%2BAKS%2BKSM-XG.1609.4886-20101008.B015a_025_00004_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1127
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1614〜1629년 남명종향소문(南冥從享疏文) (1614)"
+    ]
+   },
+   "width": 1400,
+   "height": 1230,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1614"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남명종향소문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 南冥從享疏文"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 남명종향소문 — 남명 선생을 문묘에 함께 모시기를 청한 상소문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "스승 남명 조식을 나라의 큰 스승으로 공자 사당에 함께 모셔 달라고 임금에게 청한 글들을 엮었습니다. 각 상소의 날짜와 올린 사람은 본문에서 확인해야 합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1614.4886-20101008.B015a_025_00014_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 316
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024802%5EL024802F02%5EL024802F0207&dataId=G002%2BAKS%2BKSM-XG.1614.4886-20101008.B015a_025_00014_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1230
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1615〜1814년 남명선생청무소본초(南冥先生請廡疏本抄) (1615)"
+    ]
+   },
+   "width": 1400,
+   "height": 1083,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1615"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남명선생청무소본초"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "國家之所倚重 … 宣祖大王 … (상소 본문, 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(오른쪽 면) … 공자를 직접 모시고 배운 제자들과 역대 선유 가운데 이 학문(斯文)에 공이 있는 이들이 모두 성묘(문묘)에 종사될 수 있었으니 그 뜻이 깊습니다. 아아, 하늘이 큰 현인을 내는 것은 자주 있는 일이 아니어서, 맹자가 죽은 뒤 도학이 전해지지 않은 지 천여 년이 되었다가 송나라에 이르러 여러 현인이 무리 지어 나오고 참된 선비가 아울러 일어나 우리 도가 크게 형통하였습니다. 그러나 기리고 높여 문묘에 올리는 의전이 순우(1241~1252) 말년에야 비로소 행해졌으니 불행이 아니라 할 수 없고, 양시와 이동의 어짊으로도 홀로 끼지 못했으니 이 또한 다행 속의 불행이 아니겠습니까. 신들이 삼가 생각건대, 우리 동방에 이름난 학자로 일컬을 만한 이가 한둘이 아니나 도학의 전승은 들리지 않다가, 고려 말 정몽주가 성리학을 밝히고 경학을 드러냈고, 우리 왕조가 열리자 문교가 크게 형통하여 유학하는 선비들이 성대하게 일어났으니, 문경공 김굉필·문헌공 정여창·문정공 조광조·문원공 이언적·문순공 이황·문정공 조식이 모두 세상에 드문 현인으로 잇달아 태어나 도를 자기 소임으로 삼았습니다. 그들이 전하지 못한 것을 전하고 뒷사람을 깨우친 공은 거의 염락(송나라 주돈이·정호·정이)의 여러 유학자에 가깝습니다. 이 여섯 현인은 태어난 때는 앞뒤가 다르나 도에는 차이가 없습니다. (왼쪽 면) 나라가 의지하여 중히 여기고 후학이 우러러보는 데 어찌 그 사이에 경중의 차이가 있겠습니까. 종사의 의전도 마땅히 차이가 없어야 하는데, 성조께서 높이는 명을 다섯 신하에게는 내리시고 조식에게만 빠뜨리셨으니, 송나라 양시·이동의 일과 비슷함을 면치 못합니다. 어찌 성대한 시대의 흠이요 이 학문의 불행이 아니겠습니까. 신들은 뒷사람이 지금을 보는 것이 지금 우리가 옛날을 보는 것과 같을까 두려우니, 이것이 신들이 크게 두려워하는 바입니다. 조식의 말과 행실은 문집에 모두 실려 사람들의 귀와 눈에 밝으니, 엎드려 생각건대 성상께서 이미 살피시고 공경하셨을 것입니다. 신들이 감히 말을 거듭 허비하여 성청을 어지럽히지 못하나, 그래도 스스로 그만두지 못하고 한두 가지를 다시 아뢰는 것은 전하께서 듣지 못한 것을 더 들으시고 이미 믿으시는 것을 더 믿으시기를 바라서입니다. 엎드려 원하건대 전하께서 살펴 주십시오. 조식의 사람됨은 타고난 바탕이 빼어나고 기상이 넓으며, 단정하고 엄숙하고 곧고 바르며, 굳세고 정밀하고 민첩하여, 몸가짐이 확고하고 움직임이 법도를 따랐습니다. 두려워하고 공경하는 마음이 늘 속에 있어 게으른 모습이 밖에 드러나지 않았고, 닭 울음을 듣고 일어나 자리를 바로 하고 시동처럼 앉으니 바라보면 그린 그림이나 새긴 상과 같았습니다. 스승에게서 이어받지 않고도 말없이 도의 본체에 계합했으며, 학문은 반드시 육경과 사서를 근본으로, 도는 반드시 주돈이·정호·정이·장재·주희를 법으로 삼아 몸에 돌이켜 체험했습니다 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'정몽주 이래 김굉필·정여창·조광조·이언적·이황·조식 여섯 현인이 잇달아 나와 도학을 이었는데, 나라가 다섯 신하는 문묘에 종사하면서 조식만 빠뜨렸다. 이는 송나라 때 양시·이동이 빠진 일과 같아 성대한 시대의 흠이니, 뒷사람이 지금을 보는 것이 지금 우리가 옛날을 보는 것과 같을까 두렵다'며 조식의 사람됨(타고난 기상, 엄정함, 닭 울면 일어나 바르게 앉는 생활, 스승 없이 도를 깨친 학문)을 들어 문묘 종사를 청하는 상소 본문입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1615.4886-20101008.B015a_025_00016_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 278
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024802%5EL024802F02%5EL024802F0207&dataId=G002%2BAKS%2BKSM-XG.1615.4886-20101008.B015a_025_00016_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1083
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1730년 남명선생종향소축(南冥先生從享疏軸) (1730)"
+    ]
+   },
+   "width": 1400,
+   "height": 1191,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1730"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남명선생종향소축"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 南冥先生從享疏軸 / (오른쪽 위) □見錄"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 남명선생종향소축 — 남명 선생 종향 상소 두루마리"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1730년에도 덕천서원의 유생들이 남명 조식을 문묘에 모시자는 상소를 이어 갔음을 보여 주는 책입니다. 상소에 참여한 사람의 명단과 내용은 본문에서 확인해야 합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1730.4886-20101008.B015a_025_00015_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 306
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024802%5EL024802F02%5EL024802F0207&dataId=G002%2BAKS%2BKSM-XG.1730.4886-20101008.B015a_025_00015_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1191
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1796년 중수임안(重修任案) (1796)"
+    ]
+   },
+   "width": 1400,
+   "height": 1089,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1796"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "중수임안"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 重修任案 / 丙辰六月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 중수임안 — 병진년(1796) 6월 일. 서원을 고칠 때 일을 맡은 사람 명단"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "서원 수리 공사를 위해 책임자와 실무자를 정해 적은 명부입니다. 누가 어떤 일을 맡았는지는 본문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1796.4886-20101008.B015a_025_00011_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 280
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024802%5EL024802F02%5EL024802F0207&dataId=G002%2BAKS%2BKSM-XG.1796.4886-20101008.B015a_025_00011_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1089
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "홀기(笏記)"
+    ]
+   },
+   "width": 1400,
+   "height": 965,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홀기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "山天齋釋菜儀 / 執事 獻官一人 亞獻官一人 … 祝一人 掌儀一人 … / 行禮笏記"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "산천재 석채의(釋菜儀). 의식 전에 헌관 이하 모두 성복(盛服)을 입는다(지금은 심의와 양삼을 쓴다). 장의는 신좌를 자리로 설치하되, 선성(先聖)은 남향, 배위는 서향, 종사위는 동향으로 한다. 축판은 선성 자리 오른쪽에 둔다. 향로·향안·향합은 당 가운데 둔다. 제기는 신좌 앞에 놓되 자리마다 왼쪽에 변(籩) 하나(지금은 옻칠 쟁반에 포와 과일을 담는다), 오른쪽에 두(豆) 하나(지금은 옻칠 쟁반에 무와 나물을 담는다)를 둔다. 희준 하나를 당 위 동남쪽 모퉁이에 두고 국자와 덮개를 더한다. 촛대 넷(지금은 한 자 길이 초로 대신한다) 가운데 둘은 당 가운데에, 둘은 종사위 앞에 둔다. 세(洗) 둘을 동쪽 계단 동쪽에 두고(손 씻는 것은 동쪽, 잔 씻는 것은 서쪽), 탁자 하나를 세 동쪽에 두며 탁자 위에 광주리 둘(수건은 동쪽, 잔은 서쪽)을 둔다. 헌관 자리는 당 아래 북향으로 두고 분전관 한 사람이 그다음, 제생이 또 그다음이며 … 북향하되 서쪽을 윗자리로 한다. 때가 되면 장의가 각 자리에 의자를 놓고 지패(紙牌)를 받들어 모신다. 집사 — 헌관 1인, 분전관 1인, 상례 1인, 축 1인, 장의 1인, 찬자 2인, 사준 1인, 봉향·봉로 각 1인. 행례 홀기 — 헌관 이하 동쪽 행랑 아래에 차례로 선다. ○ 장의가 집사를 거느리고 당에 올라 술과 음식을 채운다. ○ 찬자 한 사람이 헌관을 인도하여 당에 올라 점검하고 ○ 내려와 당 아래 자리로 나아간다. ○ 분전관과 제생이 각자 자리로 나아간다. ○ 찬자 한 사람이 자리를 떠나 조금 앞으로 나가 두 번 절하고 ○ 헌관 왼쪽에 서서 서향하여 '재배' 하고 외친다. ○ 자리에 있는 이가 모두 두 번 절한다. ○ 장의·축·사준이 모두 올라간다 … ○ 찬자가 헌관을 인도하여 세 남쪽으로 가서 북향해 서고 ○ 손을 씻고 닦은 뒤 올라가 ○ 향을 피우고 두 번 절한다. ○ 내려와 다시 세 남쪽으로 가서 ○ 손을 씻고 ○ 작세 남쪽으로 가 북향해 서서 ○ 잔을 씻어 찬자에게 주고 ○ 술독 있는 곳으로 올라가 서향해 선다. ○ 찬자가 잔을 헌관에게 주고 ○ 사준이 덮개를 들고 술을 따른다. ○ 헌관이 잔을 찬자에게 주고 ○ 함께 선성 자리 앞으로 나아가 ○ 헌관이 북향하여 꿇어앉으면 ○ 찬자가 꿇어앉아 잔을 주고 ○ 헌관이 잔을 잡고 세 번 제주(祭酒)한다 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "산천재에서 지내는 석채례의 준비(헌관 이하 성복, 신좌·축판·향로·제기 배치, 지금은 옻칠 쟁반에 포·과일과 나물을 담는다는 주석 등)와 집사 명단(헌관·분전관·상례·축·장의·찬자·사준·봉향·봉로), 그리고 '헌관 이하가 동쪽 행랑 아래 차례로 선다 ○ 장의가 집사를 거느리고 당에 올라 술과 음식을 채운다 …'로 이어지는 진행 순서(行禮笏記)를 적었습니다. 원래 규정에 '지금은 ○○로 대신한다'는 작은 주석을 달아, 실제로 형편에 맞게 바꿔 지낸 모습도 보여 줍니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.0000.4886-20101008.B015b_025_00039_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024802%5EL024802F02%5EL024802F0207&dataId=G002%2BAKS%2BKSM-XG.0000.4886-20101008.B015b_025_00039_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 965
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

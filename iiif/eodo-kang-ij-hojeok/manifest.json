@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.140 아들의 나이가 다섯 살 늘었다 — 제주 강세건 집안의 준호구 네 장, 42년"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "같은 아들의 나이와 출생 간지가 호적마다 다르고, 아버지의 아내는 아들 대에 '계모'로 적힌다 — 호적은 사실의 사진이 아니라 신고의 기록이다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.140"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 어도 진주강씨 강익진 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-hojeok/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-hojeok/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 239,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "준호구(準戶口)－02 (1687)"
+    ]
+   },
+   "width": 931,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1687"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙二十六年十二月 日濟州牧 考丁卯成籍戶口帳內右面第六於道內山里住第一統二戶 業武把摠姜世建年三十戊戌本晉州 父留鄕別監斗烱 祖通訓大夫行南部主簿受璜 曾祖效力副尉權知訓鍊院奉事繼男 外祖效力副尉權知訓鍊院奉事文明翼本福城 妻高氏年二十二丙午本濟州 父幼學尙雲 祖將仕郞逢熙 曾祖承仕郞濟用監奉事碩崧 外祖學生金夢鎰本光州 率子□□汝興年五癸亥 (노비 기재 줄임) 甲子戶口相準給者"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 26년(1687) 12월 일, 제주목. 정묘년(1687) 호적대장을 살피니, 우면 제6 어도 내산리에 사는 제1통 제2호. 업무 파총 강세건, 서른 살, 무술생, 본관 진주. 아버지 유향별감 두형, 할아버지 통훈대부 행남부주부 수황, 증조 효력부위 권지훈련원봉사 계남, 외조 효력부위 권지훈련원봉사 문명익(본관 복성). 아내 고씨, 스물두 살, 병오생, 본관 제주. 그 아버지 유학 상운, 할아버지 장사랑 봉희, 증조 승사랑 제용감봉사 석숭, 외조 학생 김몽일(본관 광주). 함께 사는 아들 여흥, 다섯 살, 계해생. (노비 줄임) 갑자년 호적과 서로 맞추어 발급한다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1687년 제주목이 발급한 강세건 호의 준호구로, 서른 살 업무 파총 강세건과 스물두 살 아내 고씨, 다섯 살 아들 여흥이 적혀 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1687.5011-20220125.B077a_114_00224_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 239,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0204&dataId=G002%2BAKS%2BKSM-XD.1687.5011-20220125.B077a_114_00224_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 931,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "준호구(準戶口)－06 (1705)"
+    ]
+   },
+   "width": 1137,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1705"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙四十四年十二月 日濟州牧 考乙酉成籍戶口帳內右面第六於道內山里住第一統二戶 秉節校尉龍驤衛副司果千摠姜世健年四十八戊戌本晉州 父留鄕座首斗烱 祖通訓大夫行南部主簿禦侮將軍訓鍊院僉正留鄕別監受璜 曾祖效力副尉權知訓鍊院奉事繼男 外祖效力副尉權知訓鍊院奉事文明翼本福城 妻高氏年四十丙午本濟州 父幼學尙雲 祖將仕郞逢熙 曾祖承仕郞濟用監奉事碩崧 外祖學生金夢鎰本光州 率子假率姜汝興年二十八戊午 (노비 기재 줄임) 壬午戶口相準給者"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 44년(1705) 12월 일, 제주목. 을유년(1705) 호적대장을 살피니, 우면 제6 어도 내산리 제1통 제2호. 병절교위 용양위부사과 천총 강세건, 마흔여덟 살, 무술생, 본관 진주. 아버지 유향좌수 두형, 할아버지 통훈대부 행남부주부 어모장군 훈련원첨정 유향별감 수황, 증조 계남, 외조 문명익. 아내 고씨, 마흔 살, 병오생. 함께 사는 아들, 군영 가솔 강여흥, 스물여덟 살, 무오생. (노비 줄임) 임오년 호적과 서로 맞추어 발급한다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1705년 강세건 호의 준호구로, 마흔여덟 살 천총 강세건과 함께 아들 여흥이 '스물여덟 살 무오생'으로 적혀 1687년 기록과 다섯 해가 어긋납니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1705.5011-20220125.B077a_114_00228_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 292,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0204&dataId=G002%2BAKS%2BKSM-XD.1705.5011-20220125.B077a_114_00228_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1137,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "준호구(準戶口)－11 (1720)"
+    ]
+   },
+   "width": 1129,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1720"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙五十九年十二月 日濟州牧 考庚子成籍戶口帳內右面第五於道內山里住第五統二戶 留鄕別監姜汝興年四十三戊午本晉州 父秉節校尉龍驤衛副司果留鄕別監世健 祖留鄕座首斗烱 曾祖通訓大夫行南部主簿禦侮將軍訓鍊院僉正留鄕別監受璜 外祖宣畧將軍行忠武衛副司猛梁士哲本濟州 繼母高氏年伍拾伍丙午本濟州 妻文氏年二十四丁丑本福城 父業武假率友任 祖校生就章 … 孼弟仁順府奴免役書員安吉年十六乙酉 (노비 기재 줄임)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 59년(1720) 12월 일, 제주목. 경자년(1720) 호적대장을 살피니, 우면 제5 어도 내산리 제5통 제2호. 유향별감 강여흥, 마흔세 살, 무오생, 본관 진주. 아버지 병절교위 용양위부사과 유향별감 세건, 할아버지 유향좌수 두형, 증조 수황, 외조 선략장군 행충무위부사맹 양사철(본관 제주). 계모 고씨, 쉰다섯 살, 병오생, 본관 제주. 아내 문씨, 스물네 살, 정축생, 본관 복성. 그 아버지 업무 가솔 우임, 할아버지 교생 취장 …. 서얼 아우 인순부 노 면역 서원 안길, 열여섯 살, 을유생. (노비 줄임)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1720년 호주가 아들 강여흥으로 바뀐 준호구로, 아버지의 아내 고씨가 '계모'로, 외조부가 양사철로 적혀 앞선 호적과 다른 가족 관계가 드러납니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1720.5011-20220125.B077a_114_00233_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 290,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0204&dataId=G002%2BAKS%2BKSM-XD.1720.5011-20220125.B077a_114_00233_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1129,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "준호구(準戶口)－13 (1729)"
+    ]
+   },
+   "width": 987,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1729"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "雍正七年十二月 日濟州牧 考己酉成籍戶口帳內右面第五於道內山里住第五統三戶 留鄕別監姜汝興年…戊午本晉州 父秉節校尉龍驤衛副司果留鄕別監世健 祖留鄕座首斗烱 曾祖通訓大夫行南部主簿禦侮將軍訓鍊院僉正留鄕別監受璜 外祖宣畧將軍行忠武衛副司猛梁士哲本濟州 繼母高氏年六十四丙午 妻文氏年三十三丁丑本福城 父業武假率友任 祖校生就章 曾祖留鄕別監尙… 率子相聖年… 庚寅次女氏年十三丁酉 次子維聖年五乙巳 率孼弟仁順府奴免役…吉年二十五乙酉 (노비 기재 줄임)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "옹정 7년(1729) 12월 일, 제주목. 기유년(1729) 호적대장을 살피니, 우면 제5 어도 내산리 제5통 제3호. 유향별감 강여흥, (나이 …) 무오생, 본관 진주. 아버지 세건, 할아버지 두형, 증조 수황, 외조 양사철. 계모 고씨, 예순네 살, 병오생. 아내 문씨, 서른세 살, 정축생, 본관 복성. 함께 사는 아들 상성 …, (庚寅 …) 둘째 딸 열세 살 정유생, 둘째 아들 유성 다섯 살 을사생. 함께 사는 서얼 아우 인순부 노 면역 …길, 스물다섯 살, 을유생. (노비 줄임)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1729년 강여흥 호의 준호구로, 예순네 살 계모 고씨, 서른세 살 아내 문씨, 아들딸과 서얼 아우까지 3대가 한 호에 적혀 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1729.5011-20220125.B077a_114_00235_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 254,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0204&dataId=G002%2BAKS%2BKSM-XD.1729.5011-20220125.B077a_114_00235_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 987,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

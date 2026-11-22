@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.169 사당이 서원이 되고, 장보기 목록이 길어졌다 — 경주부윤의 제수단자 50년"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "같은 목록을 반세기 동안 나란히 놓으면 변화가 보인다 — '사당(祠)'이 '서원'이 되고, 돼지 · 비단 · 쌀이 늘었다. 그러나 사슴포 세 가닥 · 붓 한 자루 · 누룩 한 덩이는 바뀌지 않았다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.169"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경주 장산서원"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jangsan-jesu/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jangsan-jesu/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 248
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1799년 경주부윤(慶州府尹) 제수단자(祭需單子) (1799)"
+    ]
+   },
+   "width": 1400,
+   "height": 963,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1799"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "제수단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "章山祠祭物單子 物目 酒米參升 眞麴壹元 鹿脯參條 鹿醢壹升 魚醢壹升 魚鱐伍尾 栗黃壹升 乾棗壹升 菁菹壹升 芹菹壹升 祝文紙壹張 黃筆壹柄 眞墨壹丁 香 黃燭壹雙 除 己未三月初七日 府尹吳 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "장산사 제물 단자. 물목: 술 빚을 쌀 세 되, 누룩 한 덩이, 사슴포 세 가닥, 사슴 젓갈 한 되, 생선 젓갈 한 되, 말린 생선 다섯 마리, 밤 한 되, 대추 한 되, 무김치 한 되, 미나리김치 한 되, 축문 종이 한 장, 붓 한 자루, 먹 한 정, 향, 누런 초 한 쌍. (나머지는) 덜어냄. 기미년(1799) 3월 7일. 부윤 오 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1799년 경주부윤이 '장산사'의 봄 제사에 쓸 제물 열다섯 가지를 적어 보낸 제수단자로, 50년 목록의 출발점입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1799.4723-20101008.B043c_066_00342_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0247%5EL024711%5EL024711F02%5EL024711F0202&dataId=G002%2BAKS%2BKSM-XB.1799.4723-20101008.B043c_066_00342_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 963
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1817년 경주부윤(慶州府尹) 제수단자(祭需單子) (1817)"
+    ]
+   },
+   "width": 1400,
+   "height": 963,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1817"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "제수단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "章山書院祭需單子 酒米參升 眞麴壹圓 鹿脯參條 鹿醢壹升 魚醢壹升 魚鱐伍尾 栗黃壹升 乾棗壹升 菁菹壹升 芹菹壹升 祝文紙壹張 黃筆壹柄 眞墨壹丁 香 紙帒參部 黃燭壹雙 除 丁丑九月初三日 府尹李 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "장산서원 제수 단자. 술 빚을 쌀 세 되, 누룩 한 덩이, 사슴포 세 가닥, 사슴 젓갈 한 되, 생선 젓갈 한 되, 말린 생선 다섯 마리, 밤 한 되, 대추 한 되, 무김치 한 되, 미나리김치 한 되, 축문 종이 한 장, 붓 한 자루, 먹 한 정, 향, 종이 주머니 세 개, 누런 초 한 쌍. (나머지는) 덜어냄. 정축년(1817) 9월 3일. 부윤 이 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1817년 가을 경주부윤 이가 보낸 제수단자로, 첫머리가 '장산서원'으로 바뀌었으나 품목은 1799년과 거의 같습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1817.4723-20101008.B043c_066_00348_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0247%5EL024711%5EL024711F02%5EL024711F0202&dataId=G002%2BAKS%2BKSM-XB.1817.4723-20101008.B043c_066_00348_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 963
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1830년 경주부윤(慶州府尹) 제수단자(祭需單子) (1830)"
+    ]
+   },
+   "width": 1400,
+   "height": 963,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1830"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "제수단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "章山書院祭 祭需單子 酒米參升 眞麴壹元 鹿脯參條 鹿醢壹升 魚醢壹升 魚鱐伍尾 栗黃壹升 乾棗壹升 菁菹壹升 芹菹壹升 柳笥壹部 草席壹立 豕腥壹口 幣帛捌尺 … (날짜 · 서명 판독 미상)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "장산서원 제사 제수 단자. 술 빚을 쌀 세 되, 누룩 한 덩이, 사슴포 세 가닥, 사슴 젓갈 한 되, 생선 젓갈 한 되, 말린 생선 다섯 마리, 밤 한 되, 대추 한 되, 무김치 한 되, 미나리김치 한 되, 버들고리 하나, 돗자리 한 닢, 날돼지 한 마리, 폐백 비단 여덟 자 …."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1830년 무렵 장산서원 제수단자로, 기본 음식에 날돼지 한 마리와 폐백 비단 · 버들고리 · 돗자리가 더해졌습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1830.4723-20101008.B043c_066_00352_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0247%5EL024711%5EL024711F02%5EL024711F0202&dataId=G002%2BAKS%2BKSM-XB.1830.4723-20101008.B043c_066_00352_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 963
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1850년 경주부윤(慶州府尹) 제수단자(祭需單子) (1850)"
+    ]
+   },
+   "width": 1400,
+   "height": 959,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1850"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "제수단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "章山書院祭需單子 稻米貳升貳合伍夕 黍米貳升貳合伍夕 酒米參升 眞曲壹元 鹿脯參條 鹿醢壹升 魚醢壹升 魚鱐伍尾 黃栗壹升 乾棗壹升 菁菹壹升 芹菹壹升 豕腥壹口 祝文紙壹張 黃筆壹柄 眞墨壹丁 柳笥壹部 草席壹立 幣篚壹部 條床壹艮衣 皮紙伍張 香 紙帒參部 幣帛捌尺 黃燭壹雙 庚戌三月十二日 府尹李 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "장산서원 제수 단자. 멥쌀 두 되 두 홉 닷 작, 기장쌀 두 되 두 홉 닷 작, 술 빚을 쌀 세 되, 누룩 한 덩이, 사슴포 세 가닥, 사슴 젓갈 한 되, 생선 젓갈 한 되, 말린 생선 다섯 마리, 밤 한 되, 대추 한 되, 무김치 한 되, 미나리김치 한 되, 날돼지 한 마리, 축문 종이 한 장, 붓 한 자루, 먹 한 정, 버들고리 하나, 돗자리 한 닢, 폐백 광주리 하나, 조상(條床) …, 두꺼운 종이 다섯 장, 향, 종이 주머니 세 개, 폐백 비단 여덟 자, 누런 초 한 쌍. 경술년(1850) 3월 12일. 부윤 이 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1850년 장산서원 제수단자로, 멥쌀 · 기장쌀 등이 더해져 품목이 스물다섯 가지로 늘었으나 사슴포 세 가닥과 붓 한 자루는 50년 전 그대로입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1850.4723-20101008.B043c_066_00358_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 247
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0247%5EL024711%5EL024711F02%5EL024711F0202&dataId=G002%2BAKS%2BKSM-XB.1850.4723-20101008.B043c_066_00358_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 959
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

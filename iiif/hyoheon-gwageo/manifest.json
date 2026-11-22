@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.165 스물여덟에서 서른다섯까지 — 이순하가 과거의 계단을 오른 종이 네 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "과거 합격증만 보면 결과만 남지만, 답안지(시권)에는 날짜 · 시험장 · 시험관 · 문제 · 등수가 함께 적혀 있다 — 한 사람의 시험이 '과정'으로 보인다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.165"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "김포 전주이씨 효헌 이인철 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hyoheon-gwageo/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hyoheon-gwageo/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 234
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1884년 이순하(李舜夏) 사마초시(司馬初試) 시권(試券) (1884)"
+    ]
+   },
+   "width": 1400,
+   "height": 911,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1884"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시권"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "幼學李舜夏 年二十八 本全州 居京 父折衝將軍行龍驤衛副護軍 寅晩 祖通政大夫敦寧府都正 容淵 曾祖學生 雲根 外祖宣畧將軍行龍驤衛副司果李勉會 本廣州 甲申八月十九日 … 初場 二十日終場 一所試官 南廷哲 曺寅承 鄭憲時 二所試官 趙準永 權膺善 鄭光淵 二所一等第一人 賦 進士不足以盡子之才 魁 鄭國煥 疑 問十五志于學云云 魁 秦成濂 義 朞三百有六旬有六日 魁 朴經遠 (답안 본문 줄임)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유학 이순하, 스물여덟 살, 본관 전주, 서울 거주. 아버지 절충장군 행 용양위 부호군 인만, 할아버지 통정대부 돈녕부 도정 용연, 증조 학생 운근, 외조 선략장군 행 용양위 부사과 이면회(본관 광주). 갑신년(1884) 8월 19일 … 초장, 20일 종장. 일소 시험관 남정철 · 조인승 · 정헌시. 이소 시험관 조준영 · 권응선 · 정광연. 이소 일등 제일인. (문제) 부(賦): '진사는 그대의 재주를 다 드러내기에 모자라다' — 장원 정국환. 의(疑): '열다섯에 학문에 뜻을 두었다는 것을 묻는다' — 장원 진성렴. 의(義): '한 해는 삼백육십육 일' — 장원 박경원. (답안 본문 줄임)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1884년 스물여덟 살 이순하가 진사시 초시에 낸 답안지로, 사조 · 시험관 · 문제와 함께 '이소 일등 제일인'이라는 성적이 적혀 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1884.4157-20240822.F14101-01-W000145"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 234
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014156%5EL014156F02%5EL014156F0204&dataId=G002%2BAKS%2BKSM-XD.1884.4157-20240822.F14101-01-W000145&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 911
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1885년 이순하(李舜夏) 사마회시(司馬會試) 시권(試券) (1885)"
+    ]
+   },
+   "width": 1400,
+   "height": 911,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1885"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시권"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "幼學李舜夏 年二十九 本全州 居京 父折衝將軍行龍驤衛副護軍 寅晩 祖通政大夫敦寧府都正 容淵 曾祖學生 雲根 外祖宣畧將軍行龍驤衛副司果李勉會 本廣州 乙酉二月二十六日 監試會試 三等第四十人入格 二所 上試 閔種默 副 俞晩源 三 趙翼永 四 金鶴善 五 尹尙學 (붙인 쪽지) 進士試三等第四十人 (답안 본문 줄임)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유학 이순하, 스물아홉 살, 본관 전주, 서울 거주. (사조 같음.) 을유년(1885) 2월 26일 감시 회시, 삼등 제사십인으로 입격. 이소 시험관: 상시 민종묵, 부시 유만원, 삼시 조익영, 사시 김학선, 오시 윤상학. (붙인 쪽지) 진사시 삼등 제사십인. (답안 본문 줄임)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1885년 2월 이순하가 소과 회시에 낸 답안지로, 진사시 삼등으로 입격했다는 기록과 시험관 다섯 사람의 이름이 적혀 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1885.4157-20240822.F14101-01-W000146"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 234
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014156%5EL014156F02%5EL014156F0204&dataId=G002%2BAKS%2BKSM-XD.1885.4157-20240822.F14101-01-W000146&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 911
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1885년 이순하(李舜夏) 진사 백패(進士白牌) (1885)"
+    ]
+   },
+   "width": 1193,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1885"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "백패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 幼學李舜夏進士三等第三十四人入格者 光緖十一年三月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 이순하를 진사 삼등 제삼십사인으로 입격시킨다. 광서 11년(1885) 3월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1885년 3월 이순하를 진사 삼등 제34인으로 입격시킨 백패로, 소과 합격증입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1885.4157-20240822.F14101-01-W000002"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 307,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014156%5EL014156F02%5EL014156F0201&dataId=G002%2BAKS%2BKSM-XA.1885.4157-20240822.F14101-01-W000002&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1193,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1891년 이순하(李舜夏) 문과 홍패(文科紅牌) (1891)"
+    ]
+   },
+   "width": 979,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 進士李舜夏文科丙科第十六人及第出身者 光緖十七年七月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 진사 이순하를 문과 병과 제십육인으로 급제 출신시킨다. 광서 17년(1891) 7월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891년 진사 이순하가 문과 병과 제16인으로 급제하여 받은 붉은 홍패로, 그가 관직에 나아간 출발점입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1891.4157-20240822.F14101-01-W000003"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 252,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014156%5EL014156F02%5EL014156F0201&dataId=G002%2BAKS%2BKSM-XA.1891.4157-20240822.F14101-01-W000003&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 979,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

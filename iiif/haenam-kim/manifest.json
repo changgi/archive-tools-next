@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.102 \"많고 적음을 따지지 말라\" — 해남 김해김씨 아버지와 아들의 25년"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "재산 문서에도 마음이 적힌다 — '많고 적음을 따지지 말라'는 당부와, 이미 세상을 떠난 맏아들의 몫."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.102"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "해남 김해김씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/haenam-kim/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/haenam-kim/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 238
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1593년 김선지(金銑之) 고신(告身) (1593)"
+    ]
+   },
+   "width": 1400,
+   "height": 926,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1593"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "兵曹萬曆二十一年(?)…月二十二日奉 / 敎守門將金銑之爲秉 / 節校尉龍驤衛左 / 部將者 / 軍功書啓(?) / 萬曆二十一年九月 日 / (왼쪽) 兵曹 … 金銑之 … (흘림, 판독 불확실) / 判書 參判 參知 參議 正郞 佐郞"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "병조가 만력 21년 ○월 22일 임금의 명을 받들어, 수문장 김선지를 병절교위 용양위 좌부장으로 삼는다. 군공을 아뢴 데 따름(?). 만력 21년(1593) 9월 일. (왼쪽: 같은 해 병조의 또 다른 명령이 흘림으로 이어짐) 판서 · 참판 · 참지 · 참의 · 정랑 · 좌랑."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1593년, 수문장 김선지를 병절교위 용양위 좌부장으로 임명한 병조의 고신입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1593.1111-20101008.B026a_039_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 238
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014813%5EL014813F02%5EL014813F0201&dataId=G002%2BAKS%2BKSM-XA.1593.1111-20101008.B026a_039_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 926
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1605년 김안방(金安邦) 생원 백패(生員白牌) (1605)"
+    ]
+   },
+   "width": 965,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1605"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "백패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 幼學金安邦生員三等第六十七人入格者 / 萬曆三十三年二月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 김안방이 생원시 3등 제67인으로 합격하였다. 만력 33년(1605) 2월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1605년, 김안방이 생원시 3등 제67인으로 합격한 백패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1605.1111-20101008.B026a_039_00041_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 248,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014813%5EL014813F02%5EL014813F0201&dataId=G002%2BAKS%2BKSM-XA.1605.1111-20101008.B026a_039_00041_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 965,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1617년 김안방(金安邦) 허여명문(許與明文) (1617)"
+    ]
+   },
+   "width": 955,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1617"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "허여명문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "萬曆肆拾伍年丁巳伍月初五日陸子女等處許與 (代筆 衆子) / 右許與事 … 寸土者 書成文 自愧 … 甚 / 苟或不顧廉恥之人 不保不出於其間 則斯文不可無作 … 僅記若干 / 分之如左 凡爲子女須體吾意 毋較多少 恐及泉裡不勝幸甚 / 一 長子銑之妻金氏衿 邑內基田 … / 一 仲子錬之衿 … / 一 末子鋥之衿 … (이하 노비 · 전답 목록)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "만력 45년 정사(1617) 5월 초5일, 여섯 자녀에게 나누어 주는 문서. … 한 치의 땅까지 문서로 만드는 것이 스스로 부끄럽지만, 혹시라도 염치를 돌아보지 않는 사람이 그사이에 나오지 않으리라 장담할 수 없으니 이 글을 짓지 않을 수 없다. … 조금이나마 적어 아래와 같이 나눈다. 무릇 자녀 된 자는 모름지기 내 뜻을 헤아려 많고 적음을 따지지 말라. 그러면 저승에 가서도 더없이 다행이겠다. 하나, 맏아들 선지의 처 김씨 몫: 읍내 집터 밭 … 하나, 둘째 아들 연지 몫 … 하나, 막내아들 정지 몫 … (이하 노비 · 전답 목록)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1617년, 김안방이 여섯 자녀에게 재산을 나누며 '많고 적음을 따지지 말라'고 당부한 분재 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1617.0000-20101008.B026a_039_00137_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 246,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014813%5EL014813F02%5EL014813F0205&dataId=G002%2BAKS%2BKSM-XE.1617.0000-20101008.B026a_039_00137_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 955,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

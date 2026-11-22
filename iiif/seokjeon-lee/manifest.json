@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.77 334년의 간격 — 성균관 임명장과 금융조합 빚 문서"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "집안은 영광의 문서만이 아니라 빚 문서도 버리지 않았다 — 그것도 역사였기 때문에."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.77"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "칠곡 석전 광주이씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/seokjeon-lee/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/seokjeon-lee/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 246
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1608년 이윤우(李潤雨) 고신(告身)－1 (1608)"
+    ]
+   },
+   "width": 1400,
+   "height": 956,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1608"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "吏曹萬曆三十六年十二月初三日奉 敎 權知成均館學諭李潤雨爲從仕郞者 萬曆三十六年十二月 日 判書 參判臣趙[押] 參議 正郞 佐郞臣李[押]"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "이조에서 만력 36년(1608) 12월 초3일 왕명을 받들어, 권지성균관학유 이윤우를 종사랑으로 삼는다. 만력 36년 12월 일. [문과 급제로 품계를 더함.] 판서, 참판 신 조[서명], 참의, 정랑, 좌랑 신 이[서명]."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1608년 문과 급제자 이윤우를 성균관 권지학유로서 종사랑(정9품)에 임명한 이조의 고신입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1608.1111-20101008.B063a_092_00058_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 246
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016721%5EL016721F02%5EL016721F0201&dataId=G002%2BAKS%2BKSM-XA.1608.1111-20101008.B063a_092_00058_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 956
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1942년 왜관금융조합(倭館金融組合) 차용증(借用證)－1 (1942)"
+    ]
+   },
+   "width": 1251,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1942"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "차용증"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "借用金證書(根抵當權設定契約書ニ依ル分 定期短期擔保貸付) 一金貳百圓也 前記金額昭和拾五年壹月拾七日附登記受附第…號根抵當權設定契約ニ基キ借用致候ニ付テハ左記各項契約致候也 一 利息ハ日歩貳錢七厘ノ割合ニ依リ … 每年貳回 每月末日限 二 返濟期日ハ昭和拾八年四月貳拾日ト定ムル事 三 … 金百圓ニ付一日金參錢五厘ノ割合ヲ以テ遲延利息ヲ支拂フ事 四 借用金ハ舊債ノ爲ニ使用スル事 五 保證人ハ本契約履行ニ付借主ト連帶シテ其ノ責ニ任ズル事 昭和拾七年四月參拾日 住所 漆谷郡倭館面石田洞六十二番地 借主 李夏○ 金融組合御中"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "차용금 증서(근저당권 설정 계약서에 따른 분, 정기·단기 담보대부). 일금 200원. 위 금액은 쇼와 15년(1940) 1월 17일자 등기 접수 제3○○호 근저당권 설정 계약에 따라 빌리는 것이므로 아래 각 항을 계약합니다. 1. 이자는 일보(日步) 2전 7리(100원당 하루 2전 7리)의 비율로, 원금 납입일 외에 매월 말일까지의 분을 지급할 것. 2. 상환 기일은 쇼와 18년(1943) 4월 20일로 정할 것. 3. 기일에 원리금 납입이 늦어지면 다음 날부터 납입 당일까지 100원당 하루 3전 5리의 연체 이자를 지급할 것. 4. 빌린 돈은 옛 빚을 갚는 데 쓸 것. 5. 보증인은 이 계약 이행에 대해 차주와 연대하여 책임질 것. 쇼와 17년(1942) 4월 30일. 주소 칠곡군 왜관면 석전동 62번지, 차주 이하○. 금융조합 귀중."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1942년 칠곡 석전동의 이씨가 토지를 담보로 왜관금융조합에서 200원을 빌리며 옛 빚 상환에 쓰겠다고 약속한 차용증서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1942.0000-20101008.B063a_092_00331_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 322,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016721%5EL016721F02%5EL016721F0204&dataId=G002%2BAKS%2BKSM-XD.1942.0000-20101008.B063a_092_00331_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1251,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.149 아버지를 묻을 날, 옮길 날 — 경오생 망자와 임진생 상주의 장사택일기 네 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "혼인이 날짜에서 시작했듯 장례도 날짜에서 시작했다 — 관을 내갈 시각, 땅을 열 시각, 묻을 날, 옮길 날, 그리고 그 자리를 피해야 할 사람들의 띠까지."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.149"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 어도 진주강씨 강익진 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-jangsa/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-jangsa/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 286,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "장사택일기(葬事擇日記)－14 (1903)"
+    ]
+   },
+   "width": 1114,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1903"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "장사택일기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "乾化命庚午 土 主壬辰 莫山 … 坐 … 由吉乙木(?)… 癸卯金 癸亥水 己未火 辛未土 安葬 十一月初□辰時 出柩 同日 寅卯時 … 開土 同日巳時 先酉 … 破土方 冲 己丑 乙丑生 出柩 下棺 必避 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "돌아가신 남자, 경오생(토). 상주 임진생. … 산의 … 좌(묏자리 방향). (택한 날의 네 기둥) 계묘(금) · 계해(수) · 기미(화) · 신미(토). 안장(묻기): 11월 초○일 진시. 출구(관 내가기): 같은 날 인시 · 묘시. 개토(땅 열기): 같은 날 사시, 먼저 유(酉) 방향부터. … 파토 방향 …. 충(冲): 기축생 · 을축생은 관을 내가고 내릴 때 반드시 피할 것."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "경오생 망자의 안장일(11월)과 출구 · 개토 시각을 고르고, 기축생 · 을축생은 하관 때 피하라고 적은 장사택일기입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1903.5011-20220125.B077a_114_00486_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 286,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0207&dataId=G002%2BAKS%2BKSM-XG.1903.5011-20220125.B077a_114_00486_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1114,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "장사택일기(葬事擇日記)－17 (1900)"
+    ]
+   },
+   "width": 1400,
+   "height": 859,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1900"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "장사택일기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "乾化命庚午 土 主壬辰 已作 甲戌火 辛未土 吉乙木 己酉土 戊辰木 壬寅金 丁未水 開不安 葬云 安葬 閏二月二十二日未時 啓殯開壙 辰時 先南 停取 庚辛方 冲 壬申 丙申生 己亥土 庚午土 壬寅金 丁未水 停取 庚辛方 冲 壬申 丙申生 安葬 陰四月二十四日未時 山祭 十九日子時 啓殯開壙 全日 辰巳時 先世(?)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "돌아가신 남자, 경오생(토). 상주 임진생. … (첫 후보) 안장: 윤2월 22일 미시. 빈소를 열고 무덤 구덩이를 파는 것(계빈 · 개광)은 진시, 남쪽부터. 머무를 곳은 경 · 신 방향. 임신생 · 병신생은 피함. … (둘째 후보) 안장: 음력 4월 24일 미시. 산신제: 19일 자시. 계빈 · 개광: 같은 날 진시 · 사시 …."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "경오생 망자의 안장 날 후보로 윤2월 22일과 음력 4월 24일을 적고, 산제 · 계빈 · 개광 시각과 피할 띠를 함께 적은 장사택일기입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1900.5011-20220125.B077a_114_00489_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 221
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0207&dataId=G002%2BAKS%2BKSM-XG.1900.5011-20220125.B077a_114_00489_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 859
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "장사택일기(葬事擇日記)－16 (1900)"
+    ]
+   },
+   "width": 1400,
+   "height": 1085,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1900"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "장사택일기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "乾化命庚午 主壬辰 癸山 … 空 遷移 正月十三日卯時 先破酉 出柩 午時 酉方 百步外 冲 乙未 辛未生 必避 冲 甲子 庚子生 必避"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "돌아가신 남자, 경오생. 상주 임진생. 계산(癸山) … 공(空). 이장(옮기기): 정월 13일 묘시, 먼저 유(酉) 방향을 연다. 관을 내가는 것은 오시, 유 방향 백 걸음 밖으로. 을미생 · 신미생은 반드시 피할 것. 갑자생 · 경자생은 반드시 피할 것."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "경오생 망자의 무덤을 정월 13일 묘시에 열어 옮기고, 관을 유 방향 백 걸음 밖으로 내가도록 고른 이장 택일기입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1900.5011-20220125.B077a_114_00488_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 279
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0207&dataId=G002%2BAKS%2BKSM-XG.1900.5011-20220125.B077a_114_00488_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1085
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "장사택일기(葬事擇日記)－20 (1900)"
+    ]
+   },
+   "width": 585,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1900"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "장사택일기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "乾化命庚午 主壬辰 旧山 莫作 遷移 八月二十三日 辰時 先破 □方 出柩 未時 甲子(?)方"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "돌아가신 남자, 경오생. 상주 임진생. 옛 산(구산)에서 옮김: 8월 23일 진시, 먼저 ○ 방향을 연다. 관을 내가는 것은 미시, 갑자(?) 방향."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "옛 무덤(구산)에서 경오생 망자를 8월 23일 진시에 옮기도록 큰 글씨로 적은 이장 택일 쪽지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1900.5011-20220125.B077a_114_00492_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 150,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0207&dataId=G002%2BAKS%2BKSM-XG.1900.5011-20220125.B077a_114_00492_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 585,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.60 \"며느리가 극진하다 하오니\" — 사돈이 보낸 한글 편지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "옛 편지에도 오늘 우리와 같은 기쁨과 걱정이 담겨 있었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.60"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "진안 정천 전주이씨 서곡 이정영 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/seogok/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/seogok/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 274
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "신미년 사돈(査頓) 조(趙) 언간(諺簡)－1"
+    ]
+   },
+   "width": 1400,
+   "height": 1066,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "언간"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "신미 칠월 이십일 사돈 조 / 초츄 일긔 부조ᄒᆞ온ᄃᆡ 거ᄂᆞ리시고 긔운 평안ᄒᆞ옵신 셔찰 반ᄉᆞ와 탐(?) 반갑ᄉᆞᆸ고 … 날리 조하 대ᄉᆞ을 평안이 지ᄂᆡᄋᆞᆸ고 며ᄂᆞ리 극진타 ᄒᆞ오니 그밧ᄃᆡ 깃부기 측량 업ᄉᆞᆸ …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "신미년 7월 20일, 사돈 조(趙)씨. 초가을 날씨가 고르지 못한데, [식구들을] 거느리시고 기운이 평안하시다는 편지를 받으니 반갑고, 겸하여 받자오며 [사돈께서] 자연히 안녕하시고 슬하의 자손들도 무탈하신가 싶으니 기쁘오며, 날이 좋아 큰일(혼례)을 평안히 치르고, 며느리가 극진하다 하오니 그 밖에 더 기쁘기 측량할 수 없사옵니다. … 망극하고 … 측량할 수 없사온 … (판독 불확실 다수, 이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사돈 조씨가 편지를 받고 반가워하며, 날이 좋아 혼례를 평안히 치르고 며느리가 극진하다는 말을 들으니 더없이 기쁘다고 전한 한글 편지입니다(뒷부분 판독 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.0000.0000-20101008.B034a_053_00079_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 274
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014719%5EL014719F02%5EL014719F0206&dataId=G002%2BAKS%2BKSM-XF.0000.0000-20101008.B034a_053_00079_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seogok/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1066
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "조부(祖父) 언간(諺簡)－1"
+    ]
+   },
+   "width": 1400,
+   "height": 986,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "언간"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "신원도ᄉᆞ 젹확ᄒᆞ거ᄌᆔ ᄒᆞ여 보ᄂᆡᆫ다 / 칠월 회일 글시 찰 월초일 보아 ᄌᆞ셰 잇ᄂᆞᆫ 줄 아니 깃브다 … 논 셔마지기 … 빗과 담 밧나 … 두셤 갑시 사십여 양이라 … / 祖父"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(겉머리) 신원도사 ○○가 확실하거든 하여 보낸다(?). 7월 그믐에 쓴 편지를 초하루에 보아 자세히 있는 줄 아니 기쁘다. 여기는 다 한 모양이다. … 돈 칠 환을 보니 … 손[자]들이 변통할 … 논 서 마지기는 … 값으로 송도해 저 빼앗겨 버리고, 논 서 마지기는 … 논사(농사) 지을 것이 … 농사도 못하고 봄 초동에 빌린 빚과 담보 받나 … 값은 어찌하여 밭을 잡혀 드려야 … 그리하였으면 말도 아니 하고 가만히 두었을 텐데 … 가을 봄에 길미(이자)가 … 두 섬 값이 사십여 냥이라 … (판독 불확실 다수, 이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "할아버지가 손자의 편지를 받고 기뻐하며, 논 서 마지기를 잃고 빚과 담보, 이자 문제로 농사도 못 짓게 된 사정을 길게 적어 보낸 편지로 보입니다(판독 불확실)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.0000.0000-20101008.B034a_053_00088_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 254
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014719%5EL014719F02%5EL014719F0206&dataId=G002%2BAKS%2BKSM-XF.0000.0000-20101008.B034a_053_00088_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seogok/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 986
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,304 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/cheongeum/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.112 \"한 사람은 살고 한 사람은 죽었다\" — 김상용 · 김상헌 형제에게 내린 치제문"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "죽음과 생존, 두 갈래의 충절 — 임금은 다른 길을 간 형제를 같은 무게로 기렸다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.112"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "공주 안동김씨 청음 김상헌 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/cheongeum/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/cheongeum/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheongeum/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 241
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheongeum/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "치제문(致祭文)"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "치제문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "東方名相 大明忠臣 輕捐七尺 寔扶彝倫 南樓烈焰 煇暎竹帛 有髯(?)天下 俯仰無怍 沁流漾漾 居(?)冬(?)峩峩(?) 淸風襲人 不磷不磨 彼二人者 何心負國 芳臭之分 婦孺亦識 砥柱屹瀾 老柏凌霜 百世以俟 萬夫之防 匹美孤竹 有弟文正 一生一死 日星名位(?) 祇拜北苑 暮春十九 英靈如水 優(?)帝左右 風泉之思 曷(?)及忠良 卿孫啣命 毋吐予觴 / 卿惟大老 正氣降嶽 其文韓曾 其學濂洛 立幟挈領 于壇于室 … 遼野漫漫 雪窖蘇節 燕獄文(?)蘭(?) 足踏胡地 頭戴漢月 … 遙拜毅皇 是日何懷(?) 西山之薇 東海之水 擧以酹卿 淸標是似"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "[첫째 글 — 김상용에게] 동방의 이름난 재상이요 대명(大明)의 충신이여, 일곱 자 몸을 가벼이 버려 참으로 인륜을 붙들었도다. 남쪽 누각의 맹렬한 불꽃은 역사(竹帛)에 환히 빛나니, 천하에 … 굽어보고 우러러보아도 부끄러움이 없도다. 강화(沁)의 물결은 넘실거리고 … 맑은 바람은 사람에게 스며드니, 갈아도 얇아지지 않고 닳지도 않는도다. 저 두 사람은 무슨 마음으로 나라를 저버렸는가. 향기와 악취의 구분은 아낙과 아이도 안다. 거센 물결 속에 우뚝 선 지주(砥柱)요 서리를 이기는 늙은 측백이니, 백세 뒤를 기다리고 만 사람의 방패가 되리라. 고죽(백이 · 숙제)과 아름다움을 나란히 하니, 문정(文正)이라는 아우가 있어 한 사람은 살고 한 사람은 죽었으되 해와 별처럼 이름이 자리하였다. 삼가 북원(北苑)에서 절하는 늦봄 열아흐레, 영령은 물처럼 맑아 황제의 곁에 계시리라. 풍천(風泉)의 생각이 어찌 충량한 신하에게 미치지 않으랴. 경의 자손이 명을 받들었으니, 나의 잔을 뱉지 말라. [둘째 글 — 김상헌에게] 경은 큰 원로이니, 바른 기운이 산악에서 내려왔도다. 그 글은 한유 · 증공 같고 그 학문은 주돈이 · 정호 · 정이(濂洛)를 이었다. … 요동 들판은 아득한데, 눈 덮인 움집에서 소무(蘇武)의 절개를 지키고 연경의 감옥에서 문천상(文天祥)처럼 … 발은 오랑캐 땅을 밟았으나 머리에는 한(漢)의 달을 이었도다. … 멀리 의종 황제(毅皇)께 절하는 오늘, 어찌 그리운 마음이 없으랴. 서산의 고사리와 동해의 물을 들어 경에게 술 대신 붓노니, 맑은 기상이 이와 같도다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "병자호란 때 순절한 김상용과 심양에 끌려갔던 아우 김상헌을 나란히 기린 치제문 두 편의 베낌본입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XI.9999.4415-20211130.B075a_105_00205_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheongeum/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014423%5EL014423F02%5EL014423F0208&dataId=G002%2BAKS%2BKSM-XI.9999.4415-20211130.B075a_105_00205_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheongeum/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/cheongeum/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/cheongeum/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/cheongeum/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

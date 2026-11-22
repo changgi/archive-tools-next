@@ -1,0 +1,304 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/musil/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.89 \"산꼭대기 덤불에 숨은 백성들\" — 1592년 안동 의병의 일지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "의병은 영웅담이 아니라, 두려움 속에서 사람을 모으는 어려운 일이었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.89"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "안동 수곡 전주류씨 무실 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/musil/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/musil/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/musil/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 262
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/musil/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "유복기(柳復起) 임난창의록(壬亂倡義錄) (1592)"
+    ]
+   },
+   "width": 1400,
+   "height": 1017,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1592"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임난창의록"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "壬辰四月十四日癸卯 倭寇陷東萊府 使宋象賢死之 巡察使金睟傳令列邑聚軍擧事 六月初一日己丑 裵龍吉 金涌 柳復起 共謀擧義 餞而安集使金玏奉命來到 以章甫爲里將 各於所居村點起軍丁 七月十七日甲戌 裵龍吉向九勝村起軍 人民竄於山頂叢薄 因其夜下家宿之隙 縻其父兄 各招子弟 分定隊正二百餘人 十九日 兵使朴晉入本府 裵龍吉卽付所起軍于兵使 八月初五日壬辰 招諭使金誠一招諭文來 裵龍吉卽出通文 一邑約會廬江書院 與金允明 允思往會 則惟柳復起 鄭溭赴約 又出文通 告約會金法寺"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임진년(1592) 4월 14일 계묘, 왜구가 동래부를 함락하니 부사 송상현이 죽었다. 순찰사 김수가 여러 고을에 전령하여 군사를 모아 거사하게 하였다. 6월 초1일 기축, 배용길·김용·류복기가 함께 의병을 일으키기로 모의하였다. 이윽고 안집사 김륵이 왕명을 받들어 와서, 선비들을 이장(里將)으로 삼아 각자 사는 마을에서 군정을 점검해 일으키게 하였다. 7월 17일 갑술, 배용길이 구승촌으로 가서 군사를 일으키는데, 백성들이 산꼭대기 덤불 속에 숨어 있었다. 밤에 집으로 내려와 자는 틈을 타 그 아버지와 형들을 붙들어 [설득하고] 각자 자제들을 불러 모아 대정 200여 명을 나누어 정하였다. 19일, 병사 박진이 안동부에 들어오자 배용길이 곧 일으킨 군사를 병사에게 넘겼다. 8월 초5일 임진, 초유사 김성일의 초유문이 오자 배용길이 곧 통문을 내어 온 고을이 여강서원에 모이기로 약속하였다. 김윤명·김윤사와 함께 가서 모였으나 오직 류복기와 정칙만이 약속에 왔다. 또 통문을 내어 금법사에 모이기로 알렸다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1592년 4~8월 안동에서 배용길·김용·류복기 등이 의병을 일으키고 군사를 모은 과정을 날짜별로 적은 임난창의록입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.0000.0000-20101008.B029a_044_00309_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/musil/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 262
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016701%5EL016701F02%5EL016701F0207&dataId=G002%2BAKS%2BKSM-XG.0000.0000-20101008.B029a_044_00309_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/musil/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/musil/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/musil/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/musil/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1017
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

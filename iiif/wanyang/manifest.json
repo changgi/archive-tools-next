@@ -1,0 +1,304 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/wanyang/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.115 \"많은 이가 나를 헌신짝처럼 버렸을 때\" — 피란길의 임금을 따른 이충원의 호성공신교서"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "위기에서 곁에 남은 한 사람 — 공적의 목록보다 '흰머리로 걸어서 따라왔다'는 장면이 오래 남는다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.115"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "여주 산북 전주이씨 완양부원군 이충원 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/wanyang/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/wanyang/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/wanyang/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 270
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/wanyang/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "이충원(李忠元) 호성공신교서(扈聖功臣敎書) (1604)"
+    ]
+   },
+   "width": 1400,
+   "height": 1051,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1604"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "호성공신교서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎 忠勤貞亮効節協策扈聖功臣輔國崇祿大夫完陽府院君李忠元書 王若曰 板蕩識誠臣 … 惟卿 … 事親則誠孝出天 莅職則氷蘗律身 字畫入神 … 頃値昊天之不弔 以致島夷之肆凶 事有不忍言 累卵之時勢岌岌 計出無可奈 去邠之行色怱怱 多是保妻子而全軀 從我者孰 無能出死力而扈駕 棄予如遺 非卿赤心之無他 詎能白首以徒步 跋涉千萬里 有忘身殉國之誠 相從草莽間 効見危授命之節 義雖有君臣之分 情實同父子之親 … 肆策勳扈聖功臣二等 圖形垂後 超二階 爵其父母妻子亦超二階 無子則甥姪女壻超一階 嫡長世襲不失其祿 宥及永世 仍賜伴倘六人 奴婢九口 丘史四名 田八十結 銀子七兩 表裏一段 內廐馬一匹 … 於戲 … 家國同休戚 永保億萬斯年 故玆敎示 想宜知悉"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교서. 충근정량효절협책 호성공신 보국숭록대부 완양부원군 이충원에게 내리는 글. 왕은 이르노라. 나라가 어지러울 때 충성스러운 신하를 알아보는 법이다. … 경은 … 어버이를 섬김에는 정성과 효성이 하늘에서 나왔고, 벼슬에 임해서는 얼음을 마시고 쓴 황벽을 씹듯 청렴하게 몸을 다스렸으며, 글씨는 신묘한 경지에 들었다. … 지난번 하늘이 돕지 않아 섬 오랑캐가 함부로 흉포한 짓을 하게 되니, 차마 말할 수 없는 일이 있었다. 계란을 쌓아 놓은 듯 형세가 위태로웠고, 어찌할 도리가 없어 도성을 떠나는 행차가 총총하였다. 많은 이들이 처자를 지키고 제 몸을 온전히 하려 했으니, 누가 나를 따랐던가. 죽을힘을 다해 어가를 호종한 이가 없어 나를 헌신짝 버리듯 하였다. 경의 붉은 마음이 다른 데 있지 않았다면, 어찌 흰머리로 걸어서 천만 리를 건너왔겠는가. 몸을 잊고 나라를 위하는 정성이 있어 풀숲 사이에서 서로 따랐고, 위태로움을 보고 목숨을 바치는 절개를 보였다. 의리로는 비록 임금과 신하의 구분이 있으나, 정으로는 실로 아버지와 아들의 친함과 같았다. … 이에 호성공신 2등에 책훈하여, 초상을 그려 후세에 전하고, 품계를 두 단계 올린다. 그 부모와 처자도 두 단계 올리며, 아들이 없으면 조카와 사위를 한 단계 올린다. 맏아들이 대대로 이어받아 녹을 잃지 않게 하고, 죄를 용서하는 은전이 영원히 미치게 한다. 이어서 반당 6인, 노비 9구, 구사 4명, 밭 80결, 은 7냥, 옷감 한 벌, 내구마 1필을 내린다. … 아아, … 나라와 집안이 기쁨과 근심을 함께하여 억만년을 길이 보전하라. 그러므로 이에 교시하니, 잘 알리라 생각한다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1604년 선조가 임진왜란 피란길을 걸어서 따른 이충원을 호성공신 2등에 책봉하며 내린 공신교서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1604.4173-20250415.F10101-01-W000001"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wanyang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 270
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014164%5EL014164F02%5EL014164F0201&dataId=G002%2BAKS%2BKSM-XA.1604.4173-20250415.F10101-01-W000001&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wanyang/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/wanyang/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/wanyang/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/wanyang/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1051
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

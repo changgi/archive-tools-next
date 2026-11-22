@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.45 \"일흔 살 병든 어머니와 떠돌다가\" — 굶주림이 남긴 두 장의 명문"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "기근의 기록은 가장 무거운 개인의 선택으로 남아 있다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.45"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경주 용산서원"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yongsan/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yongsan/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 246
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1593년 조광의(趙光義) 소지(所志) (1593)"
+    ]
+   },
+   "width": 1400,
+   "height": 956,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1593"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "萬曆二十一年癸巳五月初七日 前內禁衛趙光義前明文 / 右明文爲 … 矣女 … 善山 … 流離 … 新村里 … 夫金夢得 身死爲 … 絶粮 … 年十一 … 永永放賣 … / 財主 故金夢得妻 召史(手寸) / 證保 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "만력 21년 계사(1593) 5월 7일, 전 내금위 조광의에게 [써 주는] 명문. 이 명문을 만드는 일은, 저(제 딸?)는 본디 선산에 살던 … 적변(왜란)으로 달아나 떠돌다가 양식이 떨어져 … 신촌리에 의탁해 살았는데, … 남편 김몽득이 죽어 … 입에 풀칠할 길이 없고 양식이 끊어져 … 열한 살 된 [딸] 한 명을 … 값을 받고 … 뒤에 낳을 아이까지 영영 팔아넘기니, 뒷날 친족 가운데 다투는 자가 있으면 이 문서로 관에 고하여 바로잡을 일. 물주(파는 사람) 돌아간 김몽득의 아내 소사(손마디 그림). 증인 ○○○. (판독 불확실 다수)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전란으로 떠돌다 남편을 잃고 양식이 끊어진 여인이 아이 한 명을 값을 받고 영영 넘긴다는 매매 계약서로 보입니다(판독 불확실)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1593.4777-20101008.B021a_033_00241_001"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 246
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016798%5EL016798F02%5EL016798F0202&dataId=G002%2BAKS%2BKSM-XB.1593.4777-20101008.B021a_033_00241_001&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yongsan/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 956
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1808년 자매비(自賣婢) 월섬(月暹) 소지(所志) (1808)"
+    ]
+   },
+   "width": 1400,
+   "height": 959,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1808"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "嘉慶十三年戊辰十二月二十五日 李生員宅戶奴庚戌前明文 / 右明文爲 矣女 本以平海之人 貧窮無依 … 與七十歲病母 流離丐乞是如可 … 依爲父母自賣之法典 不得已以生母之爲 受價二十兩後 自請鬻賣於右人上典宅是遣 … / 自賣婢 月暹"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "가경 13년 무진(1808) 12월 25일, 이생원 댁 호노 경술에게 [써 주는] 명문. 이 명문을 만드는 일은, 저는 본디 평해 사람으로 가난하고 의지할 데가 없어 [한곳에] 편히 붙어살지 못하고, 일흔 살 병든 어머니와 함께 떠돌며 빌어먹다가 올해 2월 무렵 이 마을에 들어왔습니다. 어머니의 늙은 병은 장차 고치기 어려운 지경에 이르렀고, 저는 세 자녀를 지킬 길이 없으며, 다른 고을을 떠도는 처지라 다른 친족도 없고 형제자매도 없으니, 제 한 몸으로는 아무 방도가 없습니다. 그래서 부모를 위해 스스로를 파는 법전의 규정에 따라, 부득이 낳아 준 어머니의 [목숨을] 위하여 값 20냥을 받은 뒤 스스로 청하여 위 사람의 상전 댁에 몸을 팝니다. 제 자녀 또한 제 어머니의 자손이니, 저의 첫째 아들 흥손(경신년생), 둘째 딸 월아(을축년생), 셋째 아들 ○(정묘년생, 세 살)과 뒤에 낳을 자식까지 모두 영영 [상전을] 받들어 부린다는 뜻으로 이와 같이 문서를 만들고, 관에 올려 입지(立旨)를 받아 함께 바치니, 뒷날 자손이나 친족 가운데 딴말하는 자가 있으면 이 문서를 가지고 관에 고하여 바로잡을 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "평해 출신 여인 월섬이 일흔 살 병든 어머니와 떠돌다, 어머니를 살리려고 20냥을 받고 자신과 세 자녀, 앞으로 낳을 자식까지 이생원 댁 노비로 판다는 자매문기입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1808.4777-20101008.B021a_033_00267_003"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 247
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016798%5EL016798F02%5EL016798F0202&dataId=G002%2BAKS%2BKSM-XB.1808.4777-20101008.B021a_033_00267_003&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yongsan/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 959
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.44 \"파는 이도 자손, 사는 이도 자손\" — 고려 충신을 모신 덕남서원"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "공동의 재산을 지키는 일은 집안 안에서도 쉽지 않았다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.44"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "밀양 덕남서원"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/deoknam/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/deoknam/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 251
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1834년 경상도(慶尙道) 유생(儒生) 계초(啓草) (1834)"
+    ]
+   },
+   "width": 1400,
+   "height": 977,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1834"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "계초"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "慶尙道內儒生 臣□□等 / 右謹啓 臣矣段 臣等 伏以旌表忠烈 國朝之彝典 闡揚幽懿 士林之公議 是白齊 … 前朝烈臣 克加襃尙之典 … 文忠公鄭夢周以下諸賢 並蒙襃尙之典 … 臣朴翊 學於道學之源 而達於忠孝之□ …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "경상도 안의 유생 생원 신 ○○ 등이 삼가 아룁니다. 엎드려 생각건대, 충렬을 정표하는 것은 나라의 떳떳한 법이요, 그윽이 숨은 아름다움을 드러내 밝히는 것은 사림의 공론입니다. 삼대(하·은·주)의 성대한 때부터 무릇 절의가 높고 충렬이 뛰어난 이는 반드시 역사에 쓰고 솥에 새겨 한 시대를 비추고 천고에 빛나게 하였으니, 이는 그 사람만을 위한 것이 아니라 후세를 권면하려는 것입니다. 삼가 생각건대 우리 성조(태조)께서 천명을 받아 나라를 세우시고 충신을 드러내고 어진 이를 이루실 때 반드시 먼저 고려의 열신에게 기리는 은전을 더하시어 표창의 뜻을 크게 보이셨으니, 고려의 충신 문충공 정몽주 이하 여러 현인이 모두 기리는 은전을 입어, 혹은 벼슬을 내려 드러내고, 혹은 은혜를 베풀어 표창하고, 혹은 사당과 서원에서 제사하고, 정려문을 세워 정표하여 극진하지 않음이 없었습니다. 이때 고려의 좌찬성 신 박익이 있었는데, 도학의 근원에서 배워 충효의 … 에 이르렀으니 … (이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "충신을 기리는 것은 나라의 법이고, 태조도 고려 충신 정몽주 등을 높였으니, 같은 고려의 충신 박익에게도 은전을 내려 달라는 경상도 유생들의 청원 초안입니다(앞부분만 판독)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1834.0000-20101008.B051b_076_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 251
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024808%5EL024808F02%5EL024808F0202&dataId=G002%2BAKS%2BKSM-XB.1834.0000-20101008.B051b_076_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/deoknam/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 977
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1868년 박시묵(朴時黙) 등 소지(所志) (1868)"
+    ]
+   },
+   "width": 899,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1868"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "淸道幼學 朴時默 朴政德 朴廷龍 / 謹伏言 德南書院 卽先祖松隱先生三父子安靈之所也 … 居近子孫 托以院用 院門外尺寸地 案山松 自與人賣之者 子孫也 買之亦者 亦子孫也 … 均是子孫之地 寧不寒心哉 / 特下處分事 / 城主 處分 / 戊辰三月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "청도의 유학 박시묵·박정덕·박정룡. 삼가 엎드려 아룁니다. 덕남서원은 곧 저희 선조 송은 선생 삼부자의 영혼을 모신 곳입니다. 사림도 받들어 지켜 왔는데 … 가까이 사는 자손이 서원에 쓴다는 핑계로 서원 문 밖의 한 자 한 치 땅과 앞산(案山)의 소나무를 스스로 남에게 팔았으니, 판 사람도 자손이요, 산 사람도 자손입니다. … 미루고 물러나 한결같이 붙들고 있으니, 똑같이 자손 된 처지에서 어찌 마음이 서늘하지 않겠습니까. 특별히 처분을 내려 주십시오. 사또께서 처분하실 일. 무진년(1868) 3월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "선조 송은 박익 삼부자를 모신 덕남서원의 문 앞 땅과 앞산 소나무를, 가까이 사는 후손이 서원 비용을 핑계로 팔아 버렸다. 판 사람도 산 사람도 같은 자손이니 한심하다며 바로잡아 달라는 후손들의 청원입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1868.4827-20101008.B051b_076_00003_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 231,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024808%5EL024808F02%5EL024808F0202&dataId=G002%2BAKS%2BKSM-XB.1868.4827-20101008.B051b_076_00003_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/deoknam/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 899,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

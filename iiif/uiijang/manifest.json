@@ -1,0 +1,860 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.31 \"전마 한 필을 내린다\" — 임진왜란 장수 박의장의 문서들"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "전쟁의 기록에는 장수의 공과 함께 이름 없는 사람의 선행도 있었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.31"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "영덕 도곡 무안박씨 무의공 박의장 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/uiijang/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/uiijang/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 328,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1577년 박의장(朴毅長) 무과 홍패(武科紅牌) (1577)"
+    ]
+   },
+   "width": 1274,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1577"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "[敎]旨 / 校生朴毅長武科丙科第十八(?)□出身者 / 萬曆五年十月初六日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 교생(향교 학생) 박의장을 무과 병과 제18(?)인으로 급제하여 출신(出身)한 사람으로 삼는다. 만력 5년(1577) 10월 6일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "향교 학생 박의장이 23세에 무과 병과로 급제했음을 증명하는 홍패입니다. 순위 부분은 훼손되어 '十八'로 일부만 읽힙니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1577.1111-20101008.B057a_082_00006_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 328,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016759%5EL016759F02%5EL016759F0201&dataId=G002%2BAKS%2BKSM-XA.1577.1111-20101008.B057a_082_00006_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1274,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1593년 호노(戶奴) 윤보기(允卜只) 소지(所志) (1593)"
+    ]
+   },
+   "width": 1007,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1593"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "前縣監朴世廉戶奴允卜只 / 右謹陳爲白內等 … 年二十三歲人吉叱山稱名人及年十六七歲量女人今粉稱名人等亦 累日飢餓 … 將絶命在頃刻 … 上道亂離中流來之人以 … 救治使喚計料 … 事目立案成給爲白只爲 / 萬曆二十一年四月 日所志"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전 현감 박세렴 댁 호노(戶奴) 윤복지가 아룁니다. 삼가 진술하옵는 일은, 제가 부(府) 안 잉량리 앞 강가에서 나이 스물셋쯤 되는 길산(吉叱山)이라는 사람과 열예닐곱 살쯤 되는 여인 금분(今粉)이라는 사람들이 여러 날 굶주려 말도 하지 못하고 목숨이 곧 끊어지려 하기에, 그 내력을 물으니 [말씨로 보아] 떠돌이로, 대개 윗지방(上道)에서 난리 중에 흘러온 사람들이었습니다. 땅에 쓰러져 죽게 된 것이 매우 가엾어서 구해 살려 부리려 하오니, [죽게 되었던 사정의] 진위는 … 살펴 사목(事目)에 따라 입안(立案)을 만들어 주시도록 처분해 주십시오. 사또께서 처분하실 일. 만력 21년(1593) 4월 일 소지."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강가에서 여러 날 굶어 말도 못 하고 죽어 가던 23세 남자 길산과 16~17세 여인 금분을 발견해 물어보니 전쟁 난리에 윗지방에서 떠내려온 피란민이었다. 구해 살려 부리고자 하니 규정에 따라 입안을 발급해 달라는 내용입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1593.4777-20101008.B057a_082_00172_001"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 259,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016759%5EL016759F02%5EL016759F0202&dataId=G002%2BAKS%2BKSM-XB.1593.4777-20101008.B057a_082_00172_001&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1007,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1598년 박의장(朴毅長) 유지(有旨) (1598)"
+    ]
+   },
+   "width": 1400,
+   "height": 957,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1598"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "慶州府尹朴 開拆 / 都承旨申(押) / 今觀總管使柳永慶書狀 … 卿竭心盡力 措備粮餉 至於七百餘石之多 至爲可嘉 茲以別賜戰馬一匹 以示褒奬之意 … 有旨 / 萬曆二十六年五月十六日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "경주부윤 박[의장]이 열어 볼 것. 도승지 신(申)이 씀. 이제 총관사 유영경의 서장(보고서)을 보니 이러하다. 군사를 일으켜 [군량이] 몹시 어려운 때에 경이 마음과 힘을 다해 군량을 마련한 것이 700여 석에 이르니 매우 가상하다. 이에 특별히 전마(戰馬) 한 필을 내려 칭찬하고 장려하는 뜻을 보이니, 경은 이를 알고 받으라는 유지. 만력 26년(1598) 5월 16일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "군량이 몹시 어려운 때 경주부윤 박의장이 700여 석을 마련했으니 가상하다며, 임금이 특별히 전마 한 필을 내려 칭찬한다는 명령서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1598.1111-20101008.B057a_082_00003_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 246
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016759%5EL016759F02%5EL016759F0201&dataId=G002%2BAKS%2BKSM-XA.1598.1111-20101008.B057a_082_00003_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 957
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1600년 박의장(朴毅長) 유지(有旨) (1610)"
+    ]
+   },
+   "width": 1400,
+   "height": 1060,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1610"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "行副護軍朴 開拆 / 左副承旨李(押) / 武臣堂上以上在外者 當爲召聚都下 卿以秩高武弁 不可退在外方 斯速上來事 有旨 / 萬曆三十八年閏三月初二日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "행 부호군 박[의장]이 열어 볼 것. 좌부승지 이(李)가 씀. 당상관 이상의 무신으로 지방에 있는 사람은 마땅히 도성으로 불러 모아야 한다. 경은 품계가 높은 무관이니 지방에 물러나 있어서는 안 된다. 서둘러 올라오라는 유지. 만력 38년(1610) 윤3월 2일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "당상관 이상 무신은 모두 서울로 불러 모으는데, 경은 품계 높은 무관이니 지방에 물러나 있지 말고 속히 올라오라는 명령입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1600.1111-20101008.B057a_082_00004_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 273
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016759%5EL016759F02%5EL016759F0201&dataId=G002%2BAKS%2BKSM-XA.1600.1111-20101008.B057a_082_00004_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1060
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1612년 박의장(朴毅長) 유서(諭書) (1612)"
+    ]
+   },
+   "width": 1400,
+   "height": 942,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1612"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "諭行公洪道水軍節度使朴毅長 / 卿受委一方 體任非輕 凡發兵應機 安民制敵 一應常事 自有舊章 惟式有予與卿獨斷處 … 可施爲 且慮外姦 可不預防 如有非常 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "행 공홍도 수군절도사 박의장에게 내리는 글. 경은 한 지방을 맡았으니 그 소임이 가볍지 않다. 무릇 군사를 일으켜 기회에 대응하고 백성을 편안히 하며 적을 제압하는 모든 일상적인 일은 이미 옛 규정이 있다. 다만 나와 경만이 홀로 결단할 일이 있으면 [밀부를 맞추어야] 시행할 수 있다. 또 바깥의 간사한 자를 염려하지 않을 수 있겠는가. 만일 비상한 [명령이] 있으면 … (이하 훼손)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "한 지방의 수군을 맡은 소임이 무거우니, 일상적인 군무는 규정대로 하되 임금과 장수만이 결단할 비상한 일은 밀부를 맞춘 뒤에 시행하고, 간사한 자의 속임수를 미리 막으라는 당부입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1612.1111-20101008.B057a_082_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 242
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016759%5EL016759F02%5EL016759F0201&dataId=G002%2BAKS%2BKSM-XA.1612.1111-20101008.B057a_082_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/uiijang/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 942
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

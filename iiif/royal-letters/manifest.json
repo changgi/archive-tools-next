@@ -1,0 +1,1126 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.7 왕실 가족의 편지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "임금도 누군가의 손자이자 아버지였다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.7"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "오죽헌·시립박물관"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/royal-letters/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/royal-letters/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 241
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1665년 현종이 할머니 장렬왕후에게 보낸 편지 (1665)"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1665"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(겉) 顯宗大王御筆 / 大王大妃殿 進上 / 二十六日 … / (본문) … 수월 이십뉵일 … 경광을 쳠안ᄒᆞᄋᆞᆸᄂᆞᆫ 듯 … (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(후대 표기) 현종대왕 어필. (겉) 신(臣)이 삼가 봉함. 대왕대비전께 올림. 26일 유시 초. (본문) 4월 26일 … (대왕대비전의) 글월이 오거늘 서둘러 받아 봉한 것을 공경히 열어 보고 … 밝은 얼굴을 우러러 뵙는 듯 끝없이 … (옛 한글 — 일부 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'4월 26일 (대왕대비전의) 글월이 오니 서둘러 공손히 받아 봉한 것을 열어 읽고, 마치 밝은 얼굴을 우러러 뵙는 듯 (기쁨이) 끝이 없습니다'라는 뜻으로 보입니다. 겉에 '臣謹封(신하가 삼가 봉함)'이라 써서, 임금이 할머니께 신하의 예로 편지를 올렸음을 보여 줍니다(판독 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.1665.0000-20140430.B0002_01"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0378%5EL037801%5EL037801F02%5EL037801F0206&dataId=G002%2BLET%2BKSM-XF.1665.0000-20140430.B0002_01&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "현종이 할머니 장렬왕후에게 보낸 편지－1"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(겉) 大王大妃殿 進上 / 溫陽溫泉 / (본문) … 신은 멀니 나와 … 날포 되오니 하졍이 그지업ᄉᆞᆸ고 … 강령ᄒᆞᄋᆞᆸ신 … 축슈ᄒᆞᄋᆞᆸ… (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "신이 삼가 봉함. 대왕대비전께 올림. 온양 온천. (본문) … 신은 멀리 나와 머문 지 여러 날이 되니 그리운 마음이 그지없사오며, 신이 … 하옵기는 자전(대왕대비)께서 강녕하시다는 문안을 알고 … 축원하옵니다 … (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'신(臣)은 멀리 나와 여러 날이 되니 그리운 마음이 그지없다'며 할머니의 건강을 여쭙고, 평안하시다는 소식에 기뻐하는 내용으로 보입니다. 임금이 스스로를 '신'이라 낮추어 쓴 점이 눈에 띕니다(판독 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.0000.0000-20140430.B0002_02"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0378%5EL037801%5EL037801F02%5EL037801F0206&dataId=G002%2BLET%2BKSM-XF.0000.0000-20140430.B0002_02&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "현종이 딸 명안공주에게 보낸 편지－1"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(겉) 明安公主 / (본문) 됴히 잇ᄂᆞ냐 너ᄂᆞᆫ 오ᄂᆞᆯ 가 보려 ᄒᆞ엿더니 몸 거북ᄒᆞ다 ᄒᆞ니 섭섭ᄒᆞ기 그지업ᄉᆞ며 … 아ᄆᆞ리 말고 됴히 잇거라 (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(겉) 명안공주. (본문) 잘 있느냐. 너는 오늘 가 보려 하였더니 몸이 거북하다 하니 섭섭하기 그지없으며 … 아무 걱정 말고 잘 있거라. (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'잘 있느냐. 오늘 가서 보려 했더니 몸이 거북하다 하니 섭섭하기 그지없다… 아무 걱정 말고 잘 있거라'라는 뜻으로, 딸의 건강을 걱정하는 아버지의 마음이 담겨 있습니다(판독 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.0000.0000-20140430.B0002_05"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0378%5EL037801%5EL037801F02%5EL037801F0206&dataId=G002%2BLET%2BKSM-XF.0000.0000-20140430.B0002_05&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "현종이 딸 명안공주에게 보낸 편지－3"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "寄明安公主 / 새집의 가셔 밤ᄉᆞ이 ᄌᆞᆷ이나 됴히 잔다 그리 덧업시 내여 보내고 섭섭 무료ᄒᆞ기 그지업서 ᄒᆞ노라 … (꽃 그림) (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "명안공주에게 부침. 새 집에 가서 밤에 잠이나 잘 잤느냐. (어제는) 그리 덧없이 내보내고 섭섭하고 허전하기 그지없구나. 너도 우리를 생각하느냐. 이 병풍은 오늘 보내마 하여 … 마련해 두었던 것이 있으매 보내니 … 날이 몹시 추우니 몸 잘 조리하여 … 밤에는 … 잘 먹어라. (꽃 그림) (옛 한글 — 일부 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'새 집에 가서 밤에 잠이나 잘 잤느냐. (어제) 그렇게 덧없이 내보내고 섭섭하고 허전하기 그지없구나. 너도 우리를 생각하느냐. 이 병풍은 오늘 보내마 했던 것인데 … 이제야 보낸다. 날이 몹시 추우니 몸 잘 조리하고 … 잘 먹어라'라는 내용으로 보입니다. 집을 떠난 딸에게 병풍을 보내며 건강을 당부하는 아버지의 편지에 꽃 그림까지 곁들였습니다(판독 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.0000.0000-20140430.B0002_07"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0378%5EL037801%5EL037801F02%5EL037801F0206&dataId=G002%2BLET%2BKSM-XF.0000.0000-20140430.B0002_07&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "명성왕후가 딸 명안공주에게 보낸 편지－1"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(오른쪽) 明聖王后御筆 / (본문 — 작은 글씨, 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(후대 표기) 명성왕후 어필. (본문 — 작은 글씨, 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "어머니가 딸에게 안부를 묻고 당부를 전하는 편지로, 종이 가운데에 작은 글씨로 빼곡히 적었습니다. 구체적인 내용은 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.0000.0000-20140430.B0002_08"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0378%5EL037801%5EL037801F02%5EL037801F0206&dataId=G002%2BLET%2BKSM-XF.0000.0000-20140430.B0002_08&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "명성왕후가 딸 명안공주에게 보낸 편지－3"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(본문 — 작은 글씨, 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "짧은 분량의 안부 편지로 보이며, 구체적인 내용은 원문 판독이 필요합니다. 아버지 현종과 어머니 명성왕후가 같은 딸에게 각각 쓴 편지가 함께 전한다는 점이 이 컬렉션의 특징입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.0000.0000-20140430.B0002_10"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0378%5EL037801%5EL037801F02%5EL037801F0206&dataId=G002%2BLET%2BKSM-XF.0000.0000-20140430.B0002_10&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/7",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "숙종이 모후 명성왕후에게 보낸 편지"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(오른쪽) 肅宗大王御筆 / (겉) 明安公主房 / (본문) 밤ᄉᆞ이 평안ᄒᆞ옵시니잇가 나가올 제 니일 드러오옵쇼셔 ᄒᆞ엿ᄉᆞᆸ더니 ᄒᆡ챵위를 만나 … 아므리 섭섭ᄒᆞ옵셔도 니일 브ᄃᆡ 드러오옵쇼셔 (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(후대 표기) 숙종대왕 어필. (겉) 명안공주방. 밤사이 평안하옵십니까. 나가실 때 '내일 들어오십시오' 하였더니, 해창위(명안공주의 남편)를 만나서 … 나가시옵니까. 아무리 섭섭하셔도 내일 부디 들어오십시오. (옛 한글 — 일부 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'밤사이 평안하셨습니까. 나가실 때 내일 들어오시라 했는데, 해창위(명안공주의 남편 오태주)를 만나… 아무리 섭섭하셔도 내일 부디 들어오십시오'라는 뜻으로 보입니다. 임금이 누나에게 궁에 다시 들어오라고 간곡히 청하는 다정한 편지입니다(판독·해석 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.0000.0000-20140430.B0002_12"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/thumb/07.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=03%5E0378%5EL037801%5EL037801F02%5EL037801F0206&dataId=G002%2BLET%2BKSM-XF.0000.0000-20140430.B0002_12&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/canvas/7",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

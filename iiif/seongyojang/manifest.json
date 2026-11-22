@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.27 계약서로 쌓은 집, 강릉 선교장 300년"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "큰 집안의 부는 수백 장의 계약서로 쌓였고, 시대마다 계약의 언어가 바뀌었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.27"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "강릉 전주이씨 선교장 효령대군 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/seongyojang/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/seongyojang/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 249,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "매도계약서(賣渡契約書) (1959)"
+    ]
+   },
+   "width": 968,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1959"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "매도계약서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "賣渡契約書 / 不動産의表示 江陵市雲亭里(?) 四一의二番地 … / 賣渡代金八拾萬圜整 / 賣主 李○儀 … 甲 買主 … 乙 … / 一 右記賣渡代金中拾萬圜整은手附金으로 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "매도 계약서. 부동산의 표시 — 강릉시 운정리(?) 41의 2번지, 논 6,315평 가운데 약 2,500평(조산 남쪽). 매도 대금 80만 환. 위 토지 매매에 대하여 판 사람 이○의(?)를 갑, 산 사람 권○○(?)을 을로 하여 아래 계약을 맺음. 아래. 하나, 매도 대금 가운데 10만 환은 계약금으로 갑이 오늘 받고, 나머지 70만 환은 오는 4월 15일 안에 틀림없이 치르기로 함. 하나, 이 계약은 갑이 어기는 때에는 계약금의 두 배를 … (이하 다음 장)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "선교장 집안이 강릉 운정리(?)의 논 약 2,500평을 80만 환에 팔면서, 계약금 10만 환과 잔금 70만 환의 지급 조건을 적은 현대식 매도 계약서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1959.4215-20250324.C1005_129_00701_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 249,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0171%5EL017101%5EL017101F02%5EL017101F0205&dataId=G002%2BAKS%2BKSM-XE.1959.4215-20250324.C1005_129_00701_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 968,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "명문(明文)－001 (1607)"
+    ]
+   },
+   "width": 1034,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1607"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "명문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "萬曆三十五年丁未九月二十日私奴雲成(?)處明文 / 右明文爲臥乎事段 矣身貧寒所致 … 價木八疋 … 永永放賣 / 畓主 寺奴 渾年 / 證人 私奴 古邑金 / 筆執 啓功郞 河應淸"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "만력 35년 정미(1607) 9월 20일, 사노 운성(?) 앞으로 써 주는 매매 문서. 이 문서를 만드는 까닭은, 제가 가난하고 추운 탓에 … 박구(?)리에 있는 서쪽 ○두락 9부 3속짜리 논을, 값으로 무명 8필, 벼 6섬, 면포 6필 등의 물건을 그 수대로 받고, 본래 문서까지 함께 영원히 판다. 자손에게 전해 길이 갈아먹되, 뒷날 제 자손이나 친족이 다투는 말을 하거든 이 문서를 가지고 관에 고하여 바로잡을 일이다. 논 주인 시노(관청 노비) 혼년(왼손 마디 그림), 증인 사노 고읍금(왼손 마디 그림), 쓴 사람 계공랑 하응청(서명)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "가난한 관노 혼년이 논 9부 3속을 무명 8필, 벼 6섬, 면포 6필에 영원히 판 계약서입니다. 글을 몰랐던 판 사람과 증인은 손마디를 그려 서명했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1607.4215-20250324.C1005_129_00221_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 266,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0171%5EL017101%5EL017101F02%5EL017101F0205&dataId=G002%2BAKS%2BKSM-XE.1607.4215-20250324.C1005_129_00221_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1034,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "저당권일부포기증서(抵當權一部抛棄證書) (1938)"
+    ]
+   },
+   "width": 1400,
+   "height": 977,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1938"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "저당권일부포기증서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "抵當權一部抛棄證書 / 昭和拾貳年貳月八日受附第壹〇貳號ヲ以テ登記ニ係ル抵當物件中左記不動産ニ對スル抵當權ヲ抛棄候也 / 昭和拾參年壹月貳拾八日 / 抵當權者 株式會社朝鮮殖産銀行 / 李慶儀 殿"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "저당권 일부 포기 증서. 쇼와 12년(1937) 2월 8일 접수 제102호로 등기된 저당물 가운데, 아래 적은 부동산에 대한 저당권을 포기합니다. 쇼와 13년(1938) 1월 28일. 경성부 남대문통 2정목 111번지의 1, 저당권자 주식회사 조선식산은행. 강원도 강릉군 강릉읍 본정 8번지, 강릉지점 지배인 히라노이 기스케(?). 이경의 님께. 부동산의 표시 — 강릉군 강릉읍 교백(?)리 161번지 논 1,094평(?), 강릉군 사천면 사천리(?) 53번지 논 826평(?). (도장) 등기 완료, 쇼와 13년 2월 1일, 강릉등기소."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "선교장이 조선식산은행에 맡긴 땅 가운데 논 두 필지의 저당을 은행이 풀어 준 증서입니다. 땅 문서가 손글씨 명문에서 은행·등기소의 인쇄 서식으로 바뀌었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1937.4215-20250324.C1005_129_00214_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 251
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0171%5EL017101%5EL017101F02%5EL017101F0204&dataId=G002%2BAKS%2BKSM-XD.1937.4215-20250324.C1005_129_00214_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 977
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "차용증(借用證)－1 (1906)"
+    ]
+   },
+   "width": 1400,
+   "height": 693,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1906"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "차용증"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "借用證 / 一金七千五百參拾五元(?)也 / 右金은確實히借用흠으로 … / 一 利子는每朔每円에壹分式 / 一 江陵所在田畓貳千石秋收文券을典執 … / 丙午九月初□日 / 債務人 李根宇 / 金奎燮(?) 前"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "차용증. 일금 7,535원(?) 2전(?). 위 돈을 확실히 빌렸으므로 아래 조항을 이행할 일. 아래. 하나, 이자는 매달 1원에 1푼씩(?)이며, 하나, 갚을 기한은 ○년 ○월로 정하되, 어기면 저당물로 처리할 일. 하나, 강릉에 있는 논밭 2,000석 추수분의 문권(땅 문서)을 저당으로 잡히되, 먼저 갚으면 얼마라도 돌려보낼 것. 병오년(1906?) 9월 초○일. 채무인 이근우(도장). 김규섭(?) 앞."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "선교장의 이근우가 7천여 원을 빌리며, 매달 이자를 내고 기한을 어기면 강릉의 논밭(한 해 2,000석 수확) 문서를 넘기겠다고 약속한 차용증입니다. X 표시로 보아 갚은 뒤 무효 처리되었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1916.4215-20250324.C1005_129_00212_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 178
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0171%5EL017101%5EL017101F02%5EL017101F0204&dataId=G002%2BAKS%2BKSM-XD.1916.4215-20250324.C1005_129_00212_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 693
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

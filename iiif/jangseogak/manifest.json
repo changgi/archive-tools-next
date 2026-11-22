@@ -1,0 +1,860 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.132 \"금을 연잉군으로 삼는다\" — 왕이 되기 전의 영조가 받은 종이들"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "임금도 처음엔 이름 한 글자로 불린 아이였다 — 받던 사람이 주는 사람이 되기까지, 종이가 그 시간을 남겼다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.132"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 장서각"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jangseogak/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jangseogak/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 248,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1699년 연잉군(延礽君) 이금(李昑) 봉작 고신(告身) (1699)"
+    ]
+   },
+   "width": 965,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1699"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 昑爲延礽君者 康熙□(三)十八年十二月二十四日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 금(昑)을 연잉군으로 삼는다. 강희 38년(1699) 12월 24일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1699년 여섯 살 왕자 이금을 연잉군으로 봉한 교지로, 훗날의 영조입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1699.1111-20101008.B009a_010_00065_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 248,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=04%5E0401%5EL040101%5EL040101F02%5EL040101F0201&dataId=G002%2BAKS%2BKSM-XA.1699.1111-20101008.B009a_010_00065_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 965,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1712년 연잉군 이금(李昑) 오위도총부 도총관 고신(告身) (1712)"
+    ]
+   },
+   "width": 950,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1712"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 昑爲兼五衛都摠府都摠管者 康熙五十一年二月二十七日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 금을 겸 오위도총부 도총관으로 삼는다. 강희 51년(1712) 2월 27일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1712년 열아홉 살 연잉군 이금을 겸 오위도총부 도총관으로 삼은 교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1712.1111-20101008.B009a_010_00066_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 244,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=04%5E0401%5EL040101%5EL040101F02%5EL040101F0201&dataId=G002%2BAKS%2BKSM-XA.1712.1111-20101008.B009a_010_00066_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 950,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1715년 연잉군 이금(李昑) 오위도총부 도총관 고신(告身) (1715)"
+    ]
+   },
+   "width": 971,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1715"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 昑爲兼五衛都摠府都摠管者 康熙五十四年十二月二十六日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 금을 겸 오위도총부 도총관으로 삼는다. 강희 54년(1715) 12월 26일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1715년 연잉군을 다시 겸 오위도총부 도총관으로 삼은 교지로, 1712년부터 해마다 같은 교지가 이어집니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1715.1111-20101008.B009a_010_00070_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 250,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=04%5E0401%5EL040101%5EL040101F02%5EL040101F0201&dataId=G002%2BAKS%2BKSM-XA.1715.1111-20101008.B009a_010_00070_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 971,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1717년 연잉군(延礽君) 노비사패교지(奴婢賜牌敎旨) (1717)"
+    ]
+   },
+   "width": 980,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1717"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "노비사패교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 惟延礽君昑 賜牌 將燕岐官奴加之年四十五 春川官奴楚先年三十九 麟蹄官奴龍錫年十七 果川官奴守奉年三十一 安岳官婢順禮年三十五 密陽官婢玉娟年三十七 靈光官婢柳枝年三十七 安東官婢適仙年三十三 長城官婢玉娘年三十五 茂朱官婢次節年三十二 襄陽官婢適暹年二十九 黃州官 … (뒤 장은 이번에 받지 않음)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 연잉군 금에게 사패하여, 연기 관노 가지(45세), 춘천 관노 초선(39세), 인제 관노 용석(17세), 과천 관노 수봉(31세), 안악 관비 순례(35세), 밀양 관비 옥연(37세), 영광 관비 유지(37세), 안동 관비 적선(33세), 장성 관비 옥낭(35세), 무주 관비 차절(32세), 양양 관비 적섬(29세), 황주 관… (뒤 이어짐)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "연잉군 이금에게 전국 고을의 관노비를 이름과 나이까지 적어 내려 준 노비사패교지입니다(자료관 목록 1717년, 앞 두 장)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1717.1111-20101008.B009a_010_00063_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 252,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=04%5E0401%5EL040101%5EL040101F02%5EL040101F0201&dataId=G002%2BAKS%2BKSM-XA.1717.1111-20101008.B009a_010_00063_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 980,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1727년 영조(英祖) 왕세자관례교서(王世子冠禮敎書) (1727)"
+    ]
+   },
+   "width": 1400,
+   "height": 963,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1727"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "왕세자관례교서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "王世子冠禮敎書 王若曰 敎王世子緈 吉日元服 率由舊章 命議政府左議政趙泰億 就宮展禮 予惟古者聖王重冠 冠而后服備 服備而后體正 三加彌尊 加有成也 已冠而字 成人道也 成人之者 責成人禮也 衆庶尙然 況在君嗣主鬯承祧 其禮可不重歟 咨爾世子緈 資性宏遠 氣宇莊重 孩提之年 德器已成 爰正儲位 夙係民望 謁廟齒學 動中乎禮 則發言處事 恒出於意表 左右承奉 仁孝愈著 朝夕講誦 溫文日就 肆予嘉悅無極 期望彌至 爰擧嘉事 載加元服 載申載咸 醴焉字焉 責爾成人 其自今始 爾尙夙夜祗愼 無違予訓 夫成人之道 孝悌忠順 禮所云四行 是已 爾常愛予敬予 思盡爾心 擴充此心 孝與忠不可勝用 爾常愛爾同氣 擴充此心 悌不可 勝用 … (뒤 장은 이번에 받지 않음)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "왕세자 관례 교서. 왕은 이르노라. 왕세자 행(緈)에게 가르친다. 좋은 날에 관을 씌우되 옛 법을 따라, 의정부 좌의정 조태억에게 명해 궁에 나아가 예를 펴게 하였다. 내가 생각하건대, 옛 성왕은 관례를 중히 여겼다. 관을 쓴 뒤에야 옷이 갖추어지고, 옷이 갖추어진 뒤에야 몸가짐이 바르게 되며, 세 번 관을 더할수록 더욱 높아지니 더한다는 것은 이룬다는 뜻이다. 관을 쓰고 자(字)를 짓는 것은 어른이 되는 길이니, 어른으로 대한다는 것은 어른의 예를 요구한다는 것이다. 백성도 그러한데 하물며 임금의 뒤를 이어 제사를 받들 사람이랴, 그 예를 어찌 중히 여기지 않겠는가. 아, 세자 행아. 너는 타고난 바탕이 넓고 깊으며 기상이 의젓하여, 어린 나이에 이미 덕과 그릇이 이루어졌다. 이에 세자의 자리를 바로 하니 일찍부터 백성의 바람이 너에게 매였다. 종묘에 뵙고 학교에 들어가는 데 움직임이 예에 맞았고, 말하고 일을 처리함이 늘 뜻밖으로 뛰어났다. 곁에서 받들 때 어짊과 효성이 더욱 드러나고, 아침저녁 강독하니 온화한 글이 날로 나아갔다. 그래서 나의 기쁨은 끝이 없고 바람은 더욱 크다. 이에 좋은 일을 일으켜 관을 씌우고, 거듭하고 모두 갖추어, 술을 내리고 자를 짓는다. 너에게 어른 됨을 요구하는 것은 지금부터 시작이니, 너는 부디 밤낮으로 공경하고 삼가 나의 가르침을 어기지 말라. 대저 어른의 도리는 효 · 제 · 충 · 순, 예에서 말하는 네 가지 행실이 바로 그것이다. 너는 늘 나를 사랑하고 나를 공경하니, 네 마음을 다하기를 생각하고 이 마음을 넓혀 가면 효와 충은 다 쓸 수 없을 만큼 될 것이다. 너는 늘 너의 형제를 사랑하니, 이 마음을 넓혀 가면 제(悌)도 다 쓸 수 없을 만큼 될 것이다. …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "왕이 된 영조가 아홉 살 세자 이행(효장세자)의 관례에 내려 어른 됨과 효제충순을 당부한 교서입니다(자료관 목록 1727년, 앞부분)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1727.1111-20101008.B009a_010_00004_002"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=04%5E0401%5EL040101%5EL040101F02%5EL040101F0201&dataId=G002%2BAKS%2BKSM-XA.1727.1111-20101008.B009a_010_00004_002&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 963
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

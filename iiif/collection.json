@@ -1,0 +1,3125 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+ "type": "Collection",
+ "label": {
+  "ko": [
+   "고문서 한 장 — 전체 편"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "편 172개 · 문서 624건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
+  ]
+ },
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.3 절을 짓고 다시 세운 기록"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/susanri-village/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.4 섬마을에 내려온 약속"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/susanri-village/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.5 서원을 지키고 꾸린 기록"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 303
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.6 왕비의 편지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/myeongseong-letters/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 134,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.7 왕실 가족의 편지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/royal-letters/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/unjoru/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.8 운조루의 시간"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/unjoru/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeongon/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.9 되찾은 제사 땅"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeongon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 327
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.10 섬마을의 호소"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 221
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hagari/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.11 윤음에서 금융조합까지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hagari/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yongmunsa/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.12 기도와 살림의 기록"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yongmunsa/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.13 200년의 상소"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deokcheon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 290
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yunjeung/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.14 나아가지 않은 선비"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yunjeung/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 321
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/byeongsan/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.15 서원을 움직인 사람들"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/byeongsan/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 285
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.16 학자의 벼슬길"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 349,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.17 임금이 부르고, 아들이 지킨 선비"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 288,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.18 \"경은 나를 버리고 쉬려는가\" — 전쟁의 재상 류성룡"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 250,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.19 공신의 교서에서 증손의 답안지까지 — 양동 경주손씨 170년"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 83
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.20 임청각, 귀거래의 집이 지켜 온 것"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 262,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.21 학봉 종가의 안채 — 혼서와 한글 편지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 318
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/segye/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.22 부름을 사양한 학자, 서계 박세당"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/segye/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 266
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/ubok/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.23 \"병이 나았다니, 서둘러 올라오라\" — 우복 종가 300년"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/ubok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 237
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.24 흉년에 판 밭, 전서로 쓴 혼서 — 이재 황윤석 집안"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 315
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.25 고을의 학교를 다시 세운 사람들 — 거창향교 300년"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 287
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/queen-min-letters-2/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.26 꽃 편지지에 쓴 왕비의 마지막 편지들"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/queen-min-letters-2/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 288,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.27 계약서로 쌓은 집, 강릉 선교장 300년"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 249,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeompiljae/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.28 무덤까지 화를 입은 스승, 그 뒤의 300년 — 점필재 김종직 종가"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeompiljae/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 159,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.29 \"상전께서 병이 깊어 올라가지 못합니다\" — 여헌 장현광과 종 애남"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 229,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.30 \"할아버지께 올립니다\" — 하회 소년의 경성 유학 엽서"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 313,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.31 \"전마 한 필을 내린다\" — 임진왜란 장수 박의장의 문서들"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/uiijang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 328,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.32 \"세 사람이 말하면 호랑이가 된다\" — 1805년 진주 사창 사건과 일흔 살 진사"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 257,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.33 \"짐의 가엾은 적자들이 칼날에 다치지 않게 하라\" — 수당 이남규의 문서"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 357
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.34 \"진상할 종이를 맡은 절\" — 고성 옥천사가 지킨 산"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 328
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.35 \"만 번 죽고 한 번 사는 바다의 여인\" — 제주 중엄리가 간직한 절목"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.36 \"얼음과 황벽나무 같은 마음\" — 병자호란에 쓰러진 장수 최진립"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 188,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hakju/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.37 64년 만에 돌아온 이름 — 학주 김홍욱과 손자 김흥경"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakju/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 184,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chutan/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.38 세자 호위에서 영의정까지 — 추탄 오윤겸의 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chutan/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 333
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.39 \"이미 술에 취하고 덕에 배불렀네\" — 동래정씨 종가의 시험지와 입양 증명"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 244,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sajedang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.40 일주일 뒤에 도착한 부름 — 남원 안터 순흥안씨의 교지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sajedang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 184,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changgye/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.41 \"약과 숯을 보내 내 마음을 보인다\" — 창계 임영과 숙종의 편지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changgye/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 154,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.42 \"사육신의 조카, 구동\" — 하위지 집안을 이은 한 소년의 소지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hawiji/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 240,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.43 \"기러기는 사람을 피하고 해오라기는 사람을 따른다\" — 단성향교와 장터"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 288,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.44 \"파는 이도 자손, 사는 이도 자손\" — 고려 충신을 모신 덕남서원"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/deoknam/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 251
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.45 \"일흔 살 병든 어머니와 떠돌다가\" — 굶주림이 남긴 두 장의 명문"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yongsan/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 246
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.46 \"큰물이 다 쓸어 갔습니다\" — 합천 용연서원의 논과 무덤"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 246,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.47 \"향안은 선배 어른들의 이름이다\" — 김해향교가 지킨 명부"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 244
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/bangeori/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.48 \"술은 석 잔까지\" — 경주 방어리 마을의 약속"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/bangeori/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 300
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheongju-museum/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.49 \"글월 보고 잘 있다니 기쁘다\" — 아버지 효종이 딸의 편지에 써 준 답장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheongju-museum/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 350
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.50 \"너희 놈이 공연히 내 집 땅을\" — 대사헌 송규렴의 한글 편지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeonggi-museum/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 255
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.51 \"경은 곧 일어나 조정에 나오라\" — 정홍순 집안의 세 대"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 191
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/bakdongryang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.52 \"병자호란에 잃은 교서를 다시 받다\" — 금계군 박동량의 호성공신교서"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/bakdongryang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 107
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.53 \"얼굴은 아낙처럼 여리고\" — 다시 그리고 또 그린 고려 사람의 초상"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongju-lee/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 220,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.54 \"피눈물로 써서 준다\" — 안산 진주류씨 경성당의 문서"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 174
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.55 \"문서를 잃어버렸으니 이 글로 증거하라\" — 김포 의령남씨의 호적과 수기"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 148,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.56 \"역참 사람들의 목숨이 경각에 달렸습니다\" — 찰방 임유후의 계초"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 249,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.57 \"귤이 늦어 죄를 기다립니다\" — 제주목사 정관휘와 양주 광주정씨"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 341,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jecheon-lee/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.58 \"서둘러 역마를 타고 올라오라\"를 세 번 — 이해조의 21년"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jecheon-lee/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 197,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/ochipung/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.59 붉은 종이 넷, 70년 — 안성 해주오씨 무과 집안"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/ochipung/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 258,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.60 \"며느리가 극진하다 하오니\" — 사돈이 보낸 한글 편지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seogok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 274
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.61 357년, 문과 홍패 다섯 장 — 남원 삭녕최씨"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 293,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.62 \"백성이 아전 얼굴을 보지 않았다\" — 금산군수 김홍원과 부안김씨"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 310,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.63 206년 동안 같은 문장 — 장흥임씨 집안의 혼서"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 238
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.64 \"술빚을 문중에 떠넘기다\" — 경주 소정 이씨들의 호소"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 247,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.65 \"늙고 병들어 뜰에 서지 못하오니\" — 전 승지 강석구의 산송"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 215
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/munyeonjae/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.66 \"이 산 한 자락을 둘째에게\" — 고령박씨 아버지들의 별급"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/munyeonjae/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 271,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.67 \"얼굴이 누렇게 부어 굶어 죽게 된 어머니와 두 딸\" — 1783년 경주의 소지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 283,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.68 '아이 신응망'에서 '돌아가신 장령 신응망의 처'까지 — 48년 사이의 두 소지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 235,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/obong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.69 \"횃불 든 도적을 잡았으니\" — 창원부사 신지제에게 내린 광해군의 교서"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/obong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 307
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.70 \"거두어 길러 모신 양자에게\" — 1480년 황씨 부인의 문서와 오천 군자리"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hujodang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 137
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.71 24년 걸린 붉은 종이 — 제산 김성탁의 백패와 홍패"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 240,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chungwongun/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.72 \"물고기가 그물을 빠져나갈까 분하여\" — 1728년 무신란과 양무공신 박동형"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chungwongun/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 245
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hambak-kim/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.73 일본에서 온 장수 '사여모' — 귀화인 가문의 교지 세 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hambak-kim/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 262,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seopa/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.74 알을 '알'이라 적은 사전 — 유희의 『물명고』"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seopa/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 291
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hogye/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.75 병자호란 10년 뒤의 합격증 — 진사 3등 제18인 신채"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hogye/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 246,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/wanseokjeong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.76 \"역마를 타고 올라오라\" — 인조반정 직후 성주 선비를 부른 두 장의 유지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wanseokjeong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 317,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.77 334년의 간격 — 성균관 임명장과 금융조합 빚 문서"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seokjeon-lee/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 246
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/galjeon/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.78 전쟁의 길목을 지킨 역참 관리 — 정유재란 속 성현도 찰방 안담수"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/galjeon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 260
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sagye-kang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.79 제주의 종이 신분증 — 아버지와 아들의 지패"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sagye-kang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 236,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/imcheon-jo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.80 굶주린 백성을 먹인 상으로 말 한 필, 그리고 비밀 병부 제34부"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/imcheon-jo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 276
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/nampyeong-mun/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.81 이름 칸이 비어 있는 임명장 — 1891년의 공명첩"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/nampyeong-mun/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 249
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.82 강화 협상의 사신, 다시 전쟁터로 — 황신의 1596·1597 교지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 257
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.83 험천에서 쓰러진 현감, 180년 뒤의 제문 — 충민공 김홍익"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 257
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.84 사또의 성적표 — 여덟 글자로 매긴 수령 평가 '포폄제목'"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 246,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hapcheon-hyanggyo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.85 \"1년 대신 반년씩\" — 향교 우두머리 자리를 나눠 맡자는 1904년의 약속"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hapcheon-hyanggyo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 242
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.86 사슴포 세 가닥, 붓 한 자루 — 경주부윤이 보낸 제사 장보기 목록"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheongnyeonam/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.87 1만 일의 약속 — 1919년 옥천사 청련암 만일계 장부"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheongnyeonam/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/utaeyoung/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.88 상하이에서 온 그림 소설 — 1913년 석인본 『수상 후삼국연의』"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/utaeyoung/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 285
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/musil/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.89 \"산꼭대기 덤불에 숨은 백성들\" — 1592년 안동 의병의 일지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/musil/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 262
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeju-go/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.90 황제가 기로소에 들던 날, 여든 살 백성들이 받은 품계"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeju-go/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 249
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/kkotnae/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.91 1945년 2월의 서원 제사 초대장 — 박만택 망기"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/kkotnae/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 235,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/obong-seowon/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.92 제사의 대본 — 오봉서원 묘소 홀기"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/obong-seowon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 238
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hakju2/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.93 '판임관 7등'에서 '주임관 4등'으로 — 대한제국 관고와 이완용의 서명"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakju2/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 231
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.94 문과 2등의 첫 자리는 '임금의 부엌' — 이하의 사옹원 직장 고신"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 256
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongryujeong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.95 스물여덟 살 '학생'에서 전쟁의 군량 관리로 — 이정회의 첫 고신과 1593년 교지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongryujeong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 261
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chimryujeong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.96 한밤중의 몰래 무덤 — 1799년 의령남씨 문중의 산송 등장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chimryujeong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 253,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sehyodang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.97 \"태수의 두 어버이도 이 자리에 계시다\" — 농암 이현보의 화산 양로연 시"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sehyodang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 302,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/siksan/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.98 류성룡의 증손녀와 혼인한 선비 — 1699년 이만부의 호적 증명서"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/siksan/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 196,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changju/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.99 \"기한이 지났는데도 무덤을 파 가지 않습니다\" — 1906년 국한문 소지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changju/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 247
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/damheon/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.100 \"장맛비 막 개고 녹음은 하늘 같은데\" — 1608년 열여섯 소년 하홍도의 편지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/damheon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 193
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.101 섬마을 훈장, 통정대부가 되다 — 제주 애월 강여규의 종이 세 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 343,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.102 \"많고 적음을 따지지 말라\" — 해남 김해김씨 아버지와 아들의 25년"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/haenam-kim/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 238
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.103 \"그때 우리 군사를 먹인 이는 안 의사 한 사람뿐\" — 무신란 27년 뒤, 속오군의 호소"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 247,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eunjin-im/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.104 \"어버이를 사랑함을 효라 한다\" — 세상을 떠난 지 300년, 갈천 임훈이 받은 이름"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eunjin-im/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 246
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-shin/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.105 짚신 1,000켤레와 소 한 마리 — 1894년 5월, 낙안군수 신병우의 단자"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-shin/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 249
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/unmun-ha/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.106 일흔두 살의 승진, 세 아내의 이름 — 1773년 하명상과 정부인 교지 세 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/unmun-ha/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 253
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/nogaje/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.107 자손이 오를 때마다 높아진 이름 — 노가재 김창업의 교지와 그 집의 「쥬식방문」"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/nogaje/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 251
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.108 \"이 아이가 자라 이것을 본다면\" — 유배지의 할아버지가 쓴 손자 육아 일기 「양아록」"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 258
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/geumsa/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.109 \"왕과 너만 아는 반쪽\" — 무과 452등 급제자가 수군절도사가 되어 받은 밀부 유서"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/geumsa/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 265
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonbokgun/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.110 \"그대를 천거합니다\" — 영주의 한 선비에게 날아든 망기 꾸러미"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonbokgun/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 228,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chungjae2/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.111 합격증 위에 붙은 1964년 1월 31일 — 닭실마을 권씨 집안의 백패와 홍패"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chungjae2/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 240,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheongeum/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.112 \"한 사람은 살고 한 사람은 죽었다\" — 김상용 · 김상헌 형제에게 내린 치제문"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheongeum/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.113 \"새로 만든 것 같구나\" — 배 가득 무기를 실어 보낸 제주목사, 그리고 열여섯 번째 밀부"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.114 \"세 살에 아비를 잃은 너를 보며\" — 할머니의 별급문기, 스물한 살의 답안지, 서른여섯의 합격증"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 259
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/wanyang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.115 \"많은 이가 나를 헌신짝처럼 버렸을 때\" — 피란길의 임금을 따른 이충원의 호성공신교서"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wanyang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 270
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gudang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.116 같은 날, 두 장의 합격증 — 부여 함양박씨 집안의 백패와 홍패"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gudang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 149,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.117 곤장을 쓰지 않은 군수, 마흔한 살의 답안지 — 청양 안동김씨 집안의 두 장면"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 140
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.118 \"기울던 나라를 바로 세운 공\" — 단종의 조카 정미수가 받은 사패교지, 그리고 연호 없는 합격증"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 299,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.119 \"억울함을 안고 땅에 들어가니\" — 사약을 받던 날 새벽, 왕손이 이불에 쓴 유서"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 111
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.120 서른넷과 서른일곱의 답안지 — 조선 마지막 과거 시대, 한 선비의 '三下'"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikgak/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 223,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.121 나라가 사라지기 하루 전의 임명장 — 건양 원년에서 융희 4년 8월까지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 276
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.122 \"끝까지 백성을 살리려 한 정성\" — 굶주린 해에 곡식을 모은 서천 군수와, 백 년 뒤의 홍패"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 280,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-yj/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.123 \"급제한 지 60년\" — 제주 애월 김광세가 같은 홍패를 두 번 받은 날"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-yj/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 235,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.124 붉은 종이 여섯 장 — 제주 애월 한 집안의 무과 64년"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 264,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.125 \"말 열 필을 바쳐 목장을 채우겠습니다\" — 국마장 안에 선산을 얻은 제주 강씨 집안"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 303
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.126 \"아버지와 아들이 함께 시험을 봐도 되겠습니까\" — 1891년 제주 김의정 · 김항유 부자의 과거"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 241,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.127 \"온 고을이 우러러 부러워할 일\" — 1825년 진사가 된 제주 아들에게 아버지가 준 밭 두 뙈기"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.128 열아홉 살 무학에서 마흔일곱 살 부사과까지 — 제주 강세건의 28년, 종이 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 312,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-sh/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.129 \"속히 역마를 타고 올라오라\" — 제주에서 사헌부 장령이 된 강봉서와, 일흔다섯 아버지의 품계"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-sh/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeju-kim-mun/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.130 \"곡식을 모아 굶주림을 구한다\" — 흉년의 제주에서 쌀 네 섬으로 받은 품계"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeju-kim-mun/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 320
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ms/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.131 \"해유에 흠이 없다\" — 391등 기병의 집안에서 정의 고을 원님이 나오기까지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ms/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 269,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.132 \"금을 연잉군으로 삼는다\" — 왕이 되기 전의 영조가 받은 종이들"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 248,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.133 어머니의 아버지, 아들의 어머니, 첫째 딸 — 영조가 다시 불러 준 이름들"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 245
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.134 \"제 맏아들이 이미 다 자랐으나 아직 짝이 없어\" — 기해년 봄, 열이틀 사이의 혼인 편지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-honseo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 246
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-jeongjo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.135 \"밥을 먹다가 수저를 놓았다\" — 정조가 암행어사와 물난리 겪은 의주 백성에게 쓴 글"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-jeongjo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 256
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.136 \"직업: 선비\"에서 \"직업: 농부\"로 — 1900년과 1901년, 한 사람의 두 호적표"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 167,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-gung/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.137 \"엄씨를 상궁으로 삼는다\" — 옹주와 왕자, 그리고 궁녀가 받은 궁궐의 교지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-gung/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 243,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-sh-chacheop/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.138 \"가볍게 여기지 말고 맡으라\" — 제주 강수황이 28년 동안 받은 네 장의 차첩"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-sh-chacheop/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-jeongbin/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.139 \"이씨를 소훈으로 삼는다\" — 효장세자의 어머니가 받은 세 장, 그리고 같은 날의 또 한 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-jeongbin/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 256,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.140 아들의 나이가 다섯 살 늘었다 — 제주 강세건 집안의 준호구 네 장, 42년"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-hojeok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 239,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.141 136년 동안 거의 바뀌지 않은 편지 — 제주 강씨 집안의 혼서 네 통"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 328
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.142 남은 논밭이 하나도 없어서 — 강세건의 두 번의 혼인, 분재기 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 300,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.143 자식 없는 계모의 제사는 누가 지내나 — 고씨와 의붓 손주들, 분재기 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 214,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.144 말 목장 안의 무덤 — 제주 강씨 집안이 묘를 지키려 낸 소지 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-soji/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 243,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-chacheop/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.145 말 목장을 맡은 아버지, 향청을 맡은 아들 — 강세건 · 강여흥 부자의 차첩 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-chacheop/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 339,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-myeongmun/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.146 흉년의 두 달, 땅을 판 네 사람 — 1714년 강세건이 사들인 논밭 문서"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-myeongmun/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 294,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jeonryeong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.147 넉 달 동안 열아홉 번 — 1866년 봄, 제주목사가 신우면 면임에게 보낸 전령"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jeonryeong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 222
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-taekil/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.148 '뒤에 맞은 아내' 세 글자 — 혼인 날을 고른 종이 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-taekil/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 291
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.149 아버지를 묻을 날, 옮길 날 — 경오생 망자와 임진생 상주의 장사택일기 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jangsa/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 286,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-manggi/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.150 세 이름 가운데 하나에 찍힌 점 — 제주 강씨 집안의 망기 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-manggi/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 307
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-seongjo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.151 헌 집을 허무는 날부터 오곡을 들고 들어가는 날까지 — 집 짓기 택일기 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-seongjo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 265
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.152 흩어진 이름들이 한 줄로 — 제주 진주강씨의 족보단자 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 222
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-pyomun/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.153 말로 하면 잊히니 종이에 — 제주 강씨 집에 남은 표문 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-pyomun/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 343,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-gosin1/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.154 학생에서 선전관까지 — 최진립이 전쟁을 건너며 받은 임명장 네 장 (1583–1601)"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-gosin1/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 261
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-gosin2/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.155 두만강 끝에서 경기 바다까지 — 최진립의 마지막 임명장 네 장 (1614–1634)"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-gosin2/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 246
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-chujeung/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.156 한 사람이 오르자 세 대가 함께 — 1756년 7월 17일, 같은 날의 추증교지 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-chujeung/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 273
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.157 아흔 살의 호적 — 경주 이조의 최용진, 21년 동안의 종이 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-yongjin/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 213
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.158 서울 상인이 경주 전 군수를 고소하다 — 1898년 고등재판소 소장 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 264
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.159 임금은 일곱 달 동안 열 번 불렀다 — 1623년, 장현광에게 온 유지 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 278
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.160 주인은 이름을 쓰지 않았다 — 땅을 팔러 종을 보낸 배지 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 296,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeompiljae-balgwal/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.161 새 원님이 올 때마다 같은 종이 — 김종직 제사에 쓸 송아지, 33년의 발괄"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeompiljae-balgwal/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 240,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.162 할머니들이 쓴 선물 문서 — 해주정씨 집안의 별급문기 네 장 (1625–1701)"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 297,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gudang-yuseo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.163 왕과 반쪽씩 나눠 가진 병부 — 박경후가 받은 교서와 밀부 유서 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gudang-yuseo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 93
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.164 이름과 나이로만 적힌 사람들 — 왕자 숭선군에게 내린 사패교지 세 장과 시호"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 258
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.165 스물여덟에서 서른다섯까지 — 이순하가 과거의 계단을 오른 종이 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hyoheon-gwageo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 234
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.166 스승의 집에 든 강도, 담 위에서 소리친 며느리 — 1891년 제주 제자 마흔 명의 연명 소지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim-soji/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 241,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/kkotnae-manggi/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.167 1974년에도 '望' 한 글자 — 박만택이 받은 망기, 서른 해"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/kkotnae-manggi/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 285,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/nampyeong-gongmyeong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.168 이름만 비워 둔 가족 세트 — 1891년, 본인 · 아내 · 아버지 · 증조까지 한 묶음의 공명첩"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/nampyeong-gongmyeong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 249
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.169 사당이 서원이 되고, 장보기 목록이 길어졌다 — 경주부윤의 제수단자 50년"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangsan-jesu/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.170 호장의 집에서 부사의 집으로 — 제주 김해김씨 380년, 종이 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 122,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-honseo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.171 아우의 혼인, 아들의 혼인, 조카의 혼인 — 장흥임씨가 쓴 혼서 206년"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-honseo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 238
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "혼인과 호적으로 보는 집안의 생활사"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 257
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "송준길의 기록으로 본 생애"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 311
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "땅과 관청 사이 — 문서로 보는 집안 살림"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 293
+    }
+   ]
+  }
+ ]
+}

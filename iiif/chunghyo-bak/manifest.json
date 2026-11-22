@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.114 \"세 살에 아비를 잃은 너를 보며\" — 할머니의 별급문기, 스물한 살의 답안지, 서른여섯의 합격증"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "한 사람의 삶은 여러 문서에 흩어져 있다 — 재산 문서, 답안지, 합격증이 모이면 한 아이의 서른여섯 해가 된다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.114"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "영덕 도곡 무안박씨 충효당 박선 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/chunghyo-bak/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/chunghyo-bak/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 259
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1636년 손씨(孫氏) 별급문기(別給文記) — 손자 박호에게 (1636)"
+    ]
+   },
+   "width": 1400,
+   "height": 1008,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1636"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "별급문기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "崇禎九年丙子二月二十四日 孫子滈亦中(?) 成文事段 汝亦三歲遺孤 年漸長(?)… 之情 憑汝稍慰乙仍于 奴獻己 良妻(?)… 年二十六辛亥生身及 元丘(?)員江邊(?)… 五斗(?)三直畓二十卜一束 一百五四卜畓四(?)… 斗落只庫乙 永永別給爲去乎 汝亦鎭長耕食爲乎矣 子孫中雜談則 此文下(?)… / 財主 生祖母 淑人 孫氏(印) 筆執 長子 承議郞 文立"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "숭정 9년 병자년(1636) 2월 24일, 손자 호에게 문서를 만들어 주는 일. 너는 세 살에 아비를 잃은 아이로, 나이가 점점 자라니 … 마음을 너로 인해 조금이나마 위로받기에, 사내종 헌기(獻己)와 양처 사이에서 난 … 스물여섯 살 신해년생 자신과, 원구(?) 들 강가의 … 논 … 마지기를 영영 따로 떼어 주니, 너는 오래도록 갈아먹되, 자손 가운데 딴말을 하는 자가 있거든 이 문서로 … (관에 고하여 바로잡으라). 재주(財主) 친할머니 숙인 손씨(도장). 필집(筆執) 맏아들 승의랑 문립."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1636년 할머니 손씨가 세 살에 아버지를 잃은 손자 박호에게 노비와 논을 따로 떼어 준 별급문기입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1636.4777-20211130.B071a_099_00052_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 259
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016765%5EL016765F02%5EL016765F0205&dataId=G002%2BAKS%2BKSM-XE.1636.4777-20211130.B071a_099_00052_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1008
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1645년 박호(朴滈) 시권(試券) — 「도화시」 (1645)"
+    ]
+   },
+   "width": 1400,
+   "height": 908,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1645"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시권"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "幼學朴滈 年二十一 本務安 居寧海 / 父 學生 □起(?) / 祖 朝散大夫 璘(?) / 曾祖 贈… 行嘉義大夫慶尙左道兵馬節度使兼蔚山都護府使 毅長 / 外祖 通訓大夫前行鎭川縣監 權應生 本安東 / 命歌桃花詩 詩 / 禁苑春色濃如酒 萬樹夭桃紅… 鑾車今日趂芳景 詠花諸公爭獻… 皇還敎侍女唱麗句 嬌歌俱絶奇… 仙李回葉春一代 群英才不羈… 宮物色鮮雨霽 桃園仙仗移 天門佳氣… 天欲低 詞臣濟濟相追隨 爭吟芳樹… / (채점) 三之中(?)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(응시자 정보) 유학 박호, 나이 스물하나, 본관 무안, 영해 거주. 아버지 학생 □기, 할아버지 조산대부 린(?), 증조부 … 행 가의대부 경상좌도병마절도사 겸 울산도호부사 의장, 외할아버지 통훈대부 전 진천현감 권응생(본관 안동). (시제) 「복사꽃 노래를 짓게 하다(命歌桃花詩)」, 시. (답안 앞부분) 궁궐 동산의 봄빛은 술처럼 짙고, 만 그루 고운 복사꽃이 붉게 … 임금의 수레가 오늘 꽃다운 경치를 따라 나서니, 꽃을 읊는 여러 신하들이 다투어 바치고 … 신하들이 줄지어 서로 뒤따르며 꽃다운 나무를 다투어 읊는다 … (채점 표시) 삼지중(?)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1645년 스물한 살 박호가 「복사꽃 노래」를 지어 낸 과거 답안지로, 응시자와 4대 조상 정보, 채점 표시가 남아 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1645.4777-20211130.B071a_099_00043_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 233
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016765%5EL016765F02%5EL016765F0204&dataId=G002%2BAKS%2BKSM-XD.1645.4777-20211130.B071a_099_00043_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 908
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1660년 박호(朴滈) 진사 백패(進士白牌) (1660)"
+    ]
+   },
+   "width": 710,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1660"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "백패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 幼學朴滈進士三等第二十四人入格者 順治十七年九月十八日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 박호는 진사시에 3등 제24인으로 입격한 자이다. 순치 17년(1660) 9월 18일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1660년 박호가 진사시 3등 제24인으로 합격하고 받은 백패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1660.4777-20211130.B071a_099_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 183,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016765%5EL016765F02%5EL016765F0201&dataId=G002%2BAKS%2BKSM-XA.1660.4777-20211130.B071a_099_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 710,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

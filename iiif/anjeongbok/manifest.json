@@ -1,0 +1,1277 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.16 학자의 벼슬길"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "위대한 역사서를 쓴 사람도 작은 벼슬에서 시작했다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.16"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "광주 순암 안정복 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/anjeongbok/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/anjeongbok/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 349,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1607년 안응원(安應元) 추증교지(追贈敎旨) (1607)"
+    ]
+   },
+   "width": 1358,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1607"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "추증교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 贈通政大夫 … 安應元 贈嘉善大夫 □曹參判兼同知經筵義禁府春秋館成均館事弘文館提學世子左副賓客 □原君者 / 萬曆三十五年五月二十六日 / (작은 글씨) 扈聖原從功臣三等 依承傳追贈"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 통정대부 승정원 도승지 … 참찬관·춘추관수찬관·예문관직제학·상서원정으로 추증되었던 안응원을, 가선대부 이조참판 겸 동지경연·의금부·춘추관·성균관사, 홍문관 제학, 세자좌부빈객, □원군으로 추증한다. 만력 35년(1607) 5월 26일. (근거) 호성원종공신 3등이므로 전교를 받들어 추증한다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임금이 안응원에게 가선대부(종2품) □조참판 겸 동지경연·의금부·춘추관·성균관사, 홍문관 제학, 세자좌부빈객과 '□원군'의 칭호를 추증한다는 내용입니다. 왼쪽 작은 글씨로 보아 임진왜란 때 임금을 호종한 공신(扈聖原從功臣 3등)의 공으로 내린 추증으로 보입니다(□는 판독 불확실)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1607.1111-20101008.B006a_008_00002_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 349,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014151%5EL014151F02%5EL014151F0201&dataId=G002%2BAKS%2BKSM-XA.1607.1111-20101008.B006a_008_00002_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1358,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1749년 안정복(安鼎福) 고신(告身)－1 (1749)"
+    ]
+   },
+   "width": 1400,
+   "height": 1007,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1749"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "吏曹乾隆十四年五月十二日奉 / 敎 通德郞安鼎福 爲通德郞行厚陵參奉者 / 乾隆十四年五月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "이조가 건륭 14년(1749) 5월 12일 임금의 명을 받들어, 통덕랑 안정복을 통덕랑 행 후릉참봉으로 삼는다. 건륭 14년 5월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "통덕랑(정5품 품계) 안정복을 '통덕랑 행 후릉참봉'으로 삼는다는 내용입니다. 후릉(정종의 능)을 지키는 종9품 참봉 자리로, 품계가 관직보다 높아 '行'자가 붙었습니다. 안정복의 첫 벼슬입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1749.1111-20101008.B006a_008_00068_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 259
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014151%5EL014151F02%5EL014151F0201&dataId=G002%2BAKS%2BKSM-XA.1749.1111-20101008.B006a_008_00068_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1007
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1765년 안정복(安鼎福) 고신(告身) (1765)"
+    ]
+   },
+   "width": 1400,
+   "height": 997,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1765"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 安鼎福爲通訓大夫行濟用監主簿者 / 乾隆三十年七月二十四日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 안정복을 통훈대부 행 제용감 주부로 삼는다. 건륭 30년(1765) 7월 24일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "안정복을 통훈대부(정3품 당하관 품계) 행 제용감 주부(종6품)로 삼는다는 내용입니다. 제용감은 궁중에서 쓰는 옷감·물품을 맡던 관청입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1765.1111-20101008.B006a_008_00025_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 256
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014151%5EL014151F02%5EL014151F0201&dataId=G002%2BAKS%2BKSM-XA.1765.1111-20101008.B006a_008_00025_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 997
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1775년 회인현감(懷仁縣監) 안정복(安鼎福) 정사(呈辭) (1775)"
+    ]
+   },
+   "width": 436,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1775"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "정사"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "新除授懷仁縣監安鼎福 / 右謹言矣身本月十七日受本縣除授之命 … 到松坡酒店素患宿疾猝然□發 … / 吏曹 處分 / 乙未閏十月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "새로 회인현감에 임명된 안정복. 삼가 아룁니다. 저는 이달 17일 본 고을 현감 임명의 명을 받고, 18일 보고하고, 19일 길을 떠나 송파 주막에 이르렀는데, 본래 앓던 오랜 병이 갑자기 도져 머물러 밤새 치료했으나 조금도 차도가 없습니다. 이 병은 한번 일어나면 반드시 열흘에서 한 달은 지나야 가라앉는데, 지금 부임 기한이 매우 급하여 서둘러 명을 따를 형편이 전혀 없으니, 부득이 이 사유를 가지고 우러러 호소합니다. 엎드려 바라건대 사정을 헤아려 특별히 임금께 아뢰어 변통하여 공사(公私)가 모두 편하게 해 주시도록 처분해 주십시오. 이조에서 처분하소서. 을미년(1775) 윤10월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'새로 회인현감에 임명된 안정복이 아룁니다. 이달 17일 임명을 받고 18일 보고한 뒤 19일 길을 떠나 송파 주막에 이르렀는데, 오래된 지병이 갑자기 도져 밤새 치료했으나 조금도 나아지지 않습니다. 이 병은 한번 나면 열흘에서 한 달은 지나야 가라앉는데, 부임 기한이 매우 급해 서둘러 명을 따를 길이 없어 이 사유를 호소합니다. 사정을 헤아려 임금께 아뢰어 변통해 주십시오'라는 내용으로, 이조에 처분을 청했습니다. 1775년 윤10월의 일입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1775.0000-20101008.B006a_008_00088_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 112,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014151%5EL014151F02%5EL014151F0202&dataId=G002%2BAKS%2BKSM-XB.1775.0000-20101008.B006a_008_00088_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 436,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1789년 안정복(安鼎福) 고신(告身)－1 (1789)"
+    ]
+   },
+   "width": 1400,
+   "height": 981,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1789"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 安鼎福爲通政大夫者 / 乾隆五十四年正月十九日 / (작은 글씨) 壽官年七十 … 以上加資事承傳"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 안정복을 통정대부로 삼는다. 건륭 54년(1789) 정월 19일. (근거) 음관으로서 나이 70세이고 벼슬한 지 40년 이상인 사람의 품계를 올리라는 전교를 받든 것이다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "안정복을 통정대부(정3품 당상관)로 올린다는 내용입니다. 왼쪽 작은 글씨에 '음관으로 나이 70세, 벼슬한 지 40년 이상인 사람의 품계를 올리라는 전교'가 근거로 적혀 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1789.1111-20101008.B006a_008_00037_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 252
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014151%5EL014151F02%5EL014151F0201&dataId=G002%2BAKS%2BKSM-XA.1789.1111-20101008.B006a_008_00037_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 981
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1790년 안정복(安鼎福) 고신(告身)－2 (1790)"
+    ]
+   },
+   "width": 1400,
+   "height": 1030,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1790"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 安鼎福爲嘉善大夫同知中樞府事者 / 乾隆五十五年七月 日 / (작은 글씨) 依法典 … 贈 … 事承傳"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 안정복을 가선대부 동지중추부사로 삼는다. 건륭 55년(1790) 7월 일. (작은 글씨는 근거 — 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "안정복을 가선대부(종2품) 동지중추부사로 삼는다는 내용입니다. 중추부는 일정한 직무 없이 고위 관원을 예우하던 관청으로, 학자로서 받은 마지막 높은 품계입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1790.1111-20101008.B006a_008_00040_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 265
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014151%5EL014151F02%5EL014151F0201&dataId=G002%2BAKS%2BKSM-XA.1790.1111-20101008.B006a_008_00040_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1030
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/7",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1790년 안정복(安鼎福) 녹패(祿牌)－1 (1790)"
+    ]
+   },
+   "width": 932,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1790"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "녹패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "吏曹奉 / 敎賜嘉善大夫廣成君安鼎福 今庚戌年 第□科祿者 / 乾隆五十五年七月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "이조가 임금의 명을 받들어, 가선대부 광성군 안정복에게 이번 경술년(1790)의 제○과 녹봉을 내린다. 건륭 55년 7월 일. (덧붙인 쪽지) 신해년 정월, 종2품 … 쌀 … 섬, 콩 … 섬 … 광흥창."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "가선대부 광성군 안정복에게 경술년(1790) 녹봉을 내린다는 내용입니다. '第 科'의 등급 숫자는 비워 두었고, 덧붙인 작은 쪽지는 이듬해(신해년) 정월 광흥창에서 실제로 쌀·콩을 내준 기록으로 보입니다(쪽지 판독 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1790.1111-20101008.B006a_008_00075_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/thumb/07.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 240,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014151%5EL014151F02%5EL014151F0201&dataId=G002%2BAKS%2BKSM-XA.1790.1111-20101008.B006a_008_00075_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/7",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 932,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/8",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1790년 안정복(安鼎福) 처(妻) 성씨(成氏) 추증교지(追贈敎旨) (1790)"
+    ]
+   },
+   "width": 1400,
+   "height": 922,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1790"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "추증교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 贈淑夫人成氏 贈貞夫人者 / 乾隆五十五年七月 日 / (작은 글씨) 嘉善大夫同知中樞府事廣成君安鼎福妻 依法典從夫職"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 숙부인으로 추증되었던 성씨를 정부인으로 추증한다. 건륭 55년(1790) 7월 일. (근거) 가선대부 동지중추부사 광성군 안정복의 아내이므로 법전에 따라 남편의 직급을 따른다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "숙부인으로 추증되었던 성씨를 정부인(정·종2품 관원의 아내 작호)으로 높인다는 내용입니다. 남편 안정복이 가선대부 동지중추부사 광성군이 되자 법전에 따라 함께 높여 준 것입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1790.1111-20101008.B006a_008_00042_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/thumb/08.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 237
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014151%5EL014151F02%5EL014151F0201&dataId=G002%2BAKS%2BKSM-XA.1790.1111-20101008.B006a_008_00042_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/8/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/canvas/8",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/anjeongbok/08.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 922
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

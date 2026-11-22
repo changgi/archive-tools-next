@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.152 흩어진 이름들이 한 줄로 — 제주 진주강씨의 족보단자 네 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "족보단자는 족보를 만들 때 각 집이 자기 계보를 적어 내는 원고다 — 흩어진 호적 · 분재기 · 망기의 이름이 여기서 아버지와 아들로 묶인다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.152"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 어도 진주강씨 강익진 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-jokbo/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-jokbo/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 222
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "족보단자(族譜單子)－1"
+    ]
+   },
+   "width": 1400,
+   "height": 865,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "족보단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "辛酉三月 日 晉州姜氏族譜單子草 祖 修儀副尉 諱 田雨 將仕郞 諱 仁德 千戶 諱 祿 配宜人康氏 父千戶安吉 禦侮將軍 諱 渭亮 配宜人林氏 父有泉 禦侮將軍 諱 世平 配宜人高氏 … 弟 諱 世延 宣略將軍訓鍊院主簿 諱 彦俊 一男三女 配宜人高氏 弟 彦豪 彦津 訓鍊院奉事前僉使 諱 繼男 三男二女 配安人夫氏 … 通訓大夫行南部主簿禦侮將軍訓鍊院僉正留鄕別監 諱 受璜 三男四女 配淑夫人高氏 弟 取璜 致璜 … 留鄕座首 諱 斗烱 四男二女 庶子四 配宜人文氏 弟 斗煥 斗燦"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "신유년 3월 일, 진주강씨 족보단자 초고. 선대: 수의부위 전우 — 장사랑 인덕 — 천호 녹(아내 강씨, 장인 천호 안길) — 어모장군 위량(아내 임씨, 장인 유천) — 어모장군 세평(아내 고씨 …, 아우 세연) — 선략장군 훈련원주부 언준(1남 3녀, 아내 고씨, 아우 언호 · 언진) — 훈련원봉사 전첨사 계남(3남 2녀, 아내 부씨 …) — 통훈대부 행남부주부 어모장군 훈련원첨정 유향별감 수황(3남 4녀, 아내 숙부인 고씨, 아우 취황 · 치황 …) — 유향좌수 두형(4남 2녀, 서자 넷, 아내 문씨, 아우 두환 · 두찬)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "진주강씨 족보단자 초고로, 전우부터 계남 · 수황 · 두형까지 여러 대를 적었으며 두형은 '4남 2녀, 서자 넷'으로 강세건의 아버지와 맞습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.9999.5011-20220125.B077a_114_00506_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 222
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0207&dataId=G002%2BAKS%2BKSM-XG.9999.5011-20220125.B077a_114_00506_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 865
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "족보단자(族譜單子)－2"
+    ]
+   },
+   "width": 1400,
+   "height": 861,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "족보단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "辛酉三月 日 姜氏連譜單子 祖 通訓大夫行南部主簿禦侮將軍訓鍊院僉正留鄕別監 諱 受璜 配淑夫人高氏 生三男 季 訓鍊院奉事留鄕別監 諱 斗燦 配金氏 父留鄕別監 諱 仁珩 生一男一女 子 學生 諱 連龜 配梁氏 生一男 女 適 金鉉敬 子 學生 諱 弼文 配高氏 父 諱 厚潤 生一男 子 學生 諱 迎周 配金氏 父 諱 明賢 生一男三女 子 儒生 諱 元良 配高氏 父留鄕別監 諱 益台 生三男 壻 長 洪仁成 次 朴尙玉 次 梁永廷 長 尙旭 仲 尙殷 出繼 季 尙集"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "신유년 3월 일, 강씨 연보단자. 선대 통훈대부 … 유향별감 수황, 아내 숙부인 고씨, 아들 셋. 막내 훈련원봉사 유향별감 두찬, 아내 김씨(장인 유향별감 인형), 1남 1녀. 아들 학생 연구, 아내 양씨, 1남. 딸은 김현경에게 시집감. (그 아래) 아들 학생 필문, 아내 고씨(장인 후윤), 1남. 아들 학생 영주, 아내 김씨(장인 명현), 1남 3녀. 아들 유생 원량, 아내 고씨(장인 유향별감 익태), 3남. 사위: 맏이 홍인성, 다음 박상옥, 다음 양영정. 맏아들 상욱, 둘째 상은(양자로 나감), 막내 상집."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "수황의 막내아들 두찬의 갈래를 손자 대까지 적은 연보단자로, 대마다 아내와 장인, 자녀 수를 기록했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.9999.5011-20220125.B077a_114_00507_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 221
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0207&dataId=G002%2BAKS%2BKSM-XG.9999.5011-20220125.B077a_114_00507_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 861
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "족보단자(族譜單子)－3"
+    ]
+   },
+   "width": 1400,
+   "height": 440,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "족보단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "妹夫 … 留鄕別監 金師孟 次 留鄕座首 吳尙邊(?) 梁士淑 次 趙繼瀜 秉節校尉龍驤(衛)副司果留鄕別監 諱 □ 二男 配宜人高氏 弟 世仲 世慶 世健 後隆 後悻 後慶 後維 … 留鄕座首 諱 汝敏 三男二女 配宜人高氏 弟 汝數 留鄕別監 諱 弼聖 四男二女 … 弟 別監 得聖 座首 翊聖 通政大夫僉知中樞府事留鄕座首 諱 時揚 三男四女 配淑夫人梁氏 後配淑夫人吳氏 弟 時豐 時綸 時經 … 留鄕座首 諱 鳳休 三男三女 … 將仕郞寅興仕留鄕座首鄕校訓長 諱 在明 五男一女 庶子一 庶女一 … 幼學 諱 衡鎭 三男一女 庶子一 … 學生 永老 二男一女 … 留鄕別監 宗樂 配孺人梁氏 弟 宗業 出繼"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(앞 대의) 매부 … 유향별감 김사맹, 다음 … 양사숙, 다음 조계융. 병절교위 용양위부사과 유향별감 …, 2남, 아내 고씨. 아우 세중 · 세경 · 세건. (그 아래) 후륭 · 후행 · 후경 · 후유 …. 유향좌수 여민, 3남 2녀, 아내 고씨, 아우 여수. 유향별감 필성, 4남 2녀, 아우 별감 득성 · 좌수 익성. 통정대부 첨지중추부사 유향좌수 시양, 3남 4녀, 아내 양씨, 뒤에 맞은 아내 오씨, 아우 시풍 · 시륜 · 시경. 유향좌수 봉휴, 3남 3녀 …. 장사랑 … 향교 훈장 재명, 5남 1녀, 서자 하나 · 서녀 하나. 유학 형진, 3남 1녀, 서자 하나. 학생 영로, 2남 1녀. 유향별감 종락, 아내 양씨, 아우 종업(양자로 나감)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강세건 형제(세중 · 세경 · 세건) 이하 여러 대의 이름 · 직함 · 자녀 수 · 서자와 재혼을 이어 적은 긴 족보단자입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.9999.5011-20220125.B077a_114_00508_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 113
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0207&dataId=G002%2BAKS%2BKSM-XG.9999.5011-20220125.B077a_114_00508_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 440
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "족보단자(族譜單子)－4"
+    ]
+   },
+   "width": 934,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "족보단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(오른쪽 쪽지) 留鄕別監 李庫新(?) 本古阜 … 留鄕別監 金鍾祿 本金海 … 迪德郞留鄕座首 邊景敞 本原州 … 留鄕別監 仁周 曾祖前訓長 有勛(?) … 外祖學生 梁以洙 本濟州 … (본문) 高祖 學生 梁萬里 本濟州 高祖 留鄕座首 以觀 高祖 留鄕別監 金世斌 本金寧 高祖 學生 相聖 高祖 贈通政大夫承政院左承旨兼經筵參贊官 是翰 高祖 留鄕別監 梁鄕大 本濟州 高祖 學生 錫齊 高祖 學生 金斗嵩 本金寧 曾祖 留鄕座首 吳廷撲 本軍威 曾祖 留鄕別監 渭文 曾祖 通訓大夫司憲府監察 聖輔 曾祖 前訓長 姜興望 本晉州 祖 留鄕別監 仁周 祖 通德郞留鄕座首 邊景敞 本原州 父 儒生 有勛 新付 姜益鎭 年二十□ 本晉州 住於道"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고조 여덟 분: 학생 양만리(본관 제주), 유향좌수 이관, 유향별감 김세빈(본관 김녕), 학생 상성, 증 통정대부 승정원좌승지 … 시한, 유향별감 양향대(본관 제주), 학생 석제, 학생 김두숭(본관 김녕). 증조 네 분: 유향좌수 오정박(본관 군위), 유향별감 위문, 통훈대부 사헌부감찰 성보, 전 훈장 강흥망(본관 진주). 조부 두 분: 유향별감 인주, 통덕랑 유향좌수 변경창(본관 원주). 아버지: 유생 유훈. 새로 올림: 강익진, 나이 스물 …, 본관 진주, 어도에 삶."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강익진이 새로 이름을 올리며 아버지 유훈 · 조부 인주 · 증조 위문을 비롯한 15명의 선대를 적어 낸 팔고조도 단자입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.9999.5011-20220125.B077a_114_00509_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 240,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0207&dataId=G002%2BAKS%2BKSM-XG.9999.5011-20220125.B077a_114_00509_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-jokbo/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 934,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

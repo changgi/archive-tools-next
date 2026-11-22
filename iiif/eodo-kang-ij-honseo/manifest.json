@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.141 136년 동안 거의 바뀌지 않은 편지 — 제주 강씨 집안의 혼서 네 통"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "혼서는 정해진 문장을 거의 그대로 베끼는 문서다 — 그래서 136년 사이에 달라진 몇 글자(연호, 음력 표기, 사주와 길일)가 오히려 크게 보인다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.141"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 어도 진주강씨 강익진 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-honseo/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-honseo/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 328
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "혼서(婚書)－01 (1791)"
+    ]
+   },
+   "width": 1400,
+   "height": 1277,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1791"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "혼서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "伏承 嘉命 許以令愛 貺室僕之長子鍾祐 加之卜筮 已叶吉兆 玆有先人之禮 謹行納幣之儀 伏惟 尊照 上狀 辛亥十月十一日 金□彬 謹拜 (겉면) 姜掌議 宅 入納 上狀 謹拜"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "엎드려 아름다운 명을 받드니, 따님을 저의 맏아들 종우의 아내로 허락하셨습니다. 거기에 점을 쳐 보니 이미 길한 조짐에 맞았습니다. 이에 옛사람의 예가 있어 삼가 납폐의 의식을 행합니다. 엎드려 바라건대 살펴 주십시오. 편지를 올립니다. 신해년 10월 11일 김□빈 삼가 절합니다. (겉면) 강장의 댁에 들입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1791년 김□빈이 맏아들 종우의 혼인을 위해 제주 '강장의 댁'에 보낸 혼서로, 점을 쳐 길조를 얻었다는 구절이 들어 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1791.5011-20220125.B077a_114_00457_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 328
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0206&dataId=G002%2BAKS%2BKSM-XF.1791.5011-20220125.B077a_114_00457_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1277
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "혼서(婚書)－03 (1850)"
+    ]
+   },
+   "width": 1400,
+   "height": 1152,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1850"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "혼서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "伏蒙 尊慈許以 令愛貺室 僕之子永運 式遵古禮 具書納幣 伏惟 鑑察 不宣 道光三十年十月十三日 晉州後人姜益鎭 狀上 (겉면) 梁生員 宅 入納 上狀"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "엎드려 너그러이 허락해 주심을 입어, 따님을 저의 아들 영운의 아내로 주셨습니다. 옛 예법을 따라 글을 갖추어 납폐합니다. 엎드려 바라건대 살펴 주십시오. 다 적지 못합니다. 도광 30년(1850) 10월 13일 진주 후인 강익진이 편지를 올립니다. (겉면) 양생원 댁에 들입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1850년 강익진이 아들 영운의 혼인을 위해 양생원 댁에 보낸 혼서로, 1791년보다 짧아지고 연호 · 본관이 더해졌습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1850.5011-20220125.B077a_114_00459_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 296
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0206&dataId=G002%2BAKS%2BKSM-XF.1850.5011-20220125.B077a_114_00459_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1152
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "혼서(婚書)－09 (1927)"
+    ]
+   },
+   "width": 1400,
+   "height": 1150,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1927"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "혼서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "時維孟夏 尊體百福 僕之長子金孟玉 年旣長成 未有伉儷 伏聞 貴宅有淑女之譽 縱乏東床之選 尊慈許以後 考其四柱 則吉多凶少 是月老之因緣也 涓吉十二月二十四日也 是日納幣行禮之儀不備 伏惟 尊照 謹拜 上狀 昭和貳年陰四月二十八日 羅州后人金桂瀅"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "때는 초여름, 존체 두루 평안하신지요. 저의 맏아들 김맹옥이 이미 다 자랐으나 아직 짝이 없습니다. 엎드려 듣건대 귀댁에 어진 따님이 있다 하니, 훌륭한 사위감은 못 되더라도 너그러이 허락하신 뒤 두 사람의 사주를 살펴보니 길함이 많고 흉함이 적어, 월하노인이 맺어 준 인연입니다. 좋은 날을 가려 보니 12월 24일입니다. 이날 납폐하고 예를 행하겠습니다. 다 갖추지 못합니다. 엎드려 바라건대 살펴 주십시오. 삼가 절하며 편지를 올립니다. 쇼와 2년(1927) 음력 4월 28일 나주 후인 김계형."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1927년 음력 4월 김계형이 맏아들 김맹옥의 혼인을 두고 사주가 '길함이 많고 흉함이 적다'며 길일을 12월 24일로 알린 편지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1927.5011-20220125.B077a_114_00465_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 296
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0206&dataId=G002%2BAKS%2BKSM-XF.1927.5011-20220125.B077a_114_00465_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1150
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "혼서(婚書)－10 (1927)"
+    ]
+   },
+   "width": 1400,
+   "height": 1246,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1927"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "혼서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "時維季冬 尊體百福 僕之子孟玉 年旣長成 未有伉儷 伏蒙 尊慈許以令愛貺室 玆有先人之禮 謹行納幣之儀 不備 伏惟 尊照 上狀 丁卯拾貳月貳拾四日 羅州后人 金桂瀅 謹拜 (겉면) 姜掌議 宅 下執事 入納 上狀"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "때는 늦겨울, 존체 두루 평안하신지요. 저의 아들 맹옥이 이미 다 자랐으나 아직 짝이 없었는데, 엎드려 너그러이 따님을 아내로 허락해 주심을 입었습니다. 이에 옛사람의 예가 있어 삼가 납폐의 의식을 행합니다. 다 갖추지 못합니다. 엎드려 바라건대 살펴 주십시오. 편지를 올립니다. 정묘년 12월 24일 나주 후인 김계형 삼가 절합니다. (겉면) 강장의 댁 하집사께 들입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1927년 12월 24일 김계형이 아들 맹옥의 납폐 날 '강장의 댁'에 보낸 혼서로, 1791년 혼서와 받는 이 · 핵심 문장이 같습니다(목록 연도 1960은 1927로 보정)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1960.5011-20220125.B077a_114_00466_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 320
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0206&dataId=G002%2BAKS%2BKSM-XF.1960.5011-20220125.B077a_114_00466_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-honseo/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1246
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

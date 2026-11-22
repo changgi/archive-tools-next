@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.39 \"이미 술에 취하고 덕에 배불렀네\" — 동래정씨 종가의 시험지와 입양 증명"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "과거 시험은 실제 답안과 평가로 이루어진, 오늘의 시험과 닮은 제도였다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.39"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "군포 속달 동래정씨 동래부원군 정난종 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jeongnanjong/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jeongnanjong/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 244,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1756년 예조(禮曹) 입안(立案) (1756)"
+    ]
+   },
+   "width": 947,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1756"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "입안"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "乾隆二十一年八月 日 禮曹立案 / 右立案爲繼後事節 達下敎 忠勳府 申目節 … 成宗朝佐理功臣也 … 族兄師夏第三子始復 爲師伋之後 … 以奉東萊君祀事 … 特爲立後 以奉其祀 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "건륭 21년(1756) 8월 일 예조 입안. 이 입안은 대를 잇는 일[계후]에 관한 것이다. [임금께] 아뢰어 내린 하교에 따라 충훈부가 올린 문서에 이르기를, 전 첨지 … 난종(蘭宗)은 성종 때의 좌리공신인데, 맏아들 … 이 죽은 뒤 … 사급(師伋)의 족형 석지(錫祉)의 둘째 아들 범이를 사급의 뒤로 정하려고 본부에 올린 적이 있으나 … 족형 사하(師夏)의 셋째 아들 시복(始復)을 사급의 뒤로 삼으려 하는데, 사급 부부가 모두 죽어 정해 줄 사람이 없으니, 동래군의 제사를 받들게 하려면 … 격례에 [맞지 않는] 경우라도 특별히 후사를 세워 그 제사를 받들게 하였으니, 이번 정시복도 … 예조가 마음대로 할 수 없으니 해당 관청이 여쭈어 처리하는 것이 어떻겠느냐 … (이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "공신 정난종의 제사를 잇던 정사급이 아들 없이 부부가 모두 죽자, 친척 정사하의 셋째 아들 정시복을 양자로 세워 제사를 잇게 한다는 예조의 공증 문서로 보입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1756.1100-20101008.B066a_097_00015_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 244,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014153%5EL014153F02%5EL014153F0204&dataId=G002%2BAKS%2BKSM-XD.1756.1100-20101008.B066a_097_00015_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 947,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1861년 국왕(國王) 시권(試券) (1861)"
+    ]
+   },
+   "width": 1400,
+   "height": 630,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1861"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시권"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "幼學臣鄭學默 年三十三 本東萊 居廣州 / 父幼學翰東 祖通德郞混 曾祖通政大夫行龍安縣監 … 彦復 外祖學生李健行 本延安 / (붉은 띠) 式年文科殿試丙科第八人 / 旣醉以酒 旣飽以德 君子萬年 介爾景福 賦 / (채점) 三下"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(응시자) 유학 신 정학묵, 나이 33세, 본관 동래, 광주(廣州) 거주. 아버지 유학 한동, 할아버지 통덕랑 혼, 증조할아버지 통정대부 행 용안현감 전주진관 병마절제도위 언복, 외할아버지 학생 이건행, 본관 연안.\n(붉은 띠) [신유] 식년 문과 전시 병과 제8인.\n(채점) 삼하(三下).\n(시제) '이미 술에 취하고 이미 덕에 배불렀으니, 군자여 만년토록 큰 복을 누리소서'를 부(賦)로 지어라.\n(답안 첫머리) 하늘이 보우하심을 누리니 두텁고 … 두 편의 뜻으로 잔치를 베풀고, 이슬 젖은 잔치 자리는 함께하니 … 온갖 복록을 모으도다. 임금은 덕으로써, 우리는 복으로써 … (이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "서른세 살 정학묵이 1861년 문과 전시에서 『시경』 '이미 술에 취하고 덕에 배불렀네' 구절을 주제로 써 낸 답안지로, '삼하' 등급을 받아 병과 8등으로 급제했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1861.0000-20101008.B066a_097_00383_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 162
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014153%5EL014153F02%5EL014153F0204&dataId=G002%2BAKS%2BKSM-XD.1861.0000-20101008.B066a_097_00383_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 630
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1861년 정학묵(鄭學黙) 문과 홍패(文科紅牌) (1861)"
+    ]
+   },
+   "width": 1095,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1861"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 幼學鄭學默文科丙科第八人及第出身者 / 咸豐十一年四月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 정학묵을 문과 병과 제8인으로 급제하여 출신한 사람으로 삼는다. 함풍 11년(1861) 4월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "선비 정학묵이 문과 병과 8등으로 급제했음을 증명하는 홍패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1861.1100-20101008.B066a_097_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 282,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014153%5EL014153F02%5EL014153F0201&dataId=G002%2BAKS%2BKSM-XA.1861.1100-20101008.B066a_097_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1095,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1891년 정규선(鄭圭善) 무과 홍패(武科紅牌) (1891)"
+    ]
+   },
+   "width": 1002,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 副司勇鄭圭善武科乙科第二人及第出身者 / 光緖十七年十一月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 부사용 정규선을 무과 을과 제2인으로 급제하여 출신한 사람으로 삼는다. 광서 17년(1891) 11월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "부사용 정규선이 무과 을과 2등으로 급제했음을 증명하는 홍패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1891.1100-20101008.B066a_097_00002_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 258,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014153%5EL014153F02%5EL014153F0201&dataId=G002%2BAKS%2BKSM-XA.1891.1100-20101008.B066a_097_00002_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jeongnanjong/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1002,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

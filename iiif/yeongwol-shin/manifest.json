@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.68 '아이 신응망'에서 '돌아가신 장령 신응망의 처'까지 — 48년 사이의 두 소지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "문서 속 호칭의 변화가 한 사람의 일생을 말해 준다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.68"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "영광 영월신씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yeongwol-shin/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yeongwol-shin/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 235,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1610년 초동(草童) 신응망(辛應望) 소지(所志)－1 (1610)"
+    ]
+   },
+   "width": 912,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1610"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "靈光郡 草童辛應望 / 右謹言矣前祖母宋氏新奴婢奴莫同 … 依法典 衿給 一所生婢十月 二所生奴金伊 … 文承吉祭祀條是白置 丁酉年避亂之 … 無主奴婢樣以 自相爭訟 … / 萬曆三十八年 … 月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "영광군의 아이(草童) 신응망. 삼가 아룁니다. 저의 할머니 송씨가 새로 얻은 노비 노 막동(?) … 법전에 따라 몫으로 나누어 준 첫째 소생 비 시월, 둘째 소생 노 금이 … 문승길의 제사 몫이었는데, 정유년(1597) 난리를 피하여 … [그 사이에] … 등이 꾀를 내어 주인 없는 노비인 것처럼 하여 서로 소송하니 … 너희가 주인 있는 노비를 이치에 맞지 않게 다투는 것은 매우 놀라운 일이라 … 뜻밖에 함부로 차지하였으니 … (훼손으로 이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "아이 신응망이 할머니에게서 물려받은 노비들이 정유재란 피란 중에 흩어진 틈에 남들이 주인 없는 노비라며 차지하려 하니, 되찾게 해 달라고 청한 소지로 보입니다(훼손 · 판독 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1610.4687-20101008.B017a_027_00025_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 235,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014802%5EL014802F02%5EL014802F0202&dataId=G002%2BAKS%2BKSM-XB.1610.4687-20101008.B017a_027_00025_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 912,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1658년 장령(掌令) 신응망(辛應望) 처(妻) 정씨(丁氏) 소지(所志) (1658)"
+    ]
+   },
+   "width": 1138,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1658"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "故掌令辛應望妻丁氏 / 右謹言所志段 女矣家翁 前後室同生五娚妹亦中 奴婢 … 家翁身死爲白齊 旣爲無後 身死則 同李偉妻 … 大妃 … 一家之義 … 至今日 … 寡婦是可 … / 戊戌十月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "돌아가신 장령 신응망의 아내 정씨. 삼가 아뢰는 소지. 제 남편의 앞뒤 부인에게서 난 다섯 남매 가운데 … 노비를 … 뒤에 [남편이] 죽었는데, 이미 후사가 없으니, 죽으면 이위(李偉)의 아내 몫으로 나눈 논밭과 노비를 … 한 집안의 의리가 있으나, 이위가 혼조(광해군) 때 대비를 폐하던 … 독손 뒤로 서로 … 되찾아야 할 논밭과 노비를 되찾지 않고, 그 손자 노 봉생 한 명만 … 살게 한 지 … 여 년이었는데, 이달 초사흘 장터에서 노 봉생의 아들 한 명을 … 이위가 그 뒤 부인의 아들과 함께 서로 다투어 … 대개 법전에, 후사가 없으면 동생의 논밭과 노비는 본손에게 돌린다 하였는데, 이위가 지금 경작해 먹은 지 십여 년이고 노비 네 명과 여러 새로 낳은 아이까지 모두 차지하니 탐욕이 … 실로 헤아릴 수 없습니다. … 과부인 저에게 이렇게 함부로 빼앗으니 … (판독 불확실 다수)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "장령 신응망이 죽은 뒤, 남편 집안의 노비와 논밭을 이위 쪽이 십여 년 동안 차지하고 장터에서 노비까지 데려가자, 과부 정씨가 법전에 따라 본손에게 돌려 달라고 호소한 소지입니다(판독 불확실)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1658.4687-20101008.B017a_027_00033_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 293,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014802%5EL014802F02%5EL014802F0202&dataId=G002%2BAKS%2BKSM-XB.1658.4687-20101008.B017a_027_00033_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeongwol-shin/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1138,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

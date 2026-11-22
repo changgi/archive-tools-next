@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.117 곤장을 쓰지 않은 군수, 마흔한 살의 답안지 — 청양 안동김씨 집안의 두 장면"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "잘한 일은 누군가 지켜보고 기록한다 — 곤장 없이 다스린 군수도, 마흔한 살에 붙은 생원도."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.117"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "청양 안동김씨 삼당 김영 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/samdang/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/samdang/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 140
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1664년 김중일(金重鎰) 유서(諭書) (1664)"
+    ]
+   },
+   "width": 1400,
+   "height": 543,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1664"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "諭高陽前(?)郡守金重鎰 今觀本道右道暗行御史呂聖齊書啓 赴任半年 治聲已著 約己節用 以補官用 事多修擧 吏民相安 捧(?)糴之際 不用刑杖 民間□(?)捧色米者 品用以小器 從斛平捧 聲譽藉甚 邑民稱頌 善治實績 極爲可嘉 特賜熟馬一匹 爾其領受 故諭 康熙□(?)年十二月二十三日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고양 군수 김중일에게 이른다. 이제 본도 우도 암행어사 여성제(呂聖齊)의 서계(書啓)를 보니, 부임한 지 반년 만에 다스림의 명성이 이미 드러났다. 자신을 단속하고 씀씀이를 아껴 관아의 쓰임을 보태고, 여러 일을 잘 정비하여 아전과 백성이 서로 편안하다. 환곡을 거둘 때 형장(刑杖)을 쓰지 않았고, 백성에게서 색미(色米)를 받을 때는 작은 그릇으로 재어 말(斛)에 맞게 공평하게 받으니, 명성이 자자하고 고을 백성이 칭송한다고 한다. 잘 다스린 실적이 매우 가상하다. 특별히 길든 말(熟馬) 한 필을 내리니 그대는 받으라. 그러므로 이른다. 강희 □년(1664) 12월 23일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1664년 무렵 암행어사의 보고에 따라, 곤장 없이 공평하게 세금을 거둔 고양 군수 김중일을 칭찬하며 말 한 필을 내린 유서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1664.1111-20101008.B042a_064_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 140
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014428%5EL014428F02%5EL014428F0201&dataId=G002%2BAKS%2BKSM-XA.1664.1111-20101008.B042a_064_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/samdang/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 543
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "김유기(金裕己) 시권(試券) — 합경정시 문과 병과 제2인"
+    ]
+   },
+   "width": 992,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시권"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "今此合慶庭試文科丙科第二人望 / 生員臣金裕己 年四十一 本安東 居交河 / 父 學生 文厚 / 生父 通德郞 澤厚 / 天和斟於兕觥 先祝公於躋堂 … 芳樽映於彩衣 詠黃耇而綏之 … / (채점) 三下 / 六典(?)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(붙임쪽지) 이번 합경 정시 문과 병과 제2인. (응시자 정보) 생원 신 김유기, 나이 마흔하나, 본관 안동, 교하 거주. 아버지 학생 문후, 생부 통덕랑 택후. (답안 앞부분) 하늘의 화기를 뿔잔에 따르고, 먼저 당에 올라 공의 장수를 빈다 … 향기로운 술동이가 색동옷에 비치고, 늙은이를 노래하며 편안하게 한다 … (채점 표시) 삼하(三下)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "마흔한 살 생원 김유기가 합경 정시 문과 병과 제2인으로 합격한 답안지로, 채점 '三下'와 양자 관계가 적힌 피봉이 남아 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.0000.0000-20101008.B042a_064_00193_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 255,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014428%5EL014428F02%5EL014428F0204&dataId=G002%2BAKS%2BKSM-XD.0000.0000-20101008.B042a_064_00193_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/samdang/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 992,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1790년 김유기(金裕己) 고신(告身) (1790)"
+    ]
+   },
+   "width": 1400,
+   "height": 987,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1790"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "吏曹乾隆五十五年三月二十六日奉 敎 從仕郞金裕己爲承仕郞者 乾隆五十五年三月 日 / 權知承文院副正字 庚(?)三別加"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "이조에서 건륭 55년(1790) 3월 26일에 받든 교지. 종사랑 김유기를 승사랑으로 삼는다. 건륭 55년 3월 일. (아래 작은 글씨) 권지 승문원 부정자, 경(?)삼 별가."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1790년 권지 승문원 부정자 김유기의 품계를 종사랑에서 승사랑으로 올린 고신입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1790.1111-20101008.B042a_064_00041_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 254
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014428%5EL014428F02%5EL014428F0201&dataId=G002%2BAKS%2BKSM-XA.1790.1111-20101008.B042a_064_00041_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/samdang/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/samdang/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 987
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

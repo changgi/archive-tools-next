@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.43 \"기러기는 사람을 피하고 해오라기는 사람을 따른다\" — 단성향교와 장터"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "옛사람의 결정에는 그들 나름의 세계관(풍수)이 논리로 작동했다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.43"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "산청 단성향교"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/danseong/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/danseong/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 288,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1881년 향회회원(鄕會會員) 품목(稟目) (1881)"
+    ]
+   },
+   "width": 1120,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1881"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "품목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "稟目 / 節伏以設市邑底 一國通規 而惟獨本邑之不然 果有其故矣 … 本邑主脈來山 卽飛鴻下江也 校宮基址形局 卽春鷺寄巢也 鴻是避人之鳥 則邑底不可以設市 鷺是依人之鳥 則校基有益於設市 … 伏乞洞燭其前後事實 場市依古規出送之意 … / 辛巳(?)九月初四日 鄕會員 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "품목. 엎드려 아뢰건대, 읍내에 장을 여는 것은 온 나라의 통상 규정인데 오직 우리 고을만 그렇지 않은 데에는 과연 까닭이 있습니다. 삼가 향교에 간직된 [기록을] 살피건대, 고을을 처음 세울 때 이름난 지관이 말하기를 '이 고을의 주맥이 내려온 산은 날던 기러기가 강으로 내려앉는 형국(飛鴻下江)이고, 향교 터는 봄 해오라기가 둥지에 깃드는 형국(春鷺寄巢)이다. 기러기는 사람을 피하는 새이니 읍내에는 장을 열 수 없고, 해오라기는 사람을 따르는 새이니 향교 터 쪽은 장을 여는 데 이롭다. 진손(동남) 방향은 해오라기 새끼가 진흙을 머금고 물을 마시는 자리이므로 장터를 도천(道川)에 둔 것이 바로 이 때문이다' 하였습니다. 그래서 200여 년 동안 금석처럼 믿어 왔는데, 중간에 아전 무리가 대체를 모르고 이익만 좇아 고을과 감영에 글을 올려 장을 읍내로 끌어들이니, 10년 사이에 고을 일이 … 살인 옥사가 잇따르고 크고 작은 과거가 세 번이나 멈추었습니다. 그래서 고을 백성이 함께 일어나 여러 번 [감영에] 호소하여 백성의 원대로 하라는 처분까지 받았으나, 도천으로 돌리지 못하고 우선 본성(本城)에 두었으니, 향교 쪽 진손 방향이라는 점은 같았습니다. 그 뒤 거의 백 년이 지났는데, 몇 해 전 윤(尹) 사또 때에도 오늘처럼 … 지금 네댓 번 장을 끌어들였다가 미혹을 풀지 못하고 곧 다시 내보냈습니다. 풍수(靑烏)의 말이 비록 그윽하고 미묘하다 하나 이 고을에는 뚜렷한 증험이 있으니, 300년 동안 정해진 규정을 어찌 잠깐 사이에 까닭 없이 없애겠습니까. 이에 감히 소리를 모아 호소하오니, 엎드려 바라건대 앞뒤 사실을 살피시어 장터를 옛 규정대로 내보내도록 처분해 주십시오. 신사년(?) 9월 4일 향회원 권○·이○·박○ … 등."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "단성 고을은 지형이 '기러기가 강에 내려앉는 형국'이라 사람을 피하는 기러기를 놀라게 하지 않으려고 300년 동안 읍내에 장을 열지 않았다. 아전들이 이익 때문에 장을 끌어들이자 재앙이 잇따랐으니, 장터를 옛 규정대로 내보내 달라는 향회의 청원입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1881.4886-20101008.B050a_073_00030_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 288,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024806%5EL024806F02%5EL024806F0203&dataId=G002%2BAKS%2BKSM-XC.1881.4886-20101008.B050a_073_00030_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/danseong/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1120,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1893년 단성향교(丹城鄕校) 통문(通文) (1893)"
+    ]
+   },
+   "width": 1400,
+   "height": 965,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1893"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "통문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "通文 / 右文爲通告事 伏以自鄕校土地之亦入沒 校財蕩然 以空春秋俎豆而無享需之資矣 棟杇壁漏 而無修補之費矣 … 玆送有司以告 惟 僉尊另出誠力 以敦大事 千萬善甚 / 癸巳十一月 日 / 丹城鄕校 / 堂中"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "통문. 이 글은 두루 알리는 일이다. 엎드려 생각건대, 향교의 토지가 [관에] 들어가 몰수된 뒤로 향교 재산이 텅 비어, 봄가을 제사의 제기를 비워 둔 채 제수를 마련할 밑천이 없고, 기둥이 썩고 벽이 새어도 고칠 비용이 없다. 지금 다른 가르침이 날로 일어나 저마다 세력을 펼치는데, 우리 공자의 크고 바르고 지극한 가르침은 날로 사라져 가서, 향교조차 유지할 수 없게 되었다. 무릇 피와 기운을 갖추고 공자를 높일 줄 아는 우리가 어찌 하루라도 마음을 편히 하고 이를 지탱할 방책을 생각하지 않겠는가. 듣건대 다른 고을 향교는 이미 각자 정한 방책이 있는데 오직 우리 고을만 이처럼 미루고 미루어 지금에 이르렀으니 더욱 부끄럽고 송구하다. 이에 얼마 전 본 향교에서 향회를 열어 대략 규획을 정하고, 사람마다 정성과 힘을 내어 돈을 모으는 방법으로 하기로 하여, 이에 유사를 보내 알린다. 바라건대 여러분께서 특별히 정성과 힘을 내어 큰일을 도타이 해 주시면 천만다행이겠다. 계사년(1893) 11월 일. 단성향교. 당중(堂中, 각 문중·서당 앞)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "향교 토지가 몰수되어 제사도 지내기 어렵고 건물도 무너져 가는데, 다른 고을과 달리 대책이 없었으니, 향회에서 정한 대로 모두 정성껏 돈을 모아 달라는 단성향교의 통문입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1893.4886-20101008.B050a_073_00033_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024806%5EL024806F02%5EL024806F0206&dataId=G002%2BAKS%2BKSM-XF.1893.4886-20101008.B050a_073_00033_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/danseong/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/danseong/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 965
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.24 흉년에 판 밭, 전서로 쓴 혼서 — 이재 황윤석 집안"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "같은 집안 문서함에 굶주림의 기록과 학문의 자부심이 함께 들어 있다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.24"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "고창 흥덕 평해황씨 이재 황윤석 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hwangyunseok/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hwangyunseok/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 315
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1686년 모(母) 이씨(李氏) 분재기(分財記) (1686)"
+    ]
+   },
+   "width": 1400,
+   "height": 1225,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1686"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "분재기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "丙寅十二月十三日第二子命三處別給 / … 汝亦早喪 … 娶妻有子 … 婢 … 年十九戊申生 … 永永許給 / 財主 母李氏"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "병인년(1686) 12월 13일, 둘째 아들 명삼(命三)에게 따로 주는 문서. 이 문서를 만드는 까닭은, … (너의 형제가 일찍 죽고) 너도 어렵게 자라 장가들어 자식을 두었는데 … 첫째 아들 명휴(命休)에게 이미 따로 준 것이 있으니 너에게도 주지 않을 수 없다. 그러므로 여종 상금(?)의 첫째 소생인 여종 ○○(19세, 무신생)과 뒤에 낳을 자식까지 아울러 영원히 준다. 뒷날 (자손) 가운데 말썽이 있으면 이 문서를 가지고 관에 고하여 바로잡을 일이다. 재산 주인 어머니 이씨. 증인 남편의 삼촌 조카 이명신. 쓴 사람 남편의 동생 이상(?)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "어머니가 큰아들에게 이미 재산을 따로 준 만큼, 어렵게 자라 가정을 꾸린 둘째 아들에게도 여종 한 명과 그 자식을 영원히 물려준다는 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XE.1686.0000-20170529.C0402_002_00031_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 315
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014724%5EL014724F02%5EL014724F0205&dataId=G002%2BKHD%2BKSM-XE.1686.0000-20170529.C0402_002_00031_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1225
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1698년 김나그내(金羅斤乃) 명문(明文) (1698)"
+    ]
+   },
+   "width": 1400,
+   "height": 1098,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1698"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "명문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙三十七年戊寅五月卄日李生員奴金元處明文 / 右明文事段 連値凶歉 家計板蕩之中 … 價折錢文拾兩 … / 田主 金羅斤乃"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 37년 무인(1698) 5월 20일, 이 생원 댁 종 김원(金元) 앞으로 써 주는 매매 문서. 이 문서를 만드는 까닭은, 흉년이 거듭되어 집안 살림이 거덜 난 데다 돌림병까지 겹쳐 살아갈 온갖 방도가 없으므로, 형편상 어쩔 수 없이, 박막금에게서 사서 갈아먹던 덕(德)○ 서쪽 선운포 동쪽 작은 길 아래에 있는 '유(唯)'자 밭 3두 5승락(씨앗 서 말 닷 되를 뿌리는 넓이), 경작 면적 7부짜리를 돈 10냥으로 값을 쳐 그 수대로 받고, 위 사람에게 본래의 문서까지 함께 영원히 판다. 뒷날 누구라도 말썽을 부리면 이 문서를 가지고 관에 고하여 바로잡을 일이다. 밭 주인 김나그내(왼손 손마디 그림), 증인 절의 종 박원학, 보증인 사노 도○, 쓴 사람 남사선."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "흉년과 돌림병으로 살 길이 막힌 김나그내가 자기가 사서 부치던 밭 3두 5승락을 10냥에 이 생원 댁(종 김원 명의)에 영원히 판 계약서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XE.1698.0000-20170529.C0402_002_00045_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 282
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014724%5EL014724F02%5EL014724F0205&dataId=G002%2BKHD%2BKSM-XE.1698.0000-20170529.C0402_002_00045_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1098
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1712년 황재중(黃載重) 소지(所志) (1712)"
+    ]
+   },
+   "width": 1092,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1712"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "泰仁寓民黃載重 / 右所志矣段 矣亡父 昨年寓居 古縣內之地 … 不幸身死之後 矣身占得葬地於山外面龍頭山 … / 兼城主 處分 / 壬辰二月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "태인에 떠돌아 사는 백성 황재중. 이 소지의 사연은 이렇습니다. 저의 돌아가신 아버지가 지난해 고현 안 땅에 붙어살다가 불행히 돌아가신 뒤, 제가 산외면 용두산의 경좌(庚坐) 자리를 장지로 잡았습니다. 그 근처에는 다른 사람의 무덤이 전혀 없고, 잡은 땅은 소와 말이 밟고 다니며 아무 집도 금하거나 지키지 않던 곳입니다. 제가 오늘 무덤 구덩이를 파고 내일(?) 장사를 지내려 했는데, 뜻밖에 마을 사람이 갑자기 막으려는 마음을 먹고, 어제 그 사이에 자기 '이표(理表)'가 묻혀 있다며 장사를 못 지내게 합니다. 이른바 이표라는 것은 흙을 모아 무덤 모양을 만들고 땅을 얻은 해와 달을 자세히 적어 그 속에 묻어 두고, 그 사연을 관에 신고한 뒤에야 자기 땅으로 삼아 남을 막을 수 있는 것입니다. 그런데 지금 이 사람이 이표라 하는 것은, 제가 잡은 산자락에 과연 흙 한 줌의 모양도 없으니 이는 여러 사람이 눈으로 본 바입니다. … 제가 이 산을 잡은 지 이미 열흘이 넘었고 그 사람은 같은 마을에 사는데, 제가 잡던 날에는 아무 말이 없다가 어제야 갑자기 막으려 하니 참으로 무슨 까닭인지 모르겠습니다. 효자의 집에서 장례보다 큰일이 어디 있겠습니까. 저는 떠돌아 사는 외롭고 약한 사람으로 장례 비용을 어렵게 마련해 바야흐로 장사를 지내려는데 까닭 없이 남에게 막히니, 이 비통하고 어찌할 바 모르는 모습은 지나가는 사람이 들어도 원통하다 할 것입니다. 온 식구가 머리를 맞대고 하늘에 부르짖다가 원통함을 이기지 못해 감히 어질고 밝게 법을 집행하시는 분께 호소합니다. 엎드려 비오니 직접 살펴 사정을 밝게 아신 뒤 제가 기한 안에 편안히 장사 지내게 해 주시면 하늘과 땅 같은 은혜를 어찌 갚겠습니까. … 겸성주께서 처분하소서. 임진년(1712) 2월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "아버지를 산외면 용두산에 묻으려던 황재중이, 장례 전날 마을 사람이 '여기 우리 이표가 묻혀 있다'며 막자, '그런 흔적은 흙 한 줌도 없고 열흘 동안 아무 말 없다가 이제야 막는다'며 직접 조사해 장사를 지내게 해 달라고 호소한 글입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XB.1712.0000-20170529.C0402_002_00002_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 281,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014724%5EL014724F02%5EL014724F0202&dataId=G002%2BKHD%2BKSM-XB.1712.0000-20170529.C0402_002_00002_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1092,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1780년 황윤석(黃胤錫) 혼서(婚書) (1780)"
+    ]
+   },
+   "width": 1400,
+   "height": 1068,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1780"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "혼서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(전서체) 平海黃胤錫白 … / … 再拜 (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(판독한 부분) 평해 황윤석이 아룁니다. … 두 번 절합니다. (납폐서의 정해진 서식대로라면, '좋은 뜻을 받들어 귀댁 따님을 저의 아들에게 허락해 주시니, 선인의 예에 따라 삼가 사람을 보내 납폐의 예를 행합니다'라는 내용이 이어질 것입니다. 실제 문장은 전서 판독으로 확인해야 합니다.)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "황윤석이 집안 혼사에 보낸 납폐서를, 학자답게 옛 전서체로 정성 들여 쓴 문서입니다. 서식은 다른 납폐서와 같을 것으로 보입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.1780.0000-20170529.C0402_002_00076_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 275
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014724%5EL014724F02%5EL014724F0206&dataId=G002%2BKHD%2BKSM-XF.1780.0000-20170529.C0402_002_00076_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hwangyunseok/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1068
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

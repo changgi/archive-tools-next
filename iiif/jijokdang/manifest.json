@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.113 \"새로 만든 것 같구나\" — 배 가득 무기를 실어 보낸 제주목사, 그리고 열여섯 번째 밀부"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "성실함은 기록에 남는다 — '새로 만든 것 같다'는 한 줄이 8년 뒤의 신뢰로 이어진다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.113"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "함양 안의 밀양박씨 지족당 박명부 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jijokdang/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jijokdang/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 240
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1627년 박명부(朴明榑) 유서(諭書) (1627)"
+    ]
+   },
+   "width": 1400,
+   "height": 935,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1627"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "諭濟州牧使朴明榑 各樣軍器 滿舡載送 點檢則 非但無一欠缺 鳥銃弓箭甲冑等 俱極精利 一如新造 雖以許多物力 閱歲措備 難望如是 辦得極爲可嘉 特賜表裡一襲 爾其領受 故諭 天啓七年十月三十日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "제주목사 박명부에게 이른다. 여러 가지 군기(軍器)를 배에 가득 실어 보냈기에 점검해 보니, 하나도 빠지거나 모자란 것이 없을 뿐 아니라, 조총 · 활과 화살 · 갑옷과 투구 등이 모두 매우 정교하고 날카로워 마치 새로 만든 것 같았다. 비록 많은 물력을 들여 해를 넘겨 갖춘다 하더라도 이와 같기를 바라기 어려운데, 이렇게 마련해 냈으니 매우 가상하다. 특별히 옷감(表裏) 한 벌을 내리니 그대는 받으라. 그러므로 이른다. 천계 7년(1627) 10월 30일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1627년 제주목사 박명부가 배에 실어 보낸 군기가 새것처럼 정교하다며 임금이 칭찬하고 옷감을 내린 유서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1627.0000-20161223.C0807_002_00003_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0150%5EL015021%5EL015021F02%5EL015021F0201&dataId=G002%2BKHD%2BKSM-XA.1627.0000-20161223.C0807_002_00003_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 935
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1635년 박명부(朴明榑) 증조고(曾祖考) 박승숙(朴承淑) 고신(告身) (1635)"
+    ]
+   },
+   "width": 1400,
+   "height": 935,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1635"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 忠順衛勵節校尉朴承淑 贈通訓大夫通禮院左通禮者 崇禎八年四月二十一日 / 通政大夫守公淸道觀察使兼兵馬水軍節度使朴明榑曾祖考 依大典 追贈"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 충순위 여절교위 박승숙에게 통훈대부 통례원 좌통례를 추증한다. 숭정 8년(1635) 4월 21일. 통정대부 수 공청도관찰사 겸 병마수군절도사 박명부의 증조부이므로 『경국대전』에 따라 추증한다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1635년 충청도 관찰사가 된 박명부의 증조부 박승숙에게 법전에 따라 벼슬을 추증한 교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1635.0000-20161223.C0807_002_00041_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0150%5EL015021%5EL015021F02%5EL015021F0201&dataId=G002%2BKHD%2BKSM-XA.1635.0000-20161223.C0807_002_00041_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 935
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1635년 박명부(朴明榑) 유서(諭書) (1635)"
+    ]
+   },
+   "width": 1400,
+   "height": 596,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1635"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "諭守公淸道觀察使兼兵馬水軍節度使巡察使朴明榑 卿受委一方 體任非輕 凡發兵應機 安民制敵 一應常事 自有舊章 慮或有予與卿獨斷處置事 非密符莫可施爲 且意外奸謀 不可不預防 如有非常之命 合符無疑 然後當就命 故賜押第十六符 卿其受之 故諭 崇禎八年五月初二日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "수 공청도관찰사 겸 병마수군절도사 순찰사 박명부에게 이른다. 경은 한 지방을 맡았으니 그 임무가 가볍지 않다. 군사를 내어 형편에 맞게 움직이고, 백성을 편안히 하고 적을 제압하는 모든 일상적인 일에는 본래 정해진 규정이 있다. 다만 혹 나와 경만이 홀로 판단하여 처리해야 할 일이 있을까 염려되니, 그런 일은 밀부가 아니면 시행할 수 없다. 또 뜻밖의 간사한 꾀를 미리 막지 않을 수 없다. 만약 비상한 명령이 있거든, 부신을 맞추어 보아 의심이 없은 뒤에 명을 따르라. 그러므로 제16부를 압(押)하여 내리니 경은 받으라. 그러므로 이른다. 숭정 8년(1635) 5월 2일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1635년 충청도 관찰사 박명부에게 '제16부' 밀부를 내리며, 부신을 맞춰 의심이 없을 때만 명을 따르라고 이른 유서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1635.0000-20161223.C0807_002_00004_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 153
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0150%5EL015021%5EL015021F02%5EL015021F0201&dataId=G002%2BKHD%2BKSM-XA.1635.0000-20161223.C0807_002_00004_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 596
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

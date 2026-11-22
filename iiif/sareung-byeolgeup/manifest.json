@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.162 할머니들이 쓴 선물 문서 — 해주정씨 집안의 별급문기 네 장 (1625–1701)"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "재산을 주는 사람은 여성, 문서를 쓰는 사람은 증손자 · 아들 · 조카 · 생부 — 조선 여성은 자기 이름(성)과 도장으로 재산을 나누었고, 그 까닭을 문서에 남겼다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.162"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "양주 사릉 해주정씨 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sareung-byeolgeup/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sareung-byeolgeup/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 297,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1625년 조모(祖母) 정경부인(貞敬夫人) 윤씨(尹氏) 별급문기(別給文記) (1625)"
+    ]
+   },
+   "width": 1156,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1625"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "별급문기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "天啓五年乙丑五月十日 孫鄭元奭處成文 右成文爲 楊州豐壤白庭伏坐(?)字畓伍拾斗落只庫乙 山所近處乙仍于 汝矣處別給爲去乎 後次子孫族屬中 雜談爲去等 將此文記 告官卞正者 財主 祖母貞敬夫人尹 (인) 筆執 曾孫鄭援 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "천계 5년 을축(1625) 5월 10일, 손자 정원석에게 써 주는 문서. 이 문서는, 양주 풍양 백정 … 자 논 쉰 마지기가 산소(묘) 가까운 곳이므로 너에게 따로 준다. 뒷날 자손 · 친족 가운데 딴말하는 자가 있거든 이 문서를 가지고 관에 고하여 바로잡을 것. 재주 할머니 정경부인 윤씨 (도장). 필집 증손 정원 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1625년 정경부인 윤씨가 산소 가까운 논 쉰 마지기를 손자에게 별급하고, 증손이 문서를 받아 적은 별급문기입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XE.1625.0000-20181030.C1003_002_00388_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 297,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014168%5EL014168F02%5EL014168F0205&dataId=G002%2BKHD%2BKSM-XE.1625.0000-20181030.C1003_002_00388_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1156,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1632년 조모(祖母) 오익(吳翊) 처(妻) 이씨(李氏) 별급문기(別給文記) (1632)"
+    ]
+   },
+   "width": 1400,
+   "height": 969,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1632"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "별급문기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "崇禎五年壬申正月二十七日 孫女哲嬉處別給 右文 汝生而穎悟 喜愛無比 爲孫況是 … 自 … 之初 度 … 用 … 婢 … 伊 一所生婢命推年 … 生婢 … 孝 … 年 … 生 … 永永許給爲去乎 雜談 … 侍此 … 財主 祖母李 (인) 筆執 子吳挺奎 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "숭정 5년 임신(1632) 정월 27일, 손녀 철희에게 따로 주는 문서. 이 문서는, 네가 태어나면서부터 영리하고 깨우침이 빨라 기쁘고 사랑스러움이 견줄 데가 없었는데, 손녀가 되어 … 하물며 … (혼인의) 첫날을 맞아 … 여종 …이의 첫째 소생 여종 명추(?) … 와 … 를 영원히 허락하여 준다. … 딴말이 있거든 이 문서를 … 재주 할머니 이씨 (도장). 필집 아들 오정규 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1632년 할머니 이씨가 '기쁘고 사랑스러움이 견줄 데가 없다'며 손녀 철희에게 여종을 준 별급문기로, 아들 오정규가 받아 적었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XE.1632.0000-20181030.C1003_002_00390_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 249
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014168%5EL014168F02%5EL014168F0205&dataId=G002%2BKHD%2BKSM-XE.1632.0000-20181030.C1003_002_00390_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 969
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1642년 유여직(兪汝稷) 처(妻) 정씨(鄭氏) 별급문기(別給文記) (1642)"
+    ]
+   },
+   "width": 1284,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1642"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "별급문기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "壬午五月初四日 同姓三寸姪 進士鄭植前成文 右文事段 余老年不幸 一年之間 連喪二子 零丁孤苦 子子無依 汝亦事 … 顧見眷我 至誠盡義 雖姪 … 似己出 … 表意 況此今日 冤捷(?)進士 喜悅之情 無量 … 母子 茲將 … 婢 … 一所生婢仁春 年十 … 又 … 一所生奴 … 永永許給 … 後所生 幷以 永永 … 子孫中 如有雜談者 告官卞正事 財主 同姓三寸叔母 故學生兪汝稷妻鄭 (인) 筆執 家翁 前參奉 … 姪 李 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임오년(1642) 5월 4일, 동성 삼촌 조카 진사 정식에게 써 주는 문서. 이 문서의 일은, 내가 늘그막에 불행하여 한 해 사이에 두 아들을 잇달아 잃고 외롭고 괴롭게 의지할 데가 없었는데, 너 또한 … 나를 돌아보고 보살펴 정성과 의리를 다하였으니, 비록 조카이나 내 배로 낳은 자식과 같다. … 마음을 드러내려 하던 차에, 하물며 오늘 진사에 합격하였으니 기쁜 마음이 헤아릴 수 없다. … 이에 여종 …의 첫째 소생 여종 인춘(열 … 살)과 … 의 첫째 소생 사내종 … 를 뒤에 낳을 자식까지 아울러 영원히 허락하여 준다. 자손 가운데 딴말하는 자가 있거든 관에 고하여 바로잡을 것. 재주 동성 삼촌 숙모 고 학생 유여직의 아내 정씨 (도장). 필집 …."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1642년 두 아들을 잃은 숙모 정씨가, 자기를 자식처럼 돌보고 마침 진사에 합격한 조카 정식에게 노비를 준 별급문기입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XE.1642.0000-20181030.C1003_002_00394_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 330,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014168%5EL014168F02%5EL014168F0205&dataId=G002%2BKHD%2BKSM-XE.1642.0000-20181030.C1003_002_00394_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1284,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1701년 정이녕(鄭以寧) 처(妻) 청주경씨(淸州慶氏) 별급문기(別給文記) (1701)"
+    ]
+   },
+   "width": 1374,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1701"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "별급문기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙四十年辛巳二月二十七日 養子運熙處別給 右文 一自得汝以來 每思表我情 而奠遑(?)未果矣 今將祖先傳來金化接婢莫禮一所生奴天奉年戊申生 二所生奴善後年壬子生 三所生奴善海年戊午生 三口乙 許與 以表子情 鎭長使喚者 財主 養母慶 (인) 筆執 生父前參奉鄭 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 40년 신사(1701) 2월 27일, 양아들 운희에게 따로 주는 문서. 이 문서는, 너를 얻은 뒤로 늘 내 정을 드러내고자 생각했으나 겨를이 없어 이루지 못했다. 이제 조상 때부터 전해 오는 금화(金化)에 사는 여종 막례의 첫째 소생 사내종 천봉(무신생), 둘째 소생 사내종 선후(임자생), 셋째 소생 사내종 선해(무오생) 세 사람을 허락하여 주어, 자식에 대한 정을 드러내니 길이 부리도록 할 것. 재주 양어머니 경씨 (도장). 필집 생부 전 참봉 정 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1701년 양어머니 청주경씨가 '너를 얻은 뒤로 늘 정을 드러내고자 했다'며 양아들 운희에게 노비 셋을 주고, 운희의 생부가 받아 적은 별급문기입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XE.1701.0000-20181030.C1003_002_00405_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 353,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014168%5EL014168F02%5EL014168F0205&dataId=G002%2BKHD%2BKSM-XE.1701.0000-20181030.C1003_002_00405_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sareung-byeolgeup/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1374,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

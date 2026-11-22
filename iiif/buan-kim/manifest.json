@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.62 \"백성이 아전 얼굴을 보지 않았다\" — 금산군수 김홍원과 부안김씨"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "좋은 행정은 '백성이 아전의 얼굴을 보지 않는 것'으로 기억되었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.62"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "부안 우반 부안김씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/buan-kim/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/buan-kim/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 310,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1502년 김석필(金錫弼) 문과 홍패(文科紅牌) (1502)"
+    ]
+   },
+   "width": 1205,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1502"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 成均館生員金錫弼文科丙科第七人及第出身者 / 弘治十五年三月十九日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 성균관 생원 김석필을 문과 병과 제7인으로 급제하여 출신한 사람으로 삼는다. 홍치 15년(1502) 3월 19일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "성균관 생원 김석필이 문과 병과 7등으로 급제했음을 증명하는 홍패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1502.1111-20101008.B002a_002_00083_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 310,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014720%5EL014720F02%5EL014720F0201&dataId=G002%2BAKS%2BKSM-XA.1502.1111-20101008.B002a_002_00083_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1205,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1600년 김홍원에게 내린 국왕의 명령서 (1600)"
+    ]
+   },
+   "width": 1336,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1600"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "명령서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "錦山郡守金弘遠 開拆 / 同副承旨閔(押) / 今見御史書啓 爾爲國誠深 莅民才長 賦役平均 民不見吏 流亡還集 田野盡闢 不以自己私事及民 極爲可嘉 玆賜表裏一襲 爾其領受事 有旨 / 萬曆二十八年四月初六日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "금산군수 김홍원이 열어 볼 것. 동부승지 민(閔)이 씀. 이제 어사의 보고서를 보니, 너는 나라를 위하는 정성이 깊고 백성을 다스리는 재주가 뛰어나, 부역을 고르게 하여 백성이 아전의 얼굴을 보지 않았고, 떠돌던 백성이 돌아와 모이고 들판이 모두 개간되었으며, 자기의 사사로운 일로 백성에게 미치게 하지 않았다 하니 매우 가상하다. 이에 겉감과 안감 한 벌을 내리니 너는 받으라는 유지. 만력 28년(1600) 4월 6일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전쟁 뒤 금산군수 김홍원이 부역을 고르게 하고 흩어진 백성을 돌아오게 하며 들판을 다 개간했다는 어사의 보고를 듣고, 임금이 칭찬하며 옷감 한 벌을 내린 명령서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1600.1111-20101008.B002a_002_00105_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 344,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014720%5EL014720F02%5EL014720F0201&dataId=G002%2BAKS%2BKSM-XA.1600.1111-20101008.B002a_002_00105_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1336,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1742년 이후 김방길(金邦佶) 처(妻) 오씨(吳氏) 소지(所志) (1742)"
+    ]
+   },
+   "width": 956,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1742"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "立下 故金邦佶妻吳氏 / 右謹言所志段 女身命道奇薄 早失所天 且無子女 而家翁以累代宗孫 不可不立後 故門長及兩家相議 家翁四寸兄邦係第二子賢得 以爲成文立後之地 爲去乎 告 … 依例立旨題下 向敎是事"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "입안을 내려 주십시오. 돌아간 김방길의 아내 오씨. 삼가 아뢰는 소지. 저는 팔자가 기박하여 일찍 남편(所天, 하늘같이 여기는 사람)을 잃었고 자식도 없습니다. 그런데 남편은 여러 대 이어 온 종손이라 후사를 세우지 않을 수 없으므로, 문장(門長)과 두 집이 의논하여 남편의 사촌 형 방계의 둘째 아들 현득을 후사로 세우는 문서를 만들려 하오니, … 임금께 예조의 허가(禮斜)를 받는 뜻으로 예에 따라 입지를 내려 주시도록 처분해 주십시오."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "일찍 남편을 잃고 자식이 없는 오씨가, 종손인 남편의 대를 잇기 위해 문중과 의논한 대로 남편의 사촌 형의 둘째 아들을 양자로 세우도록 입지를 내 달라고 청한 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.0000.4580-20101008.B002a_002_00124_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 246,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014720%5EL014720F02%5EL014720F0202&dataId=G002%2BAKS%2BKSM-XB.0000.4580-20101008.B002a_002_00124_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 956,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

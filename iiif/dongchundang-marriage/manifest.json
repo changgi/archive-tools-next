@@ -1,0 +1,1277 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "혼인과 호적으로 보는 집안의 생활사"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "고문서는 거창한 정치사만이 아니라 혼인과 가족, 살림의 기록이라는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "기획 예시"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "대전 회덕 은진송씨 동춘당 송준길 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/dongchundang-marriage/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/dongchundang-marriage/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 257
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1660년 나성두(羅星斗) 허혼답서(許婚答書) (1660)"
+    ]
+   },
+   "width": 1400,
+   "height": 1000,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1660"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "허혼답서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "忝親海州牧使安定羅星斗啓 / 尊親家執事伏承 嘉命委禽寒宗 … / 庚子二月初三日 忝親羅星斗 再拜"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사돈이 되는 해주목사 안정(본관) 나성두가 아룁니다. 사돈댁 집사께. 좋은 분부를 받들어, 보잘것없는 저희 집안에 혼인 예물(기러기)을 맡기려 하시니, 돌아보건대 조카딸이 평소 가르침을 받지 못해 감당하지 못할까 두렵습니다. 그러나 점괘가 이미 길하게 맞았으니 제가 어찌 사양하겠습니까. 또 옛 법도를 따라 귀한 예물까지 주시니 감히 거듭 절하며 오직 분부를 따르지 않겠습니까. 엎드려 바라건대 사돈께서 특별히 헤아려 주십시오. 다 갖추지 못합니다. 경자년(1660) 2월 3일. 사돈 나성두 두 번 절함."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'보잘것없는 저희 집안에 혼인을 청해 주셨는데, 조카딸이 가르침을 제대로 받지 못해 감당하지 못할까 두렵습니다. 그러나 점괘가 이미 길하니 어찌 사양하겠습니까. 옛 법에 따라 귀한 예물까지 주시니 거듭 절하며 오직 분부를 따르겠습니다'라는 내용입니다. 같은 날짜의 송준길 납폐서와 짝을 이루며, 신부는 나성두의 조카딸(나성원의 딸)입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1660.3023-20101008.B058a_083_00323_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 257
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0206&dataId=G002%2BAKS%2BKSM-XF.1660.3023-20101008.B058a_083_00323_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1000
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1660년 송준길(宋浚吉) 납폐서(納幣書) (1660)"
+    ]
+   },
+   "width": 1400,
+   "height": 810,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1660"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "납폐서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "恩津宋浚吉啓 / 海州牧使尊親家執事 … 許以令姪女貺室 浚吉之第二孫男炳夏 … 敬遣使者行納幣禮 / 庚子二月三日 恩津宋浚吉 再拜 / (겉봉) 上狀 海州牧使尊親家執事"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "은진 송준길이 아룁니다. 해주목사 사돈댁 집사께. 사돈께서 저희를 하찮다 여기지 않으시고 영질녀(조카따님)를 저의 둘째 손자 병하의 아내로 허락해 주셨습니다. 이에 선인의 예법이 있어 삼가 사람을 보내 납폐의 예를 행합니다. 엎드려 바라건대 사돈께서 특별히 헤아려 주십시오. 다 갖추지 못합니다. 경자년(1660) 2월 3일. 은진 송준길 두 번 절함. (겉봉) 해주목사 사돈댁 집사께 올리는 편지."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'해주목사께서 저희를 하찮게 여기지 않고 조카따님을 저의 둘째 손자 병하(炳夏)의 아내로 허락해 주셨습니다. 이에 선인의 예법에 따라 삼가 사람을 보내 납폐의 예를 행합니다'라는 내용입니다. 할아버지 송준길이 손자 송병하의 혼사를 주관했으며, 신부 쪽 혼주는 해주목사 나성두입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1660.3023-20101008.B058a_083_00322_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 208
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0206&dataId=G002%2BAKS%2BKSM-XF.1660.3023-20101008.B058a_083_00322_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 810
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1681년 회덕현감(懷德縣監) 준호구(準戶口) (1681)"
+    ]
+   },
+   "width": 1400,
+   "height": 1242,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1681"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙二十年 月 日 懷德 … 准戶口 / 戶 … 宋 … / 父 … 祖 … 曾祖 … 外祖 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 20년(1681) 월 일 회덕현. 신유년 호적대장을 상고하니, 현내 제1리 비래동 제6통 제2호, 장사랑 전 희릉참봉 송병하, 36세 병술생, 본관 은진. 아버지 중훈대부 행 공조정랑 광식. 할아버지 정헌대부 의정부 좌참찬 겸 성균관 좨주 세자찬선, 대광보국숭록대부 의정부 영의정 겸 영경연·홍문관·예문관·춘추관·관상감사 세자사로 추증된 준길. 증조 통훈대부 행 영천군수, 자헌대부 이조판서 겸 지의금부사 오위도총부 도총관으로 추증된 이창. 외조 가선대부 사헌부 대사헌 겸 수 홍문관 대제학·예문관 대제학, 동지경연·춘추관·성균관사, 세자우부빈객 조석윤, 본관 백천. 아내 나씨, 35세 정해생, 본관 안정. 아버지 학생 성원, 할아버지 행 가선대부 형조참의로 대광보국숭록대부 의정부 좌의정 겸 영경연사·감춘추관사에 추증된 만갑, 증조 행 통훈대부 시강원 보덕 겸 성균관 편수관으로 영의정에 추증된 …, 외조 통정대부 전 행 철원부사 권순창, 본관 안동. 거느린 아들 대경, 14세 무신생. (이하 노비 명단 — 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "회덕현 내면 비래동 제6통 제2호, 장사랑 전 희릉참봉 송병하(36세, 은진 송씨)의 호적입니다. 아버지 송광식, 할아버지 송준길(영의정 추증), 증조 송이창, 외조 조석윤이 적혀 있고, 아내는 나씨(35세, 안정 나씨)로 아버지가 학생 나성원, 할아버지가 나만갑입니다. 아들 대경(14세)과 노비들이 이어집니다. 1660년 혼례의 신랑·신부가 21년 뒤 부부로 호적에 올라 있는 것입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1681.3023-20101008.B058a_083_00241_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 319
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0204&dataId=G002%2BAKS%2BKSM-XD.1681.3023-20101008.B058a_083_00241_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1242
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1697년 회덕현감(懷德縣監) 준호구(準戶口) (1697)"
+    ]
+   },
+   "width": 1400,
+   "height": 545,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1697"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙三十六年 … / 行縣監 (수결) / 准戶口"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(오른쪽 절반) 강희 36년(1697) 7월 일 회덕현. 병자년 호적대장을 상고하니, 현내면 제1 법천동리 제○통 제○호, 통훈대부 전 행 장악원정 송병하, 51세, 본관 은진. 아버지 중훈대부 행 공조정랑으로 통정대부 승정원 좌승지 겸 경연참찬관에 추증된 광식. 할아버지 정헌대부 의정부 좌참찬 겸 성균관 좨주 세자찬선, 영의정에 추증되고 시호가 문정공인 준길. 증조 … 이창. 외조 … 숭정대부 의정부 좌찬성 … 에 추증된 조석윤, 본관 백천. 아내 숙인 나씨, 50세 정해생, 본관 안정. 아버지 가선대부 호조참판 겸 동지의금부사 … 로 추증된 … (이하 왼쪽 절반 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "16년 뒤인 1697년, 통훈대부 전 장악원정 송병하(51세)의 호적입니다. 아버지·할아버지의 관직이 추증으로 높아졌고(송준길에게는 '문정공' 시호가 붙음), 아내 나씨는 숙인(淑人)이라는 작호를 받았습니다. 1681년 준호구와 나란히 놓으면 집안의 지위 변화가 한눈에 보입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1697.3023-20101008.B058a_083_00242_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 140
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0204&dataId=G002%2BAKS%2BKSM-XD.1697.3023-20101008.B058a_083_00242_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 545
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1720년 송요화(宋堯和) 호구단자(戶口單子) (1720)"
+    ]
+   },
+   "width": 1115,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1720"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "호구단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "戶口 … 宋堯和 … (흘림 글씨, 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(흘림 글씨 — 판독 필요) 송요화의 호구단자."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "송요화 집안의 주소, 호주와 4조, 아내, 자녀, 노비를 신고한 서류입니다. 얼룩과 흘림 글씨가 있어 세부 인원과 이름은 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1720.3023-20101008.B058a_083_00244_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 287,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0204&dataId=G002%2BAKS%2BKSM-XD.1720.3023-20101008.B058a_083_00244_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1115,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1783년 한성부(漢城府) 준호구(準戶口) (1783)"
+    ]
+   },
+   "width": 1098,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1783"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "乾隆四十八年 月 日 漢城府 / 准戶口 … / 堂上 郞廳 監董官"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "건륭 48년(1783) 월 일 한성부 준호구 … (관원) 당상·낭청·감동관. (본문 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "서울 한성부의 호적에 오른 송씨 집안 사람의 가족과 조상을 확인해 준 문서입니다. 회덕을 근거지로 한 집안이 서울에도 호적을 두었던 사정은 본문 판독과 다른 자료로 확인해 볼 만합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1783.1111-20101008.B058a_083_00260_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 282,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0204&dataId=G002%2BAKS%2BKSM-XD.1783.1111-20101008.B058a_083_00260_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1098,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/7",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1825년 송영로(宋永老) 호구단자(戶口單子) (1825)"
+    ]
+   },
+   "width": 1236,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1825"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "호구단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "道光五年 … 戶口單子 … 宋永老 … (흘림 글씨, 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(오른쪽 위) 호적단자. 내남면 송촌리 제○통 제○호, 유학 송영로, 22세 계해생, 본관 은진. 아버지 통훈대부 행 고령현감 상주진관 병마절제도위 규희(?). 할아버지 통훈대부 행 양근군수 광주진관 병마동첨절제사 계래. 증조 학생 기연. 외조 통훈대부 행 서흥현감 황주진관 병마동첨절제사 김안묵, 본관 청풍. 아내 이씨, 22세 갑자생, 본관 연안. 아버지 통훈대부 전 행 사직서령 현응. 할아버지 보국숭록대부 판중추부사 겸 지경연·홍문관 대제학·예문관 대제학·지춘추관·성균관사·오위도총부 도총관·세자좌빈객, 치사 봉조하, 시호 문정공 ○. 증조 통훈대부 행 김제군수로 영의정 등에 추증된 정○. 외조 학생 송용섭(?), 본관 진천. (이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "회덕 내남면 송촌리에 사는 유학 송영로(22세, 1803년생)의 호적 신고서입니다. 아버지는 고령현감, 할아버지는 양근군수를 지냈고, 아내 이씨(22세, 연안 이씨)의 할아버지는 시호가 문정공인 판중추부사로 적혀 있습니다. 1862년 빙고별제에 임명되는 송영로의 젊은 날 기록입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1825.3023-20101008.B058a_083_00279_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/thumb/07.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 318,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0204&dataId=G002%2BAKS%2BKSM-XD.1825.3023-20101008.B058a_083_00279_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/7",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1236,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/8",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "연길단자(涓吉單子)－3"
+    ]
+   },
+   "width": 1400,
+   "height": 903,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "연길단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "奠鴈四月初六日 / 納幣同日先行 / (겉봉) 涓吉"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전안(기러기를 올리는 혼례)은 4월 6일. 납폐는 같은 날 먼저 행함. (겉봉) 연길(좋은 날을 골라 알림)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "혼례의 전안례(신랑이 기러기를 올리는 의식)를 4월 6일에 하고, 납폐는 같은 날 먼저 행한다고 알리는 내용입니다. 혼인 날짜와 절차의 순서를 한 장으로 정해 보낸 것입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.0000.3023-20101008.B058a_083_00339_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/thumb/08.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 232
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0206&dataId=G002%2BAKS%2BKSM-XF.0000.3023-20101008.B058a_083_00339_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/8/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/canvas/8",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/08.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 903
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/obong/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.69 \"횃불 든 도적을 잡았으니\" — 창원부사 신지제에게 내린 광해군의 교서"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "'마을이 다시 편안해지고 북소리가 울리지 않았다' — 좋은 다스림의 기준은 평온이었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.69"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "의성 아주신씨 오봉 신지제 가문"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/obong/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/obong/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/obong/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 307
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/obong/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1605년 신지제(申之悌) 유지(有旨) (1605)"
+    ]
+   },
+   "width": 1400,
+   "height": 1194,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1605"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "右副承旨鄭(押) / 今以爾爲司憲府持平 爾其斯速上來事 有旨 / 萬曆三十三年五月十五日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "우부승지 정(鄭)이 씀. 이제 너를 사헌부 지평으로 삼으니, 너는 서둘러 올라오라는 유지. 만력 33년(1605) 5월 15일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "신지제를 사헌부 지평으로 삼으니 서둘러 올라오라는 명령서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1605.1111-20101008.B052b_077_00141_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/obong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 307
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016741%5EL016741F02%5EL016741F0201&dataId=G002%2BAKS%2BKSM-XA.1605.1111-20101008.B052b_077_00141_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/obong/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/obong/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/obong/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/obong/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1194
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/obong/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1617년 광해군(光海君) 교서(敎書) (1617)"
+    ]
+   },
+   "width": 1400,
+   "height": 949,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1617"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎昌原府使申之悌 明火作賊鄭大立等 盡心跟捕 賞加書 / 王若曰 凡民罔不憝 旣姦宄之就誅 懋賞待有功 宜勉勵而增秩 玆循舊典 用霈殊恩 惟爾剛以濟柔 學而爲政 昔秉驄於憲府 凜凜生風 逮割雞於名城 恢恢游刃 尤善鉤距 寔稱神明 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "창원부사 신지제가 횃불 든 도적(명화적) 정대립 등을 마음을 다해 뒤쫓아 잡았으므로 상을 더하는 교서. 왕은 이르노라. 무릇 백성 가운데 [도적을] 미워하지 않는 이가 없으니, 간악한 무리가 이미 처형되었고, 상을 힘써 주어 공 있는 이를 기다리니 마땅히 권면하여 품계를 올려야 한다. 이에 옛 법을 따라 특별한 은혜를 베푼다. 생각건대 너는 굳셈으로 부드러움을 돕고, 배운 것으로 정사를 하였다. 예전 사헌부에서 [어사의] 말을 탔을 때는 늠름하게 바람이 일었고, 이름난 고을(창원)을 다스리게 되자 넉넉하게 칼날을 놀렸다. 더욱 [도적의 정황을] 캐어 묻는 데 뛰어나 참으로 신명하다 일컬어졌으니, 차분하게 실타래를 풀듯 … 마침내 잡았고, 담소하는 사이에 … 나머지 무리가 저절로 평정되어 마을이 다시 편안해지고 [경보의] 북소리가 울리지 않게 되었다. 포악을 막고 해를 없애는 것이 비록 직분상 마땅히 할 일이나, 공적을 적고 수고에 보답하는 것을 어찌 … 이에 너에게 통정대부를 더하노라. … (이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "횃불 든 강도떼 정대립 일당을 창원부사 신지제가 뛰어난 수사로 잡아 마을이 다시 편안해졌으니, 그 공을 칭찬하여 통정대부로 품계를 올린다는 광해군의 교서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1617.1111-20101008.B052b_077_00139_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/obong/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 244
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016741%5EL016741F02%5EL016741F0201&dataId=G002%2BAKS%2BKSM-XA.1617.1111-20101008.B052b_077_00139_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/obong/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/obong/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/obong/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/obong/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 949
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/obong/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1639년 신홍망(申弘望) 문과 홍패(文科紅牌) (1639)"
+    ]
+   },
+   "width": 1135,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1639"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 宣敎郞前行康陵參奉申弘望文科丙科第一人及第出身者 / 己卯九月初十日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 선교랑 전 행 강릉 참봉 신홍망을 문과 병과 제1인으로 급제하여 출신한 사람으로 삼는다. 기묘년(1639) 9월 10일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전 강릉 참봉 신홍망이 문과 병과 1등으로 급제했음을 증명하는 홍패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1639.1111-20101008.B052b_077_00186_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/obong/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 292,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016741%5EL016741F02%5EL016741F0201&dataId=G002%2BAKS%2BKSM-XA.1639.1111-20101008.B052b_077_00186_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/obong/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/obong/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/obong/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/obong/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1135,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

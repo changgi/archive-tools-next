@@ -1,0 +1,304 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/changju/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.99 \"기한이 지났는데도 무덤을 파 가지 않습니다\" — 1906년 국한문 소지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "107년 사이(EP.96 → EP.99) 소송은 그대로였지만, 글은 우리말 쪽으로 한 걸음 다가왔다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.99"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "진주 단목 진양하씨 창주 하증 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/changju/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/changju/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changju/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 247
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changju/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1906년 하계룡(河啓龍) 등 소지(所志)－2 (1906)"
+    ]
+   },
+   "width": 1400,
+   "height": 959,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1906"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "晉州郡丹洞生河啓龍等 伏以生之高祖妣令人及祖考山至近處에 陳泰明暗葬事로 已有閤下之明燭하와 三月十八日에 書記圖形裁判後 指令內에 別遣圖形하고 參互兩供則 山是河氏之禁養 內屢代守護 衆所共知之地 而以步數言之라도 奏任官前後兩代當禁之界限內이라 陳㚇之偸葬柱換之習 固駭歎이라 卽當掘其塚 懲其習이되 依法典 特限四十日하니 若限內不掘이어든 該塚은 斷當發訓官掘이고 陳㚇違令之罪도 亦爲從重勘處事 敎是故로 生退而待限이온바 偸塚之跡限內掘去터니 彼陳㚇이 其兄을 暗自擧狀하야 欲誣 閤下ᄒᆞ고 其兄은 委到生家ᄒᆞ야 懇請寬限 而書給侤音云 … 山當禁內 所暗葬矣山은 掘去云云이라 然而此不過畏 閤下之明決 而欲爲延拖之計也라 法限이 已過而偸塚을 尙不掘去故로 玆敢帖聯泣訴于 孝理之下伏乞 洞燭後에 特依前指令하야 偸塚을 發訓官掘하고 陳泰明 暗葬違令之罪를 依律嚴勘하야 申公法하고 洩私冤 千萬伏祝 觀察使閤下 處分 丙午閏四月 日 生 河廷植 河宗植 河祐植等 (題辭) 依此遵前題 杜成治 及掘事 □□ 二十九度"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "진주군 단동의 생(生) 하계룡 등. 엎드려 아뢰옵건대, 저희 고조모 영인과 조부의 산소 바로 가까운 곳에 진태명이 몰래 장사 지낸 일로, 이미 합하(관찰사)께서 밝게 살피시어 3월 18일 서기에게 도형을 그리게 하여 재판하신 뒤 지령하시기를 '따로 도형을 보내 양쪽 진술을 대조하니, 이 산은 하씨가 대대로 금양(禁養)하고 수호해 온 것을 모두가 아는 땅이요, 걸음 수로 따져도 주임관 전후 2대가 금할 수 있는 경계 안이다. 진가가 몰래 묻고 바꿔치기하는 버릇은 참으로 놀랍다. 마땅히 그 무덤을 파서 버릇을 징계해야 하되, 법전에 따라 특별히 40일의 기한을 준다. 기한 안에 파지 않으면 그 무덤은 반드시 훈령을 내려 관에서 파낼 것이고, 진가가 명령을 어긴 죄도 무겁게 다스릴 것'이라 하셨기에 저희는 물러나 기한을 기다렸습니다. 기한 안에 무덤을 파 갈 줄 알았더니, 저 진가는 그 형을 시켜 몰래 소장을 내어 합하를 속이려 하고, 그 형은 저희 집에 찾아와 기한을 늦춰 달라고 간청하며 다짐(侤音)을 써 주기를 '하 양반댁 선산 금양 안에 몰래 묻은 무덤은 파 가겠다' 하였습니다. 그러나 이는 합하의 밝은 판결을 두려워해 시간을 끌려는 꾀에 지나지 않습니다. 법정 기한이 이미 지났는데도 몰래 쓴 무덤을 아직 파 가지 않으므로, 감히 연명하여 울며 호소합니다. 효로 다스리시는 아래 엎드려 비오니, 살피신 뒤 특별히 앞의 지령대로 투총을 훈령을 내려 관에서 파내게 하시고, 진태명의 암장과 명령 위반의 죄를 법에 따라 엄히 다스려 공법을 펴고 사사로운 원통함을 풀어 주시기를 천만 번 엎드려 빕니다. 관찰사 합하 처분. 병오년(1906) 윤4월 일. 생 하정식, 하종식, 하우식 등. (제사) 이에 따라 앞의 판결을 지켜 … 파낼 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1906년 진주 하씨 문중이, 판결로 정한 40일 기한이 지났는데도 진태명이 몰래 쓴 묘를 파 가지 않는다며 관에서 파내 달라고 경남관찰사에게 올린 국한문 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1906.4817-20101008.B031a_047_00059_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changju/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 247
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0150%5EL015004%5EL015004F02%5EL015004F0202&dataId=G002%2BAKS%2BKSM-XB.1906.4817-20101008.B031a_047_00059_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changju/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/changju/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/changju/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/changju/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 959
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

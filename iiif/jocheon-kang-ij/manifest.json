@@ -1,0 +1,999 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.125 \"말 열 필을 바쳐 목장을 채우겠습니다\" — 국마장 안에 선산을 얻은 제주 강씨 집안"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "조상의 땅을 지키는 일에도 섬의 셈법이 있었다 — 나라 말을 기르는 목장 안에 선산을 얻으려고, 한 집안은 말 열 필을 바쳤다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.125"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 조천 곡산강씨 강이진 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jocheon-kang-ij/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jocheon-kang-ij/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 303
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1863년 대정현감 강이진(康履鎭) 중군 차정 전령(傳令) (1863)"
+    ]
+   },
+   "width": 1400,
+   "height": 1179,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1863"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전령"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "傳令 大靜縣監康履鎭 兼中軍差定 凡諸軍務 依兵法擧行者 癸亥六月 日 大將 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전령. 대정현감 강이진. 중군을 겸하도록 차정하니, 모든 군무를 병법에 따라 거행할 것. 계해년(1863) 6월 일. 대장(수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1863년 대정현감 강이진에게 중군을 겸하여 군무를 병법대로 거행하라고 내린 전령입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1863.5011-20220125.B083a_114_00716_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 303
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016811%5EL016811F02%5EL016811F0203&dataId=G002%2BAKS%2BKSM-XC.1863.5011-20220125.B083a_114_00716_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1179
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1879년 중군 강재오(康在五) 유영장 차정 전령(傳令) (1879)"
+    ]
+   },
+   "width": 1400,
+   "height": 1159,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1879"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전령"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "傳令 中軍康在五 留營將差定 空營凡務 檢飭擧行者 己卯九月 日 兼使 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전령. 중군 강재오. 유영장으로 차정하니, 비어 있는 군영의 모든 일을 살피고 단속하여 거행할 것. 기묘년(1879) 9월 일. 겸사(수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1879년 중군 강재오를 유영장으로 삼아 빈 군영의 일을 맡긴 전령입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1879.5011-20220125.B083a_114_00717_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 298
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016811%5EL016811F02%5EL016811F0203&dataId=G002%2BAKS%2BKSM-XC.1879.5011-20220125.B083a_114_00717_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1159
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1880년 강재오(康在五) 대정현감 고신(告身) (1880)"
+    ]
+   },
+   "width": 1400,
+   "height": 1068,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1880"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 康在五爲通政大夫大靜縣監者 光緖□年□月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 강재오를 통정대부 대정현감으로 삼는다. 광서 □년 □월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강재오를 통정대부 대정현감으로 삼은 고신으로, 연도는 자료관 목록(1880)을 따랐습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1880.5011-20220125.B082a_114_00712_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 275
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016811%5EL016811F02%5EL016811F0201&dataId=G002%2BAKS%2BKSM-XA.1880.5011-20220125.B082a_114_00712_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1068
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1888년 강 영장 댁 노 달석 소지(所志) — 목장 안 선산 (1888)"
+    ]
+   },
+   "width": 890,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1888"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康營將宅奴達石 右謹陳所志事段 矣上典爲先占山於二所□場內 綠(?)南洞負東向之地 而東 場垣及大路 西上夜岳只場垣 南北(?)林藪是乎所 四標分明乙仍于 伏乞禁養劃界 與他有異 四方步數 依典立旨成給爲只爲 行下向敎是事 使道 處分 戊子六月 日 (제사: 초서 — 판독 못 함)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강 영장 댁 노비 달석. 삼가 아뢰올 일은, 저의 상전이 조상 묘 자리를 이소(二所) 목장 안 남쪽 골짜기(?)의 동쪽을 바라보는 땅에 잡았는데, 동쪽은 목장 담과 큰길, 서쪽은 윗야악(?) 목장 담, 남북은 숲으로 사방 경계가 분명합니다. 엎드려 바라오니, 나무를 기르고 함부로 베지 못하게 경계를 그어 주시되, 다른 땅과 달리 사방 걸음 수를 법전대로 적은 입지를 내주시도록 처분해 주십시오. 사또께서 처분하소서. 무자년(1888) 6월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1888년 강 영장 댁 노비 달석이 목장 안의 선산 자리에 경계를 그어 입지를 내 달라고 제주 목사에게 올린 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1888.5011-20220125.B082a_114_00713_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 229,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016811%5EL016811F02%5EL016811F0202&dataId=G002%2BAKS%2BKSM-XB.1888.5011-20220125.B082a_114_00713_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 890,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1888년 제주목 입안(立案) — 말 열 필과 선산 (1888)"
+    ]
+   },
+   "width": 1400,
+   "height": 596,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1888"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "입안"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "立案 右立案爲成給事 □□康營將宅奴達石呈狀內以爲 矣上典爲先占山於二所□場內上輔幕負東向之地 而四標段 東寶文旨 南邊兵帶 □西馬桶田 山下輔幕 等場間有小路是如乎 勢將植松禁養是矣 係是公土 私難擅便 故代納于十匹馬 以補本場國畜 則庶可爲公私俱便之道是乎乙 洞燭敎是後 此(?)場內占山處 永爲劃給 植松禁養之意 立案成給亦爲有乎 叅互狀辭 究或(?)無悖 依所訴十匹馬 付之本場爲(?)以 立案成給者 戊子六月 日 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "입안. 이 입안은 발급하는 일이다. 강 영장 댁 노비 달석의 소장에 이르기를, '저의 상전이 조상 묘 자리를 이소 목장 안 윗보막(上輔幕)의 동쪽을 바라보는 땅에 잡았는데, 사방 경계는 동쪽 보문지, 남쪽 변병대, □서쪽 마통전, 산 아래 보막이고 목장 사이에 작은 길이 있습니다. 소나무를 심어 기르려 하나, 이곳은 나라 땅이라 사사로이 마음대로 할 수 없습니다. 그러므로 말 열 필을 대신 바쳐 이 목장의 나라 말을 채우면, 나라와 개인 모두에게 편한 길이 될 것입니다. 살펴 주신 뒤 목장 안의 묘 자리를 영영 떼어 주어 소나무를 심어 기르게 한다는 입안을 내주십시오' 하였다. 소장의 말을 맞추어 보고 따져 보니 어긋남이 없으므로, 청한 대로 말 열 필을 이 목장에 넘기게 하고 입안을 발급한다. 무자년(1888) 6월 일. (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1888년 강 영장 댁이 말 열 필을 목장에 바치는 대신, 목장 안의 선산 자리를 영구히 떼어 준다고 제주 목사가 내준 입안입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1888.5011-20220125.B083a_114_00718_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 153
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016811%5EL016811F02%5EL016811F0204&dataId=G002%2BAKS%2BKSM-XD.1888.5011-20220125.B083a_114_00718_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 596
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1888년 강 영장 댁 노 달석 소지(所志) — 세미 처리 (1888)"
+    ]
+   },
+   "width": 1047,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1888"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康營將宅奴達石 右謹陳所志事段 矣上典爲先占山於二所東曲(?)場內 四標折授 以爲植松禁養之意 呈于營門 成出立案 又呈漢城府 立旨與關文來到乙仍于 十匹馬 納于本場 俾補國畜是乎旀 所出稅米段 亦係公下 不得私自擅便 故兩張立案及關文 粘連仰訴 伏乞 的只鄕將吏 稅米代錢 依今年執卜石數 公議定給 則從衆論區處 伏計 叅商處分爲只爲 行下向敎是事 使道 處分 戊子十一月 日 (제사: 초서 — 판독 못 함)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강 영장 댁 노비 달석. 삼가 아뢰올 일은, 저의 상전이 조상 묘 자리를 이소 목장 안에 잡아 사방 경계를 떼어 받아 소나무를 심어 기르려는 뜻으로 영문(營門)에 올려 입안을 받았고, 또 한성부에 올려 입지와 관문(공문)이 내려왔습니다. 그래서 말 열 필을 이 목장에 바쳐 나라 말을 보충하게 하였습니다. 그런데 이 땅에서 나는 세미(稅米)도 나라에 매인 것이라 사사로이 처리할 수 없으므로, 입안 두 장과 관문을 붙여 아뢰오니, 엎드려 바라건대 향장과 아전들이 세미를 돈으로 대신하되 올해 매긴 석수에 따라 공론으로 정해 주시면 여러 의견에 따라 처리하겠습니다. 헤아려 처분해 주십시오. 사또께서 처분하소서. 무자년(1888) 11월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1888년 11월 한성부 입지까지 받은 선산 자리의 세미를 돈으로 내는 방법을 정해 달라고 다시 올린 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1888.5011-20220125.B082a_114_00714_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 269,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016811%5EL016811F02%5EL016811F0202&dataId=G002%2BAKS%2BKSM-XB.1888.5011-20220125.B082a_114_00714_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kang-ij/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1047,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

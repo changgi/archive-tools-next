@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.33 \"짐의 가엾은 적자들이 칼날에 다치지 않게 하라\" — 수당 이남규의 문서"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "국가 폭력과 백성 사이에서 고민한 임금과 관리의 목소리가 있었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.33"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "예산 한곡 한산이씨 수당 고택"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sudang/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sudang/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 357
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1756년 이수일(李秀逸) 유지(有旨) (1756)"
+    ]
+   },
+   "width": 1400,
+   "height": 1389,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1756"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "同副承旨李(押) / 今以爾爲司憲府持平 爾其斯速乘馹上來事 有旨 / 乾隆二十一年十月十五日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "동부승지 이(李)가 씀. 이제 너를 사헌부 지평으로 삼으니, 너는 서둘러 역마를 타고 올라오라는 유지. 건륭 21년(1756) 10월 15일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "이수일을 사헌부 지평에 임명하니 역마를 타고 속히 서울로 올라오라는 임금의 명령서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1756.1111-20101008.B040a_061_00002_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 357
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014427%5EL014427F02%5EL014427F0201&dataId=G002%2BAKS%2BKSM-XA.1756.1111-20101008.B040a_061_00002_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1389
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1882년 이남규(李南珪) 문과 홍패(文科紅牌) (1882)"
+    ]
+   },
+   "width": 1054,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1882"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 幼學李南珪文科丙科第二人及第出身者 / 光緖八年四月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 이남규를 문과 병과 제2인으로 급제하여 출신한 사람으로 삼는다. 광서 8년(1882) 4월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "선비 이남규가 문과 병과 제2인으로 급제했음을 증명하는 홍패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1882.1111-20101008.B040a_061_00016_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 271,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014427%5EL014427F02%5EL014427F0201&dataId=G002%2BAKS%2BKSM-XA.1882.1111-20101008.B040a_061_00016_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1054,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1896년 이남규(李南珪) 칙유(勅諭) (1896)"
+    ]
+   },
+   "width": 1400,
+   "height": 733,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1896"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "칙유"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "勅諭 / 朕惟可愛非朕赤子乎 可哀亦非朕赤子乎 … 玆朕命安東府觀察使李南珪 特使布諭 … 俾朕可愛可哀之赤子 毋罹鋒刃溝壑之患 … / 建陽元年三月六日奉"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "칙유. 짐이 생각건대, 사랑스러운 이들이 짐의 적자(갓난아이 같은 백성)가 아니겠는가, 가엾은 이들 또한 짐의 적자가 아니겠는가. 지난번 역적의 우두머리와 난당이 한통속이 되어 국모를 시해하고 임금을 위협하며 법령을 어지럽히고 억지로 머리를 깎게 하였다. 무릇 짐의 적자 된 자들이 분하고 원통하여 곳곳에서 충의로 일어났으니 어찌 명분이 없다 하겠는가. 이제 난적은 이미 쓸어 없앴고 나라의 원수는 통쾌하게 갚았으며 머리 깎는 일은 편할 대로 하게 하였으니, 구름과 안개가 걷히고 해가 다시 밝아진 것과 같다. 무릇 짐의 적자 된 자들이 어찌 기뻐 춤추지 않겠는가. 이에 짐이 여러 번 조칙을 내려 속마음을 펴 일렀더니, 명을 따라 돌아와 각자 생업에 편히 종사하는 자가 있으니 이들은 짐의 사랑스러운 적자이다. 그런데 아직도 어리석게 미혹되어 모여서 흩어지지 않고, 때때로 나라에서 보낸 관리를 죽이고 마을을 노략하는 자가 있으니, 이는 짐의 명을 거스르고 짐에게 근심을 끼쳐 스스로 죄를 부르는 것이다. 그래서 짐이 부득이 왕의 군대를 먼저 보내 토벌하게 하니, 어제의 충의로운 적자들이 어리석음 때문에 오늘 칼날을 맞게 된다면 어찌 가엾지 않겠는가. 아아, 다시 타이르지 않고 위엄과 벌만 더하는 것은 짐의 마음이 차마 하지 못하는 바이다. 이에 짐이 안동부 관찰사 이남규에게 명하여 특별히 이 뜻을 널리 알리게 하노니, 경은 백성을 다친 사람 보듯, 갓난아이 보살피듯 하는 짐의 뜻을 받들어, 왕의 군대보다 먼저 관할 각 군에 가서 성심으로 타일러, 짐의 사랑스럽고 가엾은 적자들이 칼날에 다치고 구렁에 빠지는 근심을 당하지 않게 하여, 백성의 부모 된 짐의 마음을 위로하라. 건양 원년(1896) 3월 6일 받듦."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "국모 시해와 강제 단발에 분노해 일어난 의병은 명분이 있었으나, 이제 역적은 제거되고 단발은 자유에 맡겼으니 해산해야 한다. 흩어지지 않으면 관군이 토벌할 것이니, 그 전에 안동관찰사 이남규가 관할 고을을 돌며 성심으로 타일러 백성이 칼날에 다치지 않게 하라는 고종의 명령입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1896.1111-20101008.B040a_061_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 188
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014427%5EL014427F02%5EL014427F0201&dataId=G002%2BAKS%2BKSM-XA.1896.1111-20101008.B040a_061_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 733
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1903년 이남규(李南珪) 청원서(請願書)－1 (1903)"
+    ]
+   },
+   "width": 1400,
+   "height": 1008,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1903"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "청원서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "請願書 / 請願人 宮內府特進官李南珪 代言人金昌鎬 / … 南命稷誣訴事件 … 判決이 未有佈明이옵기 … / 光武七年三月 日 請願人李南珪 / 平理院裁判長李南熙閣下"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "청원서. 청원인 궁내부 특진관 이남규, 대리인 김창호. 청원인이 남명직의 무고 사건에 대하여 일전에 재판을 받아 이미 가려 밝혔으나, 진술만 기록에 남아 있고 판결은 아직 공포되지 않았기에, 남명직의 날조가 드러난 여러 조목 가운데 가장 긴요한 두 조목을 아래에 적어 이에 청원하오니, 살피시어 명백히 지령을 내려 증거로 삼게 하시고, 청원인이 제출한 남명직의 앞뒤 기록·고발 문서들을 하나하나 내어 주시기를 엎드려 바랍니다.\n하나, 남명직이 말하는 이른바 '바깥 장부(外帳記)'는 인찰지(괘선 종이) 아래 반 장에 도장을 찍은 위에 글씨를 덧붙여 쓴 일.\n하나, 남명직이 말하는 이른바 '빼앗겨서 마땅히 찾아야 할 물건'이 청원인과는 관계없다고 한 일.\n광무 7년(1903) 3월 일. 청원인 이남규. 평리원 재판장 이남희 각하."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남명직의 무고 사건에서 재판은 끝났지만 판결이 나오지 않자, 상대가 낸 '바깥 장부'는 도장 찍힌 종이 위에 덧쓴 것이고 상대가 찾겠다는 물건은 자신과 무관하다는 두 가지를 들어, 분명한 판결과 제출 서류의 반환을 청한 글입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1903.0000-20101008.B040a_061_00293_001"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 259
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014427%5EL014427F02%5EL014427F0202&dataId=G002%2BAKS%2BKSM-XB.1903.0000-20101008.B040a_061_00293_001&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sudang/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sudang/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1008
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

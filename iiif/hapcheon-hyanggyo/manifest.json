@@ -1,0 +1,304 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/hapcheon-hyanggyo/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.85 \"1년 대신 반년씩\" — 향교 우두머리 자리를 나눠 맡자는 1904년의 약속"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "갈등을 줄이는 방법으로 '겸양의 풍속'을 제도로 만든 지역 공동체의 지혜."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.85"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "합천 합천향교"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hapcheon-hyanggyo/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hapcheon-hyanggyo/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hapcheon-hyanggyo/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 242
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hapcheon-hyanggyo/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1904년 완문(完文) (1904)"
+    ]
+   },
+   "width": 1400,
+   "height": 943,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1904"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "완문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 甲辰 完文 甲辰十月二十七日 (본문) 完文 右完定事 校任之從公鄕薦 完之節目 已爲揭板 而第念吾鄕三色 南色最多 則校首之應望 比他等尤多 而望比而從年 已有板上節目 然時任之一年持滿 若如他等 則宏儒碩望 恐有未及之慮 與其持久於一年 曷若迭代於半載 以成謙讓之風乎 從玆以往 春秋兩薦 互相遞代 以爲相推輪任 永久勿替 貳任則一年 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "완문. 위는 완정(확정)하는 일이다. 향교 임원(교임)을 공정한 고을 추천에 따라 정하는 절목은 이미 현판에 걸어 두었다. 그런데 생각건대 우리 고을의 세 당색 가운데 남인(남색)이 가장 많으니, 교수(校首) 자리를 바라는 사람이 다른 당색보다 더욱 많다. 해마다 [추천하는] 일은 이미 현판의 절목에 있으나, 지금처럼 임원이 1년을 꽉 채운다면 다른 당색과 같아져, 학식 높고 명망 있는 선비들이 미처 차례를 얻지 못할 염려가 있다. 1년을 오래 맡기보다는 반년씩 번갈아 맡아 겸양의 풍속을 이루는 것이 어떠한가. 이제부터는 봄·가을 두 번 추천하여 서로 교대하고, 서로 밀어주며 돌아가며 맡는 것을 영구히 바꾸지 말 것이다. 두 번째 임원(이임)은 1년으로 하되 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1904년 합천향교가 남인 선비가 많아 교수 자리 경쟁이 심하니, 임기를 반년으로 줄여 봄·가을로 돌아가며 맡기로 정한 완문입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1904.4889-20101008.B019a_031_00038_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hapcheon-hyanggyo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 242
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024805%5EL024805F02%5EL024805F0204&dataId=G002%2BAKS%2BKSM-XD.1904.4889-20101008.B019a_031_00038_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hapcheon-hyanggyo/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hapcheon-hyanggyo/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hapcheon-hyanggyo/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hapcheon-hyanggyo/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 943
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

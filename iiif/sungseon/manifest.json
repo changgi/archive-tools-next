@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.119 \"억울함을 안고 땅에 들어가니\" — 사약을 받던 날 새벽, 왕손이 이불에 쓴 유서"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "마지막 순간의 글은 무엇을 남기는가 — 억울함, 그리고 살아남을 이들에 대한 걱정."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.119"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "공주 전주이씨 숭선군파 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sungseon/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sungseon/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 111
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1701년 이항(李杭) 포금유서(布衾遺書) — 「존오당자지(存吾堂自誌)」 (1701)"
+    ]
+   },
+   "width": 1400,
+   "height": 430,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1701"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "포금유서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "朝鮮王孫存吾堂自誌 王孫生顯宗庚子 癸丑特授東平都正 甲寅選拜 宸筆加一階 敦恩殿享官 丙辰以其勞封君 … 庚申拜永昭殿享官 壬戌爵一品 … 辛巳大獄 爲賊女亂引 十一月八日有後命 抱冤入地 唯俟日後君子恕之 王孫性嗜古文 多蓄古書 善篆隸 作詩文 … 筆法慕晉法 多書碑文 書進玉冊文 題莊陵神主 … 常置心經近思錄自警 … 享年僅四十二 哀哉哀哉 (등출본에 따름)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "조선 왕손 존오당의 자지(自誌). 왕손은 현종 경자년(1660)에 태어났다. 계축년(1673) 특별히 동평도정에 제수되고, 갑인년(1674) 뽑혀 임명되었으며, 임금의 친필로 한 품계가 더해졌다. 돈은전 향관을 지내고, 병자년(1676) 그 수고로 군(君)에 봉해졌다. … 경신년(1680) 영소전 향관에 임명되고, 임술년(1682) 1품에 올랐다. … 신사년(1701)의 큰 옥사에서 역적 여인에게 끌려 들어가, 11월 8일 후명(後命, 사약을 내리는 명)이 있었다. 억울함을 안고 땅에 들어가니, 오직 뒷날의 군자가 헤아려 주기를 기다린다. 왕손은 성품이 옛글을 좋아하여 옛 책을 많이 모았고, 전서와 예서를 잘 썼으며 시와 문을 지었다. … 필법은 진(晉)나라 서법을 사모하여 비문을 많이 썼고, 옥책문을 써서 올렸으며, 장릉(莊陵)의 신주를 썼다. … 늘 『심경』과 『근사록』을 곁에 두고 스스로 경계하였다. … 누린 나이가 겨우 마흔둘이니, 슬프고 슬프다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1701년 사약을 받기 전 동평군 이항이 옥중에서 베 이불에 쓴 자서전으로, '억울함을 안고 땅에 들어가니 뒷날의 군자가 헤아려 주기를 기다린다'고 적었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XG.1701.0000-20190219.C1004_002_00480_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 111
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014421%5EL014421F02%5EL014421F0207&dataId=G002%2BKHD%2BKSM-XG.1701.0000-20190219.C1004_002_00480_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sungseon/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 430
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1701년 이항(李杭) 포금유서(布衾遺書) — 「계아배서(戒兒輩書)」 (1701)"
+    ]
+   },
+   "width": 1400,
+   "height": 399,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1701"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "포금유서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "戒兒輩書 天恩如或生存 吾父母血屬 唯汝輩在 須盡保身之責 長在家不出入 不交人 三寸四寸家外 切勿往來 唯以得保性命爲意 常觀小學宋名臣錄 以此爲操身 勿妄言 家中絶去神佛祀 不見瞽卜雜術之人 常以脩身飭行爲意 若不如此 匪吾子 愼之 兄弟相依 雖老不出 居天道有知 雖有付職之事 宗班中無職 辭而不受 辛巳十一月八日曉在獄中書 / 吾死之後 吾家無內外族屬之可依賴者 敢以孤兒弱妻托之 … 抱冤入地 天日照臨 敢以孤兒弱妻托之 務加顧恤 (등출본에 따름)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "아이들에게 경계하는 글. 임금의 은혜로 혹시 살아남게 된다면, 우리 부모의 핏줄은 오직 너희뿐이다. 반드시 몸을 지킬 책임을 다하라. 늘 집에 있으면서 나다니지 말고, 사람을 사귀지 말며, 삼촌 · 사촌 집 밖에는 절대 오가지 말고, 오직 목숨을 보전하는 데만 뜻을 두어라. 늘 『소학』과 『송명신록』을 보아 이것으로 몸가짐을 삼고, 함부로 말하지 마라. 집안에서 귀신과 부처에게 지내는 제사를 끊고, 점쟁이와 잡술 하는 사람을 만나지 마라. 늘 몸을 닦고 행실을 삼가는 데 뜻을 두어라. 이렇게 하지 않으면 내 자식이 아니니, 삼가라. 형제가 서로 의지하며 늙도록 나가지 말고 지내라. 하늘의 도가 알아줌이 있어 비록 벼슬을 내리는 일이 있더라도, 종친 가운데 직책 없는 자로서 사양하고 받지 마라. 신사년(1701) 11월 8일 새벽 옥중에서 쓰다. (이어서 친척에게) 내가 죽은 뒤 우리 집에는 의지할 만한 안팎 친족이 없으니, 감히 고아와 약한 아내를 부탁한다. … 억울함을 안고 땅에 들어가나 하늘의 해가 굽어보고 있으니, 감히 고아와 약한 아내를 맡기니 힘써 돌보아 주기를 바란다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1701년 11월 8일 새벽 동평군 이항이 옥중에서 이불에 써서 아들들에게 남긴 당부로, '목숨을 보전하는 데만 뜻을 두라'고 적었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XG.1701.0000-20190219.C1004_002_00480_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 103
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014421%5EL014421F02%5EL014421F0207&dataId=G002%2BKHD%2BKSM-XG.1701.0000-20190219.C1004_002_00480_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sungseon/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 399
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

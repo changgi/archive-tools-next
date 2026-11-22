@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.142 남은 논밭이 하나도 없어서 — 강세건의 두 번의 혼인, 분재기 네 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "강세건은 두 번 장가를 들었다 — 첫 아내 양씨, 두 번째 아내 고씨. 혼인과 첫인사 때마다 양가 부모가 써 준 '별급 문서'가 그 순서를 증언한다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.142"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 어도 진주강씨 강익진 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-bunjae/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-bunjae/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 300,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "분재기(分財記)－01 (1677)"
+    ]
+   },
+   "width": 1165,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1677"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "분재기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙拾陸年丁巳四月十一日 長女婿姜世建 成婚別給 右別給爲遣 婚日良中 他矣衿得之物乙仍于 … (논밭 · 마소 기재: … 斗付 … 文水川員 粟壹斗伍升付 … 妻祖母前 … 田 … 雌馬 … 等物乙 永永別給) 財主 妻父 梁□ (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 16년 정사(1677) 4월 11일, 맏사위 강세건에게 혼인하며 따로 주는 문서. 위와 같이 따로 주는 것은, 혼인날에 (딸이) 제 몫으로 받을 것이므로 … (어느 들의 논 몇 마지기, 문수천 들의 조 한 말 닷 되 지기 밭, 처조모 앞 … 밭, 암말 … 등을) 영원히 따로 준다. 재주 장인 양□ (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1677년 장인 양씨가 맏사위 강세건의 혼인에 논밭과 마소를 떼어 준 별급 문서로, 강세건의 첫 혼인을 보여 줍니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1675.5011-20220125.B077a_114_00331_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 300,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0205&dataId=G002%2BAKS%2BKSM-XE.1675.5011-20220125.B077a_114_00331_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1165,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "분재기(分財記)－02 (1679)"
+    ]
+   },
+   "width": 876,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1679"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "분재기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙拾捌年(庚申) 五月拾五日 末男世建妻梁氏初謁日別給 右別給事段 … 巨路田員 … 買得田 皮牟拾參斗付只 … 買得田 皮牟貳石付 … 粟四升付只 … 皮牟一石付只 … 及 壯雌馬貳疋 牛一首 三禾雄馬一疋等乙 梁氏亦中 永許爲去乎 後次 有雜談者 持此文辨正事 財主 自筆 媤父 姜 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 18년(1679) 5월 15일, 막내아들 세건의 아내 양씨가 처음 인사 온 날 따로 주는 문서. 따로 주는 것은 … 거로 들에 사들인 밭(겉보리 열세 말 지기), … 사들인 밭(겉보리 두 섬 지기), … 조 넉 되 지기, … 겉보리 한 섬 지기 … 그리고 튼튼한 암말 두 필, 소 한 마리, 세 살 수말 한 필 등을 양씨에게 영원히 허락한다. 뒷날 딴말하는 자가 있거든 이 문서를 가지고 바로잡을 것. 재주 친필, 시아버지 강 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1679년 시아버지 강두형이 막내며느리 양씨의 첫인사 날 논밭과 마소를 떼어 준 별급 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1679.5011-20220125.B077a_114_00332_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 225,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0205&dataId=G002%2BAKS%2BKSM-XE.1679.5011-20220125.B077a_114_00332_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 876,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "분재기(分財記)－05 (1687)"
+    ]
+   },
+   "width": 871,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1687"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "분재기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙貳拾陸年丁卯貳月貳拾捌日 長女婿姜世建處中 成婚日別給 右別給爲乎段 他矣衿得之物乙仍于 … 貳石付 … 粟種壹斗付 … 馬一匹 等物乙 同女婿處中 永永別給爲去乎 後次 雜談隅有去等 持此文 … 財主 自筆 妻父 幼學 高 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 26년 정묘(1687) 2월 28일, 맏사위 강세건에게 혼인날 따로 주는 문서. 따로 주는 것은 (딸이) 제 몫으로 받을 것이므로 … (두 섬 지기 밭, 조 씨앗 한 말 지기 밭 …) 말 한 필 등을 이 사위에게 영원히 따로 준다. 뒷날 딴말이 있거든 이 문서를 가지고 (바로잡을 것). 재주 친필, 장인 유학 고 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1687년 2월 고씨 장인이 맏사위 강세건의 혼인날 재산을 떼어 준 별급 문서로, 강세건의 두 번째 혼인을 보여 줍니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1687.5011-20220125.B077a_114_00335_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 224,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0205&dataId=G002%2BAKS%2BKSM-XE.1687.5011-20220125.B077a_114_00335_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 871,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "분재기(分財記)－03 (1687)"
+    ]
+   },
+   "width": 1002,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1687"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "분재기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙貳拾陸年丁卯肆月拾伍日 末男妻高氏初謁日良中別給 右別給事段 各子息初謁日成婚之日 田地等乙 盡數酌定許以 … 爲有如乎 餘存田地全無乙仍于 三婦初謁日良中 別給田地等乙 改(?)… 初謁日更爲傳亦 別給爲遣 未加亦 户婢今年生伍所生婢乙 進年(?)… 身後所生幷以 永永別給爲去乎 後次 有子孫中相爭者 則持此文辨正事 財主 自筆 父 姜 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 26년 정묘(1687) 4월 15일, 막내아들의 아내 고씨가 처음 인사 온 날 따로 주는 문서. 따로 주는 까닭은, 자식들이 처음 인사 오고 혼인하는 날마다 논밭을 모두 헤아려 정해 주었는데, 남은 논밭이 하나도 없어서, (앞서) 셋째 며느리가 처음 인사 온 날 따로 준 논밭을 … 다시 이 첫인사 날에 넘겨 따로 주고, 더하여 집 종이 올해 낳은 다섯째 소생 여종을 … 뒤에 낳을 자식까지 아울러 영원히 따로 준다. 뒷날 자손 가운데 다투는 자가 있거든 이 문서를 가지고 바로잡을 것. 재주 친필, 아버지 강 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1687년 4월 시아버지가 새 며느리 고씨의 첫인사 날 '남은 논밭이 하나도 없어' 앞서 준 땅을 다시 넘기고 여종을 더해 준 별급 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1685.5011-20220125.B077a_114_00333_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 258,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0205&dataId=G002%2BAKS%2BKSM-XE.1685.5011-20220125.B077a_114_00333_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-bunjae/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1002,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

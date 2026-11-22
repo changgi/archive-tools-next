@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.34 \"진상할 종이를 맡은 절\" — 고성 옥천사가 지킨 산"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "종이를 만드는 일은 절의 생존이자 나라에 대한 의무였다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.34"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "고성 옥천사 보장각"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/okcheonsa/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/okcheonsa/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 328
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1854년 암행어사(暗行御史) 완문(完文) (1854)"
+    ]
+   },
+   "width": 1400,
+   "height": 1275,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1854"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "완문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 玉泉寺禁養定界內火田防禁完文 / 甲寅閏七月 日 / 繡衣(押) / (본문) 右完文爲成給事 玉泉寺卽 進獻紙地專責之寺刹也 當初 判下下定時 其四山局內定界 禁斷處之 本寺標內 冒耕者 別禁斷 以禁松 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 옥천사 금양(禁養) 경계 안의 화전(火田)을 막고 금하는 완문. 갑인년(1854) 윤7월 일. 수의(繡衣, 암행어사) 수결.\n(본문) 이 완문을 만들어 주는 일. 옥천사는 [나라에] 진헌하는 종이(紙地)를 전적으로 맡은 절이다. 처음 [임금의] 판하로 정할 때 사방 산의 국내(局內)에 경계를 정해 금하고 단속하게 하였으니, 본사의 경계 표지 안에서 몰래 경작하는 자는 별도로 금단하여 소나무를 [기르게] … (이하 다음 면)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "옥천사는 진상용 종이를 전담하는 절이니, 처음 정한 사방 산의 경계 안에서 몰래 화전을 일구는 자를 따로 금하고 단속하라는 암행어사의 확인서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.1854.0000-20160429.C0704_002_00008_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 328
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=05%5E0547%5EL054701%5EL054701F02%5EL054701F0204&dataId=G002%2BKHD%2BKSM-XD.1854.0000-20160429.C0704_002_00008_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1275
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1891년 의정부(議政府) 완문(完文) (1891)"
+    ]
+   },
+   "width": 1400,
+   "height": 789,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "완문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 議政府 / 玉泉寺完文 / 辛卯九月 日 / (본문) 光緖十七年辛卯九月 日 / 右節目 內需司 … 慶尙道晉州玉泉寺白綿紙地進上之刹 而換定物種者 百弊蝟集 莫支 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 의정부. 옥천사 완문. 신묘년(1891) 9월 일.\n(본문) 광서 17년 신묘 9월 일. 이 절목은 내수사(왕실 재정 관청)가 … 아뢴 바에 따라, 내수사에 속한 경상도 진주 옥천사는 백면지(?)를 진상하는 절인데, [진상] 물종을 바꾸어 정한 뒤로 온갖 폐단이 고슴도치 털처럼 모여 버티기 어려우니 … (이하 원문 확인 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "내수사에 속해 종이를 진상하던 진주 옥천사가 진상 품목이 바뀐 뒤 온갖 폐단에 시달리니 이를 바로잡는다는 의정부의 완문으로 보입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.1891.0000-20160429.C0704_002_00029_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 203
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=05%5E0547%5EL054701%5EL054701F02%5EL054701F0204&dataId=G002%2BKHD%2BKSM-XD.1891.0000-20160429.C0704_002_00029_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 789
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1909년 옥천사(玉泉寺) 토지수수료(土地手數料) 인증서(認證書)－1 (1909)"
+    ]
+   },
+   "width": 1400,
+   "height": 1166,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1909"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "인증서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(신청서) 隆熙三年十二月二十七日 / 慶尙南道固城郡介川面玉泉寺僧代表 / 申請人 時任職 金德巖(印) / 固城郡守 座下 / (인증서) 第 號 / 認證書 / 帳簿記載畢 / 手數料金額五拾錢也 / 隆熙三年十二月二十五日(?) / 慶尙南道固城郡介川面楡田洞里長 沈尙元(?)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(신청서) 융희 3년(1909) 12월 27일. 경상남도 고성군 개천면 옥천사 승려 대표 신청인 시임직(현 소임자) 김덕암. 고성군수 좌하(앞).\n(인증서) 제 호. 인증서. 장부에 기재를 마쳤음. 수수료 금액 50전. 융희 3년 12월 25일(?). 경상남도 고성군 개천면 유전동 이장 심상원(?)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "옥천사 승려 대표가 고성군수에게 [산림 등 토지] 신고를 하고, 마을 이장이 장부 기재를 마쳤으며 수수료 50전을 받았다고 확인해 준 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.1909.0000-20160429.C0704_002_00064_002"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 300
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=05%5E0547%5EL054701%5EL054701F02%5EL054701F0204&dataId=G002%2BKHD%2BKSM-XD.1909.0000-20160429.C0704_002_00064_002&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/okcheonsa/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1166
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

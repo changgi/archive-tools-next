@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.118 \"기울던 나라를 바로 세운 공\" — 단종의 조카 정미수가 받은 사패교지, 그리고 연호 없는 합격증"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "공적의 기록 아래에는 다른 이들의 삶이 함께 적혀 있다 — 상으로 주어진 사람들도, 이름으로 남았다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.118"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "양주 사릉 해주정씨 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sareung/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sareung/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 299,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1508년 정미수(鄭眉壽) 사패교지(賜牌敎旨) (1508)"
+    ]
+   },
+   "width": 1164,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1508"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사패교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 秉忠奮義靖國功臣輔國崇祿大夫海平府院君鄭眉壽 頃者國祚中否 神器將傾 卿能奮義 翊予興運 以靖邦國 予嘉乃功 特賜錄券 付坡州司饔院婢每邑莊一所生奴崔山 年三十四 二所生婢四月 年三十二 三所生婢召史 … 婢訥非 年二十四 積城奉常寺婢金莊一所生婢金德 年三十九 忠州軍器寺婢所仇之四所生婢都他非 年十九 海州內資寺婢莎叱德一所生奴加乙(?)耳 年九 等 以賞之 可傳永世者 正德三年三月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 병충분의정국공신 보국숭록대부 해평부원군 정미수에게. 지난번 나라의 운이 중간에 막혀 신기(神器, 왕위)가 기울려 할 때, 경이 의를 떨쳐 내가 일어나는 운을 도와 나라를 안정시켰다. 나는 그 공을 가상히 여겨 특별히 녹권을 내리고, 파주 사옹원 계집종 매읍장의 첫째 소생 사내종 최산(34세), 둘째 소생 계집종 사월(32세), 셋째 소생 계집종 소사 … 계집종 눌비(24세), 적성 봉상시 계집종 금장의 첫째 소생 계집종 금덕(39세), 충주 군기시 계집종 소구지의 넷째 소생 계집종 도타비(19세), 해주 내자시 계집종 사질덕의 첫째 소생 사내종 가을이(?, 9세) 등을 상으로 주니, 영원히 전할 것이다. 정덕 3년(1508) 3월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1508년 중종반정의 정국공신 정미수에게 공을 기려 여러 관청의 노비를 내린 사패교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1508.0000-20181030.C1003_002_00180_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 299,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014168%5EL014168F02%5EL014168F0201&dataId=G002%2BKHD%2BKSM-XA.1508.0000-20181030.C1003_002_00180_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sareung/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1164,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1641년 정식(鄭植) 시권(試券)－1 (1641)"
+    ]
+   },
+   "width": 460,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1641"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시권"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "幼學鄭植 年二十七 本海州 居京 / 父 通訓大夫前行典牲署奉事 孝俊 / 祖 通訓大夫行敦寧府判官 欽 / 曾祖 通訓大夫行司憲府監察 元禧 / 外祖 折衝將軍守慶尙右道兵馬節度使 李眞卿 本全義"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유학 정식, 나이 스물일곱, 본관 해주, 서울 거주. 아버지 통훈대부 전 행 전생서봉사 효준. 할아버지 통훈대부 행 돈녕부판관 흠. 증조부 통훈대부 행 사헌부감찰 원희. 외할아버지 절충장군 수 경상우도병마절도사 이진경(본관 전의)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1641년 스물일곱 살 정식이 과거에 낸 답안지의 피봉으로, 응시자와 4대 조상의 이름 · 관직이 적혀 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.1641.0000-20181030.C1003_002_00324_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 118,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014168%5EL014168F02%5EL014168F0204&dataId=G002%2BKHD%2BKSM-XD.1641.0000-20181030.C1003_002_00324_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sareung/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 460,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1642년 정식(鄭植) 진사 백패(進士白牌) (1642)"
+    ]
+   },
+   "width": 713,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1642"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "백패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 幼學鄭植進士三等第二人入格者 壬午二月二十四日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 정식은 진사시에 3등 제2인으로 입격한 자이다. 임오년(1642) 2월 24일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1642년 정식이 진사시 3등 제2인으로 합격하고 받은 백패로, 연호 없이 간지 '壬午'만 적었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1642.0000-20181030.C1003_002_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 183,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014168%5EL014168F02%5EL014168F0201&dataId=G002%2BKHD%2BKSM-XA.1642.0000-20181030.C1003_002_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sareung/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sareung/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 713,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

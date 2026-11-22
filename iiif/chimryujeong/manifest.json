@@ -1,0 +1,304 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/chimryujeong/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.96 한밤중의 몰래 무덤 — 1799년 의령남씨 문중의 산송 등장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "조선 후기 가장 흔했던 소송, 산송 — 무덤은 땅이자 집안의 명운이었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.96"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "밀양 사촌 의령남씨 종가 침류정"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/chimryujeong/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/chimryujeong/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chimryujeong/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 253,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chimryujeong/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1799년 남국신(南國臣) 등장(等狀) (1799)"
+    ]
+   },
+   "width": 985,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1799"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "등장"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "化民南國臣等 右謹言所志事段 民等先山在於丹場面沙洞村後矣 不知何許人乘夜偸葬于主龍要害處是乎所 其所偸葬在於民等正初瞻謁之後 則可知屬耳 民等所居之地 已過二十里許 故問于山直 山直曰不知 問于村人 村人亦爲不知云是乎則 安知其某日某夜偸葬是乎旀 且以小知事理者 則凡人之墳山主龍 難以犯葬是去等 況民等先山八代祖判書公及七代祖進士公巖墳墓 則豈有偸葬於主龍至近之地理乎 此必是蚩蚩愚氓 不知法理之所重 但知偸葬晦跡之由 奈何是如乎 如此則士夫塚禁葬之法 焉有所據是乎旀 常庶漢犯禁之習 寧有忌憚乎 民等不勝刻骨之憤 切欲掘去而私自掘移 在乎法典 故玆敢仰籲爲去乎 參商敎是後 自官別遣將差 掘移敎是遣 且使無識頑氓 以知士夫墳閣重之法 懲一勵百事 行下爲只爲 行下向敎是事 城主 處分 己未三月 日 (연명) 南尙堯 南尙天 … 門長南處寬 後孫南國臣 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교화를 입는 백성 남국신 등. 삼가 아뢰는 소지의 일은 이러합니다. 저희 선산은 단장면 사동촌 뒤에 있는데, 어떤 사람인지 모를 자가 밤을 틈타 주룡(主龍)의 요긴한 곳에 몰래 장사를 지냈습니다. 그 투장은 저희가 정월 초에 성묘한 뒤의 일이니 최근임을 알 수 있습니다. 저희 사는 곳이 [선산에서] 이미 20리가 넘어 산지기에게 물으니 모른다 하고, 마을 사람에게 물어도 모른다 하니, 어느 날 어느 밤에 몰래 묻었는지 어찌 알겠습니까. 또 사리를 조금이라도 아는 자라면 남의 무덤 산 주룡에는 감히 묻지 못하는 법인데, 하물며 저희 선산은 8대조 판서공과 7대조 진사공의 무덤이니 어찌 주룡에 그토록 가까이 몰래 묻는 이치가 있겠습니까. 이는 반드시 어리석은 백성이 법의 중함은 모르고 몰래 묻고 자취를 감출 줄만 안 까닭이니 어찌하겠습니까. 이렇다면 사대부 무덤에 장사를 금하는 법이 어디에 근거하겠으며, 상민들이 금령을 범하는 버릇이 어찌 꺼림이 있겠습니까. 저희는 뼈에 사무치는 분함을 이기지 못해 당장 파내고 싶으나, 사사로이 파서 옮기는 것은 법전에 [금지되어] 있으므로 감히 우러러 호소합니다. 헤아려 살피신 뒤 관에서 따로 장차(將差)를 보내 파서 옮기게 하시고, 또 무식하고 완악한 백성으로 하여금 사대부 분묘가 중함을 알게 하여 하나를 징계해 백을 경계하도록 처분해 주십시오. 성주께서 처분하실 일. 기미년(1799) 3월 일. (연명) 남상요, 남상천 … 문장 남처관, 후손 남국신 등."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1799년 밀양 의령남씨 문중이 선산의 주룡에 누군가 몰래 묘를 쓴 것을 고발하며, 관에서 파내 옮기게 해 달라고 밀양 부사에게 올린 연명 등장입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1799.4827-20101008.B046a_070_00014_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chimryujeong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 253,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0150%5EL015020%5EL015020F02%5EL015020F0202&dataId=G002%2BAKS%2BKSM-XB.1799.4827-20101008.B046a_070_00014_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chimryujeong/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/chimryujeong/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/chimryujeong/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/chimryujeong/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 985,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

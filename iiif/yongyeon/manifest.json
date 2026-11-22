@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.46 \"큰물이 다 쓸어 갔습니다\" — 합천 용연서원의 논과 무덤"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "자연재해와 사람 사이의 분쟁이 모두 서원의 생존 문제였다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.46"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "합천 용연서원"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yongyeon/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yongyeon/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 246,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1709년 용연서원(龍淵書院) 상서(上書) (1709)"
+    ]
+   },
+   "width": 958,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1709"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "상서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "化民幼學金德年等謹再拜上書于 / 城主閤下 伏以郡西加衣里龍淵書院 乃故冶(?)堂朴先生安享之所也 … 己亥大水 蕩盡拋荒 故戊午年間 告官得發丁夫 以防築矣 … 所買當堤下私田一畓 開墾作畓者 今至七八年 而未(?)路人心不淑 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교화를 받는 백성 유학 김덕년 등이 삼가 두 번 절하고 사또께 글을 올립니다. 엎드려 아뢰건대, 군 서쪽 가의리의 용연서원은 돌아가신 [야?]당 박 선생을 모신 곳입니다. 선생의 이름은 인(絪)으로, 일찍 과거 공부를 그만두고 도를 구하는 데 뜻을 두어, 대북이 권력을 잡았을 때와 계해년(1623) 반정 뒤에 유일(遺逸)로 천거되어 여러 번 재랑에 임명되었으나 나아가지 않고 숲과 골짜기에 숨어 학문에 침잠하셨습니다. 수암 류 선생, 동계 정 선생 같은 여러 현인이 도의로 높였으니, 그 지조의 확고함과 공부의 독실함이 과연 후학의 스승이요 한 고을의 본보기였습니다. 40년 전 사림이 합의하여 선생이 머물던 곳에 용연서원이라 이름 붙였으나, 맨땅에서 일을 시작하여 재력이 쇠잔하니 봄가을 제사와 집사를 대접할 밑천을 마련하기 어려웠습니다. … 사들인 논이 강가에서 멀지 않아 기해년(1699) 큰물에 다 쓸려 가 황무지가 되었으므로, 무오년(1708?) 무렵 관에 고하여 장정을 내어 둑을 쌓았습니다. 경신년에 다행히 부지런히 보수하여 물에 잠기지 않게 되자, 서원이 사들인 둑 아래 논뿐 아니라 개간하여 논을 만든 지 이제 7~8년이 되었는데, 오가는 사람들의 마음이 좋지 않아 … (이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "용연서원은 박인 선생을 모신 곳인데 재정이 넉넉지 않았고, 서원의 논이 기해년 큰물에 쓸려 갔다가 관의 도움으로 둑을 쌓아 다시 논이 되었으니, 둑과 논을 지켜 달라는 유생들의 청원입니다(뒷부분 판독 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1709.4889-20101008.B018a_029_00039_001"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 246,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024801%5EL024801F02%5EL024801F0202&dataId=G002%2BAKS%2BKSM-XB.1709.4889-20101008.B018a_029_00039_001&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 958,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1881년 박우신(朴雨新) 등 소지(所志) (1881)"
+    ]
+   },
+   "width": 962,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1881"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "陜川伊泗洞居朴雨新朴龍洙朴龍義 / 右謹言伏以 民等貫籍高靈 而奠居于陜川伊泗洞者 屢百有年所也 十三代祖奉翊大夫判司(…)墳墓在於 … 十里許也 … 今秋時祀時來視則 先塋本身 陟右偏十餘尺之地 忽入偷塚 此何變也 … 伏乞 官軍督掘 押近之偸塚 … / 城主 處分 / 辛巳十一月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "합천 이사동에 사는 박우신·박용수·박용의. 삼가 아룁니다. 저희는 본관이 고령인데 합천 이사동에 터 잡고 산 지 수백 년이 되었습니다. 13대조 봉익대부 판사(…)의 무덤이 [마을에서] 10리쯤 되는 곳에 있어 자주 성묘하지 못하였는데, 올가을 시제 때 와서 보니 선영 바로 위 오른쪽으로 치우친 열 자 남짓한 땅에 갑자기 몰래 쓴 무덤(투장)이 들어와 있었습니다. 이 무슨 변고입니까. … 하늘은 아득하여 산을 가리키며 물어도, 빈 산은 고요하고 한 조각 비석조차 말이 없으니, 누구에게 묻고 어디에 하소연하겠습니까. 엎드러지고 발을 구르며 분한 피를 이기지 못해 호소하오니, 관의 군졸로 하여금 가까이 붙여 쓴 투장을 독촉해 파내게 하시어, 사람의 자손 된 저희가 선영의 땅을 지킬 수 있게 해 주시기를 천만 피눈물로 빕니다. 사또께서 처분하실 일. 신사년(1881) 11월 일. 박응린·박효우·박용화 … 등."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "13대조 무덤 바로 위에 누군가 몰래 묘를 썼으니, 관에서 군졸을 보내 파내게 해 달라는 후손들의 산송 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1881.0000-20101008.B018b_030_00005_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 247,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024801%5EL024801F02%5EL024801F0202&dataId=G002%2BAKS%2BKSM-XB.1881.0000-20101008.B018b_030_00005_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yongyeon/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 962,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

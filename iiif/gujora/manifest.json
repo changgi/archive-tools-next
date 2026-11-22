@@ -1,0 +1,1277 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.10 섬마을의 호소"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "작은 섬마을도 문서로 자신의 권리를 말해 왔다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.10"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "거제 일운 구조라리"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gujora/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gujora/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 221
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1850년 거제부(巨濟府) 항리각등진상구폐절목(項里各等進上捄弊節目) (1850)"
+    ]
+   },
+   "width": 1400,
+   "height": 858,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1850"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "항리각등진상구폐절목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "爲節目成給事 本邑四面環海 … 民活之計 … (조항 이어짐)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "절목을 만들어 주는 일. 이 고을은 사방이 바다로 둘러싸이고 온 경내에 산이 많아 곡식이 나는 땅이 넉넉지 못하니, 백성이 살아갈 방도가 지극히 어렵다. 그런데 오직 산과 바다에서 나는 것으로 바치는 여러 진상이 다른 곳보다 많아, 기한마다 거둘 때면 늘 몹시 다급해지고, 가난한 백성은 … 실로 견뎌 낼 길이 없다. 이를 생각하니 매우 딱하고 측은하다. 여러 진상을 하나하나 사실대로 조사하여, 원래 봉한 수 밖에 섞여 들어간 부당한 덧붙은 몫과 관청에서 쓰는 몫·아전의 몫까지 모두 깎아 내고 조목마다 바로잡은 뒤, 해마다 등급마다 늘 바쳐야 할 진상 홍합·해삼과 동지사가 요구하는 홍합·해삼 … 을 따로 뒤에 적어 절목으로 만들어 각 마을에 나누어 두니, 이를 항식(恒式)으로 삼아 한결같이 지켜 행하여 다시는 정해진 밖에 더 거두는 폐단이 없게 하라. 이 밖에 따로 사신이 요구하는 홍합 … (이하 왼쪽 면 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'이 고을은 사방이 바다이고 온통 산이라 곡식 날 땅이 모자라 백성 살림이 매우 어렵다. 그런데 산과 바다에서 나는 물건으로 바치는 진상이 다른 곳보다 많아 기한마다 거두느라 늘 다급하고, 가난한 백성은 견딜 길이 없다'고 밝힌 뒤, 진상을 하나하나 조사해 원래 정해진 양 밖에 덧붙던 부당한 몫과 관청 아전들의 몫을 모두 깎았습니다. 앞으로 해마다 바칠 진상 홍합·해삼과 동지사가 요구하는 홍합·해삼을 따로 적어 절목으로 만들어 마을마다 나눠 두니, 이를 법식으로 삼아 정해진 것 밖에 더 거두는 폐단이 없게 하라는 내용입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1850.4831-20101008.B023a_035_00007_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 221
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=07%5E0748%5EL074801%5EL074801F02%5EL074801F0203&dataId=G002%2BAKS%2BKSM-XC.1850.4831-20101008.B023a_035_00007_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 858
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1854년 암행어사(暗行御史) 절목(節目) (1854)"
+    ]
+   },
+   "width": 1400,
+   "height": 836,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1854"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "절목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "… 百兩者 … / 甲寅正月 日 / 暗行御史 (수결) / 行府使 (수결) / 後錢參拾兩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(오른쪽 면 일부) … 백 냥이던 것을 이제 1,920냥(?)으로 … 정식(定式)으로 … (왼쪽 면) 갑인년(1854) 정월 일. 암행어사(서명·인장). 행 부사 이(서명). 뒷돈 30냥."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "돈의 액수(○백 냥, 30냥 등)가 적힌 것으로 보아 마을이 지던 부담금이나 거두는 돈의 규모를 정리한 규정입니다. 암행어사가 직접 마을 부담 문제에 개입했음을 보여 주며, 구체적인 조항은 흘림 글씨라 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1854.4831-20101008.B023a_035_00008_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 215
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=07%5E0748%5EL074801%5EL074801F02%5EL074801F0203&dataId=G002%2BAKS%2BKSM-XC.1854.4831-20101008.B023a_035_00008_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 836
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1888년 거제부(巨濟府) 구조라양화망치삼동방폐절목(舊助羅楊花望峙三洞防弊節目) (1888)"
+    ]
+   },
+   "width": 1400,
+   "height": 886,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1888"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "삼동방폐절목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(흘림 글씨 — 판독 필요) 第一 … 舊助羅 楊花 望峙 三洞 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(흘림 — 판독 필요) 제1조 … 구조라·양화·망치 세 마을 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "세 마을에서 되풀이되던 부담이나 다툼을 막기 위해 관이 조항을 정해 준 것입니다. '第一'처럼 번호를 매긴 조항이 이어지며, 구체적인 내용은 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1888.4831-20101008.B023a_035_00011_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 228
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=07%5E0748%5EL074801%5EL074801F02%5EL074801F0203&dataId=G002%2BAKS%2BKSM-XC.1888.4831-20101008.B023a_035_00011_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 886
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1909년 거제군(巨濟郡) 고시대소인민(告示大小人民) (1909)"
+    ]
+   },
+   "width": 1400,
+   "height": 590,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1909"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고시대소인민"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(인쇄 공고문) 告示 大小人民 … / 巨濟郡守 (관인)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(인쇄 공고문) 크고 작은 백성에게 알린다 … 거제군수(관인)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'크고 작은 백성 모두에게 알린다'는 제목의 공고로, 대한제국 말기 지방 행정이 주민에게 새 제도나 지시를 알리던 방식을 보여 줍니다. 무엇을 알렸는지는 본문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1909.4831-20101008.B023a_035_00037_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 152
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=07%5E0748%5EL074801%5EL074801F02%5EL074801F0203&dataId=G002%2BAKS%2BKSM-XC.1909.4831-20101008.B023a_035_00037_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 590
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1910년 노상헌(盧祥憲) 산판소유권신청서(山坂所有權申請書)－1 (1910)"
+    ]
+   },
+   "width": 1400,
+   "height": 992,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1910"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "산판소유권신청서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "山坂所有權申請書 / 第一 所在地 慶尙南道巨濟郡一運面項里洞 / 隆熙四年 … / 巨濟郡守 … 座下"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "산판(산지) 소유권 신청서. 제1 소재지: 경상남도 거제군 일운면 항리동. 융희 4년(1910) … 거제군수 … 좌하."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "거제군 일운면 항리동에 있는 산의 소유자가 자신임을 신청한 서류입니다. 땅의 위치·경계(동서남북)·면적 등을 적고 이웃의 증명을 받았습니다. 근대적 소유권 제도가 마을의 산에도 적용되기 시작했음을 보여 줍니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1910.4831-20101008.B023a_035_00031_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 255
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=07%5E0748%5EL074801%5EL074801F02%5EL074801F0202&dataId=G002%2BAKS%2BKSM-XB.1910.4831-20101008.B023a_035_00031_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 992
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1912년 김재진(金再鎭) 토지소유권보존증명신청(土地所有權保存證明申請) (1912)"
+    ]
+   },
+   "width": 1400,
+   "height": 892,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1912"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "토지소유권보존증명신청"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "土地所有權保存證明申請書 / 金再鎭 / 明治四十五年 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "토지소유권 보존 증명 신청서. 김재진. 메이지 45년(1912) …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "자신의 땅에 대한 소유권을 공식 장부에 올려 증명해 달라고 신청한 서류입니다. 일제의 토지조사사업이 시작된 무렵, 마을 사람들이 서류로 땅을 지켜야 했던 상황을 보여 줍니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1912.4831-20101008.B023a_035_00036_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 229
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=07%5E0748%5EL074801%5EL074801F02%5EL074801F0202&dataId=G002%2BAKS%2BKSM-XB.1912.4831-20101008.B023a_035_00036_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 892
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/7",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "무자년 항리거민(項里居民) 등장(等狀)－1"
+    ]
+   },
+   "width": 936,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "등장"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "項里居民等狀 (오른쪽 위) / 戊子 … / (왼쪽 아래 큰 흘림 글씨는 관의 처분 題辭)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(오른쪽 위) 항리 주민들의 등장 — 무자년 … (본문과 관의 처분은 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "항리 주민들이 마을의 부담이나 억울한 일을 관에 호소하고, 관이 그에 대해 처분을 내린 문서입니다. 무엇을 호소했는지와 관의 판단은 흘림 글씨라 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.0000.4831-20101008.B023a_035_00118_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/thumb/07.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 241,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=07%5E0748%5EL074801%5EL074801F02%5EL074801F0202&dataId=G002%2BAKS%2BKSM-XB.0000.4831-20101008.B023a_035_00118_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/7",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 936,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/8",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "임자년 조라동민(助羅洞民) 등장(等狀)"
+    ]
+   },
+   "width": 1067,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "등장"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "巨濟助羅場內項里楊荷望峙臥遠串倭仇五洞居民等狀 / … 每員一升二合式 … 其外五洞段每員一升八合式收捧 … / 壬子十二月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "거제 조라장 안의 항리·양하·망치·와원곶·왜구 다섯 마을 주민들의 등장(공동 청원). 삼가 원통한 사정을 아뢰는 일입니다. 오직 우리 관사주(사또)께서는 장(場) 안 백성의 부모이시니, 부모 앞에서 무슨 꺼릴 일이 있어 호소하지 않겠습니까. … 목서원에게 주는 풀값(草價)인데, 풀값은 원래 나라에 바치는 곡식이 아닌데도 한 장 안에서 다르게 거두는 것은 어찌 된 일입니까. 저희 일곱 마을은 같은 한 장인데, (두 마을은) 한 사람당 1되 2홉씩 거두고 그 밖의 다섯 마을은 한 사람당 1되 8홉씩 거두니, 어찌 차이가 없다 하겠습니까. 관사께서 … 살아서는 머리를 바치고 죽어서는 풀을 맺어 은혜를 갚을 것이므로, 이러한 사연으로 함께 우러러 호소하오니, 헤아리신 뒤 해당 서원을 엄히 … 장민(場民)이 천추만세에 잊지 못할 땅이 되게 하시고, 다시 엎드려 적폐를 호소하오니 처분하실 일입니다. 관사주께서 처분하소서. 임자년 12월 일. (청원자) 항리 노도순, 양하 이순이, 망치 김천종, 와원 이부련(?), 왜구 정대홍 등. (관의 처분 — 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "거제 조라장(場) 안의 항리·양하·망치·와원곶·왜구 다섯 마을 주민들이 올린 청원서입니다. '같은 장에 속한 일곱 마을인데, 서원(書員)에게 주는 풀값(草價)을 두 마을은 한 사람당 1되 2홉씩 거두면서 나머지 다섯 마을에서는 1되 8홉씩 거두니 어찌 차등이 있습니까'라며 똑같이 거두도록 해 달라고 호소했습니다. 마을 대표 노도순·이순이·김천종 등의 이름이 있고, 왼쪽 아래에는 관청의 처분(제사)이 큰 글씨로 적혀 있습니다(처분 내용은 판독 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.0000.4831-20101008.B023a_035_00125_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/thumb/08.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 274,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=07%5E0748%5EL074801%5EL074801F02%5EL074801F0202&dataId=G002%2BAKS%2BKSM-XB.0000.4831-20101008.B023a_035_00125_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/8/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujora/canvas/8",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujora/08.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1067,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

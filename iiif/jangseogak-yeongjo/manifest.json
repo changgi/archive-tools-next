@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.133 어머니의 아버지, 아들의 어머니, 첫째 딸 — 영조가 다시 불러 준 이름들"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "임금의 교지는 산 사람만이 아니라 떠난 사람의 이름을 다시 부르는 일이기도 했다 — 그리고 그 곁에는 이름만 적힌 또 다른 사람들이 있었다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.133"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 장서각"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jangseogak-yeongjo/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jangseogak-yeongjo/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 245
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1734년 최효원(崔孝元) 증직교지(贈職敎旨) — 숙빈 최씨의 아버지 (1734)"
+    ]
+   },
+   "width": 1400,
+   "height": 954,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1734"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "증직교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 宣略將軍行忠武衛副司果崔孝元 贈大匡輔國崇祿大夫議政府領議政兼領經筵弘文館藝文館春秋館觀象監事者 雍正十二年二月十八日 (작은 글씨) 淑嬪考 贈職事 傳 敎"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 선략장군 행 충무위 부사과 최효원에게 대광보국숭록대부 의정부 영의정 겸 영경연 · 홍문관 · 예문관 · 춘추관 · 관상감사를 추증한다. 옹정 12년(1734) 2월 18일. (작은 글씨) 숙빈의 아버지이므로 벼슬을 추증하는 일. 전교."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1734년 영조가 외할아버지 최효원을 '숙빈의 아버지'라는 이유로 영의정에 추증한 교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1734.1111-20101008.B009a_010_00077_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 245
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=04%5E0401%5EL040101%5EL040101F02%5EL040101F0201&dataId=G002%2BAKS%2BKSM-XA.1734.1111-20101008.B009a_010_00077_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 954
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "육상궁(毓祥宮) 노비사패교지(奴婢賜牌敎旨) (1751)"
+    ]
+   },
+   "width": 954,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1751"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "노비사패교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 惟毓祥宮 將義城司宰監婢石女三所生奴日夫年四十一 婢平玉二所生奴允巖田年四十二 婢進大一所生婢二娘年四十一 婢厚分七所生奴占孫年五十 婢正春四所生婢致良年五十八 婢一德四所生婢秋女年四十七 婢㐫德五所生婢允大年五十六 婢㐫女二所生奴德伊年四十七 婢太月二所生奴汗億年四十二 婢順分七所生婢亥玉年四十九 婢升還一所生婢召史年五十 婢一丹三所生婢已分年五十九 婢已丹三所生奴成官年五十九 婢正月六所生婢順月年四十八 禮賓寺婢一香一所生奴致方年三十二 婢江牙之二所生奴二乞年四十五 婢命進一所生婢世分年五十二 婢自今三所生婢斗良年四十三 婢以女二所生婢二丹年四十四 婢以女三所生奴斗白年三十六 婢雪化一所生婢一娘年四十三 婢二辰三所生奴金世年四十八 婢次京四所生婢進香年五十九 婢貴化三所生奴辰㚇年五十四 婢已娘一所生奴美成年四十六 婢永大四所生婢進化年五十九 婢二德四所生奴宗元年五十八 婢太分一所生奴汗奉年五十 婢次周年五十一 婢升春一所生奴㐫同年五十三 婢戒玉五所生奴乙先年 … (판독 일부 불확실, 뒤 장은 이번에 받지 않음)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 육상궁에 사패하여, 의성 사재감의 계집종 석녀의 셋째 자식 사내종 일부(41세), 계집종 평옥의 둘째 자식 사내종 윤암전(42세), 계집종 진대의 첫째 자식 계집종 이낭(41세), 계집종 후분의 일곱째 자식 사내종 점손(50세), 계집종 정춘의 넷째 자식 계집종 치량(58세) … 예빈시 계집종 일향의 첫째 자식 사내종 치방(32세) … 계집종 이녀의 둘째 자식 이단(44세), 셋째 자식 두백(36세) … (뒤 이어짐)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "영조의 어머니 숙빈 최씨의 사당 육상궁에 노비를 내리며 사람마다 '어머니 누구의 몇째 자식'과 나이를 적은 노비사패교지입니다(목록 1751년, 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1751.1111-20101008.B009a_010_00064_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 245,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=04%5E0401%5EL040101%5EL040101F02%5EL040101F0201&dataId=G002%2BAKS%2BKSM-XA.1751.1111-20101008.B009a_010_00064_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 954,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1765년 영빈이씨(暎嬪李氏) 증시교지(贈諡敎旨) (1765)"
+    ]
+   },
+   "width": 1400,
+   "height": 996,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1765"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "증시교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 暎嬪李氏贈諡義烈嬪者 乾隆三十年七月十一日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 영빈 이씨에게 시호 '의열'을 내려 의열빈으로 삼는다. 건륭 30년(1765) 7월 11일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1765년 영조가 사도세자의 어머니 영빈 이씨에게 '의열'이라는 시호를 내린 교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1765.1111-20101008.B009a_010_00085_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 256
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=04%5E0401%5EL040101%5EL040101F02%5EL040101F0201&dataId=G002%2BAKS%2BKSM-XA.1765.1111-20101008.B009a_010_00085_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 996
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1773년 일옹주(一翁主) 증직교지(贈職敎旨) — 화억옹주 (1773)"
+    ]
+   },
+   "width": 996,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1773"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "증직교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 一翁主贈和憶翁主者 乾隆三十八年十月初七日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 첫째 옹주에게 '화억옹주'를 추증한다. 건륭 38년(1773) 10월 7일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1773년 영조가 이름 없이 '첫째 옹주'로 불리던 딸에게 '화억옹주'라는 이름을 추증한 교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1773.1111-20101008.B009a_010_00081_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 256,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=04%5E0401%5EL040101%5EL040101F02%5EL040101F0201&dataId=G002%2BAKS%2BKSM-XA.1773.1111-20101008.B009a_010_00081_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangseogak-yeongjo/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 996,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

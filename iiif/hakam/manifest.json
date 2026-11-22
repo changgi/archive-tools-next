@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.65 \"늙고 병들어 뜰에 서지 못하오니\" — 전 승지 강석구의 산송"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "벼슬을 지낸 사람도 조상 무덤을 지키려면 관아에 호소해야 했다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.65"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "김천 진주강씨 학암 강석귀 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hakam/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hakam/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 215
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1706년 안동권씨(安東權氏) 분재기(分財記) (1706)"
+    ]
+   },
+   "width": 1400,
+   "height": 835,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1706"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "분재기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙四十五年丙戌八月十四日 子女處分給文 / … / 財主 母安東權氏 / 筆執 從子姜晉徵"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 45년 병술(1706) 8월 14일, 자녀들에게 나눠 주는 문서. 이 글은, 남편이 살아 있을 때 미처 나누어 정하지 못하였는데, 이제 [상을 치르는] 삼 년 안에 나누는 것이 차마 못 할 일이지만, 뒷날 자녀들이 함께 모이기 쉽지 않으므로 … 문서를 만든다. (이하 맏아들·딸(김창개의 처)·둘째 아들·막내아들 등 몫의 노비와 논밭 목록) … 재주 어머니 안동권씨(도장). 필집 조카 강진징(수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남편이 생전에 재산을 나누지 못했으므로, 아내 안동권씨가 상중에라도 자녀들에게 노비와 논밭을 나눠 준 분재기입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XE.1706.0000-20160628.C0801_002_00063_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 215
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016724%5EL016724F02%5EL016724F0205&dataId=G002%2BKHD%2BKSM-XE.1706.0000-20160628.C0801_002_00063_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hakam/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 835
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1795년 강석구(姜碩龜) 유지(有旨) (1795)"
+    ]
+   },
+   "width": 1400,
+   "height": 899,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1795"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "司憲府持平姜碩龜 開拆 / 同副承旨李(押) / 今以爾爲司憲府持平 爾其斯速乘馹上來事 有旨 / 乾隆六十年十二月二十一日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사헌부 지평 강석구가 열어 볼 것. 동부승지 이(李)가 씀. 이제 너를 사헌부 지평으로 삼으니, 너는 서둘러 역마를 타고 올라오라는 유지. 건륭 60년(1795) 12월 21일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강석구를 사헌부 지평으로 삼으니 역마를 타고 속히 올라오라는 명령서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1795.0000-20160628.C0801_002_00028_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 231
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016724%5EL016724F02%5EL016724F0201&dataId=G002%2BKHD%2BKSM-XA.1795.0000-20160628.C0801_002_00028_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hakam/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 899
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1804년 강석구(姜碩龜) 등 14인 소지(所志) (1804)"
+    ]
+   },
+   "width": 719,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1804"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "化民前承旨姜碩龜 謹再拜上書于 / 城主閤下 伏以民之曾祖 … 淑夫人墳山 在於外面平田 而四山守護 殆過百年 千萬不意 不知何許漢 偸葬於靑龍要害至近之處 … 乃山下居金東振爲名漢也 … 民年迫桑楡 奄遭山變 非不欲面立庭細陳情原 而老病當寒添劇 伏枕 … 伏乞親審摘奸後 塚主金東振捉致法庭 先治其偸葬之罪 … 依法典卽刻掘移 … / 甲子十月 日 / 民 姜碩龜 姜履和 … 姜周楨等"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교화를 받는 백성 전 승지 강석구가 삼가 두 번 절하고 사또께 글을 올립니다. 엎드려 아뢰건대, 저의 증조할아버지 … 와 증조할머니 숙부인의 묘가 외면 평전에 있어 사방 산을 지켜 온 지 거의 백 년이 되었습니다. 그런데 천만뜻밖에 어떤 놈인지 모를 자가 청룡(묘 왼쪽 산줄기)의 요해처 아주 가까운 곳에 몰래 장사 지냈기에, 저희가 여러 달 찾아 헤맨 끝에 비로소 잡고 보니 산 아래 사는 김동진이라는 자였습니다. 아아, 원통합니다. 비록 장인이나 서민의 묘라도 좌청룡·우백호·주산·안산 사방 산 안에는 남이 묻는 것을 허락하지 않는다는 선왕의 지엄한 가르침이 있는데, 하물며 공경의 묘에 … 이 무슨 백성의 버릇이며 이 무슨 세상의 변괴입니까. 저는 나이가 저물녘(桑楡)에 이르러 갑자기 묘의 변을 당했으니, 관아 뜰에 직접 서서 사정을 자세히 아뢰고 싶지 않은 것이 아니나, 늙은 병이 추위를 만나 더욱 심해져 베개에 엎드려 … 일어날 수 없어, 감히 종이 한 장으로 대신 호소합니다. 엎드려 바라건대 직접 살펴 조사하신 뒤 무덤 주인 김동진을 법정에 잡아들여 먼저 몰래 장사 지낸 죄를 다스리고, 법전에 따라 즉시 파 옮기게 하여 사대부 집안 묘를 보호하게 해 주십시오. 간절히 비는 마음을 이기지 못합니다. 사또께서 처분하실 일. 갑자년(1804) 10월 일. 백성 강석구, 강이화 … 강주정 등."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전 승지 강석구가 증조부모 묘 바로 곁에 몰래 무덤을 쓴 김동진을 여러 달 만에 찾아냈다며, 늙고 병들어 직접 가지 못하니 서면으로 호소한다고 하고, 범인을 잡아 벌주고 무덤을 즉시 옮기게 해 달라고 청한 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XB.1804.0000-20160628.C0801_002_00033_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 185,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016724%5EL016724F02%5EL016724F0202&dataId=G002%2BKHD%2BKSM-XB.1804.0000-20160628.C0801_002_00033_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hakam/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hakam/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 719,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

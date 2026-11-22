@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.19 공신의 교서에서 증손의 답안지까지 — 양동 경주손씨 170년"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "공신의 영광은 한 번이 아니라 후손의 공부로 이어져야 했다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.19"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경주 양동 경주손씨 종가 송첨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yangdong-son/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yangdong-son/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 83
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1467년 손소(孫昭) 적개공신교서(敵愾功臣敎書) (1467)"
+    ]
+   },
+   "width": 1400,
+   "height": 322,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1467"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "적개공신교서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎 精忠出氣敵愾功臣通訓大夫內贍寺正孫昭 / 王若曰 同心協力 克成敵愾之勳 … 逆臣李施愛 … / 成化三年十一月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "정충출기적개공신 통훈대부 내섬시정 손소에게 내리는 교서. 왕은 이와 같이 말한다. 마음과 힘을 합쳐 적을 무찌른 공을 이루었으니, 상을 논하고 능력을 드러내어 공에 보답하는 법을 마땅히 행해야 한다. 지난번 역적 이시애가 흉악한 무리를 모으고 당을 심어 거짓말로 백성을 홀리고, 관리를 죽이고 (나의) 유서를 업신여겨 마침내 군사를 일으켜 크게 날뛰었다. 내가 구성군 준에게 명하여 군사를 거느려 치게 하니, 너는 평로장군 박중선의 막부를 도와 군무를 총괄하고, 험한 곳을 지나고 위험을 무릅쓰며 오가고 뛰어다니며 적의 형편을 보고하고, 나의 지시를 알려 움직임마다 기회에 맞고 어긋남이 없었다. 이기는 기세가 마침내 떨쳐 역적의 우두머리가 목을 바치고 한 지방이 평안해졌다. 너의 공을 생각하니 어찌 기리고 상 주기를 잊겠는가. 이에 너를 영예롭게 하여 적개 2등 공신으로 삼는다. 각(閣)을 세워 초상을 그리고 비석을 세워 공을 기록하며, 부모와 처자에게는 품계를 두 계급 올려 주고 아들이 없는 자는 생질·조카·사위에게 한 계급 올려 준다. 맏아들이 대를 이어 녹봉을 잃지 않게 하고, 자손은 정안(政案)에 '적개 2등 공신 손소의 후손'이라 기록하여 비록 죄를 범하더라도 용서가 영원히 미치게 한다. 이어 반당 8인, 노비 10구, 구사 5구, 토지 100결, 은 25냥, 옷 한 벌, 내구마 1필을 내리니 받으라. 공을 함께한 사람들은 뒤에 함께 적는다. 아아, 막부에 들어가 계책을 도와 세상에 드문 큰 공을 세웠으니, 황하가 띠처럼 가늘어지고 태산이 숫돌처럼 닳도록 끝없는 복을 길이 누리라. 그러므로 이에 가르쳐 보이니 마땅히 다 알 것이다. (공신 명단) 1등 구성군 준, 조석문, 강순, 어유소, 박중선, 허종, 김교, 남이, 이숙기, 윤필상 … 2등 … 손소 … 3등 … 성화 3년(1467) 11월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "세조는 이시애의 난 때 평로장군 박중선의 막부에서 군무를 맡아 적의 정황을 보고하고 작전을 도운 손소를 2등 공신으로 삼고, 초상과 비석, 부모·처자의 품계, 자손의 죄 용서, 노비 10구·토지 100결·은 25냥·말 1필 등을 내렸습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1467.1111-20101008.B020a_032_00128_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 83
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016762%5EL016762F02%5EL016762F0201&dataId=G002%2BAKS%2BKSM-XA.1467.1111-20101008.B020a_032_00128_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 322
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1515년 손중돈(孫仲暾) 고신(告身)－1 (1515)"
+    ]
+   },
+   "width": 1400,
+   "height": 899,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1515"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 孫仲暾爲嘉善大夫行承政院都承旨兼經筵參贊官春秋館修撰官藝文館直提學尙瑞院正者 / 正德十年三月二十七日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 손중돈을 가선대부 행 승정원 도승지 겸 경연참찬관·춘추관수찬관·예문관직제학·상서원정으로 삼는다. 정덕 10년(1515) 3월 27일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "공신 손소의 아들 손중돈을 임금의 비서실장인 도승지로 임명한 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1515.1111-20101008.B020a_032_00045_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 231
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016762%5EL016762F02%5EL016762F0201&dataId=G002%2BAKS%2BKSM-XA.1515.1111-20101008.B020a_032_00045_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 899
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1537년 계조모(繼祖母) 정부인(貞夫人) 최씨(崔氏) 별급문기(別給文記) (1537)"
+    ]
+   },
+   "width": 1400,
+   "height": 571,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1537"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "별급문기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "嘉靖十六年丁酉正月十五日 家翁長孫忠義衛光曙亦中許與 / … 汝亦矣身乙朝夕奉養無異親子 … / 財主 繼祖母貞夫人崔"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "가정 16년 정유(1537) 정월 15일, 남편(家翁)의 장손 충의위 광서에게 주는 문서. 이 문서를 만드는 까닭은, 나는 자식이 없는데, 너의 아내는 나의 삼촌 조카딸로 세 살 전부터 거두어 길러 정과 사랑이 깊을 뿐 아니라, 너 또한 나를 아침저녁으로 친자식과 다름없이 봉양하였기 때문이다. 그래서 내 몫의 땅과 노비를 오로지 (너에게) 주거니와, 따로 여종 석비의 첫째 소생(35세, 계해생), 같은 여종의 첫째 소생 여종 청금(13세)·둘째 소생 여종(8세)·셋째 소생·넷째 소생 종 천석(4세), 여종 석비의 둘째 소생 여종 태이(29세, 기사생)와, 금산 노포원의 밭 72부 3속, 그리고 남편이 돌아가신 뒤 내가 사사로이 사들인 서울 근처(?) 이(李)자 171번 논 33부, 같은 자 172번 논 7부, … 단(丹)자 106번 논 23부, 황(皇)자 194번 밭 24부 6속 … 등을 특별히 준다. 뒤에 낳을 자식까지 아울러 길이 부리고 가지되, 이 노비와 논밭은 네가 마음대로 처분하라. 너의 친족 가운데 다투는 자가 있으면 이 문서를 가지고 관에 고하여 바로잡을 일이다. 재산 주인 계조모 정부인 최씨(도장). 증인 충순위 권○경, 충의위 손엄. 쓴 사람 서얼 삼촌 숙부(?) 손영."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "자식이 없던 계조모 최씨는, 세 살 때부터 기른 조카딸의 남편이자 자신을 친자식처럼 봉양한 장손 손광서에게 노비 여러 명과 직접 사들인 논밭을 별도로 물려주었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1537.0000-20101008.B020a_032_00219_002"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 147
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016762%5EL016762F02%5EL016762F0205&dataId=G002%2BAKS%2BKSM-XE.1537.0000-20101008.B020a_032_00219_002&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 571
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1636년 손익(孫釴) 시권(試券) (1636)"
+    ]
+   },
+   "width": 1400,
+   "height": 926,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1636"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시권"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "幼學孫釴年二十七本慶州居慶州 / 父通訓大夫行中部主簿宗賀 … 曾祖保功將軍忠義衛光曙 / 問 子曰甯武子邦有道則智 邦無道則愚 … / (채점) 三之二(?)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(응시자) 유학 손익, 27세, 본관 경주, 경주 거주. 아버지 통훈대부 행 중부주부 종하, 할아버지 어모장군 행 훈련원판관 시(?), 증조 보공장군 충의위 광서, 외조 통덕랑 최응규(?) 본관 경주. (시제) 묻는다. 공자께서 '영무자는 나라에 도가 있으면 지혜롭고, 나라에 도가 없으면 어리석었다. 그 지혜는 따라갈 수 있으나 그 어리석음은 따라갈 수 없다'고 하셨다. 이른바 따라갈 수 있는 지혜와 따라갈 수 없는 어리석음은 성인께서 반드시 가리키신 바가 있을 것이니, 자세히 들을 수 있겠는가. (답안) 답합니다. 도가 있는 나라에 살며 드러낼 일이 없는 것은 쉽고, 도가 없는 나라에 살며 몸을 보전하고 난을 구하는 것은 어렵습니다. 이것을 알면 밝은 물음에 답하는 데 무슨 어려움이 있겠습니까. 말씀드리겠습니다. 영무자는 위나라의 어진 대부로 나라와 기쁨과 슬픔을 함께한 사람입니다. 그가 문공과 성공 때 벼슬했는데, 문공은 도가 있는 임금이라 근심할 일도 새로 벌일 정치도 없어 무자는 조정에서 녹을 먹으며 평소대로 순리에 따라 일 없이 지냈으니, 이것이 공자께서 그 지혜는 따라갈 수 있다고 하신 까닭입니다. 성공은 도가 없는 임금이라 나라가 어지러워지고 종묘사직이 위태로워졌는데, 무자는 그 사이에서 힘을 다해 끝내 제 몸을 보전하고 임금을 구했으니, 이것이 공자께서 그 어리석음은 따라갈 수 없다고 하신 까닭입니다. … (이하 다음 쪽)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "『논어』의 '영무자의 지혜는 따라갈 수 있어도 어리석음은 따라갈 수 없다'는 구절의 뜻을 묻는 문제에, 손익은 '평화로운 때 조용히 지내는 지혜는 쉽지만, 혼란한 때 어리석어 보일 만큼 몸을 던져 임금을 구하는 것은 어렵다'고 답했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.1636.0000-20180108.C0603_002_01232_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 238
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016762%5EL016762F02%5EL016762F0204&dataId=G002%2BKHD%2BKSM-XD.1636.0000-20180108.C0603_002_01232_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yangdong-son/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 926
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

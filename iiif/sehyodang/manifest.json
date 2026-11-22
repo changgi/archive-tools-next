@@ -1,0 +1,304 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/sehyodang/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.97 \"태수의 두 어버이도 이 자리에 계시다\" — 농암 이현보의 화산 양로연 시"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "효와 공경은 집 안에 머물지 않고 고을 전체로 넓혀질 수 있다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.97"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "대구 영천이씨 세효당 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sehyodang/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sehyodang/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sehyodang/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 302,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sehyodang/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "농암양세시첩(聾巖兩世詩帖)－01 (1519)"
+    ]
+   },
+   "width": 1175,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1519"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "농암양세시첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "花山養老宴詩 歲稔時淸九月天 公堂開宴會高年 鬚雪鬢□扶携處 赤花黃葉爛熳邊 位設尊卑酬酢遍 廳分內外管絃連 樽前綵戲人休怪 太守雙親亦在筵 己卯秋 設養老宴於花山 搜訪境內年八十以上老 自士族至賤隸 無問男女 苟准齒者 咸得與焉 多至數百 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "화산(안동) 양로연 시. 풍년 들고 세상 맑은 구월 하늘, 관아 마당에 잔치 열어 노인들을 모셨네. 흰 수염 흰 귀밑머리 서로 붙들고 오는 곳, 붉은 꽃 누런 잎 흐드러진 가. 자리는 높고 낮음을 갈라 두루 술잔을 주고받고, 대청은 안팎을 나누어 풍악이 이어지네. 술동이 앞 색동옷 춤을 사람들아 괴이하게 여기지 마오, 태수의 두 어버이도 이 자리에 계시다네. — 기묘년(1519) 가을, 화산(안동)에서 양로연을 베풀었다. 고을 안의 여든 살 넘은 노인을 찾아, 사족에서 천한 종에 이르기까지 남녀를 가리지 않고 나이만 차면 모두 참여하게 하니, 많게는 수백 명에 이르렀다. …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1519년 안동부사 이현보가 신분·남녀를 가리지 않고 80세 이상 노인 수백 명을 초대한 화산 양로연에서 지은 시와 그 경위를 적은 시첩입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XI.0000.2714-20231031.F15601-01-W000168"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sehyodang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 302,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0169%5EL016909%5EL016909F02%5EL016909F0208&dataId=G002%2BAKS%2BKSM-XI.0000.2714-20231031.F15601-01-W000168&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sehyodang/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sehyodang/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sehyodang/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sehyodang/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1175,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

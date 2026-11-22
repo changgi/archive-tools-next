@@ -1,0 +1,999 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.18 \"경은 나를 버리고 쉬려는가\" — 전쟁의 재상 류성룡"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "전쟁의 한가운데서 임금과 신하가 주고받은 말에는 절박함과 신뢰가 함께 있었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.18"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "안동 하회 풍산류씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hahoe-ryu/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hahoe-ryu/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 250,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1592년 유성룡(柳成龍) 고신(告身) (1592)"
+    ]
+   },
+   "width": 971,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1592"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 柳成龍爲輸忠翼謨光國功臣大匡輔國崇祿大夫議政府領議政… 豐原府院君者 / 萬曆二十年五月初二日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 류성룡을 수충익모광국공신 대광보국숭록대부 의정부 영의정 겸 영경연·홍문관·예문관·춘추관·관상감사 세자사 풍원부원군으로 삼는다. 만력 20년(1592) 5월 2일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전쟁이 터진 지 20일 만에, 피란길의 임금이 류성룡을 정승의 맨 윗자리인 영의정으로 삼은 임명장입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1592.1111-20101008.B010a_015_00005_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 250,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016708%5EL016708F02%5EL016708F0201&dataId=G002%2BAKS%2BKSM-XA.1592.1111-20101008.B010a_015_00005_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 971,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1593년 유성룡(柳成龍) 고신(告身) (1593)"
+    ]
+   },
+   "width": 1400,
+   "height": 971,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1593"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 柳成龍爲輸忠翼謨光國功臣大匡輔國崇祿大夫行判中樞府事豐原府院君者 / 萬曆二十一年二月二十四日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 류성룡을 수충익모광국공신 대광보국숭록대부 행 판중추부사 풍원부원군으로 삼는다. 만력 21년(1593) 2월 24일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "평양을 되찾은 직후, 류성룡을 정1품 판중추부사로 임명한 문서입니다. 전쟁 중 그의 자리가 오르내린 흔적입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1593.1111-20101008.B010a_015_00006_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 250
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016708%5EL016708F02%5EL016708F0201&dataId=G002%2BAKS%2BKSM-XA.1593.1111-20101008.B010a_015_00006_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 971
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1596년 유성룡(柳成龍) 비답(批答)－1 (1596)"
+    ]
+   },
+   "width": 971,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1596"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "비답"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "議政府領議政柳成龍再度呈辭不允批答 / 王若曰 嗚呼 卿將棄予而休歟 … 予聞卿病以來 爲之寢寐不寧 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "의정부 영의정 류성룡의 두 번째 사직 청원을 허락하지 않는 비답. 왕은 이와 같이 말한다. 아아, 경은 장차 나를 버리고 쉬려는가. 그렇다면 사직(나라)의 근심을 잊고 스스로 편안함을 구하려는 것인가. 경은 반드시 그렇게 하기를 편히 여기지 않을 것이다. 그렇다면 혹 마음속에 크게 편치 않은 일이 있어 스스로 그만두지 못하는 것인가. 아니면 내가 경을 정성으로 대하지 못하여 경이 그 자리에 편히 있지 못하게 한 것인가. 나는 참으로 그런 일이 없다. 그렇다면 경의 병이 과연 깊고 근력이 과연 쇠하여 맡은 일을 감당하지 못하는 것인가. 그렇지 않다면 병을 이유로 한 사직서가 어찌 닷새 만에 두 번이나 이르는가. 나는 경이 병들었다는 말을 들은 뒤로 잠자리가 편치 않다. 아아, 경은 큰 현인의 자질에 학문을 채웠고, 임금을 도울 재주에 붉은 정성을 더했다. 내가 큰 왕업을 이은 뒤로 경은 늘 내 곁에서 이끌고 도우며 내가 미치지 못하는 것을 함께 닦았다. 조정에서 얼굴빛을 바르게 하고 몸가짐을 굽히지 않으며, 공정하게 일을 처리하고 엄숙하게 사람을 대하는 것을 보면, 나는 바라볼 때마다 공경하는 마음이 일어난다. 나는 오직 … (이하 다음 쪽)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "선조는 '경이 나를 버리고 쉬려는가', '닷새 만에 사직서가 두 번이나 오니 잠을 이루지 못한다'며, 류성룡의 학문·재주·정성을 칭찬하고 물러나지 못하게 붙잡았습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1596.1111-20101008.B010a_015_00270_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 250,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016708%5EL016708F02%5EL016708F0201&dataId=G002%2BAKS%2BKSM-XA.1596.1111-20101008.B010a_015_00270_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 971,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1598년 유성룡(柳成龍) 비답(批答)－1 (1598)"
+    ]
+   },
+   "width": 971,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1598"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "비답"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "議政府領議政柳成龍初度呈辭不允批答 / 王若曰 黃髮詢茲 … 王師不振 豺虎之窟穴猶存 … 宜不允 故玆敎示"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "의정부 영의정 류성룡의 첫 번째 사직 청원을 허락하지 않는 비답. 왕은 이와 같이 말한다. 백발의 노신에게 의견을 묻는 데 뜻이 간절하니, 백성의 바람이 걸린 큰 재상이 병을 핑계 대는 것이 어찌 이때에 마땅하겠는가. … 경은 타고난 성품이 곧고 밝으며 학문이 깊어, 십여 년 동안 고문(顧問)으로 있으며 정성을 다해 나를 깨우쳤고, 두세 해 인사를 맡아 아름다움과 추함을 섞지 않았으니 조정의 여론이 모두 맞다고 했다. … 지난번 임금의 행차가 떠돌 때 원로의 큰 계책에 힘입었으니, 남쪽 변경에서 군량 수송을 감독하여 (한나라 소하처럼) 보급이 끊이지 않았고, 서쪽 변방에서 임금을 호위하여 그 절조를 볼 수 있었다. 장차 어려움에서 나를 지켜 옛 땅을 되찾는 공을 이루리라 여겼는데, 어찌 돌봐 주어야 할 날에 갑자기 짐을 벗겠다는 글을 올리는가. 병은 실로 근로에서 나왔고 바람과 서리에 상했겠지만 나이는 여든·아흔에 이르지 않아 근력과 정신이 아직 쇠하지 않았으니 하루아침에 그만둘 수 없다. … 하물며 지금 나라의 근심이 난리가 처음 일어났을 때보다 더 심하다. 우리 군대는 떨치지 못하고 승냥이와 범의 소굴(왜군의 진지)이 아직 남아 있으며, 시국이 위태롭고 군사와 나라의 일이 매우 급하다. … 차마 자고 먹는 일로 (나라를) 잊겠는가. … 아아, 강동에 관이오(관중)가 있으니 진나라가 다시 일어설 것을 어찌 근심하며, 회서에서 배도를 얻어 비로소 당나라가 중흥했다. 경이 깊이 생각하여 와서 도와주기를 바란다. 사직은 허락하지 않는다. 그러므로 이에 가르쳐 보이니 … (이하 다음 쪽)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임금은 류성룡의 지난 공(군량 보급, 임금 호위, 공정한 인사)을 하나하나 들며, '왜적의 소굴이 아직 남아 있는데 어찌 물러나는가', '관중과 배도처럼 나라를 다시 일으켜 달라'며 사직을 허락하지 않았습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1598.1111-20101008.B010a_015_00272_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 250,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016708%5EL016708F02%5EL016708F0201&dataId=G002%2BAKS%2BKSM-XA.1598.1111-20101008.B010a_015_00272_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 971,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1606년 유성룡(柳成龍) 사패교지(賜牌敎旨) (1606)"
+    ]
+   },
+   "width": 1193,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1606"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사패교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 惟卿豐原府院君柳成龍有扈聖二等功臣 … 特賜賞卿可傳永世者 / 萬曆三十四年十月初十日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 경 풍원부원군 류성룡은 호성(扈聖) 2등 공신이므로, 군위 장부에 올라 있는 인수부의 종 성익(?), 군위 장부의 인수부 종 인종, 안동 장부의 의빈부 여종 막개, 의성 장부의 내자시 종 은수, 의성 장부의 예빈시 여종 사춘, 예천 장부의 장예원 종 환이를 특별히 상으로 내리니, 경은 대대로 영원히 물려줄 수 있다. 만력 34년(1606) 10월 10일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전쟁이 끝난 뒤 공신에 오른 류성룡에게, 경상도 여러 고을의 관청 노비 여섯 명을 상으로 주고 자손에게 영원히 물려주게 한 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1606.1111-20101008.B010a_015_00009_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 307,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016708%5EL016708F02%5EL016708F0201&dataId=G002%2BAKS%2BKSM-XA.1606.1111-20101008.B010a_015_00009_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1193,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1627년 유성룡(柳成龍) 증직교지(贈職敎旨) (1627)"
+    ]
+   },
+   "width": 971,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1627"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "증직교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 輸忠翼謨光國忠勤貞亮効節協策扈聖功臣 … 豐原府院君柳成龍贈諡文忠公者 / 天啓七年七月二十日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 수충익모광국 충근정량효절협책호성공신 대광보국숭록대부 의정부 영의정 겸 영경연·홍문관·예문관·춘추관·관상감사 세자사 풍원부원군 류성룡에게 '문충공(文忠公)'이라는 시호를 내린다. 천계 7년(1627) 7월 20일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "류성룡이 세상을 떠난 뒤 나라가 그의 일생을 '문충'이라는 두 글자로 기린 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1627.1111-20101008.B010a_015_00010_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 250,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016708%5EL016708F02%5EL016708F0201&dataId=G002%2BAKS%2BKSM-XA.1627.1111-20101008.B010a_015_00010_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hahoe-ryu/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 971,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

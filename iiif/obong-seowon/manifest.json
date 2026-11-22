@@ -1,0 +1,304 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/obong-seowon/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.92 제사의 대본 — 오봉서원 묘소 홀기"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "의례에도 대본(큐시트)이 있었고, 그 대본 덕분에 전통이 정확히 이어졌다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.92"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "밀양 창녕조씨 오봉서원"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/obong-seowon/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/obong-seowon/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/obong-seowon/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 238
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/obong-seowon/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "18세기 말〜19세기 초 오봉서원(五峯書院) 홀기(笏記)－1"
+    ]
+   },
+   "width": 1400,
+   "height": 927,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홀기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "五峯書院笏記 墓所笏記 獻官及諸執事各序立 △謁者引初獻官點視陳設訖還出 △獻官及諸執事皆再拜 △謁者引初獻官就階間北向跪 △三上香 △ 降神 △奠爐于位前 △獻官再拜 △俯伏興北向跪 △司尊以爵授獻官 △獻官執爵 △司尊斟酒 △獻官以爵授執事 △執事受爵奠于位前 △祝進獻官之左 △讀祝文 △獻官俯伏興平身再拜 △復位 △謁者引亞獻官詣位前北向跪 △司尊以爵授獻官 △獻官執 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "오봉서원 홀기. 묘소 홀기. 헌관과 여러 집사는 각자 차례대로 선다. △알자가 초헌관을 인도하여 제물 차림을 살펴보게 하고, 마치면 돌아 나온다. △헌관과 여러 집사가 모두 두 번 절한다. △알자가 초헌관을 인도하여 계단 사이로 나아가 북쪽을 향해 꿇어앉게 한다. △세 번 향을 올린다. △(강신) 향로를 신위 앞에 올린다. △헌관이 두 번 절한다. △엎드렸다 일어나 북쪽을 향해 꿇어앉는다. △사준이 잔을 헌관에게 준다. △헌관이 잔을 잡는다. △사준이 술을 따른다. △헌관이 잔을 집사에게 준다. △집사가 잔을 받아 신위 앞에 올린다. △축관이 헌관의 왼쪽으로 나아간다. △축문을 읽는다. △헌관이 엎드렸다 일어나 몸을 펴고 두 번 절한다. △제자리로 돌아간다. △알자가 아헌관을 인도하여 신위 앞에 나아가 북쪽을 향해 꿇어앉게 한다. △사준이 잔을 헌관에게 준다. △헌관이 잡고 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "밀양 오봉서원에서 묘소 제사의 절차를 동작 단위로 '△' 표를 붙여 적은 홀기입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.0000.4827-20101008.B045b_070_00021_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/obong-seowon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 238
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0150%5EL015026%5EL015026F02%5EL015026F0207&dataId=G002%2BAKS%2BKSM-XG.0000.4827-20101008.B045b_070_00021_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/obong-seowon/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/obong-seowon/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/obong-seowon/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/obong-seowon/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 927
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1265 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.5 서원을 지키고 꾸린 기록"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "서원은 공부만 하는 곳이 아니라, 땅과 사람과 건물을 지키는 조직이었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.5"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "함양 남계서원"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/namgye-seowon/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/namgye-seowon/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 303
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1733〜1737년 남계서원전답양안등서(蘫溪書院田畓量案謄書) (1733)"
+    ]
+   },
+   "width": 1400,
+   "height": 1178,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1733"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남계서원전답양안등서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지 — 훼손 심함)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "서원이 가진 논밭의 목록을 옮겨 적어 관리한 책입니다. 표지가 많이 훼손되어 이 면에서는 내용을 읽을 수 없고, 땅의 규모는 본문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1733.4887-20101008.B014a_024_00017_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 303
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024803%5EL024803F02%5EL024803F0207&dataId=G002%2BAKS%2BKSM-XG.1733.4887-20101008.B014a_024_00017_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1178
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1740년 함양군(咸陽郡) 남계서원전답양안(蘫溪書院田畓量案) (1740)"
+    ]
+   },
+   "width": 1400,
+   "height": 1206,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1740"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남계서원전답양안"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "第一東犯 … 畓 … / 第二西犯 … 田 … / 群字 … (붉은 관인)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "제1 동범(동쪽으로 뻗은) … 논 … 제2 서범 … 밭 … 군(群)자 … (관인) — 필지마다 번호·방향·논밭·크기·경계를 적은 장부"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "서원이 가진 논밭 하나하나의 번호와 위치, 크기, 경계를 군청이 확인해 적은 장부입니다. 서원이 땅을 가진 경제 공동체였음을 보여 주며, 총 면적은 본문을 합산해야 알 수 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1740.4887-20101008.B014a_024_00018_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 310
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024803%5EL024803F02%5EL024803F0207&dataId=G002%2BAKS%2BKSM-XG.1740.4887-20101008.B014a_024_00018_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1206
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1843년 남계서원완문(蘫溪書院完文) (1843)"
+    ]
+   },
+   "width": 1400,
+   "height": 827,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1843"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남계서원완문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "… 若或有 … 侵役之弊則 該掌 … / 一 禁衛廳勿侵事 / 一 御營廳勿侵事 / 一 禆將廳勿侵事 / 一 馬軍勿侵事 / 一 京砲手勿侵事 / 一 各樣價布勿侵事"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "… (서원 사람에게 부역을 지우지 않는 것이) 직분이다. 만약 혹 열 집 가운데 부역을 침범하는 폐단이 있으면 담당자를 결단코 엄히 다스릴 것이며, 번포(番布)는 즉시 … 대신 담당자에게 물릴 일. 하나, 금위청은 침범하지 말 것. 하나, 어영청은 침범하지 말 것. 하나, 비장청은 침범하지 말 것. 하나, 마군은 침범하지 말 것. 하나, 경포수는 침범하지 말 것. 하나, 여러 가지 값을 매긴 포(價布)는 침범하지 말 것."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "만약 서원에 속한 집에 부역을 지우는 폐단이 있으면 담당자를 엄히 다스린다고 밝히고, 금위청·어영청·비장청·마군·경포수 등 여러 군영과 각종 세금(價布)이 서원 사람들을 침범하지 못하게 한다는 내용입니다. 서원을 지켜 준 관의 보증서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1843.4887-20101008.B014a_024_00031_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 213
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024803%5EL024803F02%5EL024803F0204&dataId=G002%2BAKS%2BKSM-XD.1843.4887-20101008.B014a_024_00031_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 827
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1849년 상량시집사록(上樑時執事錄) (1849)"
+    ]
+   },
+   "width": 1074,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1849"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "상량시집사록"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "一有司 幼學 河龍圖 / 二有司 進士 鄭□□ / … / 崇禎四己酉二月初四日辰時上樑"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1유사 유학 하용도, 2유사 진사 정○○ … 숭정 기원 후 네 번째 기유년(1849) 2월 4일 진시(오전 7~9시)에 상량함."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "공사를 총괄한 1유사 하용도(유학), 2유사 정○○(진사) 등과 각 일을 맡은 사람, 목수 등의 이름을 적었습니다. 같은 해 하용도가 지은 상량문과 짝을 이루는 문서입니다(일부 이름은 판독 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1849.4887-20101008.B014a_024_00033_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 276,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024803%5EL024803F02%5EL024803F0207&dataId=G002%2BAKS%2BKSM-XG.1849.4887-20101008.B014a_024_00033_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1074,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1849년 하용도(河龍圖) 남계서원문루상량문(蘫溪書院門樓上樑文) (1849)"
+    ]
+   },
+   "width": 967,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1849"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남계서원문루상량문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "蘫溪書院門樓上樑文 / … 兒郞偉 拋樑東 … / (끝) 一有司 … 河龍圖 謹文"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남계서원 문루 상량문 … 어영차, 들보를 동쪽으로 던지니 … (끝) 1유사 … 하용도 삼가 지음."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남계서원(정여창을 모신 서원)의 유래와 문루 공사의 경위를 밝히고, 동서남북과 위아래를 향해 서원과 학문이 길이 이어지기를 비는 글입니다. 세부 구절은 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XI.1849.4887-20101008.B014a_024_00032_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 249,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024803%5EL024803F02%5EL024803F0208&dataId=G002%2BAKS%2BKSM-XI.1849.4887-20101008.B014a_024_00032_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 967,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1923년 원규(院規) (1923)"
+    ]
+   },
+   "width": 1400,
+   "height": 754,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1923"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "원규"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "院規 / 一 有司傳受時 財産及物品 必對照後 引繼事 / 一 院主 … / 一 享禮 … / 一 院中書冊 非院中來讀者 勿許 … / 癸亥三月三日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "원규(서원 규칙). 하나, 유사가 바뀌어 일을 넘겨받을 때는 재산과 물품을 반드시 대조한 뒤 넘겨받을 것. 하나, 서원 땅의 세금은 서원이 맡되 도조(소작료) 액수는 … 재해가 있으면 들에 나가 살필 것. 하나, 제사(享禮)에 드는 비용은 도조 가운데 봄·가을 각 15섬씩을 예로 봉해 쓸 것. 하나, 포우(제사용 소고기) 값은 150냥으로 정할 것. 하나, 서원 재물은 증빙 없이 쓰지 말 것. 하나, 유사가 공무를 볼 때 접대 비용은 15냥 이내로 정할 것. 하나, 서원의 책은 서원에 와서 읽는 사람이 아니면 절대 빌려주지 말 것. 하나, 찾아오는 사람의 접대가 지나치게 많으면 마땅히 줄일 것. 하나, 책은 해마다 여름이 지난 뒤 수를 맞춰 보고 볕에 말릴 것. 하나, 다하지 못한 조건은 뒤에 보충할 것. 계해년(1923) 3월 3일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유사가 바뀔 때는 재산과 물품을 반드시 대조한 뒤 넘겨줄 것, 제사(향례)에 드는 비용, 서원의 책은 서원에 와서 읽는 사람 외에는 빌려주지 말 것, 손님 접대 비용의 한도 등을 정했습니다. 일제강점기에도 서원이 스스로 규칙을 세워 운영했음을 보여 줍니다(조항별 판독 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1923.4887-20101008.B014a_024_00037_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 194
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024803%5EL024803F02%5EL024803F0207&dataId=G002%2BAKS%2BKSM-XG.1923.4887-20101008.B014a_024_00037_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 754
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/7",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1940년 민병승(閔丙承) 풍영루 중수기(風詠樓重修記) (1940)"
+    ]
+   },
+   "width": 1400,
+   "height": 657,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1940"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "중수기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "風詠樓重修記 / … / 閔丙承 謹記"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "풍영루 중수기 … 민병승 삼가 적음."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "풍영루가 낡아 고치게 된 사정과 공사에 힘쓴 사람들, 그리고 서원의 뜻을 기리는 내용입니다. 1849년 상량문으로 시작된 문루의 역사가 90여 년 뒤 다시 기록으로 이어집니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1940.4887-20101008.B014a_024_00034_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/thumb/07.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 169
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024803%5EL024803F02%5EL024803F0207&dataId=G002%2BAKS%2BKSM-XG.1940.4887-20101008.B014a_024_00034_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/7",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 657
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/8",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "서원건치도(書院建置圖)"
+    ]
+   },
+   "width": 1400,
+   "height": 1363,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "서원건치도"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "西夾室 / 房 / 室 / 戶 / 中堂 / 東夾室 / 庭 / 門 (작은 이름표 여러 개)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "서협실 / 방 / 실 / 호(문) / 중당 / 동협실 / 뜰 / 문 — 공간 이름과 자리 표시"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사당 안팎의 공간 구성과 함께, 제사 때 각 사람이 서거나 움직이는 자리를 표시한 그림으로 보입니다. 이름표의 글씨를 판독하면 의식의 동선을 복원할 수 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.0000.4887-20101008.B014a_024_00039_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/thumb/08.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 350
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024803%5EL024803F02%5EL024803F0207&dataId=G002%2BAKS%2BKSM-XG.0000.4887-20101008.B014a_024_00039_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/8/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/canvas/8",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/namgye-seowon/08.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1363
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

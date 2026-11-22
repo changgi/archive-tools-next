@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.103 \"그때 우리 군사를 먹인 이는 안 의사 한 사람뿐\" — 무신란 27년 뒤, 속오군의 호소"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "고마움은 오래간다 — 굶주린 날 밥을 준 사람을, 병사들은 30년 가까이 잊지 않았다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.103"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "함안 두릉 순흥안씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hamahn-ahn/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hamahn-ahn/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 247,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1755년 무신부적속오군(戊申赴敵束伍軍) 김립(金立) 등 등장(等狀) (1755)"
+    ]
+   },
+   "width": 962,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1755"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "등장"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "戊申赴敵束伍軍金立等 / 右謹陳所志事段 大凡彰善褒義 爲政之大務也 … 人之常情 上不有彰之 孰能與之 不有報之 孰能行之矣 … / 向(?)夫戊申亂時 且是窮節(?) 聚軍多日 貧疲呼飢之中 困乏莫甚 中典(?)指出安生員 一邊給料 一邊犒饋 … 補力赴陣 … 爲國忠節之志 亘天地不朽之節義 … / … 轉報營門 以報萬一之恩 … / 行下向敎是事 / 官司主 處分 / 乙亥正月 日 / (제사) 其人所行 … (흘림) / (등장인 이름) 李謹 · 朴文安 · 姜玉丁(?) · 金手鶴(?) · 車仍迪(?) … "
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "무신년(1728)에 적을 향해 나갔던 속오군 김립 등. 삼가 아뢰는 일: 무릇 착한 일을 드러내고 의로운 일을 기리는 것은 정치의 큰 일이며, 은혜를 입으면 갚으려 하는 것은 사람의 떳떳한 마음입니다. 위에서 드러내 주지 않으면 누가 하겠으며, 갚지 않으면 누가 행하겠습니까. … 지난 무신년 난리 때는 마침 궁한 철이라 군사를 여러 날 모아 두니, 가난하고 지쳐 굶주림을 호소하는 가운데 곤궁함이 더할 수 없었습니다. 그때 안 생원이 한편으로는 양식을 내주고 한편으로는 음식을 먹여, 기운을 되찾아 힘을 보태 싸움터로 나갈 수 있었습니다. 이는 나라를 위한 충절의 뜻이요 천지와 함께 썩지 않을 절의입니다. … 적을 향해 나간 사연을 감영에 보고하여 만분의 일이라도 은혜를 갚고, 사람들을 격려하는 바탕이 되게 해 주십시오. 원님께서 처분해 주십시오. 을해년(1755) 정월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1755년, 무신란 때 싸움에 나갔던 속오군들이 굶주린 자신들을 먹여 준 안 생원의 공을 알려 달라고 원님에게 올린 청원서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1755.4873-20101008.B056a_081_00049_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 247,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0150%5EL015002%5EL015002F02%5EL015002F0202&dataId=G002%2BAKS%2BKSM-XB.1755.4873-20101008.B056a_081_00049_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 962,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1759년 속오군(束伍軍) 김천세(金千世), 박여달(朴汝達), 이필(李怭) 등 등장(等狀) (1759)"
+    ]
+   },
+   "width": 962,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1759"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "등장"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "束伍軍金千世朴汝達李怭等 / 右謹陳所志情由 … 往者戊申之變 爲臣民所共憤 而伊時爲國家餉我軍者 杜谷安義士一人而已 則其忠義美跡 至于今烈烈 … / 令監主按(?)節之時 … 公論 … / 令監主激忠成人之德 益復高於安義士 … 國之丹忱(?) … / 天門則此莫非(?) 令監主忠義擡排(?)之恩 … / 令監主獎勸忠孝之下 更爲馳報 … / 行下向敎是事 / 令監主 處分 / 己卯正月 日 / (제사, 큰 흘림) 彰 … (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "속오군 김천세 · 박여달 · 이필 등. 삼가 아뢰는 사정: … 지난 무신년의 변란은 신하와 백성이 함께 분노한 일이었는데, 그때 나라를 위해 우리 군사를 먹인 이는 두곡의 안 의사 한 사람뿐이었습니다. 그 충의의 아름다운 자취가 지금까지도 빛나고 있습니다. … 원님께서 충성을 북돋우고 사람의 덕을 이루어 주시니, 안 의사의 일이 더욱 높아질 것입니다. … 충효를 장려하시는 가운데, 새로 오신 감사께도 다시 급히 보고해 주십시오. 원님께서 처분해 주십시오. 기묘년(1759) 정월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1759년, 속오군들이 '그때 우리 군사를 먹인 이는 안 의사 한 사람뿐'이라며 그 공을 감사에게 다시 보고해 달라고 올린 청원서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1759.4873-20101008.B056a_081_00058_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 247,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0150%5EL015002%5EL015002F02%5EL015002F0202&dataId=G002%2BAKS%2BKSM-XB.1759.4873-20101008.B056a_081_00058_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hamahn-ahn/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 962,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

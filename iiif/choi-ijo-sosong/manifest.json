@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.158 서울 상인이 경주 전 군수를 고소하다 — 1898년 고등재판소 소장 네 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "같은 집안 문서에서 '소지'가 '소장'으로 바뀌었다 — 수령에게 올리던 호소문이, 원고 · 피고 · 사실을 칸 나눠 적는 인쇄 소송지가 되었다. 그러나 판결과 집행 사이의 거리는 여전히 멀었다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.158"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경주 이조 경주최씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/choi-ijo-sosong/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/choi-ijo-sosong/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 264
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1898년 고등재판소(高等裁判所) 소장(訴狀)－01 (1898)"
+    ]
+   },
+   "width": 1400,
+   "height": 1025,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1898"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소장"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "訴狀 京畿道廣州郡松坡居 原告商民尹華 三十四九(?) 被告慶尙北道慶州郡居 前郡守崔敬植 年 … 訴求 原告가被告의 … 錢을當世에 推尋ᄒ야 … 事實 去己丑年分에 慶尙北道慶州郡居尹自愼이가 與同郡崔敬植으로 … 方今 … 錢三萬兩을得給ᄒ고 … 被告敬植으로 爲標主 … 子愼으로 爲保人 … 原告ᄂᆞᆫ家禍層生이 … 未得下去 … 被告之族人數百名이 結縛保人子愼 … 當場打殺 … 崔班多族之勢로 … 尙今生存故로 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소장. 경기도 광주군 송파에 사는 원고 상인 윤화. 경상북도 경주군에 사는 피고 전 군수 최경식. 청구: 원고가 피고에게 (빌려준) 돈을 받아 내고자 함. 사실: 지난 기축년(1889)에 경주군에 사는 윤자신이 같은 군의 최경식과 … 돈 3만 냥을 건네주고 … 피고 경식을 채무자(표주)로, 자신을 보증인으로 삼았는데 … 원고는 집안에 화가 겹쳐 내려가지 못하던 차에 … 피고의 일족 수백 명이 보증인 자신을 묶어 … 그 자리에서 때려 죽이려 하였고 … 최씨 양반 집안의 많은 일족의 세력으로 … 지금까지 (피고가) 살아 있으므로 …."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1898년 송파 상인 윤화가 경주 전 군수 최경식을 상대로 1889년의 돈 3만 냥을 받아 달라고 고등재판소에 낸 소장입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1898.1102-20190131.B033a_000_B02002035"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 264
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016706%5EL016706F02%5EL016706F0202&dataId=G002%2BAKS%2BKSM-XB.1898.1102-20190131.B033a_000_B02002035&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1025
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1898년 고등재판소(高等裁判所) 소장(訴狀)－02 (1898)"
+    ]
+   },
+   "width": 1123,
+   "height": 1382,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1898"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소장"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "指令 崔族之奪票燒火ᄂᆞᆫ … 保人 … 心訴 … 被告ᄂᆞᆫ … 捉致質判後 督推給이 爲可事 光武二年七月二日 (고등재판소 인) 慶尙北道裁判所判事 閣下"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "지령. 최씨 일족이 표(차용증)를 빼앗아 불태운 일은 … 보증인 … 피고는 … 잡아다 대질하여 판결한 뒤 독촉하여 받아 주는 것이 옳다. 광무 2년(1898) 7월 2일. (고등재판소 인) 경상북도재판소 판사 각하."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1898년 7월 고등재판소가 경상북도재판소에 피고를 불러 대질 판결한 뒤 돈을 받아 주라고 내린 지령입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1898.1102-20190131.B033a_000_B02002036"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 293,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016706%5EL016706F02%5EL016706F0202&dataId=G002%2BAKS%2BKSM-XB.1898.1102-20190131.B033a_000_B02002036&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1123,
+        "height": 1382
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1898년 고등재판소(高等裁判所) 소장(訴狀)－08 (1898)"
+    ]
+   },
+   "width": 1131,
+   "height": 1382,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1898"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소장"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "指令 本所指飭이 非止一再어늘 尙不質査 … 致此煩訴 … 到即詳査ᄒ야 果如所訴어든 枉因推給ᄒ야 無至呼冤之境이 宜當事 光武二年十月十七日 (고등재판소 인) 慶尙北道裁判所判事 閣下"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "지령. 본 재판소의 지시가 한두 번이 아닌데도 아직 대질 조사하지 않아 … 이렇게 거듭 호소하게 만들었다. … (이 지령이) 닿는 즉시 자세히 조사하여, 과연 호소한 대로라면 … 받아 주어 억울하다고 부르짖는 지경에 이르지 않게 하는 것이 마땅하다. 광무 2년(1898) 10월 17일. (고등재판소 인) 경상북도재판소 판사 각하."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1898년 10월 고등재판소가 '지시가 한두 번이 아니다'라며 경상북도재판소에 즉시 조사해 돈을 받아 주라고 거듭 내린 지령입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1898.1102-20190131.B033a_000_B02002048"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 295,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016706%5EL016706F02%5EL016706F0202&dataId=G002%2BAKS%2BKSM-XB.1898.1102-20190131.B033a_000_B02002048&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1131,
+        "height": 1382
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1898년 고등재판소(高等裁判所) 소장(訴狀)－10 (1899)"
+    ]
+   },
+   "width": 1400,
+   "height": 1076,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1899"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소장"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "請願書 京畿道廣州松坡居商民尹華 三年五十(?) 被告慶尙北道慶州郡居前郡守崔敬植 年 訴求 被告ᄂᆞᆫ原告에게對ᄒ야當報ᄒᆞᆯ錢을不報ᄒᆞᆫ事와幷此訴訟費用을判償ᄒᆞᆯ旨에裁判을請願홈 事實 原告의至冤ᄒᆞᆫ事狀은屢次具陳於前訴ᄒ앗사오니 … 屢奉指令之下에一未得對質則可知其被告之有勢力而以若遐鄕頑習으로凌視嚴飭ᄒ고挾官藉 … 伏願被告崔敬植을卽爲捉上ᄒ야 … 平理院裁判長 處分 光武三年十月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "청원서. 경기도 광주 송파에 사는 상인 윤화. 피고 경상북도 경주군에 사는 전 군수 최경식. 청구: 피고가 원고에게 갚아야 할 돈을 갚지 않은 일과, 아울러 이 소송 비용을 물어 주게 하는 재판을 청원함. 사실: 원고의 지극히 억울한 사정은 여러 번 앞서 소장으로 갖추어 아뢰었는데 … 여러 번 지령을 받들었는데도 한 번도 대질하지 못했으니 피고에게 세력이 있음을 알 수 있고, 먼 시골의 고집스러운 버릇으로 엄한 지시를 업신여기며 관을 끼고 … 엎드려 바라건대 피고 최경식을 즉시 잡아 올려 … 평리원 재판장 처분. 광무 3년(1899) 10월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1899년 10월 윤화가 평리원에 피고 최경식을 잡아 올려 돈과 소송 비용을 물게 해 달라고 낸 청원서로, 1년 넘게 대질이 한 번도 이루어지지 않았다고 호소합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1898.1102-20190131.B033a_000_B02002050"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 277
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016706%5EL016706F02%5EL016706F0202&dataId=G002%2BAKS%2BKSM-XB.1898.1102-20190131.B033a_000_B02002050&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/choi-ijo-sosong/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1076
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.32 \"세 사람이 말하면 호랑이가 된다\" — 1805년 진주 사창 사건과 일흔 살 진사"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "'세 사람이 말하면 호랑이가 된다' — 소문과 모함이 사람을 어떻게 가두는지."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.32"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "진주 단목 진양하씨 단지 하협 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hahyeop/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hahyeop/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 257,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1805년 하진백(河鎭伯) 상서(上書) (1805)"
+    ]
+   },
+   "width": 999,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1805"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "상서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "晉州進士河鎭伯謹齋沐上書于 / 兵相國閤下 伏以生年迫七十 … 無端被誣於崔鶴羽 … 因成三虎之市者耶 … 以十五兩平心買之 … 使此垂死迂儒 得免白地惡名事 / 乙丑三月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "진주 진사 하진백이 삼가 목욕재계하고 병마절도사 합하께 글을 올립니다. 엎드려 아뢰건대, 저는 나이가 일흔에 가깝고 본디 병을 안고 문을 닫은 채 궁벽하게 살며 분수를 지키고 졸렬함을 지켜 왔습니다. 고을 일은 말할 것도 없고 집안일조차 아들에게 맡기고, 글 읽고 쓰는 일 밖의 세상일에는 전혀 관여하지 않은 지 이미 수십 년입니다. 그런데 뜻밖에 지금 몸에 큰 화가 닥쳐, 까닭 없이 최학우에게 무고를 당해 두려움 속에 있습니다. 아아, 제가 비록 어리석고 천하여 보잘것없으나 그래도 글 읽는 사람인데, 어찌 차마 최학우와 한패가 되어 일을 함께 하겠습니까. 입을 세 번 봉하는 것은 평생의 경계였으나, 지금 이런 오명을 쓰고도 입을 다물고 해명하지 않는다면 선비의 갓과 옷을 입은 몸으로 부끄럽고, 죽는 날에도 눈을 감지 못할 것이기에, 밝은 정사 아래 한마디 억울함을 외쳐 본심과 실정이 명백함을 드러내고자 합니다.\n처음 올린 병영 유생들의 소장 가운데 환곡 폐단은 병영 창고에 오래 쌓인 폐단이지만, 저는 겨우 굶주림과 추위를 면하는 처지라 처음부터 환곡을 받지 않았으니 환곡 폐단이 있고 없음이 제게 이해가 걸린 일이 아닙니다. 이해가 몸에 걸리지 않았는데 은혜와 원망의 마음이 어디서 생기며, 그런 마음이 없는데 칭찬과 헐뜯음이 어찌 입에서 나오겠습니까. 다만 사창(社倉)은 본래 주자의 옛 제도이므로, 세상 물정 모르는 선비의 고담으로 사람을 만나면 '이 법이 매우 좋다'고 말했을 뿐입니다.\n최학우로 말하면, 한 마을에 살지만 본래 원한이 있어 여러 차례 산송(묘지 소송)으로 문서가 두루마리를 이룰 정도이고, 대를 이어 막혀 서로 왕래하지 않았습니다. 근래 화해했다고는 하나, 제가 6년 상을 치르는 동안 학우는 한 번도 문상 오지 않았고, 그도 근래 삼년상을 치렀지만 저희 집에서는 한 사람도 가지 않았습니다. 정의가 어긋나고 발길이 다른 것이 이로써 알 만합니다. 그러니 제가 어찌 그런 학우와 한 속이 되어 일을 함께 하겠습니까. 어디서 마주치면 공경하되 멀리하고 겉으로만 대했기에, 학우가 저희 집에 오지 않은 지 거의 4~5년이었습니다.\n지난 2월쯤 갑자기 와서 병문안을 하고는, 사창 일로 병영에 소장을 낸 일을 꺼내며 '이 일이 어떻습니까' 하였습니다. 저는 그 사람됨을 살펴 상대하기 어렵다 여겨 다만 '주자의 옛 제도이고 조정의 명으로 맡긴 바이니 진실로 행할 수 있다면 어찌 좋지 않겠는가' 하였습니다. 그러자 그가 또 '순영(감영)에 올리려 하니 의송(議送)을 지어 달라' 간청하기에, 저는 '한 고을의 일을 내가 어찌 사양하겠는가마는, 병중이라 이런 글을 짓기 어려울 뿐 아니라 평생 지어 본 적이 없어 계율을 깨기 어렵다' 하고 끝내 지어 주지 않았습니다. 그러자 그가 또 순영에 가려는데 노자가 없다며 돈을 융통해 달라 간청하였고, 저는 없다고 답했습니다. 그 뒤 또 와서 밭을 사 달라며 문기를 내보였는데, 그것이 바로 저희 선산 아래 밭으로 평소 사고 싶던 것이었습니다. 그도 제 뜻을 짐작하여 그 문서로 팔기를 권했고, 저는 세상 물정 모르는 서생이라 마음을 터놓고 일을 허술하게 헤아려, 다만 선산 아래 밭을 살 수 있다는 것만 알고 훗날 일이 이렇게 될 줄은 모른 채 15냥에 공평하게 샀습니다.\n이제 그가 꾸며 바친 진술을 헤아려 보건대, 제가 작은 과거 이름이 있고 나이도 많으니 이를 빌려 마을과 성안을 드나들며 '아무개도 좋다고 했다'고 말해 제 말을 사실로 만들려 한 것이고, 한 사람이 전하고 두 사람이 전하여 '세 사람이 말하면 저자에 호랑이가 있다'는 꼴이 된 것입니까. 돈을 빌려 달라던 일은 마음에 다른 뜻이 없었으나 자취가 혐의에 가까워 이 밭값에 대한 의심을 낳고, 마침내 입에서 입으로 퍼져 그 무고를 당하게 된 것입니까. 사람의 마음은 크게 다르지 않으니, 이해가 걸리지 않은 처지에 흠잡을 이유가 없고, 평생 혐의가 있는 사이에 일을 함께 할 리가 없습니다. 학우의 무고는 따지지 않아도 가려질 것이나, 엎드려 생각건대 제 처지가 비록 낮아도 입은 것은 선비의 옷이요, 견식이 비록 성글어도 나이가 이미 저물었는데, 몸가짐이 형편없고 일 처리가 밝지 못하여 이런 무리의 무고를 입어 합하의 뜰에까지 이르렀으니, 억울함을 호소하는 마음이 어찌 끝이 있겠습니까. 이럴 줄 알았다면 처음부터 어찌 사창 일로 그와 말을 섞었겠으며, 어찌 흥성(?) 등의 일로 그와 얽혔겠습니까. 엎드려 바라건대 합하께서 특별히 밝게 살피시어, 죽어 가는 이 세상 물정 모르는 선비가 터무니없는 오명을 벗게 해 주십시오. 삼가 외람되이 아룁니다. 병마절도사 합하. 을축년(1805) 3월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "일흔 가까운 진사 하진백이 '나는 환곡을 받지 않으니 이해관계가 없고, 사창은 주자의 옛 제도라 좋다고 말했을 뿐이며, 최학우와는 대대로 산송을 벌인 원수 사이라 한패일 수 없다'고 해명합니다. 최학우가 의송을 지어 달라, 노자를 빌려 달라 했으나 거절했고, 그가 내놓은 선산 아래 밭을 15냥에 산 것이 오해를 불렀다며 '세 사람이 말하면 호랑이가 된다'는 꼴이라고 호소합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1805.4817-20101008.B039a_060_00031_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 257,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0150%5EL015007%5EL015007F02%5EL015007F0202&dataId=G002%2BAKS%2BKSM-XB.1805.4817-20101008.B039a_060_00031_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 999,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1805년 하태범(河泰範) 상서(上書) (1805)"
+    ]
+   },
+   "width": 875,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1805"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "상서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "晉州幼學河泰範謹齋沐上書于 / 兵相國閤下 伏以生之父年迫七十 素抱疾病 … 無端被誣於崔鶴羽是如乎 噫噫 生之父雖老且窮 猶是讀書人 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "진주 유학 하태범이 삼가 목욕재계하고 병마절도사 합하께 글을 올립니다. 엎드려 아뢰건대, 제 아버지는 나이가 일흔에 가깝고 본디 병을 안고 문을 닫은 채 궁벽하게 살며 분수를 지켜, 고을 일은 말할 것도 없고 … 그런데 까닭 없이 최학우에게 무고를 당했습니다. 아아, 제 아버지가 비록 늙고 궁하나 그래도 글 읽는 사람인데 어찌 차마 최[학우와 한패가 되겠습니까]. … 실로 스스로 용납하기 어려워 밝은 정사 아래 한마디 억울함을 외쳐 본심과 실정이 명백함을 드러내고자 합니다. … [겨우 굶주림과] 추위를 면하는 처지라 처음부터 환곡을 받지 않았으니 환곡 폐단이 있고 없음이 이해가 걸린 일이 아닙니다. … 늙은 선비가 간여하고 알 일이 아니며, 다만 사창은 주자의 옛 제도이므로 세상 물정 모르는 선비의 고담으로 … 대를 이어 막혀 서로 왕래하지 않았고, 근래 화해했다 하나 아버지가 상중일 때 그는 문상 오지 않았고 … 어찌 한 속이 되어 일을 함께 하겠습니까. 학우가 저희 집에 오지 않은 지 거의 4~5년이었는데, 지난 2월쯤 아버지가 병으로 누워 계실 때 … '조정의 명으로 맡긴 바이니 진실로 행할 수 있다면 어찌 좋지 않겠는가' 하자, 그가 또 순영에 올릴 의송을 지어 달라고 … (이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "아들 하태범이 '아버지는 일흔이 다 된 병든 선비로 환곡과 이해관계가 없고, 최학우와는 대대로 왕래하지 않은 사이'라며 아버지가 무고를 당했다고 호소한 글입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1805.4817-20101008.B039a_060_00032_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 225,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0150%5EL015007%5EL015007F02%5EL015007F0202&dataId=G002%2BAKS%2BKSM-XB.1805.4817-20101008.B039a_060_00032_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 875,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1805년 강일(姜馹) 등 상서(上書) (1805)"
+    ]
+   },
+   "width": 1008,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1805"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "상서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "晉州幼學 等謹齋沐百拜上書于 / 巡相國閤下 伏以生等以鄕儒被囚於兵營事 數日前有所齊顲 … 本邑餉穀痼弊 … 社倉 … / 乙丑三月 日 / 姜馹 李命守 姜瞌 鄭東善 李命範 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "진주 유학 [강일] 등이 삼가 목욕재계하고 백 번 절하며 관찰사 합하께 글을 올립니다. 엎드려 아뢰건대, 저희는 고을 유생이 병영에 갇힌 일로 며칠 전 함께 호소하였으니 합하께서 이미 훤히 아실 것입니다. 엎드려 바라건대 살펴 주십시오. 이 고을 군량 곡식(餉穀)의 고질적 폐단은 도 안에서도 가장 심한데, 사창(社倉)을 맡기라는 영이 내려온 뒤 민정이 … 본관(진주목사)과 병영에 글을 올려 [갇힌 이들을] 풀어 달라고 간청하였는데, 그때는 감영의 판결 공문이 오기 전이었습니다. 그런데 병영에서는 … 갑자기 잡아내어 칼을 씌워 엄하게 가두고, 또 군역 직임에 차출하라는 영으로 본관을 독촉하니, 저희 사또께서는 유생을 군임에 차출하는 것으로 … 설령 올린 글에 눈에 거슬리는 데가 있더라도 이는 시골의 세상 물정 모르는 선비의 말이 조금 지나쳤을 뿐이니 어찌 깊이 꾸짖을 만하며, 이렇게까지 하십니까. … 저 갇힌 두 사람은 본래 삼가고 졸박한 선비로, 평생 읽은 것이 주자의 글이고 평소 밝힌 것이 도리입니다. … 조정의 명은 주자의 옛 제도이자 우리 성상의 밝은 명이고, 또 감영의 판결이 내려오기 전이었으므로 일이 이렇게 어그러질 줄 모르고 여럿을 따라 참여했을 뿐입니다. … (가운데 판독 필요) … 합하께서 순찰하며 펴시는 정사 아래 우러러 믿을 이는 오직 합하뿐입니다. 엎드려 바라건대 조정이 백성을 아끼는 뜻을 받들어, 한 고을의 하소연할 데 없는 억울함을 굽어살피시어 특별히 밝은 영을 내려 한 고을을 구해 주십시오. 삼가 외람되이 아룁니다. 을축년(1805) 3월 일. 강일, 이명수, 강개 … 등."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "진주의 군량 폐단과 사창 문제로 글을 올렸다가 병영에 갇히고 군역에 차출될 처지가 된 유생 두 사람을 풀어 달라며, 고을 유생 수십 명이 관찰사에게 연명으로 호소한 글입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1805.4817-20101008.B039a_060_00034_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 259,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0150%5EL015007%5EL015007F02%5EL015007F0202&dataId=G002%2BAKS%2BKSM-XB.1805.4817-20101008.B039a_060_00034_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1008,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1805년 하제범(河濟範) 소지(所志) (1805)"
+    ]
+   },
+   "width": 871,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1805"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "幼學河濟範 / 右謹言泣血冤痛情由段 小生之父以年老抱病之身 … 久滯冷獄 百病交生 … 今則枷囚牢獄凡一月 … 重以壯子冤死初祥迫在今月十二日 … / 兵相國 處分 / 乙丑四月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유학 하제범. 삼가 피눈물로 원통한 사정을 아룁니다. 제 아버지는 늙고 병든 몸으로 [아들을 잃고 곡하던 중] 오래 차가운 옥에 갇혀 온갖 병이 함께 생겨 숨이 끊어질 듯하옵기에, 저는 거적을 깔고 죄를 기다린 지 열닷새 만에 합하께서 그 병세가 위중함을 가엾게 여기시어 특별히 보석(保放)을 허락하셨습니다. 저는 그 은덕을 입어 감격의 눈물을 흘릴 곳을 몰랐으나, 아버지가 아직 정신이 있어 차마 혼자 나가지 못하시므로 저도 감히 [아버지를] 업고 옥문을 나서지 못하였습니다. 그런데 지금은 칼을 쓰고 옥에 갇힌 지 무릇 한 달이 되어 병세가 점점 심해져 음식을 넘기기 어렵고, 게다가 억울하게 죽은 장성한 아들의 첫 기일(초상)이 이달 12일로 다가왔습니다. 아버지는 병이 극히 위중한 가운데 마음이 끓어오르고 화기가 번갈아 일어 옷을 입지 못하고 죽도 넘기지 못하여, 아침저녁을 보전하기 어려운 지경입니다. 제가 비록 못나고 보잘것없으나 자식 된 처지로 통곡하며 어찌할 줄 몰라, 감히 큰 소리로 효로 다스리시는 [합하의] 부월 아래 길게 부르짖습니다. 엎드려 바라건대, 아버지의 본심에 죄가 없음과 병세가 위독함을 훤히 살피시고, 기일이 다가오고 열이 병을 더하는 것을 특별히 가엾이 여기시어 다시 어진 은혜를 베푸시어, 끊어져 가는 아버지의 목숨이 살아서 옥문을 나와 기일 전에 병을 고칠 수 있도록 처분해 주십시오. 병마절도사께서 처분하실 일. 을축년(1805) 4월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "아버지가 늙고 병든 몸으로 오래 옥에 갇혀 있다가 한때 보석이 허락되었으나 다시 칼을 쓰고 한 달째 갇혀 음식도 넘기지 못한다. 억울하게 죽은 형(아들)의 첫 기일이 이달 12일이니, 그 전에 옥문을 나와 병을 고칠 수 있게 해 달라는 호소입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1805.4817-20101008.B039a_060_00036_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 224,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0150%5EL015007%5EL015007F02%5EL015007F0202&dataId=G002%2BAKS%2BKSM-XB.1805.4817-20101008.B039a_060_00036_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hahyeop/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 871,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

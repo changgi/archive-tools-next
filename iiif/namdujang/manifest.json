@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.55 \"문서를 잃어버렸으니 이 글로 증거하라\" — 김포 의령남씨의 호적과 수기"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "문서를 잃으면 권리도 흔들렸고, 그래서 사람들은 문서를 대신할 문서를 만들었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.55"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "김포 의령남씨 서윤공 남두장 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/namdujang/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/namdujang/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 148,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1650년 남두장(南斗長) 진사 백패(進士白牌) (1650)"
+    ]
+   },
+   "width": 577,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1650"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "백패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 幼學南斗長進士二等第十六人入格者 / 順治七年閏十一月十三日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 남두장을 진사시 2등 제16인으로 합격한 사람으로 삼는다. 순치 7년(1650) 윤11월 13일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "선비 남두장이 진사시에 2등 16인으로 합격했음을 증명하는 백패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1650.0000-20180108.C0602_002_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 148,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014140%5EL014140F02%5EL014140F0201&dataId=G002%2BKHD%2BKSM-XA.1650.0000-20180108.C0602_002_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/namdujang/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 577,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1795년 남집(南{火+集}) 준호구(準戶口) (1795)"
+    ]
+   },
+   "width": 1305,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1795"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "乾隆六十年十二月 日 金浦郡 / 考乙卯戶口帳內 蘆長面陵洞里 第六統第二戶 幼學南㸚 年五十九丁巳生 本宜寧 父通德郎 … 祖通德郎宗彦 曾祖 … / 妻安氏 齡三十一乙酉生 籍竹山 / 率奴婢 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "건륭 60년(1795) 12월 일, 김포군. 을묘년 호적 대장을 살피건대, 노장면 능동리 제6통 제2호, 유학 남집, 나이 59세 정사생, 본관 의령. 아버지 통덕랑 ○○, 할아버지 통덕랑 종언, 증조할아버지 가선대부 호조참판 겸 동지의금부사 오위도총부 부총관 성○, 외할아버지 통덕랑 이정우, 본관 전주. 거느린 아들 유학 치년, 나이 28세 무자생. 며느리 안씨, 나이 31세 을유생, 본관 죽산. 거느린 노비: 추룡, 인비, 업례(신축생)의 첫째 소생 비 영애(계해생), 둘째 소생 노 석벽(병인생, 아비 이시금, 어미 위와 같음, 도망) … 비 유례(계미생), 둘째 소생 비 복종(을미생), 셋째 소생 비 복례 … 아비 채대창 … 비 예화(기해생, 아비 법준) … 비 팔금(을해생), 비 구리개(무인생), 아비·어미 위와 같음 … 호적과 대조하여 맞으므로 도장을 찍음. 현령 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "김포 능동리에 사는 59세 남집의 집에 28세 아들 치년, 31세 며느리 안씨, 그리고 여러 노비가 있었음을 관이 확인한 호적 증명서입니다. 노비의 부모와 '도망' 여부까지 적혀 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.1795.0000-20180108.C0602_002_00029_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 336,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014140%5EL014140F02%5EL014140F0204&dataId=G002%2BKHD%2BKSM-XD.1795.0000-20180108.C0602_002_00029_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/namdujang/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1305,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1797년 이세정(李世延) 수기(手記) (1797)"
+    ]
+   },
+   "width": 1400,
+   "height": 1053,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1797"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "수기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "嘉慶二年丁巳十二月初十日 南㸚前 手記 / 右明文事段 癸丑年分 右人傳來田畓文記三丈 典當於吾家 是遣錢文武拾兩 持去矣 今方同錢文備送是遣 同田畓文記推尋是乎尒 以文記欲爲出給 則同文記三丈 見失是乎尒 以石尋 已呈官立旨 成給爲去乎 日後或有子孫中是非之端 俱緣由成文爲去乎 日後持此文告官卞正者 / 財主 李世延"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "가경 2년 정사(1797) 12월 10일, 남집에게 [써 주는] 수기. 이 명문의 일은, 계축년(1793)에 위 사람(남집)이 대대로 전해 오던 논밭 문서 세 장을 우리 집에 저당 잡히고 돈 ○○냥을 가져갔다. 이제 그 돈을 갚아 와서 그 논밭 문서를 찾아가려 하니, 문서를 내주어야 하는데 그 문서 세 장을 잃어버렸다. … 이미 관에 [분실을] 고하여 입지(立旨)를 받아 만들어 주거니와, 뒷날 혹 자손 가운데 시비를 거는 일이 있으면, 그 연유를 함께 적어 이 문서를 만들어 주니, 뒷날 이 글을 가지고 관에 고하여 바로잡을 일. 재주(문서를 써 준 사람) 이세정 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남집이 저당 잡혔던 논밭 문서 세 장을, 돈을 갚을 때 돌려주어야 했으나 이세정이 잃어버렸으므로, 관의 확인을 받고 이 수기로 대신 증명해 준다는 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.1797.0000-20180108.C0602_002_00036_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 271
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014140%5EL014140F02%5EL014140F0204&dataId=G002%2BKHD%2BKSM-XD.1797.0000-20180108.C0602_002_00036_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/namdujang/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/namdujang/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1053
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.159 임금은 일곱 달 동안 열 번 불렀다 — 1623년, 장현광에게 온 유지 네 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "임금의 부름은 명령에서 부탁으로, 부탁에서 자책으로 바뀌었다 — 산림을 불러 정통성을 세우려던 새 왕과, 쉽게 산을 떠나지 않은 학자 사이의 일곱 달."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.159"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "구미 옥산 인동장씨 여헌 장현광 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yeoheon-yuji/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yeoheon-yuji/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 278
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1623년 장현광(張顯光) 유지(有旨)－01 (1623)"
+    ]
+   },
+   "width": 1400,
+   "height": 1080,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1623"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "前掌令張顯光開拆 右承旨權 (수결) 聞爾學行言論 足爲士子師範云 爾其以駕轎上來事 有旨 天啓三年四月初六日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전 장령 장현광 개탁(뜯어보라). 우승지 권 (수결). 그대의 학문과 행실, 언론이 선비들의 본보기가 될 만하다고 들었다. 그대는 가마를 타고 올라오라. 유지. 천계 3년(1623) 4월 6일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1623년 4월 인조가 승지를 통해 장현광에게 '선비들의 본보기'라며 가마를 타고 올라오라고 부른 유지로, 그해 열 번 부름의 첫 장입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1623.1111-20101008.B055a_079_00006_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 278
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016768%5EL016768F02%5EL016768F0201&dataId=G002%2BAKS%2BKSM-XA.1623.1111-20101008.B055a_079_00006_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1080
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1623년 장현광(張顯光) 유지(有旨)－04 (1623)"
+    ]
+   },
+   "width": 1400,
+   "height": 1049,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1623"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "司憲府持平張顯光開拆 行都承旨吳 (수결) 爾力學修行 遯居山野 予在潛邸 已聞爾名 茲授爾司憲府持平 今見慶尙監司狀啓 則爾以病不得上來云 深用缺然 … 調理 速爲上來 以副予側席之望事 有旨 天啓三年五月初一日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사헌부 지평 장현광 개탁. 행 도승지 오 (수결). 그대는 학문에 힘쓰고 행실을 닦으며 산야에 숨어 살았다. 내가 잠저(즉위 전)에 있을 때 이미 그대의 이름을 들었기에, 이에 그대에게 사헌부 지평을 제수한다. 이제 경상감사의 장계를 보니 그대가 병으로 올라오지 못한다 하니 매우 서운하다. … 몸조리하여 속히 올라와 자리를 비워 두고 기다리는 내 바람에 부응하라. 유지. 천계 3년(1623) 5월 1일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1623년 5월 인조가 장현광을 사헌부 지평에 제수하며 '잠저 때부터 이름을 들었다', 병을 조리하고 속히 올라오라고 다시 부른 유지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1623.1111-20101008.B055a_079_00009_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 270
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016768%5EL016768F02%5EL016768F0201&dataId=G002%2BAKS%2BKSM-XA.1623.1111-20101008.B055a_079_00009_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1049
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1623년 장현광(張顯光) 유지(有旨)－05 (1623)"
+    ]
+   },
+   "width": 1400,
+   "height": 1029,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1623"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "成均館司業張顯光開拆 右副承旨洪 (수결) 爾屢招不來 豈予誠意淺薄 不足以致之歟 想爾昔疾今愈 爾其勉強 … 上來 以副予一見之願事 有旨 天啓三年六月十四日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "성균관 사업 장현광 개탁. 우부승지 홍 (수결). 그대가 여러 번 불러도 오지 않으니, 어찌 내 정성이 얕아 그대를 오게 하기에 모자란 것이 아니겠는가. 생각건대 그대의 지난 병이 이제는 나았을 것이니, 그대는 힘써 … 올라와 한 번 만나 보고 싶은 내 바람에 부응하라. 유지. 천계 3년(1623) 6월 14일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1623년 6월 인조가 장현광을 성균관 사업으로 부르며 '여러 번 불러도 오지 않으니 내 정성이 얕은 탓인가', 한 번만이라도 만나고 싶다고 쓴 유지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1623.1111-20101008.B055a_079_00010_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 265
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016768%5EL016768F02%5EL016768F0201&dataId=G002%2BAKS%2BKSM-XA.1623.1111-20101008.B055a_079_00010_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1029
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1623년 장현광(張顯光) 유지(有旨)－10 (1623)"
+    ]
+   },
+   "width": 1400,
+   "height": 977,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1623"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "司憲府掌令張顯光開拆 同副承旨金 (수결) 續見本道監司狀啓 知爾一向辭疾不來 爾之去就 必有其意 予甚缺然 否德忝位 雖不足以有爲 而 … 予願見之誠 爾亦庶或諒之矣 神明所扶 勿藥有喜 爾其勉回遐心 善爲調理 … 然來思 以副予望事 有旨 天啓三年十月二十三日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사헌부 장령 장현광 개탁. 동부승지 김 (수결). 이어서 본도 감사의 장계를 보니 그대가 줄곧 병을 이유로 사양하고 오지 않음을 알았다. 그대의 나아가고 물러남에는 반드시 그 뜻이 있을 것이니, 나는 몹시 서운하다. 덕이 없는 몸으로 자리를 더럽혀 비록 무엇을 해낼 만하지는 못하나, … 그대를 보고 싶어 하는 내 정성을 그대도 혹 헤아려 줄 것이다. 신명이 도와 약을 쓰지 않고도 나을 것이니, 그대는 멀리 떠난 마음을 힘써 돌이켜 잘 조리하고 … 올라와 내 바람에 부응하라. 유지. 천계 3년(1623) 10월 23일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1623년 10월 인조가 장현광에게 '그대의 거취에는 반드시 뜻이 있을 것'이라며 마음을 돌려 올라오라고 청한, 그해 열 번째 유지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1623.1111-20101008.B055a_079_00015_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 251
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016768%5EL016768F02%5EL016768F0201&dataId=G002%2BAKS%2BKSM-XA.1623.1111-20101008.B055a_079_00015_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeoheon-yuji/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 977
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

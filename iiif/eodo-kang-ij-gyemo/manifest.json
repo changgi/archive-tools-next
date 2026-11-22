@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.143 자식 없는 계모의 제사는 누가 지내나 — 고씨와 의붓 손주들, 분재기 네 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "자식이 없는 둘째 아내 고씨를 위해 남편은 맏손자에게 묘와 제사를 맡겼고, 고씨는 의붓 손주들의 혼인과 첫인사 때마다 재산을 내주었다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.143"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 어도 진주강씨 강익진 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-gyemo/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/eodo-kang-ij-gyemo/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 214,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "분재기(分財記)－10 (1718)"
+    ]
+   },
+   "width": 831,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1718"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "분재기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙五十七年戊戌四月初拾日 長孫相聖處許與明文 右文爲後妻元無子女而 子汝興唯一獨子而 … 祭祀獨當奉行 勢不… 乙仍于 後妻掃墳及忌祭等事段 長孫相聖乙 … 爲去乎 依此奉行事 掃墳条 妻父前衿得田 數處 九水員 粟貳斗付只 高重赫處買得 … 祖種 … 斗付只 婢愛今 … 所生奴 … 元年拾柒壬午生 … 財主 秉節校尉龍驤衛副司果留鄕別監 祖父 姜 (수결) 筆執 孫 幼學 姜相聖 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 57년 무술(1718) 4월 10일, 맏손자 상성에게 허락하여 주는 문서. 이 문서는, 뒷아내는 본래 자녀가 없고 아들 여흥은 오직 하나뿐인 외아들이라 … 제사를 혼자 받들어야 하니 형편이 … 그러므로 뒷아내의 묘를 돌보고 기제사를 지내는 일은 맏손자 상성에게 맡기니, 이대로 받들어 행할 것. 묘를 돌보는 몫으로 (뒷아내가) 친정아버지에게서 몫으로 받은 밭 몇 곳 — 구수 들의 조 두 말 지기, 고중혁에게서 사들인 … — 과 여종 애금이 낳은 … 열일곱 살 임오생 사내종 …. 재주 병절교위 용양위부사과 유향별감 할아버지 강 (수결). 필집 손자 유학 강상성 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1718년 강세건이 자식 없는 둘째 아내 고씨의 묘 관리와 제사를 맏손자 상성에게 맡기며 땅과 노비를 붙여 준 허여문기입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1718.5011-20220125.B077a_114_00340_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 214,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0205&dataId=G002%2BAKS%2BKSM-XE.1718.5011-20220125.B077a_114_00340_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 831,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "분재기(分財記)－12 (1725)"
+    ]
+   },
+   "width": 1400,
+   "height": 1169,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1725"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "분재기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "雍正叁年乙巳拾壹月拾伍日 長子相聖妻梁氏初謁日別給 右別給爲乎段 父主前衿得田 … 付只 同員 … 粟種壹斗付只 … 及 … 壯雌馬壹匹 … 等物乙 永永別給爲去乎 日後 如有爭… 持此文卞正事 財主 舅父 留鄕別監 姜 (수결) 筆執 … 姜□聖 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "옹정 3년 을사(1725) 11월 15일, 맏아들 상성의 아내 양씨가 처음 인사 온 날 따로 주는 문서. 따로 주는 것은 아버님에게서 몫으로 받은 밭 … 조 씨앗 한 말 지기 … 튼튼한 암말 한 필 … 등을 영원히 따로 준다. 뒷날 다투는 일이 있거든 이 문서를 가지고 바로잡을 것. 재주 시아버지 유향별감 강 (수결). 필집 … 강□성 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1725년 강여흥이 맏며느리 양씨의 첫인사 날 아버지에게서 받은 땅과 마소를 떼어 준 별급 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1725.5011-20220125.B077a_114_00342_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 301
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0205&dataId=G002%2BAKS%2BKSM-XE.1725.5011-20220125.B077a_114_00342_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1169
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "분재기(分財記)－13 (1725)"
+    ]
+   },
+   "width": 1400,
+   "height": 1205,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1725"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "분재기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "雍正叁年乙巳拾壹月拾伍日 長孫相聖妻梁氏初謁日別給 右別給事段 … 里內員 皮牟參石付 … 同員 姜興宗處買得田 … 金太還處買得田 皮牟壹石伍斗付只 … 李江… 處買得田 粟種壹斗 … 付只 … 物乙 永永別給爲去乎 日後 如有爭… 者 持此文 … 財主 舅祖母 高氏 代子 汝興 (수결) 證 … 姜□□ (수결) 筆執 … 姜□聖 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "옹정 3년 을사(1725) 11월 15일, 맏손자 상성의 아내 양씨가 처음 인사 온 날 따로 주는 문서. 따로 주는 것은 … 마을 안 들의 겉보리 세 섬 지기 밭 …, 같은 들에서 강흥종에게 사들인 밭 …, 김태환에게 사들인 겉보리 한 섬 닷 말 지기 밭 …, … 에게 사들인 조 씨앗 한 말 지기 밭 … 등을 영원히 따로 준다. 뒷날 다투는 자가 있거든 이 문서를 가지고 (바로잡을 것). 재주 시할머니 고씨, 아들 여흥이 대신함 (수결). 증인 … 강□□ (수결). 필집 … 강□성 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1725년 같은 날, 자식 없는 시할머니 고씨가 의붓아들 여흥을 대리인으로 세워 맏손자며느리 양씨에게 밭을 떼어 준 별급 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1725.5011-20220125.B077a_114_00343_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 310
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0205&dataId=G002%2BAKS%2BKSM-XE.1725.5011-20220125.B077a_114_00343_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1205
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "분재기(分財記)－14 (1728)"
+    ]
+   },
+   "width": 1140,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1728"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "분재기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "雍正陸年戊申 … 月貳拾參日 高氏矣孫 (姜氏處) 成婚日別給 右別給爲乎段 矣買得田 在 … 里以東北 … 員 皮牟貳石拾斗付只 … 西北 … 皮牟拾斗付只 及 牡牛壹首 幷爲許給爲去乎 日後 雜談之隅有去等 持此文 卞正事 財主 高氏 代子 姜汝興 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "옹정 6년 무신(1728) … 월 23일, 고씨의 손주(강씨)에게 혼인날 따로 주는 문서. 따로 주는 것은 내가 사들인 밭으로 … 마을 동북쪽 … 들의 겉보리 두 섬 열 말 지기, … 서북쪽 … 겉보리 열 말 지기, 그리고 수소 한 마리를 함께 허락하여 준다. 뒷날 딴말이 있거든 이 문서를 가지고 바로잡을 것. 재주 고씨, 아들 강여흥이 대신함 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1728년 고씨가 손주(손녀로 보임)의 혼인날 자기가 사들인 밭과 수소를 떼어 준 별급 문서로, 이번에도 의붓아들 여흥이 대신 서명했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1728.5011-20220125.B077a_114_00344_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 293,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016818%5EL016818F02%5EL016818F0205&dataId=G002%2BAKS%2BKSM-XE.1728.5011-20220125.B077a_114_00344_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/eodo-kang-ij-gyemo/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1140,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.20 임청각, 귀거래의 집이 지켜 온 것"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "한 집이 300년 동안 지켜 온 것은 건물보다 그 집을 세운 뜻이었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.20"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "안동 법흥 고성이씨 종가 임청각"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/imcheonggak/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/imcheonggak/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 262,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1684년 이후영(李後榮) 문과 홍패(文科紅牌) (1684)"
+    ]
+   },
+   "width": 1019,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1684"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 通德郞李後榮文科丙科第一人及第出身者 / 康熙二十三年十二月十八日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 통덕랑 이후영을 문과 병과 제1인으로 급제시켜 출신(벼슬할 자격)을 준다. 강희 23년(1684) 12월 18일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임청각 집안의 이후영이 1684년 문과에 급제했음을 증명하는 문서입니다. 이 뒤로 그는 여러 고을과 관직을 거칩니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1684.1111-20101008.B032a_049_00047_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 262,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016758%5EL016758F02%5EL016758F0201&dataId=G002%2BAKS%2BKSM-XA.1684.1111-20101008.B032a_049_00047_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1019,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1767년 이종악(李宗岳) 임청각중수기사(臨淸閣重修記事) (1767)"
+    ]
+   },
+   "width": 992,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1767"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임청각중수기사"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "臨淸閣重修時記事 / 臨淸閣在安東府之東五里許江上 我先祖知縣公之所創也 … 號曰臨淸閣 皆取陶靖節辭中語也"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임청각을 고칠 때의 일을 적다. 임청각은 안동부 동쪽 5리쯤 강가에 있으니, 우리 선조 지현공(知縣公)께서 지으신 것이다. 지현공은 행촌 문정공(이암)의 4대손이요, 평재 문경공의 증손이며, 우리 세종 조의 좌의정 용헌공(이원)의 손자이고, 병조참판에 추증된 분의 아들이다. 참판공께서 광주에서 와 안동부 성 동쪽에 사시며 고을의 덕망 있는 노인 열두 분과 벗을 맺으시니, 사가 서상국(서거정)이 긴 노래를 지어 이를 기렸다. 이것이 우리 이씨가 남쪽(영남)으로 내려온 시작이다. 참판공의 둘째 아들 유수공께서 벼슬을 버리고 돌아와 안동부 남쪽 여울가에 정자를 짓고 '귀래정(歸來亭)'이라 하셨고, 지현공께서는 의흥현감을 버리고 안동부 동쪽 법흥사 서쪽 벼랑에 집을 짓고 '임청각(臨淸閣)'이라 하셨으니, 모두 도연명의 「귀거래사」 가운데 말을 딴 것이다. 두 분이 앞뒤로 '돌아가자'를 노래하시니 강의 남북에 두 정자가 서로 마주 보며 … (이하 다음 쪽)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임청각은 의흥현감 벼슬을 버리고 돌아온 선조(이명)가 법흥사 서쪽 벼랑에 지은 집으로, 그 형이 지은 귀래정과 함께 도연명의 「귀거래사」에서 이름을 땄다는 집안의 내력을 적었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1767.0000-20101008.B032a_049_00302_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 255,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016758%5EL016758F02%5EL016758F0207&dataId=G002%2BAKS%2BKSM-XG.1767.0000-20101008.B032a_049_00302_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 992,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1800년 정약용(丁若鏞) 간찰(簡札) (1800)"
+    ]
+   },
+   "width": 1400,
+   "height": 992,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1800"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "간찰"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "安陵 靜軒 下執事 / 庚申九月十六日 侍生丁若鏞再拜 / 國哀罔極 … 先生文集 … 未及卒業 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "안릉 정헌께 올립니다. 정승지의 안부 편지. 경신년(1800) 9월 16일, 시생 정약용 두 번 절하고 올립니다. 살펴 주십시오. 나라의 상(國哀)이 끝없이 슬픈데 계절이 여러 번 바뀌었습니다. … 하늘을 우러르고 땅을 굽어보아도 애통함을 어찌 말하겠습니까. 엎드려 생각건대 (선왕의) 말씀이 아직 귀에 남아 온 집안이 감격해 울었는데 갑자기 이렇게 되었으니, 그 슬픔이 보통 백성보다 갑절일 것이라 마음이 늘 쓰입니다. 첫추위에 기체는 어떠하신지요. 저는 지난달 초강(苕江)의 옛집으로 돌아왔고 형제들은 다행히 무사합니다. 어제 곡반(哭班)에 나아가 서쪽으로 오가며 그저 눈물을 흘리고 억누를 뿐이었습니다. 선생의 문집은 그동안 슬픔과 소란으로 다 읽지 못하여, 어쩔 수 없이 강가 오두막으로 가져갔는데 한 해가 아니면 뜻대로 가려 뽑을 수 없을 듯합니다. 너그러이 기한을 주시어 마음 놓고 볼 수 있게 해 주시면 어떻겠습니까. 안릉의 세전(世典?)은 볼 길이 없어 참으로 안타깝습니다. 마침 추위에 병을 얻어 지치고 괴로워 다 갖추지 못합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "정조가 세상을 떠난 지 석 달, 고향 마재로 돌아간 정약용이 국상의 슬픔을 나누고, 빌려 온 '선생 문집'을 아직 다 읽지 못했으니 한 해쯤 더 빌려 달라고 청한 편지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1800.0000-20101008.B032a_049_00194_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 255
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016758%5EL016758F02%5EL016758F0206&dataId=G002%2BAKS%2BKSM-XF.1800.0000-20101008.B032a_049_00194_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 992
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1900년 이상희(李象羲) 소지(所志) (1900)"
+    ]
+   },
+   "width": 857,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1900"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "府內法興里化民李象羲等 / 右謹言伏以民之七代祖以下三世墳墓在 … / 城主閤下 處分 / 庚子閏八月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "부내 법흥리의 백성 이상희 등. 삼가 아룁니다. 저희의 7대조 이하 3대의 무덤이 남선성(?)동에 있어 대대로 지키고 가꾸어 온 지 수백 년이 되었습니다. 그런데 뜻밖에 지난 을미년(1895) 산 아래 신석리 주민들이 봉수대를 핑계로 땔나무 길을 넓히려고 몰래 그 산 절반에 표목을 세웠으므로, 저희 산지기가 근거 없이 산 주인에게 알리지도 않은 일이라 하여 그 표목을 뽑아 버렸습니다. 그 뒤 일꾼 몇 사람이 다시 몰래 묘역의 소나무를 베다가 산지기에게 붙잡히자, '우리 마을에 봉수대가 있으니 봉수대 가까운 기슭은 우리 마을 땔나무 길이며 증거 문서도 있다'고 큰소리쳤습니다. … 수십 명이 무리를 지어 소나무를 마구 베어 갔습니다. … (봉수대 주변) 땅은 모두 다른 사람들이 나무를 금하고 가꾸어 왔으니 봉수대 산에 본래 지키는 사람이 없었음을 알 수 있고, 더구나 지금은 봉수대가 이미 없어졌는데 어찌 봉수대 산을 핑계 대어 (산을 차지하려) 합니까. … 효로 다스리시는 아래이니, 엎드려 비옵건대 살펴 주신 뒤 특별히 엄한 처분을 내려 그 마을 우두머리를 잡아들여 완악한 버릇을 엄히 다스려 주십시오. 성주 각하께서 처분하소서. 경자년(1900) 윤8월 일. (청원자 이종선 등 13명)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "수백 년 지켜 온 7대조 이하 조상 무덤의 소나무를 이웃 마을 사람들이 '봉수대 산이라 우리 땔나무 길'이라며 베어 가자, 문중이 '봉수대는 이미 없어졌다'며 관에 엄한 처벌을 청한 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1900.4717-20101008.B032a_049_00075_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 220,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016758%5EL016758F02%5EL016758F0202&dataId=G002%2BAKS%2BKSM-XB.1900.4717-20101008.B032a_049_00075_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/imcheonggak/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 857,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

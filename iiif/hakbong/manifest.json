@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.21 학봉 종가의 안채 — 혼서와 한글 편지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "종가의 역사는 바깥채의 문서만이 아니라 안채의 편지로도 쓰였다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.21"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "안동 금계 의성김씨 학봉 김성일 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hakbong/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/hakbong/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 318
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1841년 김진화(金鎭華) 혼서(婚書)－납폐서(納幣書) (1841)"
+    ]
+   },
+   "width": 1400,
+   "height": 1236,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1841"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "납폐서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "忝親通訓大夫行原州牧判官聞韶金鎭華再拜 / … 僕之長子基洛 … 敬遣使者行納徵儀 / 辛丑九月二十八日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사돈이 되는 통훈대부 행 원주목 판관 문소(의성) 김진화가 두 번 절합니다. 사돈 문소 김진화가 아룁니다. 좋은 뜻을 받들어 귀댁의 종질녀(사촌 형제의 딸)를 저의 맏아들 기락(基洛)의 아내로 허락해 주시고, 점을 쳐 보니 이미 좋은 징조에 맞았습니다. 이에 선인의 예법에 따라 삼가 사람을 보내 납징(납폐)의 예를 행합니다. 다 갖추지 못합니다. 엎드려 살펴 주십시오. 이 생원 사돈댁 집사께 올립니다. 신축년(1841) 9월 28일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "원주목 판관 김진화가 맏아들 기락과 이 생원 댁 종질녀의 혼인이 정해지자, 예법대로 예물을 보내며 쓴 편지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1841.0000-20101008.B005q_006_00574_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 318
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016713%5EL016713F02%5EL016713F0206&dataId=G002%2BAKS%2BKSM-XF.1841.0000-20101008.B005q_006_00574_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hakbong/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1236
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "계집종 순임이가 상전 여강이씨에게 보낸 편지 (1849)"
+    ]
+   },
+   "width": 1400,
+   "height": 770,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1849"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "샹셔 / … 슌업은 안의 사빈소를 직희고 … 봉츈이 놈이 … / 긔유 뉵월 십ᄉᆞ일 슌임 샹셔"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(상전께) 올리는 글. … 이별한 뒤 소식을 모르니 답답합니다. … 여러 댁 (아씨)님네도 다 평안하신지요. 천리 밖이라 알 길이 없으니 … 저 순임은 안채의 빈소를 지키며 무사히 있사오나 갈수록 서럽고 슬픕니다. 봉춘이 놈이 큰댁에서 말썽을 부리다가 나오겠다며 파양(양자 관계를 끊음)을 하고 … 자식 없이 (지내는) 슬픔이 양아들에게서 그런 도적놈이 나왔으니 보전하지 못해 괴롭습니다. … 서울 가서 잘 있습니까. 여기도 큰댁이 평안하시고 … 봉춘이와 그 패거리 놈년이 (거들어) 빈소의 자리와 … 를 다 훔쳐 가지고 갔습니다. 천한 저의 마음이 이렇게 슬프고, 도둑이 어디 다시 … 절통합니다. 할 말은 많사오나 … 평안하시기를 바랍니다. 기유년 6월 14일 순임 올림."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "집에 남아 빈소를 지키던 계집종 순임이, 양아들 봉춘이 말썽을 부리고 파양한 뒤 패거리와 함께 빈소의 물건을 훔쳐 간 일을 서울의 상전에게 알리며 서럽고 원통한 마음을 전한 편지로 보입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.1849.0000-20140430.B0018_164"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 198
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016713%5EL016713F02%5EL016713F0206&dataId=G002%2BLET%2BKSM-XF.1849.0000-20140430.B0018_164&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hakbong/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 770
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "김진화가 아내 여강이씨에게 보낸 편지 (1833)"
+    ]
+   },
+   "width": 1400,
+   "height": 530,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1833"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "편지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "답샹장 / 셔울셔 보낸 ᄒᆞ인 … 그만ᄒᆞ신가 … 고을은 ᄯᅢ 읍이오 박황이라 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(답장) 서울에서 보낸 하인 편에 (편지를) 받아 보았고 … 손등이 터진 데(?)는 그만하신가 … 작은집 식구들도 다 무사하다니 다행이오. … 나는 여기서 그만하고 … 고을은 흉년(薄荒)이라 … (이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남편 김진화가 아내의 편지에 답하며 가족의 안부를 묻고, 자신이 맡은 고을이 흉년이라는 소식을 전한 편지로 보입니다(부분 판독)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+LET+KSM-XF.1833.0000-20140430.B0018_002"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 136
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016713%5EL016713F02%5EL016713F0206&dataId=G002%2BLET%2BKSM-XF.1833.0000-20140430.B0018_002&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/hakbong/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/hakbong/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 530
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

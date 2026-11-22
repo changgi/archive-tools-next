@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.30 \"할아버지께 올립니다\" — 하회 소년의 경성 유학 엽서"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "근대 교육으로 떠난 아이와 전통 속 할아버지를 잇는 것은 편지였다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.30"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "안동 하회 풍산류씨 북촌댁 화경당"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/bukchondaek/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/bukchondaek/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 313,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1923년 류시원(柳時元) 엽서(葉書)－01 (1923)"
+    ]
+   },
+   "width": 1218,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1923"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "엽서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "祖父主前 上白是 / 拜退後有日에 下懷伏悵이오며 伏未審此時酷寒에 外內分氣體候萬康하압사오며 … 孫은 客中無故하오며 … 十二月初二日上京하와 無事通學하오니 心慮하지마시오소서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "할아버지께 올립니다. 절하고 물러난 지 여러 날이 되니 그리운 마음이 서글프오며, 엎드려 여쭙건대 이 혹독한 추위에 할아버지·할머니 두 분 기체 평안하시옵고 댁내 여러분도 모두 잘 지내시는지요. 손자는 객지에서 탈 없이 지내오며 (잠자고 먹는 것도 괜찮고) 각기병은 좀 나은 듯합니다. 저는 12월 2일 서울에 올라와 무사히 학교에 다니오니 걱정하지 마십시오."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "서울로 돌아간 손자가 혹한에 할아버지·할머니의 안부를 여쭙고, 자신은 각기병이 조금 나았고 12월 2일 상경해 무사히 학교에 다니니 걱정 마시라고 전한 엽서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.1923.0000-20180523.C1002_002_00281_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 313,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016728%5EL016728F02%5EL016728F0206&dataId=G002%2BKHD%2BKSM-XF.1923.0000-20180523.C1002_002_00281_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1218,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1924년 경성제일고등보통학교(京城第一高等普通學校) 우편엽서(郵便葉書)－1 (1924)"
+    ]
+   },
+   "width": 1352,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1924"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "우편엽서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "拜啓 貴下の保証せらるゝ 柳時元 六月二十日より他の生徒と申合せ登校せざる件に付 今日まで學校より本人を取調べ 處置決定の上 父兄自ら出校… 既に多數の父兄は自ら出校し 又は代人を出校せしめ … 貴下には何等の御申出もなきは如何 … 學校主任"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "삼가 아룁니다. 귀하가 보증인으로 있는 류시원이 6월 20일부터 다른 학생들과 짜고 등교하지 않는 일에 대하여, 학교에서는 오늘까지 '급히 본인을 조사하여 처분을 결정할 것이니 학부형이 직접 학교에 와서 의견을 밝혀 달라'고 통지하였고, 이미 많은 학부형이 직접 오거나 대리인을 보내 학부형으로서의 뜻을 밝혔습니다. 그런데 귀하께서는 아무 연락이 없으니 어찌 된 사정입니까. 다만 아무 연락도 없을 경우에는 … 일단 학교 주임과 … (이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "학교가 '류시원이 6월 20일부터 다른 학생들과 짜고 등교하지 않고 있다, 다른 학부형은 다 다녀갔는데 왜 연락이 없느냐'며 보증인에게 학교로 나와 달라고 독촉한 엽서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.1924.0000-20180523.C1002_002_00277_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 348,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016728%5EL016728F02%5EL016728F0206&dataId=G002%2BKHD%2BKSM-XF.1924.0000-20180523.C1002_002_00277_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1352,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1924년 류시원(柳時元) 엽서(葉書)－01 (1924)"
+    ]
+   },
+   "width": 1400,
+   "height": 1325,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1924"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "엽서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "祖父主前 上書 / 伏未審日來에 外內分氣體候萬康하옵시고 … 孫은 客中眠食이 無頉하오니 … 學課日課而已로소이다 柳龍岩歸家하온데 一字上書치 못하와 罪悚 … / 甲子五月十一日 餘不備書"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "할아버지께 올리는 글. 엎드려 여쭙건대 요즈음 할아버지·할머니 기체 평안하시옵고, 어머니(慈主)의 기력도 안녕하십니까. 용견(동생?)도 잘 모시며 공부를 잘합니까. 큰댁·작은댁 여러분도 모두 잘 지내십니까. 엎드려 그리운 마음 이루 다할 수 없습니다. 손자는 객지에서 잠자고 먹는 것이 탈이 없으니 이것이 다행입니다. 이른바 공부라는 것은 날마다 과정을 따를 뿐입니다. 류용암이 집에 돌아가는데 한 글자 편지도 올리지 못해 죄송하고 죄송합니다. 갑자년(1924) 5월 11일. 나머지는 다 갖추지 못합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "할아버지·할머니·어머니와 동생, 큰집·작은집 식구의 안부를 일일이 묻고, 자신은 잘 먹고 잘 자며 매일 정해진 공부를 따라가고 있다고 전한 엽서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.1924.0000-20180523.C1002_002_00282_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 341
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016728%5EL016728F02%5EL016728F0206&dataId=G002%2BKHD%2BKSM-XF.1924.0000-20180523.C1002_002_00282_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1325
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1926년 류시원(柳時元) 엽서(葉書)－1 (1926)"
+    ]
+   },
+   "width": 1396,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1926"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "엽서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "父主前 上白是 / 伏未審此辰에 … 孫(?)은眠食이無頉하오니 … 所謂工課은日課而已로소이다 … 下送하신金 … 一週日假量 … 冊이 不備되어 困難 … / 四月廿六日 餘不備上書"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "아버지께 올립니다. 엎드려 여쭙건대 요즈음 할아버지·할머니 기체 평안하십니까. 엎드려 그리운 마음 이루 다할 수 없습니다. 아들은 잠자고 먹는 것이 탈이 없으니 이것이 다행입니다. 이른바 공부는 날마다 과정을 따를 뿐입니다. 아뢸 것은, 저의 병은 이미 다 나았습니다. 내려보내 주신 돈은 … 일주일가량 … 책이 갖추어지지 않아 곤란합니다. 4월 26일. 나머지는 다 갖추지 못하고 올립니다. (판독 불확실 다수)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "아버지께 안부를 여쭙고, 병은 다 나았으며, 보내 주신 돈과 관련해 책이 아직 갖추어지지 않아 곤란하다는 사정을 전한 엽서로 보입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.1926.0000-20180523.C1002_002_00315_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 359,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016728%5EL016728F02%5EL016728F0206&dataId=G002%2BKHD%2BKSM-XF.1926.0000-20180523.C1002_002_00315_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/bukchondaek/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1396,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

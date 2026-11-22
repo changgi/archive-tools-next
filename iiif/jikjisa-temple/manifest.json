@@ -1,0 +1,1277 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.3 절을 짓고 다시 세운 기록"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "큰 절은 한 사람이 아니라 여러 시대의 많은 손으로 지어졌다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.3"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "김천 직지사"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jikjisa-temple/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jikjisa-temple/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 241
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "경상도(慶尙道) 금산군(金山郡) 황악산(黃岳山) 직지사(直指寺) 고선종대가람(古禪宗大伽藍) 사적(事蹟) (1776)"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1776"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사적"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(첫 장, 훼손) … 直指寺 … 事蹟"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(첫 장, 훼손) … 직지사 … 사적"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "직지사가 언제 누구에 의해 세워졌고 어떻게 이어져 왔는지를 적은 절의 역사책입니다. 첫 장은 많이 훼손되어 있어 본문 내용은 다른 면과 원문 판독으로 확인해야 합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1776.4715-20211130.B072a_100_00002_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=05%5E0549%5EL054904%5EL054904F02%5EL054904F0208&dataId=G002%2BAKS%2BKSM-XG.1776.4715-20211130.B072a_100_00002_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "경상도(慶尙道) 금산군(金山郡) 황악산(黃岳山) 직지사(直指寺) 사적(事蹟) (1635)"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1635"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사적"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(본문) … 直指寺 … (붉은 관인 여러 개)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(본문 — 판독 필요) … 직지사 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "직지사의 연혁을 다시 정리한 기록으로, 창건과 중창, 절에 관련된 인물들의 이야기가 이어집니다. 같은 절의 역사가 여러 번 정리되어 전한다는 점이 흥미롭습니다. 세부 내용은 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1635.4715-20211130.B072a_100_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=05%5E0549%5EL054904%5EL054904F02%5EL054904F0208&dataId=G002%2BAKS%2BKSM-XG.1635.4715-20211130.B072a_100_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "중건기(重建記) (1800)"
+    ]
+   },
+   "width": 1400,
+   "height": 424,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1800"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "중건기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(나무판 새김 글씨 — 판독 필요) … 重建 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(나무판 새김 — 판독 필요) … 중건 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "직지사의 어느 건물을 언제, 누구의 힘으로 다시 세웠는지를 기록한 현판입니다. 글자가 작고 빽빽하여 건물 이름과 연대는 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1800.4715-20211130.B072a_100_00015_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 109
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=05%5E0549%5EL054904%5EL054904F02%5EL054904F0207&dataId=G002%2BAKS%2BKSM-XG.1800.4715-20211130.B072a_100_00015_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 424
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "상량문(上樑文)－1 (1688)"
+    ]
+   },
+   "width": 878,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1688"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "상량문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "直指寺八相殿上樑文 / 兒郞偉拋樑東 … 西 … 南 … 北 … 上 … 下 / 康熙□□年□月□日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(위 절반) 직지사 팔상전 상량문. 처음 비람(룸비니)에서 태어나 아래 세상에 내려오시고, 동서로 오가며 네 문을 나서 (생로병사를 보시고) … 날아다니는 코끼리를 수레 삼아 하늘에서 오셨고, 좌우를 다 살피신 뒤 … 어영차, (부처의) 모습이 꼭 닮았으니 몸소 뵙는 것이 얼마나 다행인가 … 이 사람들이 누구에게 돌아가겠는가 탄식하며 새 집에 편히 모심이 마땅하다 … 보배 세계 금모래와 하늘 사람의 마리 … 녹야원에서 법을 펴시고 … 깊은 산 나무 아래서 귀신이 몸을 숨기고 울며 … 푸른 옷깃(선비)이 와서 노닐 때 소상(塑像)을 등지지 말라 경계하고, 각(閣)을 지어 모시니 … 흰 발(스님)이 공경히 절하며 참사람의 높은 위의를 우러르니 도가 곧 여기에 있다. 장인이 도끼를 휘두르니 … 어영차, 들보를 동쪽으로 던지니 산 가득한 소나무·전나무가 깊은 집을 감싸고, 삼독(탐·진·치)이 물거품처럼 이제 다하니 천 가지 만 가지 생각이 모두 공(空)이로다 … 들보를 서쪽으로 던지니 대천세계 법계를 누가 보게 하랴 … 들보를 북쪽으로 … 하늘에서 꽃비가 흩어지나 … 들보를 아래로 던지니 팔상의 위의 … 고개 돌려 참 경계를 한 번 슬퍼하니, 밤낮 흐르는 샘물은 그치지 않는다 … 돌이 썩고 산이 평평해져도 만세토록 무너지지 않으리. 강희 27년(1688) 6월 … 그 모습을 보고 그 법을 알아 하나의 근원과 함께 길이 남으리라. (아래 절반 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "팔상전을 짓게 된 내력을 밝히고, 동서남북과 위아래를 향해 건물과 절이 길이 번성하기를 비는 내용입니다. 끝에 강희(康熙) 연호의 날짜가 있어 17세기 후반~18세기 초의 공사로 보이며, 정확한 연도는 판독 확인이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1688.4715-20211130.B072a_100_00005_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 226,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=05%5E0549%5EL054904%5EL054904F02%5EL054904F0208&dataId=G002%2BAKS%2BKSM-XG.1688.4715-20211130.B072a_100_00005_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 878,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "상량문(上樑文)－5 (1791)"
+    ]
+   },
+   "width": 1018,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1791"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "상량문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "金山黃岳山直指寺 御筆閣新建上樑文 / 伏以 … / 兒郞偉 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "금산 황악산 직지사 어필각 신건 상량문. 엎드려 생각건대 … 어영차 … (본문 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임금의 글씨를 모실 건물을 새로 지은 경위와, 이를 기리고 축원하는 내용입니다. 공사를 맡은 승려와 시주자 명단이 함께 남아 있어 누가 이 일을 함께했는지 알 수 있습니다. 연대와 명단은 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1791.4715-20211130.B072a_100_00009_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 262,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=05%5E0549%5EL054904%5EL054904F02%5EL054904F0208&dataId=G002%2BAKS%2BKSM-XG.1791.4715-20211130.B072a_100_00009_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1018,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "신건문(新建文) (1791)"
+    ]
+   },
+   "width": 1400,
+   "height": 478,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1791"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "신건문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "新建文 … 崇禎紀元後 … (나무판 새김)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "신건문 … 숭정 기원 후 … (나무판 — 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "직지사에 새 건물을 지은 경위와 참여한 사람들을 기록한 현판입니다. 어느 건물인지와 정확한 연대는 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1791.4715-20211130.B072a_100_00012_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 123
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=05%5E0549%5EL054904%5EL054904F02%5EL054904F0208&dataId=G002%2BAKS%2BKSM-XG.1791.4715-20211130.B072a_100_00012_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 478
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/7",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "공덕문(功德文) (1886)"
+    ]
+   },
+   "width": 1400,
+   "height": 541,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1886"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "공덕문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "頌李相公功德文 / … 觀察使兼巡察使 … 李 … / 嶺右金山黃岳山直指寺 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "이 상공의 공덕을 기리는 글 … 관찰사 겸 순찰사 … 이 … 영우(경상우도) 금산 황악산 직지사 … (판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "관찰사였던 이 상공이 절의 부담을 덜어 주거나 건물 중수를 도운 공덕을 칭송하는 글입니다. 절이 지방 관원의 도움을 받아 유지되었음을 보여 주며, 인물의 이름과 연대는 판독 확인이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1886.4715-20211130.B072a_100_00017_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/thumb/07.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 139
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=05%5E0549%5EL054904%5EL054904F02%5EL054904F0208&dataId=G002%2BAKS%2BKSM-XG.1886.4715-20211130.B072a_100_00017_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/7",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 541
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/8",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "헌답기(獻畓記) (1850)"
+    ]
+   },
+   "width": 1400,
+   "height": 583,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1850"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "헌답기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "金山直指寺大雄殿 佛糧獻畓大施主 坤命癸酉生鄭蘭史 … / 以此功德 生前壽命長遠 福德兼全 死後往生極樂 … / 庚戌十月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "금산 직지사 대웅전 불량(부처께 올릴 쌀)을 위한 논을 바친 큰 시주, 곤명(여성) 계유생 정난사 … 이 공덕으로 살아서는 수명이 길고 복덕을 모두 갖추며, 죽어서는 극락에 왕생하기를 … 경술년 10월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "계유생 여성 정난사(鄭蘭史)가 대웅전 불량을 위해 논을 바쳤으며, 이 공덕으로 살아서는 오래 살고 복을 누리고 죽어서는 극락에 가기를 빈다는 내용입니다. 경술년 10월에 새겼습니다(이름과 논의 크기는 판독 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1850.4715-20211130.B072a_100_00018_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/thumb/08.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 150
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=05%5E0549%5EL054904%5EL054904F02%5EL054904F0207&dataId=G002%2BAKS%2BKSM-XG.1850.4715-20211130.B072a_100_00018_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/8/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/canvas/8",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jikjisa-temple/08.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 583
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

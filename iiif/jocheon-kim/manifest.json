@@ -1,0 +1,860 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.126 \"아버지와 아들이 함께 시험을 봐도 되겠습니까\" — 1891년 제주 김의정 · 김항유 부자의 과거"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "섬에서 서울까지, 과거는 한 집안이 함께 나서는 먼 길이었다 — 아버지와 아들은 같은 시험 앞에서 서로의 앞길을 물었다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.126"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 조천 김해김씨 김희정 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jocheon-kim/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jocheon-kim/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 241,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1890년 김항유(金恒裕) 제주 승보 초시 사조단자(四祖單子) (1890)"
+    ]
+   },
+   "width": 937,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1890"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사조단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "單子 幼學金恒裕 年十八 本金海 居濟州 一所 初場 父幼學 義正 祖學生 性休 曾祖學生 完鎭 外祖學生文百敏 本南平 庚寅十月 濟州陞補初試"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "단자. 유학 김항유, 나이 18세, 본관 김해, 제주 거주. 1소 초장. 아버지 유학 의정, 할아버지 학생 성휴, 증조할아버지 학생 완진, 외할아버지 학생 문백민(본관 남평). 경인년(1890) 10월 제주 승보 초시."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1890년 제주 승보 초시에 18세 김항유가 낸, 아버지 · 할아버지 · 증조 · 외조의 이름을 적은 사조단자입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1890.5011-20220125.B078a_110_00597_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 241,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016806%5EL016806F02%5EL016806F0202&dataId=G002%2BAKS%2BKSM-XB.1890.5011-20220125.B078a_110_00597_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 937,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1891년 김항유(金恒裕) 시권(試券) (1891)"
+    ]
+   },
+   "width": 1400,
+   "height": 1021,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시권"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(겉봉) 幼學金恒裕 年十八 本金海 居濟州 父幼學 義正 祖學生 性休 曾祖學生 完鎭 外祖學生文百敏 本南平 (점수) 次下 (제목) 恩 蹶起著公服念天下事 賦 (본문 첫 장) 居士服方袞(?)衣只宜著於無事 趙不脫於退朝 范必求於計夜 攬朝服而起 予耿一念而在玆 旣整容於危坐 故有思於經濟 自余著夫公服 任大事於天下 慕周贊(?)之補闕 擬韓相之措安 稱其服而立朝 抱需世之經綸 俄齋臥而蹶起 豈曰無乎朝衣 尙留銘於布衾 不宜脫於金帶 退猶修吾初服 匪爲私於一己 時不可以燕安 所寓念者維何 憂已分於宵旰 志不在於溫飽 衣之宜兮 旣著曰有事於山河 … (둘째 · 셋째 장은 이번에 판독하지 않음)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(겉봉) 유학 김항유, 18세, 본관 김해, 제주 거주. 아버지 유학 의정, 할아버지 학생 성휴, 증조 학생 완진, 외조 학생 문백민(본관 남평). (점수) 차하. (제목) '벌떡 일어나 관복을 입고 천하의 일을 생각하다' — 부(賦). (첫머리 풀이) 관복을 입고 조정에 서서 세상을 다스릴 뜻을 품고, 누워 있다가도 벌떡 일어나니 어찌 조복이 없다 하겠는가. … 뜻은 배부르고 따뜻한 데 있지 않다. …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'벌떡 일어나 관복을 입고 천하의 일을 생각하다'를 제목으로 김항유가 지은 부(賦) 시권으로, 점수 차하가 매겨졌습니다(첫 장 판독)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1891.5011-20220125.B078a_110_00668_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 263
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016806%5EL016806F02%5EL016806F0204&dataId=G002%2BAKS%2BKSM-XD.1891.5011-20220125.B078a_110_00668_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1021
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1891년 김의정(金義正) 회시 응시 청원 단자(單子) (1891)"
+    ]
+   },
+   "width": 937,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "濟州會試儒生金義正單子 恐鑑伏以 生去丁亥年分 得叅本州陞補 當爲呈券於今秋式會 而生之子恒裕 以甲戌生 去年分亦叅本州陞補 今夏增會 得蒙 天恩 旣有待式會付之榜末之 傳敎是乎所 生之呈券 不能自斷 來問于 都下科儒 則皆言 宗班李氏 曾有 傳敎而付之榜末時 父子或有俱爲叅榜 而分先後放榜云云 以此言之 生之呈券 乃是 舊例 不爲違格 伏乞 洞燭敎是後 特爲許赴爲只爲 千萬懇祝之至 大宗伯 閤下 處分 辛卯九月 日 (제사) 子赴 恩(?)賜(?)父赴會試 … 父子同赴 … 二十五日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "제주 회시 유생 김의정의 단자. 삼가 살펴 주시기를 바랍니다. 저는 지난 정해년(1887)에 이 고을의 승보에 들어 올가을 식년 회시에 답안을 내야 합니다. 그런데 저의 아들 항유는 갑술생으로, 지난해 역시 이 고을 승보에 들었고, 올여름 증광 회시 때 임금의 은혜를 입어 식년 회시를 기다려 방(榜)의 끝에 붙이라는 전교가 있었습니다. 제가 답안을 내도 되는지 스스로 판단하지 못해 서울의 과거 보는 선비들에게 물으니, 모두 '종반 이씨가 일찍이 전교를 받아 방 끝에 붙을 때 아버지와 아들이 함께 방에 든 일이 있어, 앞뒤를 나누어 발표했다'고 합니다. 이로 보면 제가 답안을 내는 것은 옛 예이고 격식에 어긋나지 않습니다. 엎드려 바라건대 살피신 뒤 특별히 응시를 허락해 주시기를 간절히 빕니다. 대종백(예조판서) 합하께서 처분하소서. 신묘년(1891) 9월 일. (제사) 아들의 응시 … 아버지의 회시 응시 … 부자가 함께 응시 … 25일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891년 제주 유생 김의정이 아들 김항유와 함께 회시에 응시해도 되는지 예조판서에게 묻고 허락을 청한 단자입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1891.5011-20220125.B078a_110_00592_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 241,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016806%5EL016806F02%5EL016806F0202&dataId=G002%2BAKS%2BKSM-XB.1891.5011-20220125.B078a_110_00592_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 937,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1891년 김항유(金恒裕) 진사 백패(進士白牌) (1891)"
+    ]
+   },
+   "width": 1085,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "백패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 幼學金恒裕進士三等第二百五十四人入格者 光緖十七年十月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 김항유는 진사 3등 제254인으로 입격한 자이다. 광서 17년(1891) 10월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891년 10월 김항유가 진사시 3등 제254인으로 입격하고 받은 백패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1891.5011-20220125.B078a_110_00576_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 279,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016806%5EL016806F02%5EL016806F0201&dataId=G002%2BAKS%2BKSM-XA.1891.5011-20220125.B078a_110_00576_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1085,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1891년 김의정(金義正) 숭인전 참봉 고신(告身) (1891)"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "吏曹 光緖十七年十月 日奉 敎 幼學金義正爲通仕郞 行崇仁殿參奉者 光緖十七年十月 日 行判書臣李(?) 參判 參議 正郞 佐郞"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "이조에서 광서 17년(1891) 10월 일에 교지를 받들어, 유학 김의정을 통사랑 행 숭인전 참봉으로 삼는다. 광서 17년 10월 일. 행판서 신 이□, 참판, 참의, 정랑, 좌랑."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1891년 10월 아버지 김의정을 통사랑 행 숭인전 참봉으로 임명한 이조의 고신입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1891.5011-20220125.B078a_110_00577_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016806%5EL016806F02%5EL016806F0201&dataId=G002%2BAKS%2BKSM-XA.1891.5011-20220125.B078a_110_00577_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jocheon-kim/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

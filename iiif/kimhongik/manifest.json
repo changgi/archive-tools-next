@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.83 험천에서 쓰러진 현감, 180년 뒤의 제문 — 충민공 김홍익"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "나라를 위해 쓰러진 사람을, 나라는 네 번째 병자년까지 잊지 않았다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.83"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "서산 대교 경주김씨 충민공 김홍익 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/kimhongik/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/kimhongik/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 257
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1624년 김홍익(金弘翼) 차첩(差帖) (1624)"
+    ]
+   },
+   "width": 1400,
+   "height": 1001,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1624"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "차첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "吏曹爲差定事 天啓四年二月十五日 傳 義禁府都事尹有吉有頉 代金弘翼弋只進叱使內良如爲口傳施行爲有置 有等以 合下照驗施行 須至帖者 右帖下 進士通德郞金弘翼 准此 天啓四年二月 日 帖 判 參議 正郞 佐郞"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "이조에서 차정(差定)하는 일. 천계 4년(1624) 2월 15일 전교에, 의금부 도사 윤유길에게 탈(사고)이 있으니 대신 김홍익으로 하여금 나아가게 하라고 구전으로 시행하였으므로, 이에 아래로 내려 보내니 살펴 시행하라. 이 첩을 진사 통덕랑 김홍익에게 내리니 이대로 하라. 천계 4년 2월 일. 첩. 판서·참의·정랑·좌랑."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1624년 이조가 진사 김홍익을 의금부 도사로 차정한 차첩으로, 이두가 섞인 행정 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1624.1111-20101008.B060a_086_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 257
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014429%5EL014429F02%5EL014429F0201&dataId=G002%2BAKS%2BKSM-XA.1624.1111-20101008.B060a_086_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1001
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1816년 김홍익(金弘翼) 치제문(致祭文) (1816)"
+    ]
+   },
+   "width": 1400,
+   "height": 872,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1816"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "치제문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "維崇禎百八十九年歲次丙子十月十二日 國王遣臣洪陽縣監韓永逵 諭祭于故忠愍公金弘翼之靈 粤昔丙年 邦國震蕩 兵燹火烈 節義林立 歷數而想 危忠惟卿 守土之職 勤王之誠 列郡駭竄 奮然執鞭 急君忘私 書訣萱堂 孤城暈月 慷慨揮涕 賊霧忽蔽 腔血如沸 一曲險川 前徒披靡 斷袂使身 杖劍疾追 猛氣獵獵 河北一義 孤憤益激 鋒鏑不避 援絶蚍蜉 志決熊魚 忠魂毅魄 千古留名 嗟卿樹立 如彼家聲 名祖遺範 有弟文貞 盡忠成仁 萃于一室 官僮感義 其婦亦烈 政敎所化 一時三節 爵諡屢加 列朝崇褒 舊甲回四 益增愴懷 睠彼漢南 英靈不昧 俾官致侑 庶歆酒酹"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "숭정 189년 병자년(1816) 10월 12일, 국왕은 신하 홍양현감 한영규를 보내 고 충민공 김홍익의 영전에 제사하노라. 지난 병자년, 나라가 뒤흔들리고 전쟁의 불길이 타올랐을 때 절의의 선비들이 숲처럼 일어섰으니, 하나하나 헤아려 보면 위태로운 충성은 오직 경이었다. 땅을 지키는 직분에 임금을 구하려는 정성으로, 여러 고을이 놀라 달아날 때 떨쳐 일어나 채찍을 잡았다. 임금이 급하여 사사로움을 잊고 어머니께 글로 하직하였으며, 외로운 성(남한산성)에 달무리 질 때 비분강개하여 눈물을 뿌렸다. 적의 안개가 문득 덮치니 가슴의 피가 끓는 듯하였다. 굽이진 험천에서 앞선 무리가 무너지자, 소매를 끊고 몸을 던져 칼을 짚고 급히 쫓으니 사나운 기운이 펄럭였다. … 화살과 칼날을 피하지 않았고, 구원이 끊겨 개미 같은 군사였으나 뜻은 곰 발바닥과 생선 사이에서 [의를] 택하는 데 결연하였다. 충성스러운 혼과 굳센 넋은 천고에 이름을 남겼다. 아, 경이 세운 바는 그 가문의 명성과 같으니, 이름난 조상이 남긴 법도가 있고 아우 문정(김홍욱)이 있었다. 충을 다해 인을 이룬 것이 한 집안에 모였고, 관아의 아이종도 의리에 감동하였으며 그 아내 또한 열녀였으니, 교화가 미친 바 한때에 세 절개가 났다. 벼슬과 시호를 여러 번 더하고 역대 임금이 높이 기렸다. 옛 갑년이 네 번 돌아오니 슬픈 마음이 더욱 크다. 저 한수 남쪽을 돌아보니 영령은 어둡지 않으리라. 관원을 시켜 제물을 올리게 하니 부디 이 술을 흠향하라."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1816년 순조가 관원을 보내 병자호란 험천 전투에서 순절한 충민공 김홍익을 제사하게 한 치제문입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XI.1816.1111-20101008.B060a_086_00047_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 224
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014429%5EL014429F02%5EL014429F0208&dataId=G002%2BAKS%2BKSM-XI.1816.1111-20101008.B060a_086_00047_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/kimhongik/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 872
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

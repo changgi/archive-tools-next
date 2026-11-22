@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.136 \"직업: 선비\"에서 \"직업: 농부\"로 — 1900년과 1901년, 한 사람의 두 호적표"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "나라가 사람을 적는 방식이 바뀌면, 사람을 설명하는 말도 바뀐다 — 조상의 이름에서 '직업' 칸으로."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.136"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경주 경주이씨 이찬우"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gyeongju-hojeok/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gyeongju-hojeok/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 167,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1765년 노계택(盧啓宅) 준호구(準戶口) (1765)"
+    ]
+   },
+   "width": 651,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1765"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "乾隆三十年正月 日 尙州牧 考乙酉成籍戶口帳內 化西面上沙谷里第二統一戶 幼學盧啓宅 年四十七己亥 本光山 父學生夏光 祖學生思斌 曾祖老職通政大夫峻昌 外祖學生金允成 本慶州 妻朴氏 年三十八丁未 籍泗川 父從仕郞行平陵道察訪興碩 祖通政大夫昌秀 曾祖學生以淸 外祖學 … (아래는 떨어져 나감)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "건륭 30년(1765) 정월 일, 상주목. 을유년 호적 장부를 살펴보니, 화서면 상사곡리 제2통 제1호. 유학 노계택, 나이 47세 기해생, 본관 광산. 아버지 학생 하광, 할아버지 학생 사빈, 증조할아버지 노직 통정대부 준창, 외할아버지 학생 김윤성(본관 경주). 아내 박씨, 나이 38세 정미생, 본관 사천. 아내의 아버지 종사랑 행 평릉도 찰방 흥석, 할아버지 통정대부 창수, 증조할아버지 학생 이청, 외할아버지 학생 … (뒤 떨어져 나감)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1765년 상주목이 유학 노계택 부부와 그 사조를 붓으로 이어 써 확인해 준 준호구입니다(아래 떨어져 나감)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.1765.0000-20151117.C0703_002_00003_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 167,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0204&dataId=G002%2BKHD%2BKSM-XD.1765.0000-20151117.C0703_002_00003_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 651,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1900년 백락순(白樂順) 호적표(戶籍表) (1900)"
+    ]
+   },
+   "width": 929,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1900"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "호적표"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(인쇄) 內部 戶籍表 (손글씨) 道化面 新基□ 統 戶 戶主 白樂順 年 六十四 本 水原 職業 士 父 雲洙 祖 瑞浩 曾祖 圭華 外祖 柳煥龜(?) 同居親屬 妻金氏 子敬魯 婦朴氏 子敬達 現存 男三 女二 合五 (家 草 □間) 光武四年 □月 □□ 閔述鎬 (인)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "호적표. 도화면 신기□ □통 □호. 호주 백락순, 나이 64세, 본관 수원, 직업 사(士, 선비). 아버지 운수, 할아버지 서호, 증조할아버지 규화, 외할아버지 유환구(?). 함께 사는 친족: 아내 김씨, 아들 경로, 며느리 박씨, 아들 경달. 현재 남자 3명, 여자 2명, 모두 5명. 광무 4년(1900) □월. 민술호(인)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1900년 대한제국의 인쇄된 호적표로, 백락순(64세)의 직업이 '사(士)'로 적히고 식구 다섯이 칸마다 기록되었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.1900.0000-20151117.C0703_002_00009_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 239,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0204&dataId=G002%2BKHD%2BKSM-XD.1900.0000-20151117.C0703_002_00009_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 929,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1901년 백락순(白樂順) 호적표(戶籍表) (1901)"
+    ]
+   },
+   "width": 955,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1901"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "호적표"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(인쇄) 全羅南道 □□郡 戶籍表 (손글씨) 道化面 新基□ 統 戶 戶主 白樂順 年 六十五 本 水原 職業 農 父 雲洙 祖 瑞浩 曾祖 圭華 外祖 柳煥龜 同居親屬 妻金氏 子敬魯 婦朴氏 子敬達 現存 男三 女二 合五 家 已有 草五間 光武五年一月 □□ 閔述鎬 (인)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전라남도 □□군 호적표. 도화면 신기□ □통 □호. 호주 백락순, 나이 65세, 본관 수원, 직업 농(農, 농업). 아버지 운수, 할아버지 서호, 증조할아버지 규화, 외할아버지 유환구. 함께 사는 친족: 아내 김씨, 아들 경로, 며느리 박씨, 아들 경달. 현재 남자 3명, 여자 2명, 모두 5명. 집: 자기 집, 초가 5칸. 광무 5년(1901) 1월. 민술호(인)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1901년 같은 집의 호적표로, 식구와 집은 그대로인 채 백락순의 직업이 '사(士)'에서 '농(農)'으로 바뀌어 적혔습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.1901.0000-20151117.C0703_002_00010_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 246,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0204&dataId=G002%2BKHD%2BKSM-XD.1901.0000-20151117.C0703_002_00010_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-hojeok/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 955,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

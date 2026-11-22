@@ -1,0 +1,1277 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "땅과 관청 사이 — 문서로 보는 집안 살림"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "집안 살림은 늘 관청과 맞닿아 있었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "기획 예시"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "대전 무수동 안동권씨 유회당 권이진 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yuhoedang-land/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yuhoedang-land/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 293
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1695년 이근장(李根長) 토지매매명문(土地賣買明文) (1695)"
+    ]
+   },
+   "width": 1400,
+   "height": 1138,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1695"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "토지매매명문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙三十四年乙亥 … 五月初八日 李根長前明文 / … / 畓主 … / 證保 … / 筆執 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 34년 을해(1695) 5월 8일, 이근장 앞으로 써 주는 매매 문서. 이 문서의 사연은 … (논을) 지키기 위한 말 두 필을 … 잃어버린 뒤, 형제와 부모가 모두 병으로 … 가을갈이를 하지 못해, 말을 서둘러 사들이도록 독촉을 받으므로, 조상에게서 물려받은 가을이(加乙伊)밭 아래쪽 귀(歸)자 밭 … 6두 6부 가운데 아래쪽 밭 3두락 … 13부 5속짜리를 돈 28냥으로 그 수대로 받고 위 사람에게 영원히 판다. 본래 문서는 다른 논밭이 함께 붙어 있어 내주지 못한다. 뒷날 형제·자손 가운데 말썽이 있으면 이 문서로 관에 고하여 바로잡을 일이다. 밭 주인 이태복(수촌), 보증인 형 이○출(수촌), 증인 아우 이계삼(수촌), 증인 이아배(?), 쓴 사람 강무상. (흘림 — 여러 곳 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "땅 주인이 사정이 있어 대대로 갈던 논밭을 이근장에게 팔고 값을 받았으며, 뒷날 자손이나 친척이 다투면 이 문서로 관에 고해 바로잡으라는 내용입니다. 땅의 위치와 값은 본문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1695.0000-20101008.B059a_085_00392_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 293
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013003%5EL013003F02%5EL013003F0205&dataId=G002%2BAKS%2BKSM-XE.1695.0000-20101008.B059a_085_00392_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1138
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1712년 승(僧) 수담(守淡) 토지매매명문(土地賣買明文) (1712)"
+    ]
+   },
+   "width": 1309,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1712"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "토지매매명문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙伍十一年壬辰 … 十六日 僧守淡前明文 / 右明文爲 … 新字畓一斗落只 … 價折錢文貳拾伍兩 … / 畓主 僧 … / 證人 僧 智淳 / 筆執 僧 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 51년 임진(1712) 3월 16일, 승려 수담 앞으로 써 주는 매매 문서. 이 문서를 만드는 까닭은, 사서 갈아먹던 신(新)자 구역 논 한 마지기 … 부(負)짜리를 돈 25냥으로 값을 쳐서 그 수대로 주고받고, 본래 문서 한 장과 함께 넘긴다. 다행히(?) 형제·친족 가운데 말썽을 부리는 자가 있으면 이 문서를 가지고 관에 고하여 바로잡을 일이다. 논 주인 승려 옥상(수촌), 증인 승려 지순(수촌), 쓴 사람 승려 여종(?)(서명)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'사서 갈아먹던 신(新)자 구역의 논 한 마지기(一斗落只)를 돈 25냥에 값을 쳐서 받고, 원래의 매매 문서(本文記) 한 장과 함께 넘긴다. 뒷날 일가친척 가운데 말썽을 부리는 자가 있으면 이 문서를 가지고 관에 고해 바로잡으라'는 내용입니다. 판 사람(畓主) 옥상, 증인 지순, 쓴 사람 모두 승려이고, 두 사람은 손바닥 모양(수촌)으로 서명했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1712.0000-20101008.B059a_085_00385_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 337,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013003%5EL013003F02%5EL013003F0205&dataId=G002%2BAKS%2BKSM-XE.1712.0000-20101008.B059a_085_00385_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1309,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1783년 용안현감(龍安縣監) 첩정(牒呈)－1 (1783)"
+    ]
+   },
+   "width": 1400,
+   "height": 1223,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1783"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "첩정"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "戶曹爲解由事 背書關及粘連牒呈內 … 前龍安縣監 … 解由 … 照驗施行 … / 乾隆四十八年十二月 日 / 戶曹 參判 參議 正郞 佐郞"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "호조가 해유(解由)에 관한 일로 (이조에) 보낸다. 뒷면에 쓴 관문과 이어 붙인 첩정의 내용에 따르면, 전 용안현감 ○상희(?) 등의 해유는 흠잡을 것이 없이 만들어 냈으므로, 상고하여 시행할 일이다. 이에 마땅히 관문을 보내니 청컨대 살펴 시행하라. 이조에 보내는 관문. 건륭 48년(1783) 12월 일. (호조) 판서, 참판, 참의, 정랑, 좌랑."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "전 용안현감이 임기 중 관리한 물품에 결손이 없음을 호조가 확인하고, 해유 절차를 진행하도록 한다는 내용으로 보입니다. 집안의 누군가가 지방관을 지내며 받은 행정 문서가 집에 남은 사례입니다(첩 이미지라 면 대조는 원문 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1783.0000-20101008.B059a_085_00315_001"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 314
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013003%5EL013003F02%5EL013003F0203&dataId=G002%2BAKS%2BKSM-XC.1783.0000-20101008.B059a_085_00315_001&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1223
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1793년 김인택(金仁澤) 고목(告目)－1 (1793)"
+    ]
+   },
+   "width": 1400,
+   "height": 1332,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1793"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "告目 / 堂上大監 敎是在 宅是乎所 … 前敎是 行次 緣由 … 告課爲白乎事 / 癸丑二月初六日 書員 金仁澤"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목. 당상 대감께서 계신 댁에 … 앞서 행차하신 연유 … 차례로 아뢰옵는 일. 계축년(1793) 2월 6일 서원 김인택. (가운데 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "당상대감 댁에 행차와 관련된 연유를 보고드린다는 짧은 보고입니다. 하급 실무자가 상전에게 일의 진행을 알리던 방식을 보여 줍니다(세부 판독 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1793.0000-20101008.B059a_085_00321_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 343
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013003%5EL013003F02%5EL013003F0203&dataId=G002%2BAKS%2BKSM-XC.1793.0000-20101008.B059a_085_00321_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1332
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1793년 김인협(金仁協) 고목(告目)－3 (1793)"
+    ]
+   },
+   "width": 1144,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1793"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "告目 / 祿米三百二十四石六斗 太一百九十七石十二斗 上下之意 詮次告課爲白乎事 / 癸丑二月二十七日 書員 金仁協"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목. 녹미 324섬 6말, 콩 197섬 12말을 내어 준다는 뜻을 차례로 아뢰옵는 일. 계축년(1793) 2월 27일 서원 김인협."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'녹미(관원의 봉급 쌀) 324섬 6말, 콩 197섬 12말을 내어 주었다(上下)는 뜻을 차례로 보고드립니다'라는 내용입니다. 녹봉 지급을 맡은 관청의 실무자가 결과를 보고한 것으로 보입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1793.0000-20101008.B059a_085_00328_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 294,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013003%5EL013003F02%5EL013003F0203&dataId=G002%2BAKS%2BKSM-XC.1793.0000-20101008.B059a_085_00328_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1144,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1793년 유명덕(柳命德) 고목(告目)－2 (1793)"
+    ]
+   },
+   "width": 1292,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1793"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "告目 / 今日 祿米五百二十石十三斗 太三百十石四斗 上下之意 詮次告課爲白乎事 / 癸丑三月二十七日 書員 柳命德"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목. 오늘 녹미 520섬 13말, 콩 310섬 4말을 내어 준다는 뜻을 차례로 아뢰옵는 일. 계축년(1793) 3월 27일 서원 유명덕."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'오늘 녹미 520섬 13말, 콩 310섬 4말을 내어 주었다'는 보고입니다. 같은 서식의 보고가 달마다 이어진 것으로 보아, 이 집안 사람이 녹봉을 관리하는 관청의 책임자였을 가능성이 있습니다(확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1793.0000-20101008.B059a_085_00337_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 332,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013003%5EL013003F02%5EL013003F0203&dataId=G002%2BAKS%2BKSM-XC.1793.0000-20101008.B059a_085_00337_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1292,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/7",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1843년 남유희(南有羲) 노비매매명문(奴婢賣買明文) (1843)"
+    ]
+   },
+   "width": 1400,
+   "height": 1057,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1843"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "노비매매명문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "癸卯五月初六日 寧海幼學南有羲前明文 / 右明文爲 … 傳來婢福丹夫妻 … 錢文 … / 上典 安東幼學 李東□ 自筆"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임금 즉위 23년 계묘(1843) 5월 6일, 영해 유학 남유희 앞으로 써 주는 매매 문서. 이 문서를 만드는 까닭은, 을축년에 물려받은 여종 복단 부부와 그 넷째 소생 승열(?)이 상전 댁에 붙어살다가, 집이 가난하여 살 길이 없으므로 … 갑신생 종 승열을 돈 5냥과 벼 1섬을 받고 팔아 썼는데, 계묘년에 그 사람을 찾아 데려가려 하자 그 사람이 앞서 준 값을 안고 슬퍼하며 해마다 구해 살린 연유를 … 내줄 뜻이 있으므로, 공론으로 값을 쳐서 돈 12냥을 그 수대로 받아 쓰고, 뒤에 낳을 자식까지 아울러 위 사람에게 영원히 판다. 뒷날 말썽이 있으면 이 문서로 바로잡을 일이다. 상전 안동 유학 이동○ 자필(수결). (여러 곳 판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "을축년에 물려받은 여종 복단 부부와 그 네 자식 가운데 갑신생 종 승열(僧悅) 등을, 상전 집안이 가난해 살 길이 없어 남유희에게 넘긴다는 내용입니다. 앞서 받은 돈 5냥과 벼 1섬에 더해 공론으로 값을 매겨 돈 12냥을 받고, 뒤에 낳을 자식까지 영원히 판다고 했습니다. 판 사람은 안동 유학 이동○이며 직접 썼습니다. 사람이 재산으로 매매되던 조선 후기 신분제의 현실을 보여 줍니다(이름·액수는 판독 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1843.0000-20101008.B059a_085_00386_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/thumb/07.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 272
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013003%5EL013003F02%5EL013003F0205&dataId=G002%2BAKS%2BKSM-XE.1843.0000-20101008.B059a_085_00386_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/7",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1057
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/8",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "이봉휘(李鳳輝) 고목(告目)"
+    ]
+   },
+   "width": 1400,
+   "height": 622,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(훼손 심함) … 告目 … 李鳳輝 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(훼손 심함) … 고목 … 이봉휘 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "하급 관리나 노비가 상전에게 일을 보고한 짧은 편지로 보이나, 훼손이 심해 내용은 원문 판독이 필요합니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.0000.0000-20101008.B059a_085_00345_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/thumb/08.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 160
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013003%5EL013003F02%5EL013003F0203&dataId=G002%2BAKS%2BKSM-XC.0000.0000-20101008.B059a_085_00345_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/8/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/canvas/8",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/08.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 622
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

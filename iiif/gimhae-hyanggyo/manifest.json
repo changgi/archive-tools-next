@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.47 \"향안은 선배 어른들의 이름이다\" — 김해향교가 지킨 명부"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "명부에 이름을 올리는 일은 공동체의 신뢰를 지키는 일이었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.47"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "김해 김해향교"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gimhae-hyanggyo/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gimhae-hyanggyo/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 244
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1622년 조향해(曹享海) 상서(上書) (1622)"
+    ]
+   },
+   "width": 1400,
+   "height": 949,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1622"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "상서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "天啓二年十二月 日 金海居 前(?)…曹享海 齋沐百拜上書于 / 巡察使閤下 … 遺愛 … 仁偉慈祥之德 本於天性 … 不取一物 … 淸操 … 古人所難 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "천계 2년(1622) 12월 일, 김해에 사는 조향해(?)가 삼가 목욕재계하고 백 번 절하며 관찰사 합하께 글을 올립니다. … 아아, 교화와 정사가 세 가지로 남다른 자취(三異 — 선정의 상징)와 사람들이 세우는 [송덕]비는 옛 자취로만 남고 [근래에는] 들리지 않았습니다. [조정이] 어진 관리를 골라 멀고 쇠잔한 고을에 보내 주시니, [사또는] 어질고 너그럽고 자상한 덕이 천성에서 나오고, 측은히 여기는 정성이 명령에 드러났습니다. … 농사와 누에치기를 권장한 공이 있고, 궁한 백성을 돌본 은혜가 있으며, 한 물건도 취하지 않고 청탁을 끊었으며, … 진상할 물건도 … 맑은 지조는 요즘 세상에 보기 드문 것이니, 옛사람도 어렵게 여긴 일입니다. … 백성이 차마 속이지 못하였습니다. … (판독 불확실 다수)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "김해부사가 어질고 청렴하여 농사를 권하고 가난한 백성을 돌보며 한 물건도 받지 않았으니, 그 선정을 관찰사가 살펴 드러내 달라는 고을 사람의 청원으로 보입니다(판독 불확실)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1622.4825-20101008.B022a_034_00145_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 244
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024804%5EL024804F02%5EL024804F0202&dataId=G002%2BAKS%2BKSM-XB.1622.4825-20101008.B022a_034_00145_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 949
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1753년 향선생(鄕先生) 김덕화(金德和) 등 완의(完議) (1753)"
+    ]
+   },
+   "width": 1400,
+   "height": 959,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1753"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "완의"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "完文 / 右文爲完議事 鄕案乃是先父老名籍 則其在 … 決不可任自遷動 … 雖年少鄕員 稱以鄕先生 阿其所好 任 … 名案 擅斷書錄 鄕風之太變 綱紀之頹弛 莫此甚也 … / 癸酉十二月初四日 鄕先生 金德和 宋道直 盧振爀 李有徵 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "완문. 이 글은 [향중이] 합의하여 정하는 일이다. 향안(鄕案)은 곧 선배 어른들의 이름을 적은 명부이니 … 결코 마음대로 옮기거나 바꿀 수 없다. 그러므로 옛 향규에는 이름이 … 뒤에 있으면 여럿이 모여 참여해야 향안에 [올렸고], … 이름을 올리는 일은 그 뜻이 매우 무겁고 그 예가 또한 엄하였다. 그런데 어찌하여 … 향풍이 엄숙하지 못하여, 나이 어린 향원조차 향선생이라 일컬으며 자기가 좋아하는 이에게 아첨하여 마음대로 … 명부에 멋대로 써넣으니, 향풍이 크게 변하고 기강이 무너진 것이 이보다 심할 수 없다. … 어른들이 함께 모여 다시 완의를 정하노니, 앞으로 만약 전처럼 아무 때나 마음대로 옮기고 써넣는 일이 있으면 향좌수와 향선생이 향중에서 벌을 논하여 이름을 깎아 내고 결코 너그럽게 봐주지 않을 것이다. … 이 완정한 말을 걸어 두고 시행하여, 지금부터 시작하여 … 감히 마음대로 써넣는 일이 있으면 장리(掌吏)가 관에 아뢰어 죄를 정하게 하고, 완의 한 건은 향안 궤짝 안에 넣어 두고 한 건은 장리에게 전해 맡겨 이것을 떨어뜨리지 않게 하여 … 이 의논을 어기지 않게 하면 어찌 한 고을의 다행이 아니겠는가. 힘쓸지어다, 힘쓸지어다. 계유년(1753) 12월 4일. 향선생 김덕화, 송도직, 노진혁, 이유징 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "향안은 선배 어른들의 명부이므로 함부로 고칠 수 없는데, 젊은 향원들이 멋대로 이름을 써넣어 기강이 무너졌으니, 앞으로 그런 자는 이름을 깎고 관에 알려 처벌하기로 고을 원로들이 다시 약속한 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1753.4825-20101008.B022a_034_00125_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 247
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024804%5EL024804F02%5EL024804F0204&dataId=G002%2BAKS%2BKSM-XD.1753.4825-20101008.B022a_034_00125_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gimhae-hyanggyo/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 959
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,999 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "송준길의 기록으로 본 생애"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "한 사람의 일생은 남긴 문서의 순서로도 그려진다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "기획 예시"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "같은 소장처"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/dongchundang-songjungil/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/dongchundang-songjungil/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 311
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1593〜1681년 송응서(宋應瑞), 송이창(宋爾昌), 송준길(宋浚吉) 등 고신첩(告身帖) (1593)"
+    ]
+   },
+   "width": 1400,
+   "height": 1211,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1593"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "五衛都摠府副摠管宋爾昌 贈資憲大夫吏曹判書兼知義禁府事五衛都摠府都摠管者 / 己亥十一月初七日 / (작은 글씨) 資憲大夫吏曹判書兼成均館祭酒宋浚吉考 依大典追贈"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "오위도총부 부총관 송이창을 자헌대부 이조판서 겸 지의금부사 오위도총부 도총관으로 추증한다. 기해년(1659) 11월 7일. (근거) 자헌대부 이조판서 겸 성균관 좨주 송준길의 아버지이므로 『경국대전』에 따라 추증한다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "오위도총부 부총관이던 송이창을 자헌대부(정2품) 이조판서 겸 지의금부사·오위도총부 도총관으로 추증한다는 내용입니다. 아들이 높은 벼슬에 오르면 부모와 조상의 벼슬도 함께 높여 주던 제도를 보여 줍니다. 첩의 다른 면은 다른 사람·시기의 고신입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1593.1111-20101008.B058a_083_00002_000"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 311
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0201&dataId=G002%2BAKS%2BKSM-XA.1593.1111-20101008.B058a_083_00002_000&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1211
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1657〜1662년 송준길(宋浚吉) 교지첩(敎旨帖)－1 (1657)"
+    ]
+   },
+   "width": 1400,
+   "height": 1044,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1657"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 宋浚吉爲嘉善大夫行龍驤衛副護軍者 / 順治十五年五月 □日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 송준길을 가선대부 행 용양위 부호군으로 삼는다. 순치 15년(1658) 5월 25일(?)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "송준길을 가선대부(종2품) 행 용양위 부호군으로 삼는다는 내용입니다. 부호군은 오위의 군직으로, 실제 근무보다 녹봉과 예우를 주기 위해 학자·원로에게 자주 내리던 자리입니다(첩 이미지라 이 면과 문서명 연도가 다를 수 있습니다)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1657.1111-20101008.B058a_083_00001_000"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 268
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0201&dataId=G002%2BAKS%2BKSM-XA.1657.1111-20101008.B058a_083_00001_000&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1044
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1660〜1670년대 송준길(宋浚吉) 비답첩(批答帖) (1660)"
+    ]
+   },
+   "width": 1400,
+   "height": 1064,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1660"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "비답첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "體予至意 省墳廣州 情甚切迫 而豈無其時 必用節祀 文短意拙 不能盡予之懷 餘當面諭焉"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "나의 지극한 뜻을 헤아려 주오. 광주에 성묘하려는 마음이 매우 절박하겠으나 어찌 그때가 없겠는가. 반드시 명절 제사 때를 이용하라. 글이 짧고 뜻이 서툴러 내 마음을 다 담지 못하니, 나머지는 만나서 말하겠다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'나의 지극한 뜻을 헤아려 달라. 광주에 성묘하러 가려는 마음이 매우 절박하겠으나 어찌 그때가 없겠는가, 명절 제사 때를 이용하라. 글이 짧고 뜻이 서툴러 내 마음을 다 담지 못하니 나머지는 만나서 말하겠다'는 뜻으로, 성묘를 이유로 물러가려는 송준길을 임금이 붙잡는 내용입니다(판독·해석 확인 필요)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.0000.1111-20101008.B058a_083_00004_000"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 274
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0201&dataId=G002%2BAKS%2BKSM-XA.0000.1111-20101008.B058a_083_00004_000&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1064
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1660년 송준길(宋浚吉) 납폐서(納幣書) (1660)"
+    ]
+   },
+   "width": 1400,
+   "height": 810,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1660"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "납폐서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "恩津宋浚吉啓 / 海州牧使尊親家執事 … 浚吉之第二孫男炳夏 … 敬遣使者行納幣禮 / 庚子二月三日 恩津宋浚吉 再拜"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "은진 송준길이 아룁니다. 해주목사 사돈댁 집사께. 사돈께서 저희를 하찮다 여기지 않으시고 조카따님을 저의 둘째 손자 병하의 아내로 허락해 주셨습니다. 이에 선인의 예법이 있어 삼가 사람을 보내 납폐의 예를 행합니다. 엎드려 바라건대 특별히 헤아려 주십시오. 다 갖추지 못합니다. 경자년(1660) 2월 3일. 은진 송준길 두 번 절함."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "해주목사가 조카딸을 송준길의 둘째 손자 병하(炳夏)에게 시집보내기로 허락해 주었으니, 예법에 따라 사람을 보내 납폐한다는 내용입니다. 송준길이 할아버지로서 손자의 혼사를 주관했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1660.3023-20101008.B058a_083_00322_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 208
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0206&dataId=G002%2BAKS%2BKSM-XF.1660.3023-20101008.B058a_083_00322_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 810
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1670〜1671년 송준길(宋浚吉) 유서첩(諭書帖) (1670)"
+    ]
+   },
+   "width": 1400,
+   "height": 1107,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1670"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유서첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "諭議政府左參贊兼世子贊善宋浚吉 / 前見史官書啓 則有更加調息以觀氣力之語 予誠喜悅 日望造朝 今已月餘 未見 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "의정부 좌참찬 겸 세자찬선 송준길에게 이른다. 전에 사관의 서계를 보니 '몸을 더 조리하여 기력을 보겠다'는 말이 있어 나는 참으로 기뻤다. 날마다 조정에 나오기를 바랐는데 이제 한 달이 넘도록 보지 못하니 … (이하 다음 면)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "의정부 좌참찬 겸 세자찬선 송준길에게, '사관의 보고를 보니 몸을 더 조리하고 기력을 살피겠다고 했다 하여 참으로 기뻤다. 날마다 조정에 나오기를 바랐는데 벌써 한 달이 넘도록 보지 못했다…'며 조정에 나오기를 청하는 내용입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1670.1111-20101008.B058a_083_00003_000"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 285
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0201&dataId=G002%2BAKS%2BKSM-XA.1670.1111-20101008.B058a_083_00003_000&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1107
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1671년 송준길(宋浚吉) 위장(慰狀) (1671)"
+    ]
+   },
+   "width": 1400,
+   "height": 961,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1671"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "위장"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "浚吉白 似聞 令第二妹李氏婦遽爾夭逝 驚怛之至 … / 辛亥十二月九日 宋浚吉 狀上 / 閔進士 服次"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준길이 아룁니다. 듣자니 그대의 둘째 누이(이씨 집안 며느리)가 갑자기 세상을 떠났다 하니 놀랍고 슬픔을 그칠 수 없습니다. 무슨 병으로 이렇게 되었는지 모르겠습니다. 생각건대 대부 영감께서는 먼 곳에서 부고를 받으셨으니 그 지극한 아픔을 어찌 견디시겠습니까. 그대는 우애가 남달랐으니 슬픔과 비통을 어찌 감당하겠습니까. 오직 깊이 스스로 너그러이 억눌러 어버이의 마음을 위로하기를 바랍니다. 저는 병으로 궁벽한 시골에 엎드려 있어 달려가 위로할 길이 없으니, 근심과 그리움보다 더한 것이 없습니다. 하찮은 정성을 다 표하지 못하고 삼가 편지를 올립니다. 신해년(1671) 12월 9일 송준길 올림. 민 진사 상중(服次)께. (추신) 그대의 아우는 어디에 있는지, 그대의 종제 앞으로도 각각 편지를 쓰지 못했으니 아울러 보여 주기를 바랍니다 … (판독 불확실)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "'듣자니 그대의 둘째 누이(이씨 집안 며느리)가 갑자기 세상을 떠났다니 놀랍고 슬프기 그지없습니다. 무슨 병으로 이렇게 되었는지요. 먼 곳에 계신 부친(대부 영감)께서 부고를 받으시고 얼마나 아파하시겠습니까. 그대는 우애가 남달랐으니 슬픔을 어찌 견디겠습니까. 부디 스스로 마음을 너그러이 하여 어버이를 위로하십시오. 저는 병으로 시골에 누워 있어 달려가 위로하지 못하니 근심스럽기 그지없습니다'라는 위로 편지이고, 끝에 동생들에게 따로 편지를 쓰지 못했으니 함께 보여 달라는 추신이 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XF.1671.3023-20101008.B058a_083_00321_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 247
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0130%5EL013001%5EL013001F02%5EL013001F0206&dataId=G002%2BAKS%2BKSM-XF.1671.3023-20101008.B058a_083_00321_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 961
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

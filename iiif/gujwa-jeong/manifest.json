@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.127 \"온 고을이 우러러 부러워할 일\" — 1825년 진사가 된 제주 아들에게 아버지가 준 밭 두 뙈기"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "먼 섬에서 나온 진사 한 명은 한 집안의 경사를 넘어 고을의 자랑이었다 — 아버지는 그 기쁨을 밭 두 뙈기로 남겼다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.127"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 구좌 동래정씨 정석록 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gujwa-jeong/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gujwa-jeong/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 241
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1743년 정석록(鄭錫祿) 고신(告身) (1743)"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1743"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "吏曹 乾隆八年正月 日奉 敎 通善郞鄭錫祿爲通德郞者 乾隆八年正月 日 (작은 글씨) 父成均館直講鄭敞選 癸正別代加 判書 參判臣李(수결) 參議 正郞 佐郞"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "이조에서 건륭 8년(1743) 정월 일에 교지를 받들어, 통선랑 정석록을 통덕랑으로 삼는다. 건륭 8년 정월 일. (작은 글씨) 아버지 성균관 직강 정창선의 계해년 정월 별가를 대신 받음. 판서, 참판 신 이(수결), 참의, 정랑, 좌랑."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1743년 정석록이 아버지 성균관 직강 정창선의 별가를 대신 받아 통덕랑에 오른 고신입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1743.5011-20220125.B079a_110_00676_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016807%5EL016807F02%5EL016807F0201&dataId=G002%2BAKS%2BKSM-XA.1743.5011-20220125.B079a_110_00676_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1825년 정익환(鄭益煥) 진사시 시권(試券) (1825)"
+    ]
+   },
+   "width": 495,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1825"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시권"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(겉봉) 幼學鄭益煥 年二十五 本東萊 居濟州 父幼學 景集 祖學生 泰光(?) 曾祖通德郞 錫祿 外祖學生 □□□ (부전지) 進士三等第二人 (시관) 恩門 乙酉三月二十日 會試 李判書存秀 … (끝) 泮主人李東(?)思(?)祖(?)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(겉봉) 유학 정익환, 25세, 본관 동래, 제주 거주. 아버지 유학 경집, 할아버지 학생 태광(?), 증조할아버지 통덕랑 석록, 외할아버지 학생 □□□. (붙인 종이) 진사 3등 제2인. (시관 명단) 은문 — 을유년(1825) 3월 20일 회시. 이조판서 이존수 … (끝) 반주인 이□□."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1825년 정익환의 진사시 회시 시권 겉면으로, 증조 '통덕랑 석록'과 성적 '진사 3등 제2인'이 적혀 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1825.5011-20220125.B079a_110_00693_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 127,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016807%5EL016807F02%5EL016807F0204&dataId=G002%2BAKS%2BKSM-XD.1825.5011-20220125.B079a_110_00693_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 495,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1825년 정익환(鄭益煥) 진사 백패(進士白牌) (1825)"
+    ]
+   },
+   "width": 790,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1825"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "백패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 幼學鄭益煥進士三等第二人入格者 道光五年三月 日 (부전지) 幼學鄭益煥進士三等第二人"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 정익환은 진사 3등 제2인으로 입격한 자이다. 도광 5년(1825) 3월 일. (붙인 종이) 유학 정익환 진사 3등 제2인."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1825년 정익환이 진사시 3등 제2인으로 입격하고 받은 백패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1825.5011-20220125.B079a_110_00675_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 203,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016807%5EL016807F02%5EL016807F0201&dataId=G002%2BAKS%2BKSM-XA.1825.5011-20220125.B079a_110_00675_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 790,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1825년 정익환(鄭益煥) 별급문(別給文) (1825)"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1825"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "분재기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "道光五年乙酉三月二十三日 長子益煥處別給文 右爲別給事 惟我一門 雖在遐(?)域 世以簪纓之家門 衰替(?)薄(?)歎 豈(?)免子孫矣 何幸餘慶不泯 勝(?)見益煥承襲 先蔭(?)偉(?)家 聖恩 君擢蓮榜 男登 國庠 而時年廿有五 實是京華子弟之所難 而寒門忽見不世之榮 非直一家之慶 抑亦擧州之欽羨 不可無別般激勸之意 故 上兄(?)里內 負(?)興(?)坐(?) 六斗(?) 高雲晉處買得 來(?)四斗付 及給得(?) 縣地(?)此(?) 安植(?)洞 負(?)畢(?) 一斗五升付 并二庫田 特以別給 俾(?)壽(?)傳事 財主 父 □□(?) 證筆 仲父 □(수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "도광 5년 을유(1825) 3월 23일, 맏아들 익환에게 따로 주는 문서. 따로 주는 일은 이렇다. 우리 한 집안은 비록 먼 변방(?)에 있으나 대대로 벼슬하던 집안인데, 기울어 가는 것을 한탄하며 자손이 어찌 면하랴 하였다. 다행히 조상의 남은 복이 다하지 않아, 익환이 조상의 음덕을 이어 임금의 은혜로 진사 명단(연방)에 뽑히고 나라의 학교(성균관)에 오르게 되었으니, 그때 나이 스물다섯이다. 이는 서울의 자제들도 어려워하는 일인데 한미한 집에서 세상에 드문 영광을 보았으니, 한 집안의 경사일 뿐 아니라 온 고을이 우러러 부러워할 일이다. 특별히 격려하는 뜻이 없을 수 없으므로, 상□리 안의 □□ 여섯 마지기(?) 땅 — 고운진에게서 사들인 4두지기 — 와 □□ 안식동(?)의 1두 5승지기, 아울러 밭 두 곳을 특별히 따로 주니 오래 전하도록 하라. 재주 아버지 □□. 증필 중부 □(수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1825년 진사에 입격한 맏아들 정익환에게 아버지가 격려의 뜻으로 밭 두 곳을 따로 준 별급문입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1825.5011-20220125.B079a_110_00696_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016807%5EL016807F02%5EL016807F0205&dataId=G002%2BAKS%2BKSM-XE.1825.5011-20220125.B079a_110_00696_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

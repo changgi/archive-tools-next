@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.67 \"얼굴이 누렇게 부어 굶어 죽게 된 어머니와 두 딸\" — 1783년 경주의 소지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "기근의 기록은 숫자가 아니라 이름(은단, 막내, 계심)으로 남아 있다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.67"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경주 옥산 여주이씨 치암 이순 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/chiam/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/chiam/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 283,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1725년 이지담(李之聃) 무과 홍패(武科紅牌) (1725)"
+    ]
+   },
+   "width": 1101,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1725"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 閑良李之聃武科丙科第七十人及第出身者 / 雍正三年 月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 한량 이지담을 무과 병과 제70인으로 급제하여 출신한 사람으로 삼는다. 옹정 3년(1725) ○월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "한량 이지담이 무과 병과 70등으로 급제했음을 증명하는 홍패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1725.1111-20101008.B043b_066_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 283,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016794%5EL016794F02%5EL016794F0201&dataId=G002%2BAKS%2BKSM-XA.1725.1111-20101008.B043b_066_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/chiam/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1101,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1783년 이희모(李希謨) 소지(所志) (1783)"
+    ]
+   },
+   "width": 965,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1783"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "慶州幼學李希謨 / 右謹言所志矣段 去戊戌年分 時値大凶 所謂銀丹稱名之女 滿面浮黃 率其二女 至於餓死之境 … 錢 仍爲救活 作夫使居 … 去年偶然喪夫 改嫁於他人 而棄其女息莫乃 桂心二女於矣身家 … 死丁寧 次知生活 使之使喚云云是遣 其日夜棄其兒 單入於轄(?) 無去處逃亡矣身 矜憐其兒之無依 … 參商敎是後 考次題音 行下爲只爲 / 巡使道 處分 / 癸卯二月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "경주 유학 이희모. 삼가 아뢰는 소지. 지난 무술년(1778) 무렵, 때마침 큰 흉년을 만나 은단(銀丹)이라는 여인이 얼굴이 온통 누렇게 부어 두 딸을 데리고 굶어 죽을 지경에 이르렀기에, [제가] 돈을 [주고] 구해 살려 남편을 얻어 [제 집] 아래에서 살게 하였습니다. 그런데 지난해 우연히 남편이 죽자 다른 사람에게 다시 시집가면서 딸 막내(莫乃)와 계심(桂心) 두 아이를 제 집에 버려두고, '죽든 살든 맡아 기르고 부리라'고 하고는 그날 밤 아이들을 버리고 혼자 … 들어가 간 곳 없이 달아났습니다. 저는 의지할 데 없는 아이들이 가엾어 거두어 … 하오니, 헤아려 살피신 뒤 뒷날 증거로 삼을 수 있도록 처분(題音)을 내려 주십시오. 관찰사께서 처분하실 일. 계묘년(1783) 2월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "흉년에 굶어 죽게 된 여인 은단과 두 딸을 돈을 들여 살렸는데, 은단이 재가하며 딸 막내와 계심을 버리고 떠났으니, 의지할 곳 없는 두 아이를 거두는 것에 대해 뒷날 증거가 될 처분을 내려 달라는 이희모의 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1783.4713-20101008.B043b_066_00104_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 248,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016794%5EL016794F02%5EL016794F0202&dataId=G002%2BAKS%2BKSM-XB.1783.4713-20101008.B043b_066_00104_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/chiam/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/chiam/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 965,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

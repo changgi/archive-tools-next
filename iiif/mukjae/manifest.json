@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.108 \"이 아이가 자라 이것을 본다면\" — 유배지의 할아버지가 쓴 손자 육아 일기 「양아록」"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "기록은 사랑의 한 방식이다 — 아무도 시키지 않은 기록이, 470년 뒤까지 한 사람의 마음을 전한다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.108"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "상주 성주이씨 묵재 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/mukjae/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/mukjae/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 258
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "양아록(養兒錄) — 서문 (1551)"
+    ]
+   },
+   "width": 1400,
+   "height": 1002,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1551"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "양아록"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "養兒錄 / 養兒不必有錄 錄之者以吾無事也 老年屛謫 儔侶旣寡 謀生計拙 不營產業 妻復還鄕 塊然獨處 惟見孫兒戲嬉 以度日晷 間閱舊牘 … 次韻詩 付諸卷上 以備後玩 兼記習生(?)生齒匍匐等短句于後 以寓眷戀之意焉 兒若長成 有見乎此 庶得祖先之心於文字上矣 嘉靖三十年辛亥歲"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "양아록. 아이를 기르는 일을 굳이 기록할 필요는 없다. 그런데도 적는 것은 내가 할 일이 없기 때문이다. 늘그막에 귀양살이를 하니 벗도 드물고, 살아갈 꾀가 서툴러 살림을 꾸리지도 못하며, 아내마저 고향으로 돌아가 홀로 덩그러니 지낸다. 오직 손자가 노는 것을 보며 하루해를 보낸다. 이따금 옛 글들을 뒤적이다 … 차운한 시들을 얻어 책 앞에 붙여 두고 뒷날 보게 하며, 아울러 (손자가) 이가 나고 기어 다니는 일 등을 짧은 글로 뒤에 적어, 사랑하고 그리워하는 뜻을 담는다. 이 아이가 자라서 이것을 보게 된다면, 글자 위에서나마 할아버지의 마음을 알 수 있으리라. 가정 30년 신해년(1551)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유배지의 이문건이 손자를 기르며 쓴 육아 기록 「양아록」의 서문으로, '아이가 자라 이것을 보면 할아버지의 마음을 알리라'고 적었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-WB.1567.4725-20250415.F27501-01-X000012"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 258
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016793%5EL016793F01%5EL016793F0102&dataId=G002%2BAKS%2BKSM-WB.1567.4725-20250415.F27501-01-X000012&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/mukjae/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1002
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "양아록(養兒錄) — 손자가 태어난 날의 시 (1551)"
+    ]
+   },
+   "width": 1400,
+   "height": 1006,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1551"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "양아록"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "嘉靖三十年辛亥歲元月初五日癸巳 子婦金氏產男兒 丙辰時向末乃生 謫居中有喜如此 吟成七律一篇以識之 / 天理生生果未窮 癡兒得纘(?)繼家風 先靈地下應多助 後事人間庶少豐 今日喜看渠赤子 暮年思見爾成童 謫居蕭索翻舒泰 自酌春醪慶 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "가정 30년 신해년(1551) 정월 초5일 계사. 며느리 김씨가 사내아이를 낳았다. 진시(아침 7~9시)가 끝나 갈 무렵 태어났다. 귀양살이 중에 이런 기쁨이 있으니, 칠언율시 한 편을 읊어 적어 둔다. 하늘의 이치는 낳고 또 낳아 끝이 없으니, 어리석은 아이(아들)가 집안의 가풍을 이을 아이를 얻었구나. 조상의 넋도 땅 아래에서 많이 도우셨으리니, 뒷날 이 세상일이 조금은 넉넉해지리라. 오늘 기쁘게 저 갓난아이를 보니, 늘그막에 네가 자라 아이(동자)가 되는 것을 보고 싶구나. 쓸쓸하던 귀양살이가 도리어 느긋해져, 스스로 봄 술을 따라 경사를 … (이하 다음 면)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1551년 정월 5일 손자가 태어난 날, 유배지의 이문건이 기쁨을 적은 칠언율시입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-WB.1567.4725-20250415.F27501-01-X000012"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 259
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016793%5EL016793F01%5EL016793F0102&dataId=G002%2BAKS%2BKSM-WB.1567.4725-20250415.F27501-01-X000012&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/mukjae/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/mukjae/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1006
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

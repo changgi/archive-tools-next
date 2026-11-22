@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.160 주인은 이름을 쓰지 않았다 — 땅을 팔러 종을 보낸 배지 네 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "양반은 직접 흥정하지 않았다 — 종에게 '팔아 바쳐라'는 위임장(배지)을 써 주고, 종이 그 위임장으로 명문을 만들어 주었다. 산 쪽은 두 종이를 함께 받아 두었다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.160"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "강릉 전주이씨 선교장 효령대군 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/seongyojang-baeji/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/seongyojang-baeji/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 296,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "배지(牌旨)－02 (1741)"
+    ]
+   },
+   "width": 1150,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1741"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "배지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "奴戒彭處牌子 無他 多有要用處 香湖浦(?) … 畓 … 百三畓 十五卜六束 二十五斗落 願買人處 永永放賣 折价錢文陸十伍兩 捧上納宅 … 宜當向事 上典辛 (수결) 辛酉十一月念五日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "종 계팽에게 주는 패지. 다름이 아니라 쓸 곳이 많아, 향호포 … 의 논(… 15부 6속, 스물다섯 마지기)을 사려는 사람에게 영원히 팔되, 값을 돈 65냥으로 쳐서 받아 댁에 바치는 것이 마땅하다. 상전 신 (수결). 신유년(1741) 11월 25일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1741년 상전 신씨가 종 계팽에게 논 스물다섯 마지기를 65냥에 팔아 바치라고 써 준 배지로, 땅을 산 선교장에 남았습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1741.4215-20250324.C1005_129_00703_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 296,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0171%5EL017101%5EL017101F02%5EL017101F0205&dataId=G002%2BAKS%2BKSM-XE.1741.4215-20250324.C1005_129_00703_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1150,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "배지(牌旨)－03 (1753)"
+    ]
+   },
+   "width": 1400,
+   "height": 1015,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1753"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "배지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "養奴海金處 無他 要用所致 下洞 潛(?) 字 … 二畓 一石落只 四卜 … 字 … 求同(?) … 人 准 … 捧上後 此牌子 導良 明文成給 宜當事 癸酉五月 日 上典曹 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "양노 해금에게. 다름이 아니라 쓸 데가 있어서, 하동 … 의 논(한 섬지기, 4부 …)을 … 사려는 사람에게 값을 받은 뒤, 이 패지대로 명문을 만들어 주는 것이 마땅하다. 상전 조 (수결). 계유년(1753) 5월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1753년 상전 조씨가 양노 해금에게 논 한 섬지기를 팔고 '이 패지대로 명문을 만들어 주라'고 쓴 배지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1753.4215-20250324.C1005_129_00704_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 261
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0171%5EL017101%5EL017101F02%5EL017101F0205&dataId=G002%2BAKS%2BKSM-XE.1753.4215-20250324.C1005_129_00704_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1015
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "배지(牌旨)－07 (1756)"
+    ]
+   },
+   "width": 1400,
+   "height": 1080,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1756"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "배지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "奴丑伊處牌子 無他 上典宅 有要用之處 船橋 羽字 五十七畓 五卜五束 五斗落只 五十九畓 四卜 … 石五斗落只 爲 … 願買人處 依價 捧納宅後 去牌子 導良 明文成給事 丙子三月 日 上典曹 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "종 축이에게 주는 패지. 다름이 아니라 상전 댁에 쓸 데가 있어, 선교 우(羽)자 57번 논(5부 5속, 닷 마지기)과 59번 논(4부 …, … 섬 닷 마지기)을 사려는 사람에게 값대로 받아 댁에 바친 뒤, 이 패지대로 명문을 만들어 줄 것. 상전 조 (수결). 병자년(1756) 3월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1756년 상전 조씨가 종 축이에게 '선교' 우자 57 · 59번 논을 팔아 바치고 명문을 만들어 주라고 쓴 배지로, 선교장 일대의 땅입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1756.4215-20250324.C1005_129_00708_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 278
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0171%5EL017101%5EL017101F02%5EL017101F0205&dataId=G002%2BAKS%2BKSM-XE.1756.4215-20250324.C1005_129_00708_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1080
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "배지(牌旨)－11 (1763)"
+    ]
+   },
+   "width": 1400,
+   "height": 1091,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1763"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "배지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "養奴□□處 此上典宅以要用所致 … 川 … 字 二十畓 … 下 … 二十二畓 三卜六束 二十五斗落 … 願買人處 依准價 捧上納宅後 此牌子 導良 明文以給事 癸未十二月初四日 上典金 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "양노 ○○에게. 이는 상전 댁에 쓸 데가 있어서이니, … 천 … 자 20번 논, … 22번 논(3부 6속, 스물다섯 마지기) …을 사려는 사람에게 값대로 받아 댁에 바친 뒤, 이 패지대로 명문을 만들어 줄 것. 상전 김 (수결). 계미년(1763) 12월 4일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1763년 상전 김씨가 양노에게 논을 팔아 바치고 패지대로 명문을 만들어 주라고 쓴 배지로, 서로 다른 상전들이 같은 서식으로 땅을 판 모습을 보여 줍니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1763.4215-20250324.C1005_129_00712_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 281
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0171%5EL017101%5EL017101F02%5EL017101F0205&dataId=G002%2BAKS%2BKSM-XE.1763.4215-20250324.C1005_129_00712_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/seongyojang-baeji/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1091
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

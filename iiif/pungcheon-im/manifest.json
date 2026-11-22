@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.56 \"역참 사람들의 목숨이 경각에 달렸습니다\" — 찰방 임유후의 계초"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "나라의 길(역참)은 이름 없는 역졸과 말의 고단함 위에 놓여 있었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.56"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "이천 풍천임씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/pungcheon-im/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/pungcheon-im/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 249,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1624년 임유후(任有後) 생원 백패(生員白牌) (1624)"
+    ]
+   },
+   "width": 969,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1624"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "백패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 幼學任有後生員二等第二十五人入格者 / 天啓四年八月二十八日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 임유후를 생원시 2등 제25인으로 합격한 사람으로 삼는다. 천계 4년(1624) 8월 28일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "선비 임유후가 생원시에 2등 25인으로 합격했음을 증명하는 백패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1624.1111-20101008.B047a_071_00006_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 249,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014165%5EL014165F02%5EL014165F0201&dataId=G002%2BAKS%2BKSM-XA.1624.1111-20101008.B047a_071_00006_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 969,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1626년 임유후(任有後) 문과 홍패(文科紅牌) (1626)"
+    ]
+   },
+   "width": 966,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1626"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 / 進士任有後文科丙科第一人及第出身者 / 天啓六年九月十四日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 진사 임유후를 문과 병과 제1인으로 급제하여 출신한 사람으로 삼는다. 천계 6년(1626) 9월 14일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "진사 임유후가 문과 병과 1등으로 급제했음을 증명하는 홍패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1626.1111-20101008.B047a_071_00004_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 248,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014165%5EL014165F02%5EL014165F0201&dataId=G002%2BAKS%2BKSM-XA.1626.1111-20101008.B047a_071_00004_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 966,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1636년 고산도찰방(高山道察訪) 임유후(任有後) 계초(啓草) (1636)"
+    ]
+   },
+   "width": 1400,
+   "height": 970,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1636"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "계초"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "奉列大夫兼高山道察訪臣任 / 臣以庸陋 待罪本驛 … 自春不雨 東作旣愆 … 人呼馬日夜不休 困悴之形 愁苦之狀 … 涸轍之魚 喁喁必至於殲命之奄奄 特絶於喉 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "봉렬대부 겸 고산도 찰방 신 임[유후]. 신은 용렬하고 비루한 몸으로 이 역(驛)에서 죄를 기다린 지(일한 지) 이제 몇 달이 되었는데, 관할하는 각 역참이 이미 매우 쇠잔하여 지탱하고 보충할 힘도 이미 다하였습니다. 밤낮으로 생각해도 쓸 계책이 없어 근심하고 괴로워합니다. 우선 아침저녁으로 급한 것만 말씀드리면, 샛길의 화등 역참은 이미 버려졌고, 큰길의 고산·남산·삭안·봉룡·철관·통달 여섯 역참은 더욱 심하게 쇠잔하여, 한 역참 안에 달팽이집 같은 오두막이 많아야 여덟아홉 집, 적으면 너덧 집이고, 쑥대가 길을 덮어 살 기운이 쓸쓸합니다. 그런데 남북으로 공무로 오가는 사람은 베 짜듯 잦아, 사람을 부르고 말을 찾는 소리가 밤낮으로 쉬지 않으니, 지치고 시든 모습과 근심하고 괴로운 형상을 그림으로 그려 올리려 했으나 황공하여 감히 하지 못했습니다. 신이 갑술년(1634)에 거산 찰방으로 임명되어 이곳을 오갔는데, 몇 해 사이 전쟁이나 기근·역병이 없었는데도 보이는 것이 황량하고 부서진 집이 많았으니, 역참 길의 괴로움을 알 만합니다. 하물며 지금은 서쪽 변경에 일이 많아 … 소식이 잦고, 봄부터 비가 오지 않아 봄 농사가 이미 어긋났으니 앞일을 어찌할 수 없습니다. 조정에서 지금 구휼을 베풀지 않으면, 마른 수레바퀴 자국의 물고기가 입을 벌름거리듯 반드시 목숨이 끊어지기 직전에 이르러 숨이 목구멍에서 끊어질 것입니다. 위 여섯 역참은 조종 때부터 매우 쇠잔하였으므로 군사를 함께 배정하는 법과 시노비가 역을 돕는 규정이 있었는데, 신이 관찰사에게 보고하니 '군액이 역로보다 무겁고 시노도 삼수병에 들어가 시행하기 어려우니 다시 살릴 방책을 생각해 아뢰라' 하였습니다. … 옛 예를 살피면 … 역녀(驛女)가 양인에게 시집가 낳은 자식과 공사천이 역리에게 시집가 낳은 자식은 모두 역에 속한다고 『속록』에 분명히 실려 있는데, … 근년에 해당 관청이 아뢰어 역녀·역리가 공사천과 혼인해 낳은 자식 가운데 딸은 공사천을 따르고 아들만 역에 주게 하니, 각 역참이 사천에게 빼앗기는 사람이 매우 많아 역참 길이 날로 시들어 갑니다. … (이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고산도의 역참들이 몇 집밖에 남지 않을 만큼 쇠잔한데 공무 왕래는 밤낮 끊이지 않고 봄 가뭄까지 들어, 구휼하지 않으면 목숨이 끊어질 지경이니, 역에 속한 사람의 자녀를 역에 돌려주는 옛 법을 되살려 달라는 찰방의 보고 초고입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1636.0000-20101008.B047a_071_00131_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 249
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014165%5EL014165F02%5EL014165F0202&dataId=G002%2BAKS%2BKSM-XB.1636.0000-20101008.B047a_071_00131_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 970
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1672년 임유후(任有後) 교서(敎書) (1672)"
+    ]
+   },
+   "width": 1400,
+   "height": 809,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1672"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎開城府留守任有後書 / 王若曰 自古旬宣之任 苟匪人則 … 惟卿 器度剛方 詞藻贍博 學不負於賢師 舊訓 行誼自持 名已著於 祖初年 科甲大闡 … 性峻潔 固自嚴於趣舍之間 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "[경기]관찰사 겸 병마수군절도사 순찰사 개성부 유수 임유후에게 내리는 교서. 왕은 이르노라. 예로부터 한 지방을 돌며 교화를 펴는 소임은 진실로 그 사람이 아니면 감당할 수 없다. 지금처럼 어렵고 근심스러운 때에 경을 버려두고 누가 하겠는가. 이에 조정의 의논을 따라 경기를 다스리게 하노라. 생각건대 경은 기량이 굳세고 반듯하며, 글재주가 넉넉하고 넓어, 학문은 어진 스승의 옛 가르침을 저버리지 않았고, 행실은 스스로 지켜 이름이 이미 [인]조 초년에 드러났으니, 과거에 크게 급제하였다. 일찍이 오래 숨어 살았으니 몸가짐이 깊음을 더욱 볼 수 있다. 비록 평생을 묻혀 지냈어도 어찌 이름과 이익에 구차하였겠는가. 타고난 성품이 엄격하고 깨끗하여 나아가고 물러남에 스스로 엄하였다 … (이하 훼손)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "어려운 때에 경기를 맡길 사람은 경뿐이라며, 학문과 행실이 바르고 오래 숨어 살며 이익을 구하지 않은 임유후를 경기관찰사 겸 개성유수로 삼는다는 교서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1672.1111-20101008.B047a_071_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 208
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014165%5EL014165F02%5EL014165F0201&dataId=G002%2BAKS%2BKSM-XA.1672.1111-20101008.B047a_071_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/pungcheon-im/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 809
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

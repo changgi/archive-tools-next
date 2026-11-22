@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.51 \"경은 곧 일어나 조정에 나오라\" — 정홍순 집안의 세 대"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "벼슬은 한 사람의 성취이기 전에 집안 전체의 기쁨이자 책임이었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.51"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "안성 보체 동래정씨 정홍순 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jeonghongsun/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jeonghongsun/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 191
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1727년 정혁선(鄭赫先) 별급 분재기(別給 分財記)－1 (1727)"
+    ]
+   },
+   "width": 1400,
+   "height": 744,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1727"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "분재기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "雍正五年十一月十九日 長子承旨錫三 處別給成文 / 右成文爲 汝之兄弟聰明 … 五年之內何能連捷 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "옹정 5년(1727) 11월 19일, 맏아들 승지 석삼(錫三) 등에게 따로 나눠 주는 문서. 이 문서를 만드는 것은, 너희 형제가 총명하여 … 경전을 밝히는 공부에 맞았으므로 어려서부터 곧바로 경전으로 가르쳤는데, 부지런히 … 십 년에 모두 함께 급제(登龍)하였다. 내가 비록 애써 공부를 독려하였으나, 너희 형제의 재주와 품성이 빼어나고 마음 잡음이 굳지 않았다면 5년 안에 어찌 잇달아 급제할 수 있었겠느냐. 아버님께서 늘 너희가 … 하기를 바라셨는데, [살아] 계실 때를 되돌아 생각하니 감격의 눈물이 … 과거의 경사가 잇달아 겹치는 것을 보니 … (이하 노비: 계축생 노 ○○, 임오생 … / 논: 事字 제66 논 … 제45 논 …, 훼손으로 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "아버지가 '너희 형제의 재주와 굳은 마음이 아니었다면 5년 안에 어찌 잇달아 급제했겠느냐'며, 급제를 상으로 노비와 논을 나눠 준 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XE.1727.0000-20170801.C0601_002_00362_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 191
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014115%5EL014115F02%5EL014115F0205&dataId=G002%2BKHD%2BKSM-XE.1727.0000-20170801.C0601_002_00362_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 744
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1745년 정홍순(鄭弘淳) 문과 홍패(文科紅牌) (1745)"
+    ]
+   },
+   "width": 699,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1745"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "[敎旨] / [幼學鄭弘]淳文科[乙科] 第二人及第出身者 / 乾隆十年九月二十五日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. [유학 정홍]순을 문과 [을과] 제2인으로 급제하여 출신한 사람으로 삼는다. 건륭 10년(1745) 9월 25일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "정홍순이 문과에 2등으로 급제했음을 증명하는 홍패로, 오른쪽이 찢겨 일부만 남았습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1745.0000-20170801.C0601_002_00002_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 180,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014115%5EL014115F02%5EL014115F0201&dataId=G002%2BKHD%2BKSM-XA.1745.0000-20170801.C0601_002_00002_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 699,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1772년 정홍순(鄭弘淳) 교서(敎書) (1772)"
+    ]
+   },
+   "width": 1400,
+   "height": 706,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1772"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎南漢山城守禦使鄭弘淳書 / 王若曰 … 惟卿良金美質 喬木遺風 … 玆授卿以南漢山城守禦使 … 修堞城而峙糇糧 … 故玆敎示 想宜知悉 / 乾隆三十七年八月初六日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남한산성 수어사 정홍순에게 내리는 교서. 왕은 이르노라. 안으로 조정의 계책에 참여하여 늘 믿고 의지하는 마음을 두텁게 하고, 밖으로는 부월(군권)을 맡겨 지키는 권한을 주는 것은 실로 여럿의 의논을 따른 것이니, 마땅히 오랜 명망을 빌려야 한다. 돌아보건대 이 한강 남쪽의 험한 곳(남한산성)은 곧 우리나라의 관문으로, 산과 강이 옷깃과 띠처럼 둘러싼 형세이며, 재상이 맡는 땅이다. … 미리 대비하는 경계를 갖추었으니 역대 임금의 먼 계책을 생각한다. 이 소임은 실로 사람을 얻기 어려운데, 오늘 누구에게 맡길까 돌아보니, 오직 경은 좋은 쇠와 아름다운 바탕이요 큰 집안의 남은 기풍이 있어, 삼가고 검소한 법도가 한 치도 넘지 않고, 단정하고 차분한 태도가 저절로 본보기가 되었다. 내가 일찍이 '옛 신하의 닮은 아들'이라 칭찬하였고, 세상은 모두 '그 숙부의 훌륭한 조카'라 하여 흠잡는 말이 없다. 재주 있는 이는 구경(九卿) 가운데서 골라야 하고, 무거운 소임은 서울 근처(三輔)에 맡겨야 하니, 이에 경을 남한산성 수어사로 삼는다. 경은 은혜로운 명을 공경히 받들어 좋은 계책을 다하라. 성가퀴를 고치고 군량을 쌓되 군사를 배우지 않았다고 말하지 말고, 병사와 수레를 가려 뽑고 무기를 정돈하되 갑옷과 투구가 몸에 있다고 생각하라. 아아, 다스림은 처음이 중요하고, 책임은 무거운 진(鎭)에 있다. 남쪽 고을에서 갑옷 대신 가벼운 옷을 입고서도(여유 있게 다스려) 반드시 백성의 마음을 얻고, 북문의 자물쇠를 굳게 하여 밤낮으로 근심하는 [나의] 걱정을 덜어 줄 수 있으리라. 이에 교시하니 잘 알리라 생각한다. 건륭 37년(1772) 8월 6일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남한산성은 나라의 관문이라 사람을 얻기 어려운데, 정홍순은 바탕이 훌륭하고 삼가는 법도가 있으니 수어사로 삼는다. 성을 고치고 군량을 쌓고 무기를 정돈해 임금의 근심을 덜라는 임명 교서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1772.0000-20170801.C0601_002_00299_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 182
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014115%5EL014115F02%5EL014115F0201&dataId=G002%2BKHD%2BKSM-XA.1772.0000-20170801.C0601_002_00299_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 706
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1778년 정홍순(鄭弘淳) 비답(批答) (1778)"
+    ]
+   },
+   "width": 1193,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1778"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "비답"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "卿卽起造 朝共濟時 艱"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "경은 곧 일어나 조정에 나와, 함께 이 어려운 때를 건너도록 하라."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사직하려는 정홍순에게 정조가 '곧 조정에 나와 함께 어려운 때를 건너자'고 붙잡은 짧은 답입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1778.0000-20170801.C0601_002_00318_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 307,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014115%5EL014115F02%5EL014115F0201&dataId=G002%2BKHD%2BKSM-XA.1778.0000-20170801.C0601_002_00318_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jeonghongsun/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1193,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

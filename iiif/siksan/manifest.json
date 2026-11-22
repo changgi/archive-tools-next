@@ -1,0 +1,304 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/siksan/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.98 류성룡의 증손녀와 혼인한 선비 — 1699년 이만부의 호적 증명서"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "한 장의 호적 안에 조선 사회의 위와 아래가 함께 살고 있었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.98"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "상주 연안이씨 식산 이만부 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/siksan/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/siksan/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/siksan/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 196,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/siksan/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1699년 이만부(李萬敷) 준호구(準戶口) (1699)"
+    ]
+   },
+   "width": 762,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1699"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙三十八年己卯十二月 日 尙州牧 考丙子成籍戶口帳內 內東面魯谷里第十六統第四 新戶 幼學李萬敷 年三十五乙巳 本延安 父 嘉善大夫京畿觀察使兼兵馬水軍節度使巡察使開城府留守江華府留守廣州府留守 沃 祖 輔國崇祿大夫行判中樞府事兼吏曹判書世子左賓客致仕奉朝賀 觀徵 曾祖 贈崇政大夫議政府左贊成兼判義禁府事行通政大夫大君師傅 禱 外祖 贈嘉善大夫吏曹參判兼成均館祭酒行通政大夫承政院左承旨 李同揆 本完山 妻 柳氏 年三十一乙酉 籍豐山 父 通訓大夫行司憲府掌令 千之 祖 贈嘉善大夫吏曹參判兼五衛都摠府副摠管行通訓大夫行司憲府持平 袗 曾祖 輸忠翼謨光國忠勤貞亮效節協策扈聖功臣大匡輔國崇祿大夫議政府領議政兼領經筵弘文館藝文館春秋館觀象監事世子師豐原府院君贈諡文忠公 成龍 外祖 學生 河晉瀛 本晉陽 率奴日男 年三十六甲辰 父母不知 奴戒伊 年四十六甲申 父私奴論男 母私婢道接 奴述伊 年三十庚戌 父私奴武生 母不知 奴壬金 年二十七壬子 父不知 母私婢不知 婢仁介 年二十九辛亥 母班婢仁陽 父私奴良孫 婢貴代 年二十七壬子 父私奴莫大 母班婢占介 婢金今 年十八壬戌 父奴述男 母不知 外方奴承先 年四十三丁酉 父班奴汝一 母良女召史 奴甲立 年三十六甲辰 父私奴童吉 母私婢連香 奴壬立 年二十七 父私奴武吉 母不知 婢三德 年二十五乙卯 父奴莫竜 母婢記代 婢乙亥 年五乙亥 父不知 母班婢三德 奴忠立 年四丙子 父不知 母婢三德 己卯自首 行牧使[押]"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 38년 기묘(1699) 12월 일, 상주목. 병자년(1696) 호적대장을 살펴보니, 내동면 노곡리 제16통 제4호, 새로 든 호(新戶). 유학 이만부, 35세 을사생, 본관 연안. 아버지 가선대부 경기관찰사 겸 병마수군절도사·순찰사·개성부유수·강화부유수·광주부유수 옥(沃). 할아버지 보국숭록대부 행 판중추부사 겸 이조판서·세자좌빈객 치사 봉조하 관징(觀徵). 증조 증 숭정대부 의정부 좌찬성 겸 판의금부사, 행 통정대부 대군사부 도(禱). 외조 증 가선대부 이조참판 겸 성균관 좨주, 행 통정대부 승정원 좌승지 이동규, 본관 완산. 아내 류씨, 31세 을유생, 본관 풍산. [아내의] 아버지 통훈대부 행 사헌부 장령 천지(千之). 할아버지 증 가선대부 이조참판 겸 오위도총부 부총관, 행 통훈대부 사헌부 지평 진(袗). 증조 수충익모광국충근정량효절협책호성공신 대광보국숭록대부 의정부 영의정 … 세자사 풍원부원군 증시 문충공 성룡(成龍). 외조 학생 하진영, 본관 진양. 거느린 노비: 노 일남 36세(부모 모름), 노 계이 46세(아비 사노 논남, 어미 사비 도접), 노 술이 30세, 노 임금 27세, 비 인개 29세, 비 귀대 27세, 비 금금 18세, 외방노 승선 43세(아비 반노 여일, 어미 양녀 소사), 노 갑립 36세, 노 임립 27세, 비 삼덕 25세, 비 을해 5세(어미 반비 삼덕), 노 충립 4세(어미 비 삼덕) — 기묘년 자수(自首). 행 목사 [서명]."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1699년 상주목이 실학자 이만부의 가족·4조·처가 4조(류성룡 포함)·노비 13명을 적어 발급한 준호구입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1699.4725-20101008.B069a_A01_00109_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/siksan/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 196,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016767%5EL016767F02%5EL016767F0204&dataId=G002%2BAKS%2BKSM-XD.1699.4725-20101008.B069a_A01_00109_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/siksan/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/siksan/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/siksan/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/siksan/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 762,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.170 호장의 집에서 부사의 집으로 — 제주 김해김씨 380년, 종이 네 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "한 집안의 신분은 종이의 이름표에 남는다 — 조상 칸의 '호장(戶長)'이 300여 년 뒤에는 '현감', '부사', '가선대부'로 바뀌었다. 무과는 그 사이의 사다리였다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.170"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 애월 김해김씨 김희주 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/aewol-kim-hj-gamun/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/aewol-kim-hj-gamun/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 122,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "호적(戶籍) (1515)"
+    ]
+   },
+   "width": 473,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1515"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "호적"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "戶記官 金厚璜 年貳拾參 … 本 … 父學生 … 年陸拾貳壬申 祖千戶德中 故 曾祖千戶甫老 故 外祖千戶來白同 故 … 妻良女 … 祖戶長金奉 故 曾祖戶長金禮 故 外祖戶長山老 故 本旌義 … 率妻 … 寺奴孟善 年參拾貳 … 戶長金潤 故 … (조각, 앞뒤 결락)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "호기관 김후황, 스물세 살 … 아버지 학생 …, 예순두 살 임신생. 할아버지 천호 덕중(죽음), 증조 천호 보로(죽음), 외조 천호 내백동(죽음) … 아내 …. … 할아버지 호장 김봉(죽음), 증조 호장 김례(죽음), 외조 호장 산로(죽음), 본관 정의 … 양녀(良女) 아내 … 시노 맹선, 서른두 살 … 호장 김윤(죽음) … (조각)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "자료관 목록 1515년의 호적 조각으로, 조상 칸에 '호장' · '천호'가 거듭 적혀 이 집안의 출발이 제주의 향리층이었음을 보여 줍니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1515.5011-20220125.B083a_114_00801_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 122,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016820%5EL016820F02%5EL016820F0204&dataId=G002%2BAKS%2BKSM-XD.1515.5011-20220125.B083a_114_00801_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 473,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "소지(所志)－8 (1868)"
+    ]
+   },
+   "width": 891,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1868"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "朝天里居民前縣監金沂行單子 恐鑑 伏以民之親山 在於橋來西助仁納境 而林藪簇立 有妨於局勢 四面數百步之內 伐木翦藪 永爲禁護之意 立旨成給 千萬至祝 城主 處分 戊辰三月 日 單子 (제사) 林藪鬱密 有害於墳 … 不但 … 百步 … 依前 … 永永禁護 … 立旨成給 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "조천리에 사는 백성 전 현감 김기행의 단자. 두려운 마음으로 살펴 주시기를 바랍니다. 엎드려 아뢰건대, 저의 부모 산소가 교래 서쪽 조인납 경계에 있는데, 숲과 덤불이 빽빽이 들어서 묏자리 형세를 해치니, 사방 수백 걸음 안의 나무를 베고 덤불을 쳐내어 영원히 지켜 보호하도록 입지를 만들어 주시기를 간절히 빕니다. 원님께서 처분하소서. 무진년(1868) 3월 일 단자. (관아 제사) 숲이 빽빽하여 묘에 해가 되니 … 영원히 지켜 보호하도록 … 입지를 만들어 준다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1868년 전 현감 김기행이 부모 산소 둘레의 숲을 베고 영원히 지켜 보호하도록 입지를 청한 단자로, 관아가 이를 허락했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1868.5011-20220125.B083a_114_00799_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 229,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016820%5EL016820F02%5EL016820F0202&dataId=G002%2BAKS%2BKSM-XB.1868.5011-20220125.B083a_114_00799_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 891,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "준호구(準戶口)－2 (1894)"
+    ]
+   },
+   "width": 1400,
+   "height": 1375,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1894"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "光緖二十年三月 日 濟州牧 考甲午成籍戶口帳內 左面朝天第六統一戶 嘉善大夫同知中樞府事行礪山府使兼 … 討捕使內禁將 金潤柄 年五十七戊戌 本金海 父嘉善大夫兵曹參判兼同知義禁府訓鍊院事行旌義縣監 沂行 祖贈嘉善大夫兵曹參判兼同知義禁府訓鍊院事行旌義縣監 鍾輨 曾祖贈通政大夫承政院左承旨兼經筵參贊官 南秀 外祖學生白鶴瑞 本水原 … 子宣畧將軍行忠武衛副司勇 … 熙庸 年二十四辛未 … 姪 … (가족 · 노비 기재 줄임) 行敎官 (수결)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "광서 20년(1894) 3월 일 제주목. 갑오년 호적대장을 살피니, 좌면 조천 제6통 제1호. 가선대부 동지중추부사 행 여산부사 겸 … 토포사 내금장 김윤병, 쉰일곱 살 무술생, 본관 김해. 아버지 가선대부 병조참판 겸 동지의금부 훈련원사 행 정의현감 기행. 할아버지 증 가선대부 병조참판 … 행 정의현감 종관. 증조 증 통정대부 승정원 좌승지 겸 경연참찬관 남수. 외조 학생 백학서(본관 수원). … (가족 · 노비 줄임) 행교관 (수결)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1894년 여산부사를 지낸 김윤병 호의 준호구로, 아버지 김기행(정의현감) · 할아버지 김종관(1815 무과)이 사조 칸에 적혀 무과로 이어진 3대가 한 장에 보입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1894.5011-20220125.B083a_114_00802_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 354
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016820%5EL016820F02%5EL016820F0204&dataId=G002%2BAKS%2BKSM-XD.1894.5011-20220125.B083a_114_00802_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1375
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "소지(所志)－9 (1898)"
+    ]
+   },
+   "width": 874,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1898"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "朝天里金丞培 右謹陳所志事段 民之祖考墓 在於旌義禮村境 論高岳 而爲地是乎所 東細川及巨門岳 西細川及甫里岳 南細川及理承岳 北論高岳也 右四標內 將欲爲先墓禁養是乎加尼 幸當此本郡衙舍修理之時 補公次 錢文五十兩 納上爲乎尼 城主 三邑都 城主也 伏望下炤後 特爲許施 立旨成給爲白只爲 行下向敎是事 城主 處分 戊戌三月 日 (제사) 士夫墳 … 納 … 付公 … 立旨 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "조천리 김승배. 삼가 아뢰는 소지의 일은, 저의 할아버지 묘가 정의 예촌 경계의 논고악에 있는데, 그 땅의 사방 경계는 동쪽 세천과 거문악, 서쪽 세천과 보리악, 남쪽 세천과 이승악, 북쪽 논고악입니다. 이 네 경계 안을 선영으로 금양하려 하던 차에, 마침 이 고을 관아 건물을 수리할 때를 맞아 공비를 돕는 몫으로 돈 50냥을 바쳤습니다. 원님께서는 세 고을을 아우르는 원님이시니, 엎드려 바라건대 살피신 뒤 특별히 허락하시어 입지를 만들어 주십시오. 원님께서 처분하소서. 무술년(1898) 3월 일. (관아 제사) 사대부의 묘 … 바친 것을 … 공에 붙이고 … 입지를 …."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1898년 김승배가 관아 수리비로 50냥을 바치고, 오름 네 곳으로 둘러싼 할아버지 묘역을 금양하도록 입지를 청한 소지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1898.5011-20220125.B083a_114_00800_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 225,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016820%5EL016820F02%5EL016820F0202&dataId=G002%2BAKS%2BKSM-XB.1898.5011-20220125.B083a_114_00800_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/aewol-kim-hj-gamun/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 874,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

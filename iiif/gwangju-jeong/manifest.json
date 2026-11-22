@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.57 \"귤이 늦어 죄를 기다립니다\" — 제주목사 정관휘와 양주 광주정씨"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "진상(進上) 뒤에는 날씨와 백성의 사정, 그리고 그것을 헤아린 응답이 있었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.57"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "양주 광주정씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gwangju-jeong/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gwangju-jeong/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 341,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1685년 청송심씨(靑松沈氏) 별급문기(別給文記) (1685)"
+    ]
+   },
+   "width": 1328,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1685"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "별급문기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "乙丑十月初八日 次子遂相處別給 / 右文爲 汝矣去年冬 過行婚禮 新婦 … 別給 … 婢 … / 財主 母沈 (도장) / 筆執 長子鄭致相"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "을축년(1685) 10월 8일, 둘째 아들 수상(遂相)에게 따로 주는 문서. 이 글은, 네가 지난해 겨울 혼례를 치러 새 며느리가 … 기쁘고 다행하여 … 따로 주어 내 한 가닥 정을 표한다. … 비 흔춘의 셋째 소생 노 산립(25세), … 같은 비의 첫째 소생 노 검어손(22세), … 황교에 사는 비 삼례의 첫째 소생 비 명화 … 뒤에 낳을 아이까지 함께 영영 허락하여 주니, 길이 … 재주(재산 주인) 어머니 심씨(도장). 필집(쓴 사람) 맏아들 정치상."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "어머니 심씨가 지난겨울 장가든 둘째 아들에게 기쁜 마음을 표하며 노비 몇 명과 그 뒤 소생까지 영영 준다는 문서로, 맏아들이 받아 썼습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XE.1685.0000-20101008.B048a_071_00064_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 341,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014161%5EL014161F02%5EL014161F0205&dataId=G002%2BAKS%2BKSM-XE.1685.0000-20101008.B048a_071_00064_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1328,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1799년 정관휘(鄭觀輝) 유서(諭書) (1799)"
+    ]
+   },
+   "width": 1400,
+   "height": 963,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1799"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "諭通政大夫全羅道兼防禦使濟州牧使鄭觀輝 / 卿受委一方 體任非輕 凡發兵應機 安民制敵 一應常事 自有舊章 慮或有予與卿獨斷處置事 非密符莫可施爲 且意 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "통정대부 전라도 겸 방어사 제주목사 정관휘에게 이른다. 경은 한 지방을 맡았으니 그 소임이 가볍지 않다. 무릇 군사를 일으켜 기회에 대응하고 백성을 편안히 하며 적을 제압하는 모든 일상적인 일은 이미 옛 규정이 있다. 다만 혹시 나와 경만이 홀로 결단하여 처리할 일이 있으면 밀부가 아니면 시행할 수 없다. 또 생각건대 … (이하 다음 면)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "제주목사 정관휘에게 밀부를 맡기며, 일상 군무는 규정대로 하되 임금과 목사만이 결단할 비상한 일은 밀부를 맞춘 뒤에 시행하라는 유서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1799.1111-20101008.B048a_071_00089_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014161%5EL014161F02%5EL014161F0201&dataId=G002%2BAKS%2BKSM-XA.1799.1111-20101008.B048a_071_00089_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 963
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1800년 정관휘(鄭觀輝) 유지(有旨) (1800)"
+    ]
+   },
+   "width": 1400,
+   "height": 963,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1800"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "左副承旨徐(押) / 卿以薦新與進上柑子處 金橘不得如例封進 惶恐待罪事 馳啓矣 卿其勿待罪事 有旨 / 嘉慶五年十月初十日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "좌부승지 서(徐)가 씀. 경이 '천신(종묘에 새로 나는 것을 올림)과 진상하는 감귤 가운데 금귤을 예년처럼 봉하여 올리지 못하여 황공하여 죄를 기다린다'는 일로 급히 장계를 올렸는데, 경은 죄를 기다리지 말라는 유지. 가경 5년(1800) 10월 10일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "제주목사가 금귤을 예년처럼 진상하지 못해 죄를 기다린다고 아뢰자, 임금이 죄를 기다리지 말라고 답한 명령서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1800.1111-20101008.B048a_071_00093_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014161%5EL014161F02%5EL014161F0201&dataId=G002%2BAKS%2BKSM-XA.1800.1111-20101008.B048a_071_00093_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 963
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1831년 정씨(鄭氏) 계후입안(繼後立案) (1831)"
+    ]
+   },
+   "width": 943,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1831"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "계후입안"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "道光十一年十二月 日 禮曹立案 / 右立案爲繼後事節 啓下敎曹 啓辭節 接楊州幼學鄭文輝所志 則以爲族孫錫民嫡妾俱無子 以其同姓十六寸兄錫祚第二子虞明 欲爲繼後 … 依定式 鄭錫祚第二子虞明 立爲鄭錫民之後何如 傳曰允事 … / 行判書 參判 參議 正郞 佐郞"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "도광 11년(1831) 12월 일 예조 입안. 이 입안은 대를 잇는 일[계후]에 관한 것이다. [임금께] 아뢰어 내려온 예조의 계사에 이르기를, 양주 유학 정문휘의 소지를 받아 보니, '족손 석민(錫民)이 정실과 첩 모두에게서 아들이 없어 같은 성씨 16촌 형 석조(錫祚)의 둘째 아들 우명(虞明)을 후사로 삼으려고 두 집이 의논해 정했으나, 예조의 허가(禮斜)를 받기 전에 석민 부부가 모두 죽어 통상 규정에 걸려 예대로 허가를 받을 수 없으니, 정해진 규식에 따라 초기(草記)로 여쭈어 처리해 달라'고 하였다. 무릇 종통을 잇고 후사를 세우는 일에서 양쪽이 주고받은 것이 분명하여 근거가 있는데도 [임금께] 아뢰지 못한 경우는 해당 관청이 이치를 따져 초기하도록 허락한다는 것이 일찍이 경연에서 아뢰어 정한 규식이 있다. 문장(門長) 정문휘가 호소한 것이 이와 같으니, 규식에 따라 정석조의 둘째 아들 우명을 정석민의 후사로 세우는 것이 어떻겠습니까 하니, '그리하라' 하셨다. 이에 마땅히 입안을 행한다. 행 판서 (수결), 참판, 참의, 정랑, 좌랑."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "아들 없이 부부가 모두 죽은 정석민의 후사로, 생전에 두 집이 약속했던 16촌 형의 둘째 아들 우명을 세우도록 문중 어른의 청원에 따라 예조가 임금의 허락을 받아 공증한 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1831.1111-20101008.B048a_071_00171_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 242,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014161%5EL014161F02%5EL014161F0204&dataId=G002%2BAKS%2BKSM-XD.1831.1111-20101008.B048a_071_00171_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gwangju-jeong/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 943,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

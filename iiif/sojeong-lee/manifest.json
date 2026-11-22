@@ -1,0 +1,443 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.64 \"술빚을 문중에 떠넘기다\" — 경주 소정 이씨들의 호소"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "양반 문중에도 체면과 현실 사이의 갈등이 있었다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.64"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경주 소정 경주이씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sojeong-lee/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sojeong-lee/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 247,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1824년 이복한(李復漢) 등 소지(所志)－1 (1824)"
+    ]
+   },
+   "width": 960,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1824"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "化民李復漢 李達世 李致等 / 右謹言所志段 伏以民等之從任 方今因禁人 元發乃是 … 有四山之禁而民等之冤 則不在於四山之中 而只爲本身要害之地 身渠以一面一隅 士大夫墳山階下 … 令督掘 … / 城主 處分 / 甲申六月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교화를 받는 백성 이복한·이달세·이치 등. 삼가 아뢰는 소지. 저희의 … 이제 갇힌 사람이 처음 일을 일으킨 것은 … 사또께서 물어보실 때 그 사람됨을 반드시 아셨을 것이고, 지금 꾸지람을 받아 죄를 인정했으니 당초의 잘잘못은 다시 따질 것이 없습니다. … 저희가 여러 번 호소한 것은 실로 황송하오나, 대저 산송에는 본래 사방 산을 금하는 규정이 있는데, 저희의 억울함은 사방 산 안이 아니라 오직 [조상] 묘의 요해처에 있습니다. … 사대부 묘가 있는 산의 계단 아래 … 엎드려 바라건대 곧 [몰래 쓴 무덤을] 파내도록 독촉하시고, 갇혀 반은 살고 반은 죽은 사람도 풀어 주시어, 본래의 자리를 온전히 얻게 해 주시기를 천만 간절히 빕니다. 사또께서 처분하실 일. 갑신년(1824) 6월 일. (마이크로필름 복사본 — 판독 불확실 다수)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "조상 묘의 중요한 자리에 남이 몰래 무덤을 썼으니 파내도록 해 달라고, 이복한 등이 여러 번 호소한 끝에 다시 올린 산송 소지입니다(판독 불확실)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1824.4713-20101008.B041a_062_00091_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 247,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016722%5EL016722F02%5EL016722F0202&dataId=G002%2BAKS%2BKSM-XB.1824.4713-20101008.B041a_062_00091_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 960,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1892년 이수영(李壽榮) 등 상서(上書)－1 (1892)"
+    ]
+   },
+   "width": 1400,
+   "height": 954,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1892"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "상서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "慶州幼學李壽榮 李增榮 李禧榮等 謹齋沐上書于 / 巡相國閤下 伏以挽近俗習日渝 人心叵測 浮浪子弟之敗家斂族 … 所謂李芳洞 賦性浮浪 不農不商 … 酒食之債 … 族徵 … / 壬辰十一月 日 / 李圭憲 李鍾灦 … 等"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "경주 유학 이수영·이증영·이희영 등이 삼가 목욕재계하고 관찰사 합하께 글을 올립니다. 엎드려 아뢰건대, 근래 풍속이 날로 나빠지고 사람의 마음을 헤아릴 수 없어, 떠돌이 자제가 집안을 망치고 친족에게서 [빚을] 거두며, 감영의 하례가 여러 고을에서 폐단을 일으키는 일이 한둘이 아닙니다. 실로 불행하게도 지금 저희 집안에서 그런 자가 나왔으니, 말하자니 추하고 말하지 않자니 어쩔 수 없어 감히 앞뒤 사정을 아룁니다. 엎드려 바라건대 어진 마음으로 받아들여 주십시오. 이른바 이방동이란 자는 타고난 성품이 들떠 농사도 장사도 하지 않고 재산을 탕진해 집도 방도 없으며, 부모에게 불효하고 친척과 화목하지 않고, 평생 하는 일이 속임수를 능사로 삼고 관청 사람 노릇을 장기로 삼았습니다. 그래서 몇 해 전 [고을] 관아에 있지도 않은 논을 몰래 팔고, 외딴 마을 주막에서 바쳐야 할 돈을 빼돌렸다가 일이 발각되어 곤장을 맞고 옥에 갇힌 지 한 해가 넘었는데, 끝내는 가까운 친척들에게 멋대로 [빚을] 거두었습니다 … 방동은 옥을 넘어 달아나 간 곳을 모른 지 대여섯 달이 되었습니다. … (가운데 판독 필요) … 관찰사 합하께서 처분하실 일. 임진년(1892) 11월 일. 이규헌·이종현 … 등."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "떠돌이 친척 이방동이 사고를 치고 옥을 넘어 달아났는데, 그의 빚을 친족에게 대신 받아 가게 하니 억울하다며, 문중 사람 20여 명이 관찰사에게 바로잡아 달라고 호소한 상서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1892.4713-20101008.B041a_062_00131_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 245
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016722%5EL016722F02%5EL016722F0202&dataId=G002%2BAKS%2BKSM-XB.1892.4713-20101008.B041a_062_00131_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sojeong-lee/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 954
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

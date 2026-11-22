@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.25 고을의 학교를 다시 세운 사람들 — 거창향교 300년"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "공공의 학교는 고을 사람들이 힘을 모아 지켜 온 것이라는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.25"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "거창 거창향교"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/geochang-hyanggyo/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/geochang-hyanggyo/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 287
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1636년 서재신문 중수기(西齋神門重修記) (1636)"
+    ]
+   },
+   "width": 1400,
+   "height": 1117,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1636"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "중수기"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "西齋神門重修記 / 夫西齋神門所繫重大 而歲月侵遠 風雨漏瀉 … 歲在乙亥 … 不幸今春奄當國哀 … / 丙子三月"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "서재(西齋)와 신문(神門)은 매우 중요한데, 세월이 오래되어 비바람에 새고, 서까래가 썩고 기와와 벽돌이 위태롭게 무너져 고을의 많은 선비가 탄식하고 한스러워한 지 오래였다. 을해년(1635)에 다행히 우리 원님(侯)이 새로 부임하여 성묘(문묘)에 참배하고 이 무너진 모습을 보고 수리할 방도를 의논했으나, 일은 크고 힘은 약해 아직 시작하지 못했다. 불행히 올봄 갑자기 나라의 상(國哀)을 당했는데, … 제사에 쓰고 남은 비용으로 고치는 일을 맡기니, … 이상호 등 여러 사람이 서로 감독하여 마침내 완성하였다. 서까래가 새로 빛나고 담장이 엄숙해진 것은 누구의 힘인가. 모두 우리 원님의 덕이라 한다. … (이하 다음 쪽)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "비바람에 썩고 무너진 향교의 서재와 문을 두고 선비들이 오래 안타까워하던 중, 새로 온 현감이 수리를 의논했고, 나라의 상중에도 제사 비용을 아껴 고쳐 냈다는 기록입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1636.4888-20101008.B016a_026_00047_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 287
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024807%5EL024807F02%5EL024807F0207&dataId=G002%2BAKS%2BKSM-XG.1636.4888-20101008.B016a_026_00047_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1117
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1735년 양현재절목(養賢齋節目) (1735)"
+    ]
+   },
+   "width": 1400,
+   "height": 1021,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1735"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "양현재절목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "養賢齋記 / 濟昌之爲縣古矣 曾有聞人振於國云 … 於是謀所以興藝之方 … / 首陽後人鄭震輔識"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "양현재기. 제창(거창의 옛 이름)이 고을이 된 지 오래되었고, 일찍이 이름난 사람이 나라에 떨쳤다고 한다. 근래 들어 세상이 내려앉고 글이 쇠하여 인재가 아득하니 아는 이들이 한스러워했다. 내가 새로 부임한 처음에 개탄하여 학문을 일으킬 방도를 꾀하니, 앞의 원님이 이미 계획해 둔 것이 있었다. 그가 글을 숭상하는 일에 뜻을 둔 것을 아름답게 여겼고, 군자가 인재를 즐겨 기른다는 뜻에 나도 마음으로 통하는 바가 있었다. 이에 재목을 모아 몇 칸 집을 짓기 시작해 몇 달 만에 공사를 마치니, 그 짜임이 사치스럽지도 누추하지도 않아 학생 수십 명이 머물 만하다. 고을 선비 가운데 빼어난 젊은이들을 맞아들이니 푸른 옷깃이 가지런하고 예절이 엄숙하다. 내가 학생들을 불러 말했다. … 이 집에 사는 사람이 그 이름(養賢, 어진 이를 기름)을 돌아보고 그 뜻을 생각하여, 공자의 네 가르침(文·行·忠·信)의 옛 법과 고을의 예양(禮讓)의 풍속을 따른다면 집 이름의 뜻을 저버리지 않고 옛 제창의 모습을 잃지 않을 것이니, 이로써 힘쓰는 것이 어떻겠는가. 학생들이 모두 일어나 꿇어앉아 '누가 감히 분발하지 않겠습니까' 하므로, 내가 마침내 그 말을 벽에 적어 이 집에 사는 사람이 보게 한다. 이 집을 손보아 비바람이 위와 옆에서 들이치지 않게 하는 것은 원님의 일이니, 뒤의 군자에게 깊이 바란다. 수양(해주) 후인 정진보 씀."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "인재가 줄어드는 것을 안타까워한 현감이 전임자의 계획을 이어 유생 수십 명이 머물 양현재를 짓고, 학생들에게 '이름의 뜻을 생각하며 힘쓰라'고 당부한 글입니다. 학생들은 '누가 감히 분발하지 않겠습니까'라고 답했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1735.4888-20101008.B016a_026_00023_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 263
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024807%5EL024807F02%5EL024807F0203&dataId=G002%2BAKS%2BKSM-XC.1735.4888-20101008.B016a_026_00023_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1021
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1809년 춘풍루 중건록(春風樓重建錄) (1809)"
+    ]
+   },
+   "width": 1400,
+   "height": 1141,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1809"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "중건록"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "春風樓刱建年號 / 古丙申三月日刱立于聖廟前 / 成造都有司李萬紀 / 齋任 李休明 李彙百 愼之誠 / 古戊辰正月日移建于明倫堂前"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "춘풍루를 처음 세운 해. 지난 병신년(1716) 3월 성묘(대성전) 앞에 처음 세웠다. 공사 총책임자 이만기, 재임 이휴명·이휘백·신지성. 지난 무진년(1748) 정월 명륜당 앞으로 옮겨 세웠다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "거창향교 문루인 춘풍루가 1716년 대성전 앞에 처음 세워졌고, 1748년 명륜당 앞으로 옮겨졌으며, 그때마다 일을 맡은 사람들의 이름을 적어 둔 기록입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1809.4888-20101008.B016a_026_00048_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 293
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024807%5EL024807F02%5EL024807F0207&dataId=G002%2BAKS%2BKSM-XG.1809.4888-20101008.B016a_026_00048_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1141
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1925년 교궁 중수의연록(校宮重修義捐錄) (1925)"
+    ]
+   },
+   "width": 1400,
+   "height": 1051,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1925"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "중수의연록"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "校宮重修義捐錄 / 義捐錄序 / 校者 敎民化俗之所也 其敎化之方 雖有古今之異宜 而以其敎化而及於生民之利澤則一也 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(표지) 교궁 중수 의연록. (서문) 향교는 백성을 가르치고 풍속을 바꾸는 곳이다. 그 가르치는 방법은 옛날과 지금이 마땅함이 다르다 해도, 가르침으로 백성에게 이로움과 혜택이 미치게 하는 것은 같다. 이곳을 지키고 보존하는 일을 어찌 소홀히 할 수 있겠는가. 하물며 옛 성인을 높여 모시고 후생을 가르쳐 이끄는 것은 우리나라가 다스려지고 평화로웠던 길이었다. 중세에 이르러 문화가 크게 나아가 본받을 만한 것이 무성했는데, 근래에는 다른 말들이 시끄럽게 일어나 선비들이 갈 길을 잃고, 그 흐름이 근본을 잊고 돌아보지 않는 데까지 이르렀으니 … (이하 다음 쪽)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "향교는 백성을 가르치는 곳이라 지켜야 하는데, 요즘은 새로운 말들이 시끄러워 선비들이 근본을 잊고 있다며, 향교 수리를 위한 성금을 모으는 뜻을 밝힌 서문입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XG.1925.4888-20101008.B016a_026_00051_YYY"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 270
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=02%5E0248%5EL024807%5EL024807F02%5EL024807F0207&dataId=G002%2BAKS%2BKSM-XG.1925.4888-20101008.B016a_026_00051_YYY&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/geochang-hyanggyo/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1051
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

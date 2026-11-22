@@ -1,0 +1,999 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.17 임금이 부르고, 아들이 지킨 선비"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "임금의 신임과 정치적 몰락 사이에서, 가족이 한 사람의 이름을 지켜 냈다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.17"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경주 옥산 여주이씨 독락당"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/dongnakdang/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/dongnakdang/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 288,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1539년 이언적(李彦迪) 유지(有旨) (1539)"
+    ]
+   },
+   "width": 1121,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1539"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "以卿爲兵曹參判兼世子右副賓客除交代斯速乘馹上來事 / 有旨 / 嘉靖十八年十二月初四日 / 同副承旨崔"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "경을 병조참판 겸 세자우부빈객으로 삼으니, (지금 자리의) 교대를 기다리지 말고 서둘러 역마를 타고 올라오라는 유지(有旨)이다. 가정 18년(1539) 12월 4일. 동부승지 최(崔) (서명)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "지방에 있던 이언적을 병조참판(국방 담당 부서의 차관) 겸 세자의 스승(우부빈객)으로 임명하며, 후임자를 기다리지 말고 곧장 역마로 올라오라고 재촉한 명령서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1539.1111-20101008.B043a_065_00004_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 288,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016712%5EL016712F02%5EL016712F0201&dataId=G002%2BAKS%2BKSM-XA.1539.1111-20101008.B043a_065_00004_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1121,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1543년 이언적(李彦迪) 유서(諭書) (1543)"
+    ]
+   },
+   "width": 1400,
+   "height": 1180,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1543"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "…今授卿以本道觀察使兼兵馬水軍節度使… 課農桑以衣食吾民 明敎化以作新斯人 … / 嘉[靖] 八月初十日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "…(재앙이) 거듭 닥치는데 고을 수령들은 혹 백성 돌보기에 마음을 둔다 해도 백성은 실제 혜택을 입지 못하고, 원망이 있으니 장차 어떻게 조치할지 내 마음이 더욱 아프다. 이 일은 오직 중신(重臣)에게 달려 있다. 경은 덕이 안팎을 아우르고 학문이 정밀하며, 너그럽고 크면서도 밝고 바르며 엄하다. 말이 적고 침착하여 임금 곁에서 의논하는 자리에 있을 때 좋은 계책을 여러 번 올렸고, 백성을 다스리는 관원이 되어서는 선정이 본래 드러났으니 참으로 여러 일을 잘 처리하여 바야흐로 조정의 큰 계획에 참여하고 있다. 이제 경에게 본도(경상도) 관찰사 겸 병마·수군절도사를 맡기니, 경은 나의 믿고 맡기는 뜻을 헤아려 경의 효성과 우애로 다스리고, 농사와 누에치기를 권해 우리 백성을 입히고 먹이며, 교화를 밝혀 이 백성을 새롭게 하라. 크게 공평함을 지켜 관원의 승진과 파면을 엄히 하고, 지극히 밝게 하여 참과 거짓을 가리며, 얽힌 일을 잘라 처리하고 억울한 일을 풀어 주라. 큰 요점은 장계로 아뢰고 … 경의 충심으로 판단하라. 그러므로 이에 가르쳐 보이니 마땅히 다 알 것이다. 가정 (22)년 8월 10일"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "재해가 겹쳐 백성이 고통받는 경상도를 맡길 사람으로 이언적을 고르며, 그의 학문과 인품을 칭찬하고 '농사를 권해 백성을 먹이고, 교화로 새롭게 하고, 억울함을 풀어 주라'고 당부한 임금의 글입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1543.1111-20101008.B043a_065_00011_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 303
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016712%5EL016712F02%5EL016712F0201&dataId=G002%2BAKS%2BKSM-XA.1543.1111-20101008.B043a_065_00011_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1180
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1545년 이언적 유지－1 (1545)"
+    ]
+   },
+   "width": 1034,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1545"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "頃因狀啓知卿病尙未差 … 往年卿上十條之疏 先王賜予覽焉 … 今內醫院劑相當藥下送 斯速調理上來事 / 嘉靖二十四年閏正月初六日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "얼마 전 장계를 보고 경의 병이 아직 낫지 않은 것을 알고 마음이 편치 않던 차에, 이제 또 (사직하는) 글을 보니 병세가 여전히 낫지 않았다 하여 더욱 걱정이 된다. 선왕께서 사람을 알아보는 눈이 지극하셨으니 경을 재상의 반열에 발탁하신 데에 어찌 까닭이 없었겠는가. 지난해 경이 올린 열 조목의 상소를 선왕께서 나에게 보여 주셨고, 또 내가 서연(書筵, 세자 교육)에 들었을 때 경이 한 말이 간절하고 발라서 늘 마음으로 감탄하고 오래 마음에 두었다. 어찌 재상(貳公) 자리에 맞지 않겠는가. 이제 내의원에서 알맞은 약을 지어 내려보내니, 서둘러 몸을 조리하고 올라오라는 유지이다. 가정 24년(1545) 윤정월 6일. 좌승지 윤(?)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "새 임금 인종은 '세자 시절 경의 강의를 듣고 늘 감탄했다, 선왕께서 경의 상소를 내게 보여 주셨다'며 사직을 말리고, 궁중 의원의 약을 내려보내니 몸을 추스르고 올라오라고 했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1545.1111-20101008.B043a_065_00007_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 266,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016712%5EL016712F02%5EL016712F0201&dataId=G002%2BAKS%2BKSM-XA.1545.1111-20101008.B043a_065_00007_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1034,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1556년 이언적(李彦迪) 처(妻) 박씨(朴氏) 소지(所志) (1556)"
+    ]
+   },
+   "width": 1007,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1556"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "良佐洞接故贊成李彦迪妻朴氏 / 右謹言所志矣段 家翁孽子李全仁亦中 奴婢二口別給爲白乎事 … / 府官 處分 / 嘉靖三十五年九月 日 所志"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "양좌동에 사는 돌아가신 찬성 이언적의 아내 박씨. 삼가 아룁니다. 이 소지의 사연은, 남편의 서자(孽子) 이전인에게 노비 두 사람을 따로 나누어 준 일에 대하여 (관에서) 입안(증명서)을 만들어 내어 주시도록 처분해 주십사 하는 것입니다. 부관(府官)께서 처분하소서. 가정 35년(1556) 9월 일 소지."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "남편이 세상을 떠난 뒤, 본부인 박씨가 남편의 서자 이전인에게 노비 두 명을 따로 준 일을 관에서 공식으로 증명해 달라고 청한 문서입니다. 큰 글씨는 관청의 처분입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1556.4713-20101008.B043a_065_00301_001"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 259,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016712%5EL016712F02%5EL016712F0202&dataId=G002%2BAKS%2BKSM-XB.1556.4713-20101008.B043a_065_00301_001&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1007,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/5",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1565년 이전인(李全仁) 소지(所志) (1565)"
+    ]
+   },
+   "width": 1400,
+   "height": 585,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1565"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "소지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "嘉靖四十四年乙丑拾貳月貳拾日 庶兄李全仁前相換文 … 婢主 自筆 李應仁"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(상환문) 가정 44년 을축(1565) 12월 20일, 서형(庶兄) 이전인 앞으로 써 주는 바꿈 문서. 이 문서를 만드는 까닭은, (나의) 여종 조금(趙今)을 형이 첩으로 삼아 아들을 얻었으니, 형을 가엾게 여기는 마음과 형제 사이에 차마 (갈라놓지) 못하는 마음이 있어 그 바라는 대로, 양아버지께 물려받은 여종 복덕의 넷째 소생인 여종 조금과 그 첫째 소생 종 몽호(계해생) 등을, 형의 집 여종 억금(정유생)과 그 첫째 소생 여종 윤매(을묘생) 등과 함께 뒤에 낳을 자식까지 아울러 영원히 서로 바꾼다. 뒷날 말썽이 있으면 관에 고하여 바로잡을 일이다. 여종 주인이 직접 씀 이응인(서명). 증인 칠촌 이희손(?)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "동생 이응인의 여종 조금이 서형 이전인의 첩이 되어 아들을 낳자, 동생은 '형이 가엾고 형제 사이에 차마 갈라놓을 수 없어' 조금과 그 아들을 형 집의 여종과 맞바꾸어 영원히 형에게 넘겨주었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1565.4713-20101008.B043a_065_00304_001"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/thumb/05.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 150
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016712%5EL016712F02%5EL016712F0202&dataId=G002%2BAKS%2BKSM-XB.1565.4713-20101008.B043a_065_00304_001&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/5",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 585
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/6",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1599년 이준(李浚) 무과 홍패(武科紅牌) (1599)"
+    ]
+   },
+   "width": 956,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1599"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 前縣令李浚武科丙科第八十九人及第出身者 萬曆二十七年八月初三日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 전 현령 이준을 무과 병과 제89인으로 급제시켜 출신(관직에 나갈 자격)을 준다. 만력 27년(1599) 8월 3일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "이언적의 손자 이준이 무과에 병과 89등으로 급제했음을 증명하는 문서입니다. 전쟁 뒤의 이 집안이 다시 벼슬길에 오른 기록입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1599.1111-20101008.B043a_065_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/thumb/06.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 246,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016712%5EL016712F02%5EL016712F0201&dataId=G002%2BAKS%2BKSM-XA.1599.1111-20101008.B043a_065_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/canvas/6",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/dongnakdang/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 956,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

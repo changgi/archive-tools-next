@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.164 이름과 나이로만 적힌 사람들 — 왕자 숭선군에게 내린 사패교지 세 장과 시호"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "왕실은 왕자에게 땅과 함께 사람을 내렸다 — 지방 관아와 중앙 관청에 속한 노비들이 이름 · 소속 · 태어난 해로만 교지에 적혀, '영원히 대대로' 한 집안에 넘겨졌다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.164"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "공주 전주이씨 숭선군파 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sungseon-sapae/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sungseon-sapae/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 258
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1669년 이징(李澂) 사패교지(賜牌敎旨) (1669)"
+    ]
+   },
+   "width": 1400,
+   "height": 1005,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1669"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사패교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 惟 崇善君澂 賜婢將 楊州軍器寺婢禮伊 年甲申生 楊州軍器寺婢禮化 年戊子生 豐基司贍寺婢丁每 年辛卯生 豐基司贍寺婢先女 年戊寅生 義城司宰監婢命女 年甲午生 豐基儀賓府奴無作只 年癸酉生 豐基長興庫婢山介 年丁丑生 義城司宰監奴石俊 年壬午生 義城司贍寺婢愛永 年甲午生 義城儀賓府婢春玉 年戊戌生 義城司宰監婢愛明 年丙子生 春川官婢四䅁 年辛丑生 等 特賜賞 可傳永世者 康熙八年七月初七日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 숭선군 징에게, 양주 군기시 여종 예이(갑신생), 양주 군기시 여종 예화(무자생), 풍기 사섬시 여종 정매(신묘생), 풍기 사섬시 여종 선녀(무인생), 의성 사재감 여종 명녀(갑오생), 풍기 의빈부 사내종 무작지(계유생), 풍기 장흥고 여종 산개(정축생), 의성 사재감 사내종 석준(임오생), 의성 사섬시 여종 애영(갑오생), 의성 의빈부 여종 춘옥(무술생), 의성 사재감 여종 애명(병자생), 춘천 관아 여종 사○(신축생) 등을 특별히 내려 주니, 영원히 대대로 전하라. 강희 8년(1669) 7월 7일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1669년 7월 7일 숭선군 이징에게 양주 · 풍기 · 의성 · 춘천의 관청 노비 열두 사람을 '영원히 대대로' 내린 사패교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1669.0000-20190219.C1004_002_00004_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 258
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014421%5EL014421F02%5EL014421F0201&dataId=G002%2BKHD%2BKSM-XA.1669.0000-20190219.C1004_002_00004_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1005
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1671년 이징(李澂) 사패교지(賜牌敎旨) (1671)"
+    ]
+   },
+   "width": 1400,
+   "height": 1031,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1671"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사패교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 惟 崇善君澂 賜牌將 義城司宰監奴赤卜 年甲午生 婢赤還 年壬辰生 仁壽府奴蓮奉 年庚寅生 婢春下 年癸巳生 婢性今 年丙戌生 禮賓寺奴貴元 年乙未生 軍器寺婢玉英 年乙未生 安東濟用監婢女成 年戊子生 尙州官婢益禮 年癸巳生 泰安官奴春木 年甲午生 等 特賜賞 可傳永世者 康熙十年七月初七日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 숭선군 징에게, 의성 사재감 사내종 적복(갑오생), 여종 적환(임진생), 인수부 사내종 연봉(경인생), 여종 춘하(계사생), 여종 성금(병술생), 예빈시 사내종 귀원(을미생), 군기시 여종 옥영(을미생), 안동 제용감 여종 여성(무자생), 상주 관아 여종 익례(계사생), 태안 관아 사내종 춘목(갑오생) 등을 특별히 내려 주니, 영원히 대대로 전하라. 강희 10년(1671) 7월 7일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1671년 같은 7월 7일 숭선군에게 의성 · 안동 · 상주 · 태안 등의 관청 노비 열 사람을 더 내린 사패교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1671.0000-20190219.C1004_002_00005_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 265
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014421%5EL014421F02%5EL014421F0201&dataId=G002%2BKHD%2BKSM-XA.1671.0000-20190219.C1004_002_00005_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1031
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1676년 이징(李澂) 사패교지(賜牌敎旨) (1676)"
+    ]
+   },
+   "width": 1270,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1676"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "사패교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 惟 崇善君澂 賜牌將 溫陽官婢進業 年乙亥生 身 特賜賞 可傳永世者 康熙十五年九月二十日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 숭선군 징에게, 온양 관아 여종 진업(을해생) 한 몸을 특별히 내려 주니, 영원히 대대로 전하라. 강희 15년(1676) 9월 20일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1676년 숭선군에게 온양 관아 여종 진업(을해생) 한 사람을 내린 사패교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1676.0000-20190219.C1004_002_00006_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 327,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014421%5EL014421F02%5EL014421F0201&dataId=G002%2BKHD%2BKSM-XA.1676.0000-20190219.C1004_002_00006_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1270,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1693년 이징(李澂) 시호교지(諡號敎旨) (1693)"
+    ]
+   },
+   "width": 1400,
+   "height": 938,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1693"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시호교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 崇善君澂 贈諡孝敬公者 康熙三十二年正月初二日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 숭선군 징에게 '효경공'이라는 시호를 내린다. 강희 32년(1693) 정월 2일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1693년 세상을 떠난 숭선군에게 붉은 금박 종이로 '효경공'이라는 시호를 내린 교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1693.0000-20190219.C1004_002_00012_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014421%5EL014421F02%5EL014421F0201&dataId=G002%2BKHD%2BKSM-XA.1693.0000-20190219.C1004_002_00012_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sungseon-sapae/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 938
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

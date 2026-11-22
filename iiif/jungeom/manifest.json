@@ -1,0 +1,582 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.35 \"만 번 죽고 한 번 사는 바다의 여인\" — 제주 중엄리가 간직한 절목"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "기록은 가장 힘든 노동을 한 사람들을 보호하는 도구가 되기도 했다는 것."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.35"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 애월 중엄리"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jungeom/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jungeom/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 240
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1794년 잠녀무곽잡곽혁파절목(潛女貿藿雜藿革罷節目) (1794)"
+    ]
+   },
+   "width": 1400,
+   "height": 934,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1794"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "잠녀무곽잡곽혁파절목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "甲寅二月 日 潛女貿藿雜藿革罷節目 / 中嚴住里 / 慰諭按覈巡撫試才御史爲相考事 島中民弊集如蝟毛 其中潛女□作之弊 最爲尤甚 … 萬死一生之浦女 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "갑인년(1794) 2월 일. 잠녀(해녀)의 미역 강제 매입과 잡미역 [징수]를 혁파하는 절목. 중엄리에 둠.\n위유·안핵·순무·시재 어사가 살펴 정하는 일. 섬 안 백성의 폐단이 고슴도치 털처럼 모였는데, 그 가운데 잠녀에게 지우는 폐단이 가장 심하다. 바다에 대한 세금과 역을 지고 관에 바치는 것은 팔도가 다 같으니, 포구의 세금과 신역은 없앨 수 없다. 그러나 '무역(사들인다)'이라 일컬으며 값의 절반만 억지로 쥐여 주고 하나하나 쓸 것을 다 대게 하는 것은 참으로 포구 백성이 견디기 어려운 큰 폐단이다. 감영이든 고을이든 모두 관장으로서 백성을 대하니, 바다에 들어가 자맥질하며 만 번 죽고 한 번 사는 포구의 여인에게 … 뭍에서 팔아 수많은 [것을] 마련하게 하는 것보다 … (이하 다음 면)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "제주 백성의 여러 폐단 가운데 해녀에게 지우는 부담이 가장 심하다. 바다 세금과 역은 없앨 수 없지만, '사들인다'며 절반 값만 주고 미역을 빼앗아 온갖 수요를 대게 하는 것은 큰 폐단이므로 혁파한다는 어사의 절목입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1794.5011-20201218.D108_00027"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=07%5E0747%5EL074703%5EL074703F02%5EL074703F0203&dataId=G002%2BAKS%2BKSM-XC.1794.5011-20201218.D108_00027&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jungeom/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 934
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1844년 영목제복포무혁파절목(營牧祭鰒浦貿革罷節目) (1844)"
+    ]
+   },
+   "width": 1400,
+   "height": 934,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1844"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "영목제복포무혁파절목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "營牧祭鰒浦貿革罷節目 / 本島處在窮海之外 邑弊民瘼不一其端 … 夫祭物鰒 營牧四名日所需也 州之左右面各浦口 … 大鰒四貼屬之營門 三貼屬之牧官 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "감영과 목의 제사용 전복을 포구에서 사들이는 일을 혁파하는 절목.\n이 섬은 먼 바다 밖에 있어 고을의 폐단과 백성의 고통이 한두 가지가 아니다. 앞뒤로 어사와 감영이 특별히 마음을 써서, 예전에 감영의 역이라 하던 것을 혹은 새로 정하고 혹은 사들이는 것을 영영 없애 백성이 기대어 살 방도를 마련해 주었으나, 오직 제사용 전복만은 미처 돌보지 못하였다. 무릇 제사용 전복은 감영과 목에서 네 명절에 쓰는 것이다. 주(州)의 좌·우면 각 포구에서 … 명절마다 좌고(左庫)에서 7냥을 내어 주고 작은 [전복] … 7첩을 책임 지워 내게 하여, 큰 전복 4첩은 감영에, 3첩은 목관에 속하게 하니, 비록 사들여 쓴다고는 하나 시가로 [쳐준다고] … (이하 판독 필요)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "여러 폐단은 어사와 감영이 고쳐 주었으나 제사용 전복만은 남아 있었다. 명절마다 포구에 적은 돈을 주고 큰 전복을 감영과 목에 바치게 하던 일을 혁파한다는 내용으로 보입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1844.5011-20201218.D108_00034"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=07%5E0747%5EL074703%5EL074703F02%5EL074703F0203&dataId=G002%2BAKS%2BKSM-XC.1844.5011-20201218.D108_00034&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jungeom/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 934
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1901년 중엄동중(中嚴洞中) 신당구기가거문(神塘舊基可據文) (1901)"
+    ]
+   },
+   "width": 1400,
+   "height": 934,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1901"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "신당구기가거문"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "光武五年辛丑五月 日 本里神塘舊基可據文 / 右可據文事 噫 彼敎輩 神塘叢木 斫伐燒火 故 諸鄕一致公議 更爲新定復古是乎所 … / 洞中(押)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "광무 5년(1901) 신축 5월 일. 우리 마을 신당 옛터에 대해 증거로 삼을 문서.\n이 증거 문서를 만드는 일. 아아, 저 교도(敎徒)들이 신당의 숲 나무를 베고 불태웠다. 그러므로 마을 사람들이 한결같이 공론하여 다시 새로 정해 옛 모습을 되살리는바, 새 신당 아래는 곧 터로 삼는다. 하물며 향임이나 여러 하인 가운데 만약 소란을 일으키는 폐단이 있으면, 이 문서에 따라 마을에서 내쫓는다는 뜻으로 이와 같이 시행할 일. 마을(洞中) 수결."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교도들이 마을 신당의 숲을 베어 불태우자, 마을 사람들이 공론으로 신당을 옛 모습대로 다시 정하고, 앞으로 소란을 일으키는 자는 이 문서에 따라 마을에서 내쫓기로 한 약속 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1901.5011-20201218.D108_00075"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=07%5E0747%5EL074703%5EL074703F02%5EL074703F0204&dataId=G002%2BAKS%2BKSM-XD.1901.5011-20201218.D108_00075&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jungeom/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jungeom/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 934
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
