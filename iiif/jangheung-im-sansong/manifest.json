@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.173 삽자루에 묶인 자손 — 1887년, 6대조 무덤 앞 '스무 걸음'을 두고 벌인 산송"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "조선 후기 산송은 '땅 문서'가 아니라 '보이는 거리'를 다투는 싸움이었다 — 남의 무덤이 내 조상 무덤에서 몇 걸음인지, 앉아서도 보이는지가 승패를 갈랐고, 그래서 사람들은 산의 그림을 그려 관에 냈다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.173"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "아산 선교 장흥임씨 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jangheung-im-sansong/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/jangheung-im-sansong/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 256,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1887년 충청도(忠淸道) 아산(牙山) 주교거(舟橋居) 임영근(任永根) 단자(單子) (1887)"
+    ]
+   },
+   "width": 996,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1887"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "忠淸道牙山舟橋居任永根單子 恐 鑑伏以 民之先塋 在於 治下東終面斗元堂 而數百年守護以來 未有若此入葬之變矣 不意本邑欄干里居金億伊爲名漢 民之六代祖判書公山居前 不過二十餘步之地 突然入葬是乎所 以路遠所致 未遑禁斷 而只有墓直一名 欲爲禁斷 則毆打老漢 無難勒葬 是豈有如許頑悖之漢乎 不勝憤冤 玆敢仰訴於 明政之下爲去乎 垂燭 敎是後 特爲猛差嚴刑提囚 督掘 使此殘民 俾保先塋之地 千萬伏祝 行下向敎是事 城主 前 處分 丁亥四月 日 (제사) 士夫家墓前逼近之處 金漢之冢 雖入葬 … (十二日)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "충청도 아산 주교에 사는 임영근의 단자. 삼가 살펴 주시기 바랍니다. 저의 선영은 사또께서 다스리시는 동종면 두원당에 있어 수백 년을 지켜 왔는데 이처럼 남이 묘를 쓴 변고는 없었습니다. 뜻밖에 이 고을 난간리에 사는 김억이라는 놈이 저의 6대조 판서공 산소 앞 스무 걸음 남짓한 곳에 갑자기 묘를 썼습니다. 길이 멀어 미처 막지 못했고, 묘지기 한 사람만 있어 막으려 했더니 늙은이를 때리고 거리낌 없이 억지로 묻었습니다. 어찌 이렇게 완악하고 패악한 놈이 있겠습니까. 분하고 원통함을 이기지 못해 감히 밝은 정사 아래 우러러 호소하오니, 살피신 뒤 특별히 사나운 사령을 보내 엄히 형벌하고 잡아 가두어 무덤을 파 가게 하여, 이 쇠잔한 백성이 선영을 지킬 수 있게 해 주시기를 천만 바랍니다. 처분을 내려 주십시오. 사또 앞. 정해년(1887) 4월 일. (제사) 사대부 집안 묘 앞 바싹 가까운 곳에 김가 놈의 무덤이 묻혔으니 … (12일)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1887년 4월 임영근이 6대조 판서공 무덤 앞 스무 걸음 남짓한 곳에 김억이가 몰래 묘를 썼다며 고을 수령에게 파 가게 해 달라고 올린 단자입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1887.4420-20101008.B062a_089_00073_001"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 256,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014430%5EL014430F02%5EL014430F0202&dataId=G002%2BAKS%2BKSM-XB.1887.4420-20101008.B062a_089_00073_001&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 996,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1887년 임영근(任永根) 산도(山圖) (1887)"
+    ]
+   },
+   "width": 933,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1887"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "산도"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(그림) 北 南 西 東 / 李班十代祖山 李班五代祖山 崔哥塚 判書公山 任班高祖山 相距三十步 … 俱見 金哥偸塚(?) 李班叔母山 崔哥塚 / 起訟 任永根 被隻 金億孫 (제사) 任班先墓與金塚相距 … 俱見處 爲任安得不與爭 … 金塚置之 … 向事 (二十八日)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "북 · 남 · 서 · 동. (산줄기 그림) 이 양반 10대조 산소 · 이 양반 5대조 산소 · 최가 무덤 · 판서공 산소 · 임 양반 고조 산소. 서로 떨어진 거리 서른 걸음, … 모두 보인다. 김가가 몰래 쓴 무덤(?) · 이 양반 숙모 산소 · 최가 무덤. 소송을 일으킨 사람 임영근, 상대(피척) 김억손. (제사) 임 양반의 선산 묘와 김가 무덤 사이가 … 다 보이는 곳이니, 임가가 어찌 다투지 않겠는가. … 김가 무덤을 … 할 일. (28일)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1887년 산송의 증거로 낸 산도로, 판서공 산소와 김억손이 몰래 쓴 무덤의 거리(서른 걸음)와 주변 무덤들을 그려 넣었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1887.4420-20101008.B062a_089_00073_002"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 240,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014430%5EL014430F02%5EL014430F0202&dataId=G002%2BAKS%2BKSM-XB.1887.4420-20101008.B062a_089_00073_002&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 933,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1887년 충청도(忠淸道) 아산거(牙山居) 임영근(任永根) 단자(單子) (1887)"
+    ]
+   },
+   "width": 899,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1887"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "忠淸道牙山居任永根單子 恐 鑑伏以 生之屢世先塋 在於道內楊根東終面斗元堂 而守護禁養數百年 曾未有他人入葬之弊矣 不意本邑欄干里居金億伊爲名漢 謂以生之在遠 無難偸葬於生之六代祖判書公墓居前至近必爭之地 寧有如許人心乎 以其常漢 偸埋於班家之山 已極無嚴 況其重臣山 單居數十步乎 具由呈訴於本官城主 則題音若是截嚴 侤限又其丁寧 而金漢頓無掘意 故玆敢累足上來 前狀貼聯 仰籲於 旬宣之下 伏乞 洞燭 敎是後 特爲嚴題 所謂金漢 先治偸葬之律 其偸塚卽爲掘移 使此他道殘班 獲保先壠之地 千萬泣血祈懇之至 行下向敎是事 巡相閣下 處分 丁亥四月 日 (제사) 觀此圖 … 金漢 … 不日督掘 … 向事 (二十六日)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "충청도 아산에 사는 임영근의 단자. 삼가 살펴 주시기 바랍니다. 저의 여러 대 선영은 이 도(道) 안 양근 동종면 두원당에 있어 수백 년을 지키고 나무를 길러 왔으나 남이 묘를 쓰는 폐단은 없었습니다. 뜻밖에 그 고을 난간리에 사는 김억이라는 놈이 제가 멀리 산다는 것을 믿고 거리낌 없이 저의 6대조 판서공 무덤 앞, 바싹 가까워 반드시 다툴 자리에 몰래 묻었습니다. 어찌 이런 인심이 있겠습니까. 상놈이 양반 집안의 산에 몰래 묻은 것만으로도 이미 지극히 무엄한데, 하물며 중신(重臣)의 산소에서 겨우 수십 걸음이겠습니까. 사유를 갖추어 본관 사또께 호소하니 제사가 이처럼 엄하고 기한을 정한 다짐도 분명했으나, 김가 놈은 도무지 파 갈 뜻이 없습니다. 그래서 감히 발이 부르트도록 올라와 앞서 낸 소장을 붙여 감사 앞에 우러러 호소합니다. 엎드려 바라오니, 살피신 뒤 특별히 엄한 제사를 내려 김가 놈을 먼저 투장의 율로 다스리고 몰래 쓴 무덤은 곧 파 옮기게 하여, 다른 도의 쇠잔한 양반이 선영을 지킬 수 있게 해 주시기를 천만 피눈물로 빕니다. 처분을 내려 주십시오. 순상(감사) 합하 앞. 정해년(1887) 4월 일. (제사) 이 그림을 보니 … 김가 놈 … 날을 넘기지 말고 파 가게 할 일. (26일)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1887년 4월 임영근이 수령의 판결에도 김억이가 무덤을 파 가지 않자 산도를 붙여 경기감사에게 올린 단자로, 감사는 날을 넘기지 말고 파 가게 하라는 제사를 내렸습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1887.4420-20101008.B062a_089_00073_003"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 231,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014430%5EL014430F02%5EL014430F0202&dataId=G002%2BAKS%2BKSM-XB.1887.4420-20101008.B062a_089_00073_003&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 899,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1887년 아산거(牙山居) 임희태(任熙台) 단자(單子) (1887)"
+    ]
+   },
+   "width": 1069,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1887"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "牙山居任熙台單子 恐 鑑伏以 民之三從叔永根 以金億孫偸葬事 已有仰訴 而 題敎截嚴 以今初二日掘去之意 捧侤音矣 億孫敢生不側 … 符同鳳里居李景天李景洪輩 初一日夜 聚黨百餘人 各持釖杖 突入墓直家 結縛三從叔與四從兄 無 … 打 幾至死境 而縛民之三從叔於鍤柄 反使掘三從叔之六代祖判書公墓是乎則 三從叔不耐苦楚 百般哀乞 而金李輩以不掘億孫塚之意 欲勒捧手標是乎所 三從叔至於此境 若不捧手標 則禍及於先塋 且性命難保 故 … 已姑不督掘之意 成手標以給 而身被重傷 載而歸家 至今治療 死生未判是乎尼 有法天地 豈有如許無嚴之變乎 此尤甚於白晝大道之上 拔釰劫奪之强盜矣 不勝驚憤 玆敢仰訴爲去乎 伏乞 … 敎是後 金李作黨之輩 一一捉致 嚴杖枷囚 論報 巡營 期於定配是白遣 金億孫塚卽爲掘移 一以懲金李輩之獰習 一以雪殘民窮極之辱 千萬泣血懇祝之至 行下向敎是事 城主 前 處分 丁亥閏四月 日 (제사) 金漢自知理屈 … 李班之群聚 … (二十六日)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "아산에 사는 임희태의 단자. 삼가 살펴 주시기 바랍니다. 저의 삼종숙 영근이 김억손의 투장 일로 이미 호소하여 제사가 엄하였고, 이달 초이틀에 파 가겠다는 다짐을 받았습니다. 그런데 억손이 감히 헤아릴 수 없는 마음을 내어 … 봉리에 사는 이경천 · 이경홍 무리와 짜고, 초하루 밤 백여 명을 모아 저마다 칼과 몽둥이를 들고 묘지기 집에 들이닥쳐 삼종숙과 사종형을 묶고 … 때려 거의 죽게 하였습니다. 그리고 저의 삼종숙을 삽자루에 묶어 도리어 삼종숙의 6대조 판서공 묘를 파게 하니, 삼종숙이 고초를 견디지 못해 온갖 말로 애걸하였습니다. 그러자 김 · 이 무리가 억손의 무덤을 파지 않겠다는 뜻으로 수표(手標)를 억지로 받으려 하였습니다. 삼종숙은 이 지경에 이르러 수표를 써 주지 않으면 화가 선영에 미치고 목숨도 보전하기 어려워, … 파 가게 하지 않겠다는 수표를 써 주었습니다. 몸에 크게 다쳐 실려 집으로 돌아와 지금까지 치료하는데 살지 죽을지 알 수 없습니다. 법이 있는 세상에 어찌 이렇게 무엄한 변고가 있겠습니까. 이는 대낮 큰길에서 칼을 뽑아 빼앗는 강도보다도 더 심합니다. 놀라고 분함을 이기지 못해 감히 호소하오니, 엎드려 바라건대 … 살피신 뒤 김 · 이가 무리를 지은 자들을 하나하나 잡아 엄히 곤장 치고 칼을 씌워 가두고, 감영에 보고하여 반드시 귀양 보내게 하시며, 김억손의 무덤은 곧 파 옮기게 하여, 한편으로는 김 · 이 무리의 사나운 버릇을 징계하고 한편으로는 쇠잔한 백성의 극한 치욕을 씻어 주시기를 천만 피눈물로 빕니다. 처분을 내려 주십시오. 사또 앞. (제사) 김가 놈이 스스로 이치가 굽은 줄 알면서 … 이 양반 무리가 모여 … (26일)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1887년 윤4월 임희태가 김억손이 무덤을 파 가기로 한 전날 밤 백여 명을 이끌고 와 임영근을 묶고 때려 억지 수표를 받아 갔다며 고을 수령에게 올린 단자입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1887.4420-20101008.B062a_089_00074_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 275,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0144%5EL014430%5EL014430F02%5EL014430F0202&dataId=G002%2BAKS%2BKSM-XB.1887.4420-20101008.B062a_089_00074_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1069,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

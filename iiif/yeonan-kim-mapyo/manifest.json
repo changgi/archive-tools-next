@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.175 말 한 필을 내린다는 쪽지 — 1772년 김훤의 '사마 첩자' 석 장, 그리고 1906년 한 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "조선 국왕은 행차 · 제례 · 잔치에서 일을 맡은 신하에게 사복시의 말을 상으로 내렸다 — 그러나 말을 바로 끌어 주지 않고 '뒷날 내어 줄 때 쓸 첩자'를 주었다. 같은 틀의 쪽지에 적힌 직함이 석 달 사이에 네 번 바뀐다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.175"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "영광 연안김씨 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yeonan-kim-mapyo/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yeonan-kim-mapyo/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 200,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "급마첩(給馬帖)－1 (1772)"
+    ]
+   },
+   "width": 777,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1772"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "급마첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "壬辰二月 日 同年同月二十七日承 傳 進饌時相禮 金煊 兒馬壹匹 賜給事 後日題給次帖子 印"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임진년(1772) 2월 일. 같은 해 같은 달 27일에 받든 전교: 진찬 때 상례를 맡은 김훤에게 아마(兒馬) 한 필을 내려 준다. 뒷날 내어 줄 때 쓸 첩자. (도장)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1772년 2월 진찬 때 상례를 맡은 김훤에게 어린 말 한 필을 내린다고 사복시가 써 준 첩자입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1772.4687-20211130.B074a_104_00287_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 200,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014810%5EL014810F02%5EL014810F0203&dataId=G002%2BAKS%2BKSM-XC.1772.4687-20211130.B074a_104_00287_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 777,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "급마첩(給馬帖)－4 (1772)"
+    ]
+   },
+   "width": 759,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1772"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "급마첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "壬辰五月 日 同年同月初一日承 傳 宗簿寺擧動時 宗簿寺正金煊 半熟馬壹匹 賜給事 後日題給次帖子 印"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임진년(1772) 5월 일. 같은 해 같은 달 초하루에 받든 전교: 종부시 거동 때 종부시정 김훤에게 반숙마 한 필을 내려 준다. 뒷날 내어 줄 때 쓸 첩자. (도장)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1772년 5월 초하루 임금의 종부시 거동 때 종부시정 김훤에게 반숙마 한 필을 내린 첩자입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1772.4687-20211130.B074a_104_00290_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 195,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014810%5EL014810F02%5EL014810F0203&dataId=G002%2BAKS%2BKSM-XC.1772.4687-20211130.B074a_104_00290_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 759,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "급마첩(給馬帖)－2 (1772)"
+    ]
+   },
+   "width": 734,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1772"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "급마첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "壬辰五月 日 同年同月三十日承 傳 景福宮擧動時 右副承旨金煊 熟馬壹匹 賜給事 後日題給次帖子 印"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임진년(1772) 5월 일. 같은 해 같은 달 30일에 받든 전교: 경복궁 거동 때 우부승지 김훤에게 숙마 한 필을 내려 준다. 뒷날 내어 줄 때 쓸 첩자. (도장)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1772년 5월 30일 경복궁 거동 때 우부승지 김훤에게 숙마 한 필을 내린 첩자로, 그가 유지를 쓰는 승지가 되었음을 보여 줍니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1772.4687-20211130.B074a_104_00288_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 189,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014810%5EL014810F02%5EL014810F0203&dataId=G002%2BAKS%2BKSM-XC.1772.4687-20211130.B074a_104_00288_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 734,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "급마첩(給馬帖)－5 (1906)"
+    ]
+   },
+   "width": 913,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1906"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "급마첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "光武十年二月二十五日 同年同月十八日承 傳 秘書監□ 孝定□ … 祔太廟時 … 金鍾琯 兒馬壹匹 賜給事 後日題給次帖子印 司僕寺"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "광무 10년(1906) 2월 25일. 같은 해 같은 달 18일에 받든 전교: 비서감□ … 태묘에 부묘할 때 … 김종관에게 아마 한 필을 내려 준다. 뒷날 내어 줄 때 쓸 첩자. (도장) 사복시."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1906년 2월 태묘 부묘 의례 때 김종관에게 아마 한 필을 내린 사복시 첩자로, 134년 전 김훤의 첩자와 같은 문장입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1906.4687-20211130.B074a_104_00291_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 235,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014810%5EL014810F02%5EL014810F0203&dataId=G002%2BAKS%2BKSM-XC.1906.4687-20211130.B074a_104_00291_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 913,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

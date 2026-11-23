@@ -9,7 +9,7 @@
  },
  "summary": {
   "ko": [
-   "편 172개 · 문서 624건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
+   "편 177개 · 문서 644건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
   ]
  },
  "requiredStatement": {
@@ -3064,6 +3064,96 @@
      "format": "image/jpeg",
      "width": 360,
      "height": 238
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-imuk/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.172 후추 세 되, 화살 한 벌 — 압록강 가 창성부사 임욱이 받은 종이들"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-imuk/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 274,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.173 삽자루에 묶인 자손 — 1887년, 6대조 무덤 앞 '스무 걸음'을 두고 벌인 산송"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jangheung-im-sansong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 256,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-yuji/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.174 \"서둘러 역마를 타고 올라오라\" — 1763–1768년, 김훤에게 같은 문장이 네 번 왔다"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-yuji/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 255
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.175 말 한 필을 내린다는 쪽지 — 1772년 김훤의 '사마 첩자' 석 장, 그리고 1906년 한 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-mapyo/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 200,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.176 \"찾아뵙지 못하고 우편으로 보냅니다\" — 문집을 부치며 쓴 편지 네 통, 2000년까지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 312,
+     "height": 360
     }
    ]
   },

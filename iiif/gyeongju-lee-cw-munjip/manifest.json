@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.176 \"찾아뵙지 못하고 우편으로 보냅니다\" — 문집을 부치며 쓴 편지 네 통, 2000년까지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "문집을 펴내 나누는 일은 20세기 후반까지 이어진 양반가의 예법이었다 — 책은 우편으로 가도, 편지는 여전히 한문 서식(伏惟 · 尊體萬安 · 餘不備)을 지켰고, 2000년에 이르러서야 한글 토씨가 그 틈에 들어왔다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.176"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경주 경주이씨 이찬우"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gyeongju-lee-cw-munjip/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gyeongju-lee-cw-munjip/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 312,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1923년 김동진(金東鎭) 간찰(簡札) (1923)"
+    ]
+   },
+   "width": 1213,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1923"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "간찰"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "伏惟時下 尊體動止萬重 仰溯區區 就白 生之曾王考晩山府君遺稿 今纔若干篇刊迄 而理當躬晉拜呈 冗務絆身 故末由遂誠 玆敢郵送 而惠投瓊章 或先後順位不無相錯 并尤切罪悚 海恕伏望耳 餘不備 伏惟 尊察 癸亥七月 日 金東鎭 拜上"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "삼가 요즘 존체 기거가 만중하신지, 우러러 그리운 마음 간절합니다. 아뢰옵니다. 저의 증조부 만산부군의 유고를 이제 겨우 몇 편 간행하였습니다. 마땅히 몸소 찾아가 올려야 하나 바쁜 일에 몸이 묶여 정성을 이루지 못하고, 감히 우편으로 보냅니다. 보내 주신 아름다운 글은 혹 앞뒤 순서가 어긋난 곳이 없지 않을 것이니 더욱 송구합니다. 너그러이 용서해 주시기 바랍니다. 나머지는 다 갖추지 못합니다. 삼가 살펴 주십시오. 계해년 7월 일. 김동진 올림."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "계해년 김동진이 증조부 만산부군의 유고를 펴내 우편으로 보내며, 찾아뵙지 못한 것과 실린 글의 순서가 어긋났을 것을 사과한 인쇄 편지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.1923.0000-20151117.C0703_002_00055_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 312,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0206&dataId=G002%2BKHD%2BKSM-XF.1923.0000-20151117.C0703_002_00055_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1213,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1986년 신동석(辛東錫) 간찰(簡札) (1986)"
+    ]
+   },
+   "width": 1287,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1986"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "간찰"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "伏惟際玆霜寒 尊體萬安 仰頌 就白 鄙祖考然叟府君遺稿 并賴僉尊之瓊章 輯爲一卷 而今纔畢印 以伸殘家之宿願 … 窃恐文字語句 必多錯誤處矣 恕覽伏望 固當躬晉拜呈 而未克遂誠 替此郵送 尤切罪悚 伏惟 尊察 丙寅十月 日 下生 辛東錫 拜上"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "삼가 서리 내리는 추위에 존체 만안하시기를 우러러 빕니다. 아뢰옵니다. 저의 조부 연수부군의 유고를 여러분께서 주신 아름다운 글과 함께 엮어 한 권으로 만들었는데, 이제 겨우 인쇄를 마쳐 쇠잔한 집안의 오랜 소원을 펴게 되었습니다. … 글자와 구절에 틀린 곳이 반드시 많을까 두려우니 너그러이 보아 주시기 바랍니다. 마땅히 몸소 찾아가 올려야 하나 정성을 이루지 못하고 이렇게 우편으로 대신하니 더욱 송구합니다. 삼가 살펴 주십시오. 병인년(1986) 10월 일. 하생 신동석 올림."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1986년 신동석이 조부 연수부군의 유고를 다른 집안의 글과 함께 한 권으로 펴내 우편으로 보내며, 오자와 직접 찾아뵙지 못한 것을 사과한 편지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.1986.0000-20151117.C0703_002_00056_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 331,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0206&dataId=G002%2BKHD%2BKSM-XF.1986.0000-20151117.C0703_002_00056_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1287,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1990년 박정곤(朴定坤) 간찰(簡札) (1990)"
+    ]
+   },
+   "width": 1181,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1990"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "간찰"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "伏惟至寒 尊體候大安 仰祝耳 就 鄙伯祖考翔峰遺集及先考淸溪遺稿 今纔刊行 事當躬晉仰呈 而緣擾未遂 玆以郵送 下領之千萬仰望 餘不備 伏惟 尊察 庚午十月 日 朴定坤 再拜"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "삼가 몹시 추운 때에 존체 대안하시기를 우러러 빕니다. 아뢰옵니다. 저의 큰할아버지 상봉의 유집과 돌아가신 아버지 청계의 유고를 이제 겨우 간행하였습니다. 마땅히 몸소 찾아가 올려야 하나 바쁜 일로 이루지 못하고 이에 우편으로 보내니, 받아 주시기를 천만 우러러 바랍니다. 나머지는 다 갖추지 못합니다. 삼가 살펴 주십시오. 경오년(1990) 10월 일. 박정곤 두 번 절함."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1990년 박정곤이 큰할아버지 상봉의 유집과 아버지 청계의 유고를 펴내 우편으로 보내며 받아 주기를 청한 짧은 편지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.1990.0000-20151117.C0703_002_00057_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 304,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0206&dataId=G002%2BKHD%2BKSM-XF.1990.0000-20151117.C0703_002_00057_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1181,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "2000년 최호영(崔鎬泳) 간찰(簡札) (2000)"
+    ]
+   },
+   "width": 1400,
+   "height": 914,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "2000"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "간찰"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "謹伏審 薰炎에 尊體 萬安하시고 宅節이 均吉하십니까 愚□은 弟兄이 依昨하니 是庸爲幸耳 更何煩溷哉아 先考契帖은(野隱公追慕集) 今纔出刊後 謹呈一冊하니 烏可免譴責哉아 錄梓中 多有誤字落書故로 更添正誤篇하니 或加恕諒否아 餘不備上狀합니다 庚辰年 八月 日 崔鎬泳 再拜"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "삼가 여쭙니다. 찌는 더위에 존체 만안하시고 댁내 두루 평안하십니까. 저희는 형제가 그럭저럭 지내니 다행일 뿐, 더 무엇을 번거롭게 말씀드리겠습니까. 돌아가신 아버지의 계첩(야은공 추모집)을 이제 겨우 펴낸 뒤 삼가 한 권을 드리니, 어찌 꾸지람을 면하겠습니까. 판에 새기는 가운데 틀린 글자와 빠진 글자가 많아 정오표를 덧붙였으니, 너그러이 헤아려 주시겠습니까. 나머지는 다 갖추지 못하고 글월 올립니다. 경진년(2000) 8월 일. 최호영 두 번 절함."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "2000년 최호영이 『야은공 추모집』을 보내며 쓴 국한문 편지로, 한문 간찰 서식에 한글 어미를 섞고 오자 때문에 정오표를 붙였다고 알렸습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XF.2000.0000-20151117.C0703_002_00058_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 235
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0206&dataId=G002%2BKHD%2BKSM-XF.2000.0000-20151117.C0703_002_00058_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-munjip/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 914
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
