@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.178 같은 날 두 아내에게 — 1814년 11월 26일, 오경덕의 강씨에게는 '贈', 윤씨에게는 '爲'"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "조선에서 아내의 칭호는 남편의 품계를 따랐다(從夫職) — 남편이 정3품 당상에 오르면 살아 있는 아내는 숙부인으로 '봉하고(爲)', 먼저 세상을 떠난 아내도 숙부인으로 '추증했다(贈)'. 그래서 한 남자의 승진은 두 아내의 교지로 갈라져 왔다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.178"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "성남 해주오씨 월곡공파 오윤함"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/wolgok-oh-ugw/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/wolgok-oh-ugw/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 251,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1802년 오경덕(吳慶德) 무과 홍패(武科紅牌) (1802)"
+    ]
+   },
+   "width": 978,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1802"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 副司勇吳慶德武科丙科第二十二人及第出身者 嘉慶七年三月初七日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 부사용 오경덕을 무과 병과 제22인으로 급제 출신시킨다. 가경 7년(1802) 3월 7일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1802년 부사용 오경덕이 무과 병과 제22인으로 급제한 홍패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1802.0000-20161231.C0804_002_00003_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 251,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014139%5EL014139F02%5EL014139F0201&dataId=G002%2BKHD%2BKSM-XA.1802.0000-20161231.C0804_002_00003_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 978,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1814년 오경덕(吳慶德) 고신(告身)－1 (1814)"
+    ]
+   },
+   "width": 1400,
+   "height": 964,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1814"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 吳慶德爲折衝將軍僉知中樞府事忠翊衛將者 嘉慶十九年六月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 오경덕을 절충장군 첨지중추부사 충익위장으로 삼는다. 가경 19년(1814) 6월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1814년 6월 오경덕을 정3품 당상 절충장군 첨지중추부사 충익위장으로 삼은 고신입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1814.0000-20161231.C0804_002_00037_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014139%5EL014139F02%5EL014139F0201&dataId=G002%2BKHD%2BKSM-XA.1814.0000-20161231.C0804_002_00037_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 964
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1814년 오경덕(吳慶德) 처(妻) 진주강씨(晉州姜氏) 추증교지(追贈敎旨) (1814)"
+    ]
+   },
+   "width": 1400,
+   "height": 939,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1814"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "추증교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 淑人姜氏贈淑夫人者 嘉慶十九年十一月二十六日 (작은 글씨) 折衝將軍前僉知中樞府事兼忠翊衛將吳慶德妻 依法典 從夫職"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 숙인 강씨에게 숙부인을 추증한다. 가경 19년(1814) 11월 26일. (작은 글씨) 절충장군 전 첨지중추부사 겸 충익위장 오경덕의 아내이므로 법전에 따라 남편의 직에 따른다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1814년 11월 26일 오경덕의 세상을 떠난 아내 강씨에게, 남편의 당상관 승진에 따라 숙부인을 추증한 교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1814.0000-20161231.C0804_002_00062_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014139%5EL014139F02%5EL014139F0201&dataId=G002%2BKHD%2BKSM-XA.1814.0000-20161231.C0804_002_00062_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 939
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1814년 오경덕(吳慶德) 처(妻) 파평윤씨(坡平尹氏) 고신(告身) (1814)"
+    ]
+   },
+   "width": 1400,
+   "height": 930,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1814"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 淑人尹氏爲淑夫人者 嘉慶十九年十一月二十六日 (작은 글씨) 折衝將軍前僉知中樞府事兼忠翊衛將吳慶德妻 依法典 從夫職"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 숙인 윤씨를 숙부인으로 삼는다. 가경 19년(1814) 11월 26일. (작은 글씨) 절충장군 전 첨지중추부사 겸 충익위장 오경덕의 아내이므로 법전에 따라 남편의 직에 따른다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "같은 날 오경덕의 살아 있는 아내 윤씨를 숙부인으로 삼은 교지로, 강씨의 교지와 '贈' · '爲' 한 글자만 다릅니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1814.0000-20161231.C0804_002_00040_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 239
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014139%5EL014139F02%5EL014139F0201&dataId=G002%2BKHD%2BKSM-XA.1814.0000-20161231.C0804_002_00040_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 930
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

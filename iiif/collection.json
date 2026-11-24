@@ -9,7 +9,7 @@
  },
  "summary": {
   "ko": [
-   "편 177개 · 문서 644건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
+   "편 181개 · 문서 660건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
   ]
  },
  "requiredStatement": {
@@ -3154,6 +3154,78 @@
      "format": "image/jpeg",
      "width": 312,
      "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.177 열두 해에 여덟 살 먹은 여종 — 경주 대일리 서씨 형제의 호적단자, 1870–1888"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 286
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.178 같은 날 두 아내에게 — 1814년 11월 26일, 오경덕의 강씨에게는 '贈', 윤씨에게는 '爲'"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/wolgok-oh-ugw/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 251,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.179 \"가볍지 않게 맡으라\" — 제주목사가 한 집안에 보낸 차첩, 1766년부터 1898년까지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.180 선산을 되돌려 달라 — 박재호의 산림 서류 네 장, 1911–1919"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 350
     }
    ]
   },

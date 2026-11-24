@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.179 \"가볍지 않게 맡으라\" — 제주목사가 한 집안에 보낸 차첩, 1766년부터 1898년까지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "향촌의 자리(별감 · 훈장 · 풍헌)는 수령이 쪽지 한 장으로 맡겼다 — 그 쪽지가 대를 이어 한 집에 쌓였다는 것은, 그 집안이 마을에서 맡은 몫이 그만큼 오래 이어졌다는 뜻이다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.179"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "제주 구좌 동래정씨 정석록 후손가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gujwa-jeong-chacheop/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gujwa-jeong-chacheop/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 241
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "차첩(差帖)－01 (1766)"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1766"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "차첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "兼防禦使爲差定事 別監差定爲去乎 不輕察任向事 合下仰照驗施行 須至帖者 右帖下幼學鄭錫祿準此 乾隆三十一年六月三十日 帖 (서명)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "겸방어사가 차정하는 일. 별감으로 차정하니 가볍지 않게 살펴 맡을 일. 이에 내려보내니 살펴 시행하라. 첩에 이른 대로 하라. 위 첩을 유학 정석록에게 내리니 이대로 하라. 건륭 31년(1766) 6월 30일. 첩. (서명)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1766년 제주목사(겸방어사)가 유학 정석록을 향청의 별감으로 임명한 차첩입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1766.5011-20220125.B079a_110_00677_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016807%5EL016807F02%5EL016807F0201&dataId=G002%2BAKS%2BKSM-XC.1766.5011-20220125.B079a_110_00677_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "차첩(差帖)－06 (1820)"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1820"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "차첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "兼防禦使爲差定事 鄕校訓長差定 不輕察任向事 合下仰照驗施行 須至帖者 右帖下幼學鄭景集準此 嘉慶二十五年十月 日 帖 (서명)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "겸방어사가 차정하는 일. 향교 훈장으로 차정하니 가볍지 않게 살펴 맡을 일. 이에 내려보내니 살펴 시행하라. 첩에 이른 대로 하라. 위 첩을 유학 정경집에게 내리니 이대로 하라. 가경 25년(1820) 10월 일. 첩. (서명)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1820년 제주목사가 유학 정경집을 향교 훈장으로 임명한 차첩으로, 54년 전 정석록의 차첩과 같은 문장입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1820.5011-20220125.B079a_110_00682_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016807%5EL016807F02%5EL016807F0201&dataId=G002%2BAKS%2BKSM-XC.1820.5011-20220125.B079a_110_00682_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "차첩(差帖)－09 (1864)"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1864"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "차첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "兼防禦使爲差定事 別監差定 不輕察任向事 合下仰照驗施行 須至帖者 右帖下幼學鄭基周準此 同治三年六月 日 帖 (서명)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "겸방어사가 차정하는 일. 별감으로 차정하니 가볍지 않게 살펴 맡을 일. 이에 내려보내니 살펴 시행하라. 첩에 이른 대로 하라. 위 첩을 유학 정기주에게 내리니 이대로 하라. 동치 3년(1864) 6월 일. 첩. (서명)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1864년 제주목사가 유학 정기주를 향청 별감으로 임명한 차첩으로, 98년 전 정석록과 같은 자리입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1864.5011-20220125.B079a_110_00685_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016807%5EL016807F02%5EL016807F0201&dataId=G002%2BAKS%2BKSM-XC.1864.5011-20220125.B079a_110_00685_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "차첩(差帖)－12 (1898)"
+    ]
+   },
+   "width": 1400,
+   "height": 937,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1898"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "차첩"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "兼察理使爲差定事 舊左面風憲差定 不輕察任向事 合下仰照驗施行 須至帖者 右帖下前風憲鄭在南準此 光武二年閏三月 日 (서명)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "겸찰리사가 차정하는 일. 구좌면 풍헌으로 차정하니 가볍지 않게 살펴 맡을 일. 이에 내려보내니 살펴 시행하라. 첩에 이른 대로 하라. 위 첩을 전 풍헌 정재남에게 내리니 이대로 하라. 광무 2년(1898) 윤3월 일. (서명)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1898년 제주의 겸찰리사가 전 풍헌 정재남을 구좌면 풍헌으로 임명한 차첩으로, 132년 전과 같은 문장입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1898.5011-20220125.B079a_110_00688_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0168%5EL016807%5EL016807F02%5EL016807F0201&dataId=G002%2BAKS%2BKSM-XC.1898.5011-20220125.B079a_110_00688_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gujwa-jeong-chacheop/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 937
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

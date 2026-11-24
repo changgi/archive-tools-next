@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.177 열두 해에 여덟 살 먹은 여종 — 경주 대일리 서씨 형제의 호적단자, 1870–1888"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "호적단자는 집주인이 스스로 써서 내는 신고서다 — 그래서 주인 나이는 간지와 맞게 꼬박꼬박 늘지만, 아내가 바뀌고 자식이 들고 나는 사정은 종이 밖에 있고, 여종의 나이는 해마다 대충 적혔다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.177"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "경주 경주이씨 이찬우"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gyeongju-lee-cw-hojeok/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gyeongju-lee-cw-hojeok/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 286
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "경오년 서재곤(徐在坤) 준호구(準戶口) (1870)"
+    ]
+   },
+   "width": 1400,
+   "height": 1113,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1870"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "庚午正月 日 慶州府內東面大逸里戶籍單子 第五統二戶幼學徐在坤年三十五丙申本大邱 父學生學中 祖學生國鳴 曾祖學生淸杰 外祖學生朴尙樞本慶州 妻金氏年三十八甲午籍遂安 父學生致良 祖學生達濟 曾祖學生益昌 外祖學生李德謙本淸安 婢守月年十八 府尹(서명) 上任李 風憲李"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "경오년(1870) 정월 일, 경주부 내동면 대일리 호적단자. 제5통 2호 유학 서재곤, 나이 35, 병신생, 본관 대구. 아버지 학생 학중, 할아버지 학생 국명, 증조 학생 청걸, 외조 학생 박상추(본관 경주). 아내 김씨, 나이 38, 갑오생, 본관 수안. 아버지 학생 치량, 할아버지 학생 달제, 증조 학생 익창, 외조 학생 이덕겸(본관 청안). 여종 수월, 나이 18. 부윤(서명). 상임 이, 풍헌 이."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1870년 경주 대일리 서재곤(35세)이 아내 김씨(38세)와 여종 수월(18세)을 적어 낸 호적단자입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.0000.0000-20151117.C0703_002_00004_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 286
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0204&dataId=G002%2BKHD%2BKSM-XD.0000.0000-20151117.C0703_002_00004_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1113
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "병자년 서재곤(徐在坤) 준호구(準戶口) (1876)"
+    ]
+   },
+   "width": 1400,
+   "height": 1137,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1876"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "丙子正月 日 慶州府內東面大逸里戶籍單子 第五統二戶幼學徐在坤年四十一丙申本大邱 父學生學中 祖學生國鳴 曾祖學生淸杰 外祖學生朴尙樞本慶州 妻韓氏年三十三甲辰籍淸州 父幼學榮琪 祖學生宅根 曾祖學生聖采 外祖幼學禹載洪本丹陽 婢守月年二十一 府尹(서명) 上任李 風憲崔"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "병자년(1876) 정월 일, 경주부 내동면 대일리 호적단자. 제5통 2호 유학 서재곤, 나이 41, 병신생, 본관 대구. 아버지 학생 학중, 할아버지 학생 국명, 증조 학생 청걸, 외조 학생 박상추(본관 경주). 아내 한씨, 나이 33, 갑진생, 본관 청주. 아버지 유학 영기, 할아버지 학생 택근, 증조 학생 성채, 외조 유학 우재홍(본관 단양). 여종 수월, 나이 21. 부윤(서명). 상임 이, 풍헌 최."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1876년 서재곤(41세)의 호적단자로, 아내가 김씨에서 한씨(33세)로 바뀌었고 여종 수월은 21세로 적혔습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.0000.0000-20151117.C0703_002_00005_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 292
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0204&dataId=G002%2BKHD%2BKSM-XD.0000.0000-20151117.C0703_002_00005_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1137
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "임오년 서재곤(徐在坤) 준호구(準戶口) (1882)"
+    ]
+   },
+   "width": 1400,
+   "height": 938,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1882"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "壬午正月 日 慶州府內東面大逸里戶籍單子 第七統二戶幼學徐在坤年四十七丙申本大邱 父學生學中 祖學生國鳴 曾祖學生淸杰 外祖學生朴尙樞本慶州 率子童蒙福龍年二十一壬戌 婢守月年二十六 府尹(서명) 上有司崔 風憲池"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "임오년(1882) 정월 일, 경주부 내동면 대일리 호적단자. 제7통 2호 유학 서재곤, 나이 47, 병신생, 본관 대구. 아버지 학생 학중, 할아버지 학생 국명, 증조 학생 청걸, 외조 학생 박상추(본관 경주). 함께 사는 아들 동몽 복룡, 나이 21, 임술생. 여종 수월, 나이 26. 부윤(서명). 상유사 최, 풍헌 지."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1882년 서재곤(47세)의 호적단자로, 아내 칸이 비고 앞서 없던 아들 복룡(21세)이 처음 적혔으며 여종 수월은 26세입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.0000.0000-20151117.C0703_002_00006_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 241
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0204&dataId=G002%2BKHD%2BKSM-XD.0000.0000-20151117.C0703_002_00006_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 938
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "무자년 서석곤(徐錫坤) 준호구(準戶口) (1888)"
+    ]
+   },
+   "width": 1400,
+   "height": 856,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1888"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "준호구"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "戊子正月 日 慶州府內東面大逸里戶籍單子 第四統三戶幼學徐錫坤年六十一戊子本大邱 父學生學中 祖學生國鳴 曾祖學生淸杰 外祖學生朴尙樞本慶州 妻安氏年六十八辛巳籍廣州 父學生聖相 祖學生景天 曾祖學生處墊 外祖學生金潤興本慶州 率子先五年三十三丙辰 婦金氏年三十四乙卯籍慶州 婢守金年四十六 府尹(서명) 上有司李 風憲崔"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "무자년(1888) 정월 일, 경주부 내동면 대일리 호적단자. 제4통 3호 유학 서석곤, 나이 61, 무자생, 본관 대구. 아버지 학생 학중, 할아버지 학생 국명, 증조 학생 청걸, 외조 학생 박상추(본관 경주). 아내 안씨, 나이 68, 신사생, 본관 광주. 아버지 학생 성상, 할아버지 학생 경천, 증조 학생 처점, 외조 학생 김윤흥(본관 경주). 함께 사는 아들 선오, 나이 33, 병진생. 며느리 김씨, 나이 34, 을묘생, 본관 경주. 여종 수금, 나이 46. 부윤(서명). 상유사 이, 풍헌 최."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1888년 서재곤의 형 서석곤(61세)의 호적단자로, 아내 안씨 · 아들 선오 · 며느리 김씨와 여종 수금(46세)을 적었고, 1879년 단자와 비교하면 아들 이름과 여종 나이가 달라졌습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XD.0000.0000-20151117.C0703_002_00008_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 220
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=06%5E0612%5EL061201%5EL061201F02%5EL061201F0204&dataId=G002%2BKHD%2BKSM-XD.0000.0000-20151117.C0703_002_00008_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongju-lee-cw-hojeok/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 856
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

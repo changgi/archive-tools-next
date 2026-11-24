@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.180 선산을 되돌려 달라 — 박재호의 산림 서류 네 장, 1911–1919"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "조선의 산은 '지켜 온 사람'의 것이었지만, 1908년 삼림법과 1910년대 임야조사는 '신고한 사람'의 것으로 바꾸었다 — 같은 집안이 8년 동안 신고서 · 신청서 · 측량도 · 청원서를 차례로 써야 했던 까닭이다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.180"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "영덕 도곡 무안박씨 충효당 박선 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/chunghyo-bak-imya/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/chunghyo-bak-imya/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 350
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "지적보고(地籍報告)－1 (1911)"
+    ]
+   },
+   "width": 1400,
+   "height": 1360,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1911"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "지적보고"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "地籍報告 慶尙北道寧海郡南初面元浦里家後山麓 一面積二町○九畝七步 慶尙北道寧海郡邑內面堤洞里堤洞嶺 一面積二千六百 … 步 但略圖外如홈 右所有地를森林法第十九條에依하야玆에報告홈 明治四十四年一月十五日 住所 慶尙北道寧海郡南面下反里四統五戶 報告人 朴載浩 (인) 農商工部長官 閣下"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "지적 보고. 경상북도 영해군 남초면 원포리 집 뒤 산기슭, 면적 2정 9무 7보. 경상북도 영해군 읍내면 제동리 제동령, 면적 2,600 … 보. 다만 약도는 따로 붙인 것과 같음. 위 소유지를 삼림법 제19조에 따라 이에 보고함. 메이지 44년(1911) 1월 15일. 주소 경상북도 영해군 남면 하반리 4통 5호. 보고인 박재호 (도장). 농상공부장관 각하."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1911년 1월 박재호가 1908년 삼림법 제19조에 따라 영해군의 자기 산 두 곳의 면적을 농상공부장관에게 신고한 지적보고입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1911.4777-20211130.B071a_099_00020_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 350
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016765%5EL016765F02%5EL016765F0203&dataId=G002%2BAKS%2BKSM-XC.1911.4777-20211130.B071a_099_00020_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1360
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "국유산양여원(國有山讓與願)－1 (1913)"
+    ]
+   },
+   "width": 1400,
+   "height": 1189,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1913"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "국유산양여원"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(겉) 大正二年九月二十九日經由邑內面長 南 … (인) 國有山讓與願 … 洞前山內國有山野 … 讓與御許可相成度 … 圖面相添此段 … 大正二年九月二十日 慶尙北道寧海郡南面下反洞四統五戶 出願人 朴載浩 (인) 朝鮮總督伯爵寺內正毅 殿 (덧붙인 인쇄 쪽지) 本年度부터始作할林野整理調查는各林野所有者及緣故者는全히申告을한後此에依하야國有私有를決定할터인바緣故를有한國有林野에對하야는其緣故者에讓與或은貸付處分을行할豫定인故로本出願箇所는其時에申告하케하와一次願書를返還홈 大正 年 月 日 慶尙北道 (도장)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "(겉) 다이쇼 2년(1913) 9월 29일 읍내면장 남 … 경유 (도장). 국유산 양여원. … 동 앞산 안의 국유 산야를 … 양여해 주시도록 허가해 주시기 바랍니다 … 도면을 붙여 이에 … 다이쇼 2년 9월 20일. 경상북도 영해군 남면 하반동 4통 5호 출원인 박재호 (도장). 조선총독 백작 데라우치 마사타케 귀하. (덧붙인 인쇄 쪽지) 올해부터 시작할 임야정리조사는 각 임야의 소유자와 연고자가 모두 신고한 뒤 이에 따라 국유 · 사유를 결정할 터인바, 연고가 있는 국유 임야에 대해서는 그 연고자에게 양여 또는 대부 처분을 할 예정이므로, 이번 출원한 곳은 그때 신고하게 하고 원서를 한 번 돌려보냄. 다이쇼 년 월 일. 경상북도 (도장)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1913년 9월 박재호가 연고 있는 국유 산을 넘겨 달라고 조선총독에게 낸 양여 신청서로, 경상북도는 '임야 조사 때 다시 신고하라'는 인쇄 쪽지를 붙여 돌려보냈습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1913.4777-20211130.B071a_099_00012_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 306
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016765%5EL016765F02%5EL016765F0202&dataId=G002%2BAKS%2BKSM-XB.1913.4777-20211130.B071a_099_00012_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1189
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "국유산양여원(國有山讓與願)－1－3 (1913)"
+    ]
+   },
+   "width": 1400,
+   "height": 932,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1913"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "국유산양여원"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "國有山出願區域實測圖 縮尺一千二百分一 慶尙北道寧海郡邑內面葛 … 洞前山 面積八百八十五步三合二勺 出願人 慶尙北道寧海郡南面下反洞四統五戶 朴載浩 (인) 大正二年九月二十日 (붉은 글씨) 計算表 (1)99.84 (2)86.18 (3)524.19 (4)72.4 (5)104.1 885.32"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "국유산 출원 구역 실측도. 축척 1,200분의 1. 경상북도 영해군 읍내면 갈 … 동 앞산, 면적 885보 3홉 2작. 출원인 경상북도 영해군 남면 하반동 4통 5호 박재호 (도장). 다이쇼 2년(1913) 9월 20일. (붉은 글씨) 계산표: (1) 99.84 (2) 86.18 (3) 524.19 (4) 72.4 (5) 104.1, 합계 885.32."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1913년 양여 신청에 붙인 실측도로, 신청 구역을 삼각형 다섯 개로 나눠 넓이를 계산(합계 885.32보)한 측량 도면입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1913.4777-20211130.B071a_099_00015_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 240
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016765%5EL016765F02%5EL016765F0202&dataId=G002%2BAKS%2BKSM-XB.1913.4777-20211130.B071a_099_00015_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 932
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "청원서(請願書)－1 (1919)"
+    ]
+   },
+   "width": 1400,
+   "height": 957,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1919"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "청원서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "請願書 本人等의先祖墳墓二個所을本郡蒼水面水洞案山聖主峰에入葬하얍고當時自喜庵石門外十餘町步之山地을占有하고其山下洞居住者로써任守護之責하야及今一百五十餘年以來로積心禁護하야松樹櫟木은拱抱成林하고尙鬱蒼之美況矣오且登錄於地籍屆矣라其山下洞人이莫不指點爲本人等의所有先山이더니 大正三年度不要存林調查之地에不幸而編入되야內地人住友男爵이得貸付許可云하니百餘年禁護之林과數百人尊慕之地가尙如此則祖先墳墓之地을不得保하고累世所有權을不得守矣니本人等이豈不痛切骨髓乎 大凡人之疾痛에必呼父母은是常情也오生民之有冤에仰達於按法之下도亦是常情也라 伏聞 閣下朝鮮總治赴任하신後一視同仁하신다난仁化를均被코져하와別紙略圖을添에具由仰訴하오니 御查照하신後該山地를今番林野整理調查時本人等의게返還하시와神人無憾케하심을望하야伏以願書懇乞홈 大正八年十二月十四日 慶尙北道盈德郡丑山面陶谷洞 右願人代表者 朴載浩 (인) 朴胤燦 (인) 朴鎬燦 (인) 朴夏燦 (인) 朴德燦 (인)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "청원서. 저희의 선조 무덤 두 기를 이 군 창수면 수동의 안산 성주봉에 모셨고, 그때 자희암 석문 밖 십여 정보의 산지를 차지하여 그 산 아래 마을에 사는 사람에게 지키는 책임을 맡겼습니다. 지금까지 백오십여 년 동안 마음을 다해 금하고 보호하여 소나무와 참나무가 아름드리 숲을 이루고 지금도 울창하며, 또 지적 신고에도 올렸습니다. 그 산 아래 마을 사람들은 누구나 저희 집안의 선산이라고 가리켰습니다. 그런데 다이쇼 3년(1914)의 불요존림(不要存林) 조사 대상지에 불행히도 편입되어, 내지인(일본인) 스미토모 남작이 대부 허가를 얻었다고 합니다. 백여 년을 지켜 온 숲과 수백 사람이 우러르는 땅이 이러하니, 조상의 무덤 자리를 지키지 못하고 대대로 내려온 소유권을 지키지 못하게 되었습니다. 저희가 어찌 뼈에 사무치게 아프지 않겠습니까. 무릇 사람이 아프면 반드시 부모를 부르는 것이 인지상정이고, 백성이 원통한 일이 있으면 법을 맡은 이에게 우러러 아뢰는 것 또한 인지상정입니다. 엎드려 듣건대 각하께서 조선 총독으로 부임하신 뒤 '일시동인(一視同仁)'하신다 하니, 그 어진 교화를 고루 입고자 따로 약도를 붙여 사유를 갖추어 우러러 호소합니다. 살펴보신 뒤 그 산지를 이번 임야 정리 조사 때 저희에게 돌려주시어, 신(조상)과 사람 모두 유감이 없게 해 주시기를 바라며 엎드려 원서로 간절히 빕니다. 다이쇼 8년(1919) 12월 14일. 경상북도 영덕군 축산면 도곡동. 청원인 대표 박재호 (도장), 박윤찬 · 박호찬 · 박하찬 · 박덕찬 (도장)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1919년 12월 박재호 등 다섯 사람이 150여 년 지켜 온 선산이 1914년 불요존림으로 편입되어 일본인 남작에게 대부되었다며, 임야정리조사 때 돌려 달라고 조선 총독에게 낸 청원서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1919.4777-20211130.B071a_099_00009_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 246
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016765%5EL016765F02%5EL016765F0202&dataId=G002%2BAKS%2BKSM-XB.1919.4777-20211130.B071a_099_00009_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/chunghyo-bak-imya/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 957
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
