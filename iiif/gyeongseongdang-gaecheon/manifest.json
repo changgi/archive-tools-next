@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.200 떠나려는 군수, 붙잡는 백성 — 개천군수 유원성의 종이 네 장, 1874–1907"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "한 사람의 관직 이력은 그가 받은 종이(백패 · 관고)로 남지만, 그가 어떤 수령이었는지는 그가 쓴 종이(보고서 · 청원서)와 그를 두고 남이 쓴 종이(원류소)를 나란히 놓아야 보인다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.200"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "안산 부곡 진주류씨 경성당"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gyeongseongdang-gaecheon/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/gyeongseongdang-gaecheon/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 223,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1874년 유원성(柳遠聲) 생원 백패(生員白牌) (1874)"
+    ]
+   },
+   "width": 866,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1874"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "백패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 幼學柳遠聲生員三等第六十一人入格者 同治十三年五月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 유원성을 생원 3등 제61인으로 입격시킨다. 동치 13년(1874) 5월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1874년 유원성이 생원시 3등 제61인으로 입격하고 받은 백패로, 그의 이름이 처음 나라 문서에 오른 종이입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1874.1111-20101008.B038a_058_00023_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 223,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014132%5EL014132F02%5EL014132F0201&dataId=G002%2BAKS%2BKSM-XA.1874.1111-20101008.B038a_058_00023_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 866,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1906년 군수(郡守) 유원성(柳遠聲) 보고서(報告書) (1906)"
+    ]
+   },
+   "width": 1400,
+   "height": 1130,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1906"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "보고서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "報告書第十四號 第一號訓令을奉准ㅎ온즉 本郡丙午度庖肆主人吉敬國은 前已差定發訓이거날 庖稅金을拖至屢月에尙何不納이니 究厥所習에誠極駭然이더러 現今上納이萬分時急이기 同稅金을玆庸左開發訓ㅎ니 到卽該庖民處에照數推捧ㅎ고 定巡校押上事 等因이온바 捉入吉敬國ㅎ야 督納稅錢이온즉 供以爲今年春秋兩等庖稅合三百六十兩內에 一百九十二兩은已納于平壤元庖主金祐錫處이옵고 在錢이爲一百六十八兩이다 卽爲現納이온바 同錢一百六十八兩을依數上送而 該民押上一款은更待處分ㅎ오며 玆에報告ㅎ오니 查照ㅎ시믈伏望 光武十年九月十八日 价川郡守柳遠聲 觀察使閣下"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "보고서 제14호. 제1호 훈령을 받들어 보니, '이 군의 병오년(1906) 포사(푸줏간) 주인 길경국은 이미 앞서 정해 훈령을 내렸는데도 포세(푸줏간 세금)를 여러 달 끌며 아직도 내지 않으니, 그 버릇을 따져 보면 참으로 놀랍다. 지금 상납이 몹시 급하므로 그 세금을 아래에 적어 훈령을 내리니, 받는 즉시 그 푸줏간 사람에게 수량대로 거두고 순교를 정해 잡아 올려 보내라'는 내용이었습니다. 길경국을 잡아들여 세금을 독촉하니, 그가 진술하기를 올해 봄 · 가을 두 차례 포세 합계 360냥 가운데 192냥은 이미 평양의 원포주(元庖主) 김우석에게 냈고, 남은 돈은 168냥이라 하여 곧 그 자리에서 냈습니다. 그 돈 168냥을 수량대로 올려 보내며, 그 사람을 잡아 올려 보내는 일은 다시 처분을 기다리겠기에 이렇게 보고하오니 살펴 주시기를 엎드려 바랍니다. 광무 10년(1906) 9월 18일. 개천군수 유원성. 관찰사 각하."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1906년 개천군수 유원성이 밀린 푸줏간 세금 168냥을 받아 올려 보내며, 푸줏간 주인의 압송은 다시 처분을 기다리겠다고 관찰사에게 보고한 문서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1906.0000-20101008.B038a_058_00136_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 291
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014132%5EL014132F02%5EL014132F0203&dataId=G002%2BAKS%2BKSM-XC.1906.0000-20101008.B038a_058_00136_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1130
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1907년 개천군수(价川郡守) 유원성(柳遠聲) 청원서(請願書) (1907)"
+    ]
+   },
+   "width": 1400,
+   "height": 1077,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1907"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "청원서"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "請願書 本郡守素以疲劣之姿로不稱當於任職之末이온디 已於昨年에猥蒙地方官之任ㅎ와 揆以身分에徒切兢懼ㅎ와 卽欲奉辭自退이오나 冒據蹲仍ㅎ야荏苒至此者은 妄擬竭力盡職ㅎ야圖報萬一이옵더니 但水土不服에忽嬰疾病ㅎ고 才識淺短에末由堪當이옵기 玆敢請願ㅎ오니 特念情勢ㅎ오셔 所帶价川郡守之任을亟行奏免ㅎ시와 俾安私分之地을伏望 光武十一年二月 日 平安南道价川郡守柳遠聲 內部大臣閣下"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "청원서. 이 군수는 본디 지치고 모자란 자질로 관직의 끝자리에도 걸맞지 않은데, 지난해 외람되이 지방관의 자리를 받아 제 분수를 헤아리니 두렵기만 하여 곧 사직하고 물러나려 하였습니다. 그래도 무릅쓰고 머물러 지금에 이른 것은 힘을 다해 직무를 다함으로써 만분의 일이라도 갚으려 한 것이었습니다. 다만 물과 흙이 맞지 않아 갑자기 병이 들었고, 재주와 식견이 얕고 짧아 감당할 길이 없기에 감히 청원하오니, 사정을 특별히 헤아리시어 맡고 있는 개천군수의 자리를 서둘러 상주하여 면해 주시고, 제 분수에 편히 머물게 해 주시기를 엎드려 바랍니다. 광무 11년(1907) 2월 일. 평안남도 개천군수 유원성. 내부대신 각하."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1907년 2월 개천군수 유원성이 물과 흙이 맞지 않아 병이 들었다며 내부대신에게 군수 자리를 면해 달라고 올린 청원서입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1907.0000-20101008.B038a_058_00082_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 277
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014132%5EL014132F02%5EL014132F0202&dataId=G002%2BAKS%2BKSM-XB.1907.0000-20101008.B038a_058_00082_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1077
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1907년 개천군민(价川郡民) 고소장(告訴狀) (1907)"
+    ]
+   },
+   "width": 1400,
+   "height": 1128,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1907"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고소장"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "平安南道价川郡民人等李瑄(?)願留訴狀 伏以赤子之失父母에籲天而求之는至情至哀者也라 本官은卽矣等之父母也오 上部는乃矣等之二天也라 本官이莅任四朔에許多善蹟은難可一一枚達이온且甲午之戰塵이未霽ㅎ고甲辰之兵火가未熄에 民之流離者를撫而安堵ㅎ고民之濱死者를救而復蘇이옵고바 百家活佛이오萬口頌碑라 民有來暮之歎이옵고官有杜召之稱이옵더니 不意月前에居然(?)遽作賦歸之行이다 挽車遮道이다가竟作送劉之日에 民情이怳若有失而如無所歸故로 前此泣血齊籲于上部이옵더니 旨令內에已有前題ㅎ니宜俟部辦ㅎ지라 殿最所重이니不必煩訴ㅎ을事이온바 非不知旨令之確當이오나 盖赤子之思父母也에一籲不得則至於再籲는至慕至切之情이옵기 玆敢更訴ㅎ오니 特察輿情ㅎ시와俾蒙借寇之地千萬伏祝 光武十一年四月 日 玄基贊 金基鶴 李能彦 李正熙 李廷國 玄命赫 玄應九 申丙幹 李子實 李鶴洙 尹廷璉 崔達成 崔秉勳 玄宗洙 等 內部大臣閣下 (왼쪽 위 내부 제사, 초서 · 관인 — 일부만 읽음: 又此呈訴 … 前題 …)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "평안남도 개천군 백성 이선(?) 등의 원류소장(머물러 주기를 바라는 소장). 엎드려 아뢰건대, 갓난아이가 부모를 잃으면 하늘을 부르짖으며 찾는 것은 지극한 정이요 지극한 슬픔입니다. 본관(군수)은 곧 저희의 부모요, 상부(내부)는 저희의 두 번째 하늘입니다. 본관이 부임한 지 넉 달 동안의 많은 선정은 하나하나 다 아뢰기 어렵습니다. 갑오년(1894) 전쟁의 먼지가 아직 걷히지 않고 갑진년(1904) 전쟁의 불길이 아직 꺼지지 않은 때에, 떠도는 백성을 어루만져 자리 잡게 하고 죽어 가는 백성을 구해 되살렸으니, 백 집의 살아 있는 부처요 만 사람의 입이 송덕비였습니다. 백성은 '왜 이제야 오셨나' 하는 탄식이 있었고, 관에는 두시 · 소신(杜召) 같은 명관이라는 칭송이 있었습니다. 그런데 뜻밖에 지난달 갑자기 돌아가는 길에 오르셨습니다. 수레를 붙잡고 길을 막다가 끝내 유총(劉寵)을 보내던 날처럼 보내고 나니, 백성의 마음이 무엇을 잃은 듯 돌아갈 곳이 없는 듯합니다. 그래서 앞서 피눈물로 함께 상부에 호소하였는데, 지령에 '이미 앞서 제사를 내렸으니 마땅히 부의 처리를 기다려야 하고, 수령의 고과는 중대한 일이니 번거롭게 호소할 것 없다'고 하셨습니다. 지령이 옳다는 것을 모르는 것은 아니나, 갓난아이가 부모를 그리워함에 한 번 불러 얻지 못하면 두 번 부르는 것은 지극히 사모하고 간절한 정이기에 감히 다시 호소하오니, 여론을 특별히 살피시어 구순(寇恂)을 빌리듯 그를 다시 빌려 주시기를 천만 엎드려 빕니다. 광무 11년(1907) 4월 일. 현기찬 · 김기학 · 이능언 · 이정희 · 이정국 · 현명혁 · 현응구 · 신병간 · 이자실 · 이학수 · 윤정련 · 최달성 · 최병훈 · 현종수 등. 내부대신 각하."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1907년 4월 개천 군민 열네 사람이 떠난 군수 유원성을 다시 보내 달라고 내부대신에게 두 번째로 올린 원류소로, 내부의 제사가 적혀 있습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.1907.0000-20101008.B038a_058_00062_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 290
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0141%5EL014132%5EL014132F02%5EL014132F0202&dataId=G002%2BAKS%2BKSM-XB.1907.0000-20101008.B038a_058_00062_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1128
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

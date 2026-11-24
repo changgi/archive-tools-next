@@ -9,7 +9,7 @@
  },
  "summary": {
   "ko": [
-   "편 200개 · 문서 736건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
+   "편 203개 · 문서 748건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
   ]
  },
  "requiredStatement": {
@@ -26,56 +26,38 @@
  },
  "items": [
   {
-   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/manifest.json",
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gwango/manifest.json",
    "type": "Manifest",
    "label": {
     "ko": [
-     "혼인과 호적으로 보는 집안의 생활사"
+     "EP.1 개국, 건양, 광무 — 세 해 동안 연호가 세 번 바뀐 임명장, 법부주사 유원성 1895–1906"
     ]
    },
    "thumbnail": [
     {
-     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/thumb/01.jpg",
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gwango/thumb/01.jpg",
      "type": "Image",
      "format": "image/jpeg",
      "width": 360,
-     "height": 257
+     "height": 292
     }
    ]
   },
   {
-   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/manifest.json",
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-chajeong/manifest.json",
    "type": "Manifest",
    "label": {
     "ko": [
-     "송준길의 기록으로 본 생애"
+     "EP.2 향로, 대야, 도마, 그리고 상여 — 법부주사 유원성이 받은 제사 당번표, 1900–1904"
     ]
    },
    "thumbnail": [
     {
-     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/thumb/01.jpg",
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-chajeong/thumb/01.jpg",
      "type": "Image",
      "format": "image/jpeg",
      "width": 360,
-     "height": 311
-    }
-   ]
-  },
-  {
-   "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/manifest.json",
-   "type": "Manifest",
-   "label": {
-    "ko": [
-     "땅과 관청 사이 — 문서로 보는 집안 살림"
-    ]
-   },
-   "thumbnail": [
-    {
-     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/thumb/01.jpg",
-     "type": "Image",
-     "format": "image/jpeg",
-     "width": 360,
-     "height": 293
+     "height": 355
     }
    ]
   },
@@ -3622,6 +3604,78 @@
      "format": "image/jpeg",
      "width": 176,
      "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.200 떠나려는 군수, 붙잡는 백성 — 개천군수 유원성의 종이 네 장, 1874–1907"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gaecheon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 223,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "혼인과 호적으로 보는 집안의 생활사"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-marriage/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 257
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "송준길의 기록으로 본 생애"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/dongchundang-songjungil/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 311
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "땅과 관청 사이 — 문서로 보는 집안 살림"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yuhoedang-land/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 293
     }
    ]
   }
