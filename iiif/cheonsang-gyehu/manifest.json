@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.183 \"주는 사람은 있는데 받을 사람이 없다\" — 예조 계후입안 네 장, 1642–1759"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "조선의 양자(입후)는 집안끼리 정하는 일이 아니라 예조가 증명해야 끝나는 일이었다 — 『경국대전』은 '양가 아버지가 함께 명하라'고 정했고, 그 틀에 맞지 않는 사정이 생길 때마다 아내 · 숙부 · 동생이 대신 나서거나 임금에게 직접 호소했다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.183"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "안동 천전 의성김씨 천상각파"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/cheonsang-gyehu/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/cheonsang-gyehu/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 248
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1642년 김웅흠(金熊歆) 계후입안(繼後立案) (1642)"
+    ]
+   },
+   "width": 1400,
+   "height": 963,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1642"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "계후입안"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "崇德七年二月 日 禮曹立案 右立案爲繼後事 曹啓目節 呈幼學金是榘所志內 矣身嫡妾俱無子 同姓六寸弟金是榅第五子熊歆爲繼後 兩家同議呈狀 依他立後事 所志 … 金是榘妻同生娚前正郞李□□ 金是榅族親幼學金□等緘辭 條目內 … 相考則 大典立後條 嫡妾俱無子者 告官立同宗支子爲後 註 兩家父同命立之事 載錄 向前金熊歆乙 金是榘繼後何如 崇德七年二月初八日 右副承旨臣南銑次知 啓 依允敎事是去有等以 合行立案者 判書 參判 參議 正郞 佐郞"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "숭덕 7년(1642) 2월 일, 예조 입안. 위 입안은 계후하는 일이다. 예조의 계목에 이르기를, 유학 김시구의 소지에 '저는 정실과 첩 모두에게 아들이 없어, 같은 성씨 6촌 아우 김시온의 다섯째 아들 웅흠을 후사로 삼고자 두 집이 함께 의논해 청원하니, 다른 예에 따라 입후해 달라'고 했다. … 김시구 아내의 친동기 전 정랑 이□□, 김시온의 족친 유학 김□ 등의 진술에도 … 살펴보니 『경국대전』 입후조에 '정실과 첩 모두 아들이 없는 사람은 관에 고하여 같은 종중의 지자(支子)를 후사로 세운다'고 하고 주에 '두 집의 아버지가 함께 명하여 세운다'고 실려 있으니, 김웅흠을 김시구의 후사로 삼는 것이 어떻겠는가. 숭덕 7년 2월 초8일 우부승지 신 남선이 맡아 아뢰니 '그리하라'는 하교가 있었으므로 입안을 내준다. 판서 · 참판 · 참의 · 정랑 · 좌랑."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1642년 예조가 김시구의 신청에 따라 6촌 아우 김시온의 다섯째 아들 김웅흠을 그의 후사로 증명한 계후입안으로, 양가 아버지가 함께 신청한 기본형입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1642.1111-20101008.B005o_006_00011_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016707%5EL016707F02%5EL016707F0204&dataId=G002%2BAKS%2BKSM-XD.1642.1111-20101008.B005o_006_00011_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 963
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1703년 김정하(金挺河) 계후입안(繼後立案) (1703)"
+    ]
+   },
+   "width": 990,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1703"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "계후입안"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "康熙四十二年六月 日 禮曹立案 右立案爲繼後事 曹啓目節 呈故從仕郞金世鍵無後 其妻盧氏亦以其家翁同姓六寸弟世鎬第二子挺河立後爲良結呈狀爲白有去乙 取考兩邊戶口則入籍的宗是白在果 盧氏所志內 家翁嫡妾俱無子身死 家翁同姓六寸弟世鎬第二子挺河欲爲繼後 兩家同議呈狀 依他立後事 所志 前監察金世鎬所志內 … 金世鍵等門長副護軍金履基條目內 … 相考則 大典立後條 嫡妾俱無子者 告官立同宗支子爲後 註 兩家父同命立之 父歿則母告官 事載錄 向前金挺河乙 金世鍵繼後何如 康熙四十二年六月初八日 右副承旨臣李震壽次知 啓 依允敎事是去有等以 合行立案者 行判書 參判 參議 正郞 佐郞"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "강희 42년(1703) 6월 일, 예조 입안. 위 입안은 계후하는 일이다. 예조의 계목에 이르기를, 고 종사랑 김세건이 후사 없이 죽어 그 아내 노씨가 남편의 같은 성씨 6촌 아우 세호의 둘째 아들 정하를 후사로 세우겠다고 청원하였으므로, 양쪽 호구를 살펴보니 같은 종중이 맞다. 노씨의 소지에 '남편이 정실과 첩 모두에게 아들 없이 죽었으니, 남편의 6촌 아우 세호의 둘째 아들 정하를 후사로 삼고자 두 집이 함께 의논해 청원한다'고 했다. 전 감찰 김세호의 소지에도 … 김세건 집안의 문장(門長) 부호군 김이기의 확인에도 … 살펴보니 『경국대전』 입후조에 '정실과 첩 모두 아들이 없는 사람은 관에 고해 같은 종중의 지자를 후사로 세운다'고 하고 주에 '두 집의 아버지가 함께 명하여 세우되, 아버지가 죽었으면 어머니가 관에 고한다'고 실려 있으니, 김정하를 김세건의 후사로 삼는 것이 어떻겠는가. 강희 42년 6월 초8일 우부승지 신 이진수가 맡아 아뢰니 '그리하라'는 하교가 있었으므로 입안을 내준다. 행판서 · 참판 · 참의 · 정랑 · 좌랑."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1703년 예조가 남편을 잃은 노씨의 신청에 따라 김세호의 둘째 아들 김정하를 김세건의 후사로 증명한 계후입안으로, '아버지가 죽으면 어머니가 고한다'는 규정을 적용했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1703.1111-20101008.B005j_006_00008_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 255,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016707%5EL016707F02%5EL016707F0204&dataId=G002%2BAKS%2BKSM-XD.1703.1111-20101008.B005j_006_00008_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 990,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1729년 김상열(金相悅) 계후입안(繼後立案) (1729)"
+    ]
+   },
+   "width": 1027,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1729"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "계후입안"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "雍正七年閏七月 日 禮曹立案 右立案爲繼後事 慶尙道安東居幼學臣金世鎰 駕前上言內 … 臣矣身同姓五寸姪挺河 卽故贈吏曹參判宣武功臣金涌之奉祀孫 嫡妾俱無子 同姓六寸弟福河第二子相悅 欲爲繼後 兩家相議 率來養育 而兩家在遠方 未及禮斜之前 挺河夫妻相繼俱歿 受者無人 不得循例立後是白乎等以 … 特令該曹依他已行之例 以相悅身立爲挺河之後 … 雍正七年閏七月初九日 同副承旨臣申致雲次知 啓 特許立後爲良如敎事是去有等以 合行立案者 行判書 參判 參議 正郞 佐郞"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "옹정 7년(1729) 윤7월 일, 예조 입안. 위 입안은 계후하는 일이다. 경상도 안동에 사는 유학 신 김세일이 어가 앞에서 올린 상언에 이르기를, '신은 감히 애처로운 사정을 임금께 아룁니다. 신의 같은 성씨 5촌 조카 정하는 고 증 이조참판 선무공신 김용의 제사를 받드는 손자인데, 정실과 첩 모두에게 아들이 없어 같은 성씨 6촌 아우 복하의 둘째 아들 상열을 후사로 삼고자 두 집이 의논해 데려다 길렀습니다. 그러나 두 집이 먼 곳에 있어 예조의 허락을 받기 전에 정하 부부가 잇달아 세상을 떠나, 받을 사람이 없어 관례대로 입후하지 못했습니다. … 특별히 예조로 하여금 이미 행한 예에 따라 상열을 정하의 후사로 세우게 해 주십시오' 했다. … 옹정 7년 윤7월 초9일 동부승지 신 신치운이 맡아 아뢰니 '특별히 입후를 허락하라'는 하교가 있었으므로 입안을 내준다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1729년 양자 김정하 부부가 입안 전에 죽자, 숙부 김세일이 임금에게 상언해 김상열을 정하의 후사로 특별히 허락받은 계후입안입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1729.1111-20101008.B005j_006_00009_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 264,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016707%5EL016707F02%5EL016707F0204&dataId=G002%2BAKS%2BKSM-XD.1729.1111-20101008.B005j_006_00009_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1027,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1759년 김범남(金範南) 계후입안(繼後立案) (1759)"
+    ]
+   },
+   "width": 965,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1759"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "계후입안"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "乾隆二十四年九月 日 禮曹立案 右立案爲繼後事 節 啓下敎 慶尙道安東居幼學金淑河 駕前上言內 右謹啓 臣矣段 臣矣身伯兄故學生臣用河 不幸嫡妾俱無子女 與其妻內外一時俱歿 無後身死 誠可矜憐 臣矣身亦無子女果 代奉祀主托無人乙仍于 門族齊會相議 臣矣身同姓十二寸兄幼學臣金章漢第二子範男身以爲臣矣伯兄繼嗣是白乎矣 與者有之 而受者無人 不得循例呈狀立後是白乎等以 … 特令該曹依他例 上項金範男身乙 臣矣伯兄用河立後事 … 乾隆二十四年九月十六日 左副承旨臣金光國次知 … 特許立後事 判下爲有等以 合行立案者 行判書 參判 參議 正郞 佐郞"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "건륭 24년(1759) 9월 일, 예조 입안. 위 입안은 계후하는 일이다. 임금께서 내리신 것은, 경상도 안동에 사는 유학 김숙하가 어가 앞에서 올린 상언에 이르기를, '신의 맏형 고 학생 용하는 불행히도 정실과 첩 모두에게 아들딸이 없고, 아내와 함께 한꺼번에 세상을 떠나 후사 없이 죽었으니 참으로 가엾습니다. 신 또한 아들딸이 없어 제사를 대신 맡길 사람이 없으므로, 일가가 모두 모여 의논해 신의 같은 성씨 12촌 형 유학 김장한의 둘째 아들 범남을 맏형의 후사로 삼기로 했습니다. 그러나 주는 사람은 있는데 받을 사람이 없어 관례대로 청원해 입후하지 못하므로, 만 번 죽음을 무릅쓰고 호소합니다. 엎드려 바라건대 … 특별히 예조로 하여금 다른 예에 따라 김범남을 신의 맏형 용하의 후사로 세우게 해 주십시오' 했다. … 건륭 24년 9월 16일 좌부승지 신 김광국이 맡아 … 특별히 입후를 허락하라고 판하하였으므로 입안을 내준다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1759년 맏형 부부가 자녀 없이 죽자 동생 김숙하가 12촌 조카 김범남을 후사로 세워 달라고 상언해 특별히 허락받은 계후입안입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1759.1111-20101008.B005k_006_00010_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 248,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016707%5EL016707F02%5EL016707F0204&dataId=G002%2BAKS%2BKSM-XD.1759.1111-20101008.B005k_006_00010_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 965,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -9,7 +9,7 @@
  },
  "summary": {
   "ko": [
-   "편 181개 · 문서 660건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
+   "편 185개 · 문서 676건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
   ]
  },
  "requiredStatement": {
@@ -3226,6 +3226,78 @@
      "format": "image/jpeg",
      "width": 360,
      "height": 350
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.181 \"내일은 영감 당번이십니다\" — 1905년, 아전이 써 올린 쪽지 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 116,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gamok/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.182 한 글자로 갈린 하루 — 1904–1905년 경무감옥서의 붉은 서식, '嚴'과 '上送'"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/gyeongseongdang-gamok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 297,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.183 \"주는 사람은 있는데 받을 사람이 없다\" — 예조 계후입안 네 장, 1642–1759"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-gyehu/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-sanrim/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.184 이웃의 이름으로 그린 경계 — 강릉 어단평 민유산림약도 네 장"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-sanrim/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 272
     }
    ]
   },

@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.181 \"내일은 영감 당번이십니다\" — 1905년, 아전이 써 올린 쪽지 네 장"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "고목(告目)은 아전 · 하인이 윗사람에게 올리는 짧은 보고 쪽지다 — 대한제국의 궁중 의례는 거창한 칙령이 아니라, 하급 직원이 하루 앞서 써 올린 이런 쪽지로 관원의 발걸음을 움직였다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.181"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "영광 연안김씨 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yeonan-kim-gomok/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yeonan-kim-gomok/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 116,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "고목(告目)－07 (1905)"
+    ]
+   },
+   "width": 451,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1905"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "告目 令監敎是 明日當次番是白只 緣由之意 詮次告課事 乙巳七月二十四日 雇員 李政儀"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목. 영감께서 내일 당번이시므로, 그 연유를 차례로 아뢸 일. 을사년(1905) 7월 24일 고원 이정의."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1905년 7월 24일 고원 이정의가 영감에게 내일이 당번임을 알린 고목입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1905.4687-20211130.B074a_104_00276_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 116,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014810%5EL014810F02%5EL014810F0203&dataId=G002%2BAKS%2BKSM-XC.1905.4687-20211130.B074a_104_00276_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 451,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "고목(告目)－13 (1905)"
+    ]
+   },
+   "width": 743,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1905"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "告目 明日練祭 親行敎是時 進參之意告課事 明再明日 懿孝殿 夕上食 晝茶禮 親行敎是時 進參之意告課事 乙巳七月二十七日 雇員 金成圭"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목. 내일 연제에 (황제께서) 친히 행하실 때 나와 참석하시라는 뜻을 아뢸 일. 내일과 모레 의효전의 저녁 상식과 낮 다례에 친히 행하실 때 나와 참석하시라는 뜻을 아뢸 일. 을사년(1905) 7월 27일 고원 김성규."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1905년 7월 27일 고원 김성규가 다음 날 연제와 이틀 동안의 의효전 상식 · 다례에 황제가 친히 나서니 참석하라고 알린 고목입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1905.4687-20211130.B074a_104_00282_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 191,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014810%5EL014810F02%5EL014810F0203&dataId=G002%2BAKS%2BKSM-XC.1905.4687-20211130.B074a_104_00282_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 743,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "고목(告目)－09 (1905)"
+    ]
+   },
+   "width": 643,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1905"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "告目 明日 景孝殿 忌辰祭 親行時 令監依例進參之意告課事 乙巳八月十八日 雇員 崔浚植"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목. 내일 경효전 기신제를 (황제께서) 친히 행하실 때 영감께서 관례대로 나와 참석하시라는 뜻을 아뢸 일. 을사년(1905) 8월 18일 고원 최준식."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1905년 8월 18일 고원 최준식이 다음 날 경효전 기신제에 황제가 친히 나서니 관례대로 참석하라고 알린 고목입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1905.4687-20211130.B074a_104_00278_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 165,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014810%5EL014810F02%5EL014810F0203&dataId=G002%2BAKS%2BKSM-XC.1905.4687-20211130.B074a_104_00278_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 643,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "고목(告目)－15 (1905)"
+    ]
+   },
+   "width": 763,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1905"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "告目 本都監始役 明日 通信院良中 設行是乎尼 進賜敎是 行次之意告課事 乙巳十二月十日 祔廟都監雇員 金英勳"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고목. 본 도감이 일을 시작하는 것을 내일 통신원에서 하오니, 나리께서 행차하시라는 뜻을 아뢸 일. 을사년(1905) 12월 10일 부묘도감 고원 김영훈."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1905년 12월 10일 부묘도감 고원 김영훈이 도감이 내일 통신원에서 일을 시작하니 행차하라고 알린 고목으로, 이듬해 2월의 부묘로 이어집니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XC.1905.4687-20211130.B074a_104_00284_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 196,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0148%5EL014810%5EL014810F02%5EL014810F0203&dataId=G002%2BAKS%2BKSM-XC.1905.4687-20211130.B074a_104_00284_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yeonan-kim-gomok/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 763,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
