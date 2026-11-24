@@ -577,6 +577,138 @@
      ]
     }
    ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "릴스 (세로 영상)"
+    ]
+   },
+   "width": 1080,
+   "height": 1920,
+   "duration": 78.0,
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v1/page/video",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/media/ep113-jijokdang_reel.mp4",
+        "type": "Video",
+        "format": "video/mp4",
+        "width": 1080,
+        "height": 1920,
+        "duration": 78.0
+       }
+      }
+     ]
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/media/ep113-jijokdang_reel-poster.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v1/subtitles",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v1/subtitles/ko",
+       "type": "Annotation",
+       "motivation": "supplementing",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools/examples/media/ep113-jijokdang.ko.vtt",
+        "type": "Text",
+        "format": "text/vtt",
+        "language": "ko",
+        "label": {
+         "ko": [
+          "한국어 자막"
+         ]
+        }
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "가로 영상"
+    ]
+   },
+   "width": 1920,
+   "height": 1080,
+   "duration": 78.0,
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v2/page/video",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/media/ep113-jijokdang_wide.mp4",
+        "type": "Video",
+        "format": "video/mp4",
+        "width": 1920,
+        "height": 1080,
+        "duration": 78.0
+       }
+      }
+     ]
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/media/ep113-jijokdang_wide-poster.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v2/subtitles",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v2/subtitles/ko",
+       "type": "Annotation",
+       "motivation": "supplementing",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/jijokdang/canvas/v2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools/examples/media/ep113-jijokdang.ko.vtt",
+        "type": "Text",
+        "format": "text/vtt",
+        "language": "ko",
+        "label": {
+         "ko": [
+          "한국어 자막"
+         ]
+        }
+       }
+      }
+     ]
+    }
+   ]
   }
  ]
 }
