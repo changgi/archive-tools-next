@@ -9,7 +9,7 @@
  },
  "summary": {
   "ko": [
-   "편 189개 · 문서 692건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
+   "편 200개 · 문서 736건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
   ]
  },
  "requiredStatement": {
@@ -3370,6 +3370,204 @@
      "format": "image/jpeg",
      "width": 360,
      "height": 245
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.189 흰 종이 다음 붉은 종이 — 천전 의성김씨의 문과 홍패, 1613 · 1660 · 1690 · 1809"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 285,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.190 세 개의 이름 가운데 하나 — 1854년, '증 우의정 황공'의 시호 '민익(敏翼)'이 정해지기까지"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 251
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.191 문과의 집에서 무과로 — 성산이씨 양계 종가의 백패 · 홍패, 1651–1784"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 244,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.192 영의정에서 우의정으로 — 황신이 받은 두 번의 추증, 1617년과 1623년"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-yuji/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.193 남원에서 서울까지, 열 해 동안 — 최연을 부른 유지 네 장, 1624–1633"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-yuji/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 255
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-yangssi/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.194 연호가 사라진 교지 — 최연의 아내 양씨, 1634년 '崇禎'과 1638년 '戊寅'"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-yangssi/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 146,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.195 같은 '봉교'로 세 번, 그리고 열아홉 해 — 최치옹을 부른 유지, 1661–1682"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 277
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-seokpil/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.196 연산군에서 중종으로 — 이조 낭관 김석필의 임명장 네 장, 1505–1507"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-seokpil/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 221
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.197 '특별히 당상에 올린다' — 전쟁 중의 진사 김홍원, 1588–1606"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 158,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.198 할아버지의 목사 자리에서 손자의 현감 자리까지 — 김명열의 홍패와 고신, 1651–1660"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 289,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-baekhong/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.199 흰 종이 한 장에서 시작한 207년 — 삭녕최씨의 백패와 홍패, 1576–1783"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-baekhong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 176,
+     "height": 360
     }
    ]
   },

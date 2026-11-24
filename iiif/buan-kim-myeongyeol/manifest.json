@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.198 할아버지의 목사 자리에서 손자의 현감 자리까지 — 김명열의 홍패와 고신, 1651–1660"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "한 집안의 문서는 사람 단위가 아니라 대(代) 단위로 쌓인다 — 할아버지 대의 추증교지와 손자 대의 홍패 · 고신이 같은 상자에 들어 있다는 것 자체가, 그 집안이 무엇을 '가문의 기록'으로 여겼는지를 보여 준다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.198"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "부안 우반 부안김씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/buan-kim-myeongyeol/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/buan-kim-myeongyeol/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 289,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1651년 김명열(金命說) 문과 홍패(文科紅牌) (1651)"
+    ]
+   },
+   "width": 1123,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1651"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 幼學金命說文科丙科第十三人及第出身者 順治八年十二月十七日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 김명열을 문과 병과 제13인으로 급제 출신시킨다. 순치 8년(1651) 12월 17일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1651년 유학 김명열이 문과 병과 제13인으로 급제하고 받은 홍패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1651.1111-20101008.B002a_002_00085_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 289,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014720%5EL014720F02%5EL014720F0201&dataId=G002%2BAKS%2BKSM-XA.1651.1111-20101008.B002a_002_00085_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1123,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1654년 김명열(金命說) 고신(告身)－1 (1654)"
+    ]
+   },
+   "width": 1400,
+   "height": 1101,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1654"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 金命說爲朝奉大夫行校書館正字者 順治十一年十月十三日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 김명열을 조봉대부 행 교서관 정자로 삼는다. 순치 11년(1654) 10월 13일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1654년 김명열을 조봉대부 행 교서관 정자로 삼은 고신으로, 문과 급제 뒤 첫 관직입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1654.1111-20101008.B002a_002_00057_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 283
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014720%5EL014720F02%5EL014720F0201&dataId=G002%2BAKS%2BKSM-XA.1654.1111-20101008.B002a_002_00057_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1101
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1654년 김홍원(金弘遠) 처(妻) 박씨(朴氏) 추증교지(追贈敎旨) (1654)"
+    ]
+   },
+   "width": 1400,
+   "height": 894,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1654"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "추증교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 淑夫人朴氏贈貞夫人者 順治十□年正月十五日 (작은 글씨) 贈嘉善大夫兵曹參判兼同知義禁府事五衛都摠府副摠管金弘遠妻依大典從夫職"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 숙부인 박씨에게 정부인을 추증한다. 순치 1□년 정월 15일. (작은 글씨) 증 가선대부 병조참판 겸 동지의금부사 오위도총부 부총관 김홍원의 아내이므로 『대전』에 따라 남편의 직에 따른다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "김홍원의 아내 박씨에게 남편의 추증 직함(가선대부 병조참판)에 따라 정부인을 추증한 교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1654.1111-20101008.B002a_002_00056_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 230
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014720%5EL014720F02%5EL014720F0201&dataId=G002%2BAKS%2BKSM-XA.1654.1111-20101008.B002a_002_00056_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 894
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1660년 김명열(金命說) 고신(告身)－3 (1660)"
+    ]
+   },
+   "width": 1400,
+   "height": 1032,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1660"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 金命說爲通訓大夫行康津縣監者 順治十七年八月十八日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 김명열을 통훈대부 행 강진현감으로 삼는다. 순치 17년(1660) 8월 18일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1660년 김명열을 통훈대부 행 강진현감으로 삼은 고신으로, 집안의 다음 세대가 고을 수령이 되었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1660.1111-20101008.B002a_002_00064_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 265
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014720%5EL014720F02%5EL014720F0201&dataId=G002%2BAKS%2BKSM-XA.1660.1111-20101008.B002a_002_00064_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-myeongyeol/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1032
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

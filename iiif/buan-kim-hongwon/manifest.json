@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.197 '특별히 당상에 올린다' — 전쟁 중의 진사 김홍원, 1588–1606"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "임진왜란은 문과를 거치지 않은 선비에게도 높은 품계의 길을 열었다 — 전쟁에서 공을 세운 이를 '특별히 당상에 올리는(特陞堂上)' 일이 있었고, 그렇게 오른 품계로 그는 고을 수령이 되었다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.197"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "부안 우반 부안김씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/buan-kim-hongwon/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/buan-kim-hongwon/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 158,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1588년 김홍원(金弘遠) 진사 백패(進士白牌) (1588)"
+    ]
+   },
+   "width": 615,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1588"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "백패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 幼學金弘遠進士三等第五十七人入格者 萬曆十六年三月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 김홍원을 진사 3등 제57인으로 입격시킨다. 만력 16년(1588) 3월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1588년 김홍원이 진사시 3등 제57인으로 입격하고 받은 백패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1588.1111-20101008.B002a_002_00084_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 158,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014720%5EL014720F02%5EL014720F0201&dataId=G002%2BAKS%2BKSM-XA.1588.1111-20101008.B002a_002_00084_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 615,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1598년 김홍원(金弘遠) 고신(告身)－1 (1598)"
+    ]
+   },
+   "width": 1400,
+   "height": 1161,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1598"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 金弘遠爲通政大夫者 萬曆二十六年三月二十二日 (작은 글씨) 特陞堂上"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 김홍원을 통정대부로 삼는다. 만력 26년(1598) 3월 22일. (작은 글씨) 특별히 당상으로 올림."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1598년 3월 정유재란 중 김홍원을 '특별히 당상에 올려' 통정대부로 삼은 교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1598.1111-20101008.B002a_002_00023_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 299
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014720%5EL014720F02%5EL014720F0201&dataId=G002%2BAKS%2BKSM-XA.1598.1111-20101008.B002a_002_00023_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1161
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1599년 김홍원(金弘遠) 고신(告身) (1599)"
+    ]
+   },
+   "width": 1400,
+   "height": 999,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1599"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 金弘遠爲通政大夫行錦山郡守者 萬曆二十七年□月初十日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 김홍원을 통정대부 행 금산군수로 삼는다. 만력 27년(1599) □월 10일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1599년 전쟁 직후 김홍원을 통정대부 행 금산군수로 삼은 교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1599.1111-20101008.B002a_002_00026_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 257
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014720%5EL014720F02%5EL014720F0201&dataId=G002%2BAKS%2BKSM-XA.1599.1111-20101008.B002a_002_00026_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 999
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1606년 김홍원(金弘遠) 고신(告身)－1 (1606)"
+    ]
+   },
+   "width": 1400,
+   "height": 984,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1606"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 金弘遠爲通政大夫行原州牧使者 萬曆三十四年八月初□日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 김홍원을 통정대부 행 원주목사로 삼는다. 만력 34년(1606) 8월 초□일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1606년 김홍원을 통정대부 행 원주목사로 삼은 교지로, 진사 백패로부터 18년 뒤입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1606.1111-20101008.B002a_002_00027_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 253
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014720%5EL014720F02%5EL014720F0201&dataId=G002%2BAKS%2BKSM-XA.1606.1111-20101008.B002a_002_00027_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/buan-kim-hongwon/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 984
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

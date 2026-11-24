@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.192 영의정에서 우의정으로 — 황신이 받은 두 번의 추증, 1617년과 1623년"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "추증은 한 번 받으면 끝이 아니었다 — 광해군 때 '위성공신'으로 받은 영의정 추증은 인조반정 뒤 공신이 삭제되며 거두어졌고, 새 정권은 그의 생전 직함에서 다시 계산해 우의정을 추증했다. 두 장의 교지가 정변의 흔적이다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.192"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "강화·부여 창원황씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/changwon-hwang-hwangsin/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/changwon-hwang-hwangsin/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 248
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1592년 황신(黃愼) 고신(告身) (1592)"
+    ]
+   },
+   "width": 1400,
+   "height": 963,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1592"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "吏曹萬曆二十年七月二十五日奉 敎前縣監黃愼爲承議郞世子侍講院司書者 萬曆二十年七月 日 判書 參判 參議 正郞 佐郞朴(서명)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "이조가 만력 20년(1592) 7월 25일에 왕명을 받들어, 전 현감 황신을 승의랑 세자시강원 사서로 삼는다. 만력 20년 7월 일. 판서 · 참판 · 참의 · 정랑 · 좌랑 박(서명)."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1592년 7월 임진왜란 중 전 현감 황신을 세자시강원 사서로 삼은 이조의 교첩입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1592.1111-20101008.B008a_009_00120_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0172%5EL017201%5EL017201F02%5EL017201F0201&dataId=G002%2BAKS%2BKSM-XA.1592.1111-20101008.B008a_009_00120_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 963
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1597년 황신(黃愼) 고신(告身)－1 (1597)"
+    ]
+   },
+   "width": 1400,
+   "height": 1001,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1597"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "고신"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 黃愼爲嘉善大夫全羅道觀察使者 萬曆二十五年七月初三日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 황신을 가선대부 전라도 관찰사로 삼는다. 만력 25년(1597) 7월 3일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1597년 7월 정유재란 중 황신을 가선대부 전라도 관찰사로 삼은 고신입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1597.1111-20101008.B008a_009_00006_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 257
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0172%5EL017201%5EL017201F02%5EL017201F0201&dataId=G002%2BAKS%2BKSM-XA.1597.1111-20101008.B008a_009_00006_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1001
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1617년 황신(黃愼) 추증교지(追贈敎旨) (1617)"
+    ]
+   },
+   "width": 1400,
+   "height": 998,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1617"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "추증교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 竭忠盡誠同德贊謨衛聖功臣輔國崇祿大夫檜原府院君兼戶曹判書同知春秋館事黃愼 贈大匡輔國崇祿大夫議政府領議政兼領經筵弘文館藝文館春秋館觀象監事世子師者 萬曆四十五年四月十三日 (작은 글씨) 衛聖功臣二等 … 贈職事 忠勳府 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 갈충진성동덕찬모 위성공신 보국숭록대부 회원부원군 겸 호조판서 동지춘추관사 황신에게 대광보국숭록대부 의정부 영의정 겸 영경연 · 홍문관 · 예문관 · 춘추관 · 관상감사 세자사를 추증한다. 만력 45년(1617) 4월 13일. (작은 글씨) 위성공신 2등 … 증직하는 일 … 충훈부 …."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1617년 광해군이 위성공신 2등 회원부원군 황신에게 영의정을 추증한 교지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1617.1111-20101008.B008a_009_00015_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 257
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0172%5EL017201%5EL017201F02%5EL017201F0201&dataId=G002%2BAKS%2BKSM-XA.1617.1111-20101008.B008a_009_00015_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 998
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1623년 황신(黃愼) 추증교지(追贈敎旨) (1623)"
+    ]
+   },
+   "width": 997,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1623"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "추증교지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 崇政大夫行戶曹判書黃愼 贈大匡輔國崇祿大夫議政府右議政兼領經筵事監春秋館事者 天啓三年七月初六日 (작은 글씨) … 贈 …"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 숭정대부 행 호조판서 황신에게 대광보국숭록대부 의정부 우의정 겸 영경연사 감춘추관사를 추증한다. 천계 3년(1623) 7월 6일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1623년 인조반정 뒤 황신에게 공신 칭호 없이 숭정대부 호조판서에서 우의정을 다시 추증한 교지로, 1617년의 영의정 추증과 대비됩니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1623.1111-20101008.B008a_009_00014_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 256,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0172%5EL017201%5EL017201F02%5EL017201F0201&dataId=G002%2BAKS%2BKSM-XA.1623.1111-20101008.B008a_009_00014_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-hwangsin/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 997,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

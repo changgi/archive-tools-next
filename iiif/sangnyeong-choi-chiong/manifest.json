@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.195 같은 '봉교'로 세 번, 그리고 열아홉 해 — 최치옹을 부른 유지, 1661–1682"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "예문관의 검열 · 봉교 · 대교는 '한림'이라 불린 사관 자리로, 젊은 문신이 거치는 영예로운 길이었다 — 그러나 같은 자리로 거듭 부른 유지와, 그 뒤 열아홉 해의 공백은 한 사람의 경력이 늘 곧게 이어지지 않았음을 보여 준다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.195"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "남원·구례 삭녕최씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sangnyeong-choi-chiong/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/sangnyeong-choi-chiong/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 277
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1661년 최치옹(崔致翁) 유지(有旨) (1661)"
+    ]
+   },
+   "width": 1400,
+   "height": 1076,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1661"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "今以爾爲藝文館檢閱 爾其斯速乘馹上來事 有旨 右承旨洪(서명) 順治十八年十月二十一日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "지금 너를 예문관 검열로 삼으니, 너는 서둘러 역마를 타고 올라오라는 유지가 있었다. 우승지 홍(서명). 순치 18년(1661) 10월 21일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1661년 10월 최치옹을 예문관 검열로 삼아 서둘러 올라오라고 부른 유지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1661.1111-20101008.B049a_072_00008_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 277
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014722%5EL014722F02%5EL014722F0201&dataId=G002%2BAKS%2BKSM-XA.1661.1111-20101008.B049a_072_00008_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1076
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1662년 최치옹(崔致翁) 유지(有旨) (1662)"
+    ]
+   },
+   "width": 1400,
+   "height": 1126,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1662"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "今以爾爲藝文館奉敎 爾其斯速乘馹上來事 有旨 右承旨李(서명) 康熙元年七月二十□日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "지금 너를 예문관 봉교로 삼으니, 너는 서둘러 역마를 타고 올라오라는 유지가 있었다. 우승지 이(서명). 강희 원년(1662) 7월 2□일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1662년 7월 최치옹을 예문관 봉교로 삼아 서둘러 올라오라고 부른 유지입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1662.1111-20101008.B049a_072_00009_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 290
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014722%5EL014722F02%5EL014722F0201&dataId=G002%2BAKS%2BKSM-XA.1662.1111-20101008.B049a_072_00009_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1126
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1663년 최치옹(崔致翁) 유지(有旨)－2 (1663)"
+    ]
+   },
+   "width": 1400,
+   "height": 1115,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1663"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "今以爾爲藝文館奉敎 爾其斯速乘馹上來事 有旨 右承旨吳(서명) 康熙二年十一月初八日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "지금 너를 예문관 봉교로 삼으니, 너는 서둘러 역마를 타고 올라오라는 유지가 있었다. 우승지 오(서명). 강희 2년(1663) 11월 8일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1663년 11월 최치옹을 다시 예문관 봉교로 부른 유지로, 1년 4개월 사이 세 번째 봉교 임명입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1663.1111-20101008.B049a_072_00011_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 287
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014722%5EL014722F02%5EL014722F0201&dataId=G002%2BAKS%2BKSM-XA.1663.1111-20101008.B049a_072_00011_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1115
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1682년 최치옹(崔致翁) 유지(有旨) (1682)"
+    ]
+   },
+   "width": 1400,
+   "height": 1065,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1682"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "유지"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "今以爾爲司憲府持平 爾其斯速乘馹上來事 有旨 同副承旨安(서명) 康熙二十一年正月初十日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "지금 너를 사헌부 지평으로 삼으니, 너는 서둘러 역마를 타고 올라오라는 유지가 있었다. 동부승지 안(서명). 강희 21년(1682) 정월 10일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1682년 정월 최치옹을 사헌부 지평으로 삼아 부른 유지로, 이 집안에 남은 앞 유지로부터 19년 뒤입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1682.1111-20101008.B049a_072_00012_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 274
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0147%5EL014722%5EL014722F02%5EL014722F0201&dataId=G002%2BAKS%2BKSM-XA.1682.1111-20101008.B049a_072_00012_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/sangnyeong-choi-chiong/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 1065
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.189 흰 종이 다음 붉은 종이 — 천전 의성김씨의 문과 홍패, 1613 · 1660 · 1690 · 1809"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "백패(소과)는 '선비'의 자격, 홍패(대과 · 문과)는 '관리'의 자격이었다 — 그래서 홍패의 이름 앞 두 글자(유학 · 생원 · 진사)는 그 사람이 소과를 거쳤는지를, 백패와 홍패 사이의 햇수는 그 사이의 공부를 말해 준다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.189"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "안동 천전 의성김씨 천상각파"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/cheonsang-hongpae/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/cheonsang-hongpae/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 285,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1613년 김시주(金是柱) 문과 홍패(文科紅牌) (1613)"
+    ]
+   },
+   "width": 1109,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1613"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 生員金是柱文科丙科第八人及第出身者 萬曆四十一年十月初十日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 생원 김시주를 문과 병과 제8인으로 급제 출신시킨다. 만력 41년(1613) 10월 10일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1613년 생원 김시주가 문과 병과 제8인으로 급제하고 받은 홍패로, 4년 전 그는 생원시 장원이었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1613.1111-20101008.B005j_005_00055_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 285,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016707%5EL016707F02%5EL016707F0201&dataId=G002%2BAKS%2BKSM-XA.1613.1111-20101008.B005j_005_00055_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1109,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1660년 김방걸(金邦杰) 문과 홍패(文科紅牌) (1660)"
+    ]
+   },
+   "width": 965,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1660"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 幼學金邦杰文科丙科第十五人及第出身者 順治十七年十二月二十五日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 김방걸을 문과 병과 제15인으로 급제 출신시킨다. 순치 17년(1660) 12월 25일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1660년 유학 김방걸이 문과 병과 제15인으로 급제하고 받은 홍패로, 소과 없이 '유학'으로 급제했습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1660.1111-20101008.B005c_005_00021_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 248,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016707%5EL016707F02%5EL016707F0201&dataId=G002%2BAKS%2BKSM-XA.1660.1111-20101008.B005c_005_00021_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 965,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1690년 김창석(金昌錫) 문과 홍패(文科紅牌) (1690)"
+    ]
+   },
+   "width": 1400,
+   "height": 946,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1690"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 進士金昌錫文科丙科第十□人及第出身者 康熙二十九年四月初二日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 진사 김창석을 문과 병과 제1□인으로 급제 출신시킨다. 강희 29년(1690) 4월 2일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1690년 진사 김창석이 문과 병과로 급제하고 받은 홍패로, 3년 전 진사 백패를 받은 그 사람입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1690.1111-20101008.B005m_005_00070_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 243
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016707%5EL016707F02%5EL016707F0201&dataId=G002%2BAKS%2BKSM-XA.1690.1111-20101008.B005m_005_00070_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 946
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1809년 김호운(金虎運) 문과 홍패(文科紅牌) (1809)"
+    ]
+   },
+   "width": 1400,
+   "height": 963,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1809"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 生員金虎運文科乙科第一人及第出身者 嘉慶十四年十二月初一日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 생원 김호운을 문과 을과 제1인으로 급제 출신시킨다. 가경 14년(1809) 12월 1일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1809년 생원 김호운이 문과 을과 제1인(전체 4등)으로 급제하고 받은 홍패로, 5년 전 그는 생원 백패를 받았습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XA.1809.1111-20101008.B005k_005_00059_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 248
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016707%5EL016707F02%5EL016707F0201&dataId=G002%2BAKS%2BKSM-XA.1809.1111-20101008.B005k_005_00059_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-hongpae/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 963
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

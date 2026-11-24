@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.191 문과의 집에서 무과로 — 성산이씨 양계 종가의 백패 · 홍패, 1651–1784"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "조선 후기 무과는 한 번에 수백 명을 뽑는 시험이 되었고, 문과를 내던 양반 집안의 후손도 '한량'의 이름으로 무과에 응시했다 — 같은 붉은 종이에 '文科'와 '武科' 두 글자가 갈라진다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.191"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "김천 성산이씨 양계 이하 종가"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yanggye-hongbaek/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/yanggye-hongbaek/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 244,
+   "height": 360
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1651년 이하(李𩡘) 생원 백패(生員白牌) (1651)"
+    ]
+   },
+   "width": 948,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1651"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "백패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 幼學李𩡘生員二等第二十□人入格者 順治□年□月初□日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 유학 이하를 생원 2등 제2□인으로 입격시킨다. 순치 □년(1651) □월 초□일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1651년 유학 이하가 생원시 2등으로 입격하고 받은 백패입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1651.0000-20150908.C0701_002_00001_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 244,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016746%5EL016746F02%5EL016746F0201&dataId=G002%2BKHD%2BKSM-XA.1651.0000-20150908.C0701_002_00001_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 948,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1654년 이하(李𩡘) 문과 홍패(文科紅牌) (1654)"
+    ]
+   },
+   "width": 1054,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1654"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 生員李𩡘文科丙科第二十一人及第出身者 順治十一年十□月□□日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 생원 이하를 문과 병과 제21인으로 급제 출신시킨다. 순치 11년(1654) 10□월 □□일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1654년 생원 이하가 문과 병과로 급제하고 받은 홍패로, 3년 전 생원 백패를 받은 그 사람입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1654.0000-20150908.C0701_002_00003_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 271,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016746%5EL016746F02%5EL016746F0201&dataId=G002%2BKHD%2BKSM-XA.1654.0000-20150908.C0701_002_00003_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1054,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1774년 이천림(李天林) 무과 홍패(武科紅牌) (1774)"
+    ]
+   },
+   "width": 1037,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1774"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 閑良李天林武科丙科第八人及第出身者 乾隆三十九年三月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 한량 이천림을 무과 병과 제8인으로 급제 출신시킨다. 건륭 39년(1774) 3월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1774년 한량 이천림이 무과 병과 제8인으로 급제하고 받은 홍패로, 문과를 냈던 집안의 무과 급제입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1774.0000-20150908.C0701_002_00004_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 267,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016746%5EL016746F02%5EL016746F0201&dataId=G002%2BKHD%2BKSM-XA.1774.0000-20150908.C0701_002_00004_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1037,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1784년 이사언(李思彦) 무과 홍패(武科紅牌) (1784)"
+    ]
+   },
+   "width": 948,
+   "height": 1400,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1784"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "홍패"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敎旨 閑良李思彦武科丙科第一百三十七人及第出身者 乾隆四十九年十月 日"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "교지. 한량 이사언을 무과 병과 제137인으로 급제 출신시킨다. 건륭 49년(1784) 10월 일."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1784년 한량 이사언이 무과 병과 제137인으로 급제하고 받은 홍패로, 조선 후기 무과의 대량 선발을 보여 줍니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+KHD+KSM-XA.1784.0000-20150908.C0701_002_00005_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 244,
+     "height": 360
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0167%5EL016746%5EL016746F02%5EL016746F0201&dataId=G002%2BKHD%2BKSM-XA.1784.0000-20150908.C0701_002_00005_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/yanggye-hongbaek/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 948,
+        "height": 1400
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

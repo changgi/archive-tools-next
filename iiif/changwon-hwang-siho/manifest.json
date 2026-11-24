@@ -1,0 +1,721 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "ko": [
+   "EP.190 세 개의 이름 가운데 하나 — 1854년, '증 우의정 황공'의 시호 '민익(敏翼)'이 정해지기까지"
+  ]
+ },
+ "summary": {
+  "ko": [
+   "시호(諡號)는 공이 있는 이가 세상을 떠난 뒤 나라가 지어 주는 이름이다 — 봉상시가 후보 셋을 뜻풀이와 함께 올리면(망단자) 임금이 하나를 고르고(낙점), 사간원 · 사헌부의 대간이 서명해야(서경) 확정되었다."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "ko": [
+     "시리즈"
+    ]
+   },
+   "value": {
+    "ko": [
+     "「고문서 한 장」 — 원문으로 읽는 옛 문서 이야기"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "편"
+    ]
+   },
+   "value": {
+    "ko": [
+     "EP.190"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "소장처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "강화·부여 창원황씨"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "출처"
+    ]
+   },
+   "value": {
+    "ko": [
+     "한국학중앙연구원 한국고문서자료관 (archive.aks.ac.kr)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "판독 · 번역 · 해제"
+    ]
+   },
+   "value": {
+    "ko": [
+     "초안 — 원본과 대조한 사람만 검토를 표시합니다"
+    ]
+   }
+  },
+  {
+   "label": {
+    "ko": [
+     "만든 사람"
+    ]
+   },
+   "value": {
+    "ko": [
+     "Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "ko": [
+    "출처 · 권리"
+   ]
+  },
+  "value": {
+   "ko": [
+    "고문서 이미지: 한국학중앙연구원 한국고문서자료관 소장 · 제공(각 소장처 기탁). 다시 쓰려면 자료관을 통한 소장처 동의가 필요하며, 문제가 있으면 내립니다. 엮은이: Song Chang-gi (chgsong@naver.com, github.com/changgi)"
+   ]
+  }
+ },
+ "provider": [
+  {
+   "id": "https://github.com/changgi",
+   "type": "Agent",
+   "label": {
+    "ko": [
+     "Song Chang-gi · 「고문서 한 장」"
+    ]
+   },
+   "homepage": [
+    {
+     "id": "https://changgi.github.io/archive-tools/examples/",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "고문서 한 장"
+      ]
+     },
+     "format": "text/html"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/changwon-hwang-siho/exhibit.html",
+   "type": "Text",
+   "label": {
+    "ko": [
+     "전시 웹페이지"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://changgi.github.io/archive-tools/examples/changwon-hwang-siho/record.json",
+   "type": "Dataset",
+   "label": {
+    "ko": [
+     "기록 꾸러미(record.json)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/thumb/01.jpg",
+   "type": "Image",
+   "format": "image/jpeg",
+   "width": 360,
+   "height": 251
+  }
+ ],
+ "items": [
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "시호망단자(諡號望單子)－1"
+    ]
+   },
+   "width": 1400,
+   "height": 975,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시호망단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "贈右議政 黃 諡號望 敏翼 應事有功曰敏 思慮深遠曰翼 敏肅 上同 剛德克就曰肅 翼獻 上同 嚮忠內德曰獻"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "증 우의정 황공의 시호 후보. 민익(敏翼) — 일에 응해 공이 있으면 민(敏)이라 하고, 생각이 깊고 멀면 익(翼)이라 한다. 민숙(敏肅) — (민은) 위와 같고, 굳센 덕으로 능히 이루면 숙(肅)이라 한다. 익헌(翼獻) — (익은) 위와 같고, 충성을 향하고 안으로 덕이 있으면 헌(獻)이라 한다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "증 우의정 황공의 시호 후보 민익 · 민숙 · 익헌을 시법 뜻풀이와 함께 올린 시호망단자입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.0000.1100-20101008.B008a_009_00262_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 251
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0172%5EL017201%5EL017201F02%5EL017201F0202&dataId=G002%2BAKS%2BKSM-XB.0000.1100-20101008.B008a_009_00262_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/1",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 975
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/2",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "시호망단자(諡號望單子)－2"
+    ]
+   },
+   "width": 1400,
+   "height": 977,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미상"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시호망단자"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "敏翼 應事有功曰敏 思慮深遠曰翼 敏肅 應事有功曰敏 剛德克就曰肅 翼獻 思慮深遠曰翼 嚮忠內德曰獻"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "민익 — 일에 응해 공이 있으면 민, 생각이 깊고 멀면 익. 민숙 — 일에 응해 공이 있으면 민, 굳센 덕으로 능히 이루면 숙. 익헌 — 생각이 깊고 멀면 익, 충성을 향하고 안으로 덕이 있으면 헌."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "같은 시호 후보 민익 · 민숙 · 익헌을 뜻풀이와 함께 풀어 쓴 망단자의 사본(또는 초본)입니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XB.0000.1100-20101008.B008a_009_00263_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/thumb/02.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 251
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0172%5EL017201%5EL017201F02%5EL017201F0202&dataId=G002%2BAKS%2BKSM-XB.0000.1100-20101008.B008a_009_00263_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/2",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 977
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/3",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1854년 사간원대사간(司諫院大司諫) 시호서경완의(諡號署經完議) (1854)"
+    ]
+   },
+   "width": 1400,
+   "height": 975,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1854"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시호서경완의"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "諡號 贈右議政 黃(小字 大受) 敏翼公 應事有功 思慮深遠 咸豐四年十一月 日 大司諫金 司諫 獻納兪 正言 正言"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시호. 증 우의정 황공(작은 글씨 大受), 민익공. 일에 응해 공이 있고, 생각이 깊고 멀다. 함풍 4년(1854) 11월 일. 대사간 김 · 사간 · 헌납 유 · 정언 · 정언."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1854년 11월 사간원이 증 우의정 황공의 시호 '민익공'을 서경한 문서로, 세 후보 가운데 첫 번째가 골라졌습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1854.1100-20101008.B008a_009_00264_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/thumb/03.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 251
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0172%5EL017201%5EL017201F02%5EL017201F0204&dataId=G002%2BAKS%2BKSM-XD.1854.1100-20101008.B008a_009_00264_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/3",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 975
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/4",
+   "type": "Canvas",
+   "label": {
+    "ko": [
+     "1854년 사헌부집의(司憲府執義) 시호서경완의(諡號署經完議) (1854)"
+    ]
+   },
+   "width": 1400,
+   "height": 968,
+   "metadata": [
+    {
+     "label": {
+      "ko": [
+       "연도"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1854"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "문서 유형"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시호서경완의"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "판독"
+      ]
+     },
+     "value": {
+      "ko": [
+       "諡號 贈右議政 黃(小字 大受) 敏翼公 應事有功 思慮深遠 咸豐四年十二月十六日 掌令 持平洪 大司憲 執義韓 掌令 持平"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "번역"
+      ]
+     },
+     "value": {
+      "ko": [
+       "시호. 증 우의정 황공(작은 글씨 大受), 민익공. 일에 응해 공이 있고, 생각이 깊고 멀다. 함풍 4년(1854) 12월 16일. 대사헌 · 집의 한 · 장령 · 장령 · 지평 홍 · 지평."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "요약"
+      ]
+     },
+     "value": {
+      "ko": [
+       "1854년 12월 16일 사헌부가 증 우의정 황공의 시호 '민익공'을 서경한 문서로, 사간원에 이어 시호가 최종 확정되었습니다."
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "검토"
+      ]
+     },
+     "value": {
+      "ko": [
+       "미검토 (판독 · 번역은 초안)"
+      ]
+     }
+    },
+    {
+     "label": {
+      "ko": [
+       "자료 ID"
+      ]
+     },
+     "value": {
+      "ko": [
+       "G002+AKS+KSM-XD.1854.1100-20101008.B008a_009_00265_XXX"
+      ]
+     }
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/thumb/04.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 249
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://archive.aks.ac.kr/viewer/viewer.do#imgnode.do?itemId=book&gubun=booktree&depth=6&upPath=01%5E0172%5EL017201%5EL017201F02%5EL017201F0204&dataId=G002%2BAKS%2BKSM-XD.1854.1100-20101008.B008a_009_00265_XXX&itemType=",
+     "type": "Text",
+     "label": {
+      "ko": [
+       "한국고문서자료관 원본 뷰어"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "target": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/canvas/4",
+       "body": {
+        "id": "https://changgi.github.io/archive-tools-next/iiif/changwon-hwang-siho/04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 968
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
