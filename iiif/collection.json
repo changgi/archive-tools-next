@@ -9,7 +9,7 @@
  },
  "summary": {
   "ko": [
-   "편 185개 · 문서 676건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
+   "편 189개 · 문서 692건. 이미지는 각 전시 웹페이지에 실린 것과 같습니다."
   ]
  },
  "requiredStatement": {
@@ -3298,6 +3298,78 @@
      "format": "image/jpeg",
      "width": 360,
      "height": 272
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-baekpae/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.185 아들 덕에, 증손 덕에 — 김진의 집안에 내려온 종이 네 장, 1564–1679"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-baekpae/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 247,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-samaa/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.186 222년 동안 같은 문장 — 한 집안의 백패, 1603 · 1687 · 1765 · 1825"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-samaa/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 173,
+     "height": 360
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-seongtak/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.187 한 달 사이 두 번 '정언' — 김성탁을 부른 유지 네 장, 1735–1737"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-seongtak/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 309
+    }
+   ]
+  },
+  {
+   "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-buin/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "ko": [
+     "EP.188 이름 대신 성(姓)만 남은 교지 — 천전 의성김씨 집안의 부인 네 사람, 1649–1774"
+    ]
+   },
+   "thumbnail": [
+    {
+     "id": "https://changgi.github.io/archive-tools-next/iiif/cheonsang-buin/thumb/01.jpg",
+     "type": "Image",
+     "format": "image/jpeg",
+     "width": 360,
+     "height": 245
     }
    ]
   },
